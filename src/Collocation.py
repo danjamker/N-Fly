@@ -46,7 +46,7 @@ class Collocation(object):
         bi = BigramCollocationFinder.from_words(words)
         bi.apply_word_filter(self.filter_stop)
         bi.apply_freq_filter(1)
-        tmp = bi.nbest(BigramAssocMeasures.likelihood_ratio, 3)
+        tmp = bi.nbest(BigramAssocMeasures.chi_sq, 20)
         
         tmp1 = []
         for word in tmp:
@@ -69,12 +69,11 @@ class Collocation(object):
         tri = TrigramCollocationFinder.from_words(words)
         tri.apply_word_filter(self.filter_stop)
         tri.apply_freq_filter(1)
-        tmp = tri.nbest(TrigramAssocMeasures.likelihood_ratio, 20)
+        tmp = tri.nbest(TrigramAssocMeasures.chi_sq, 20)
         
         tmp1 = []
         for word in tmp:
             tmp1.append(self.pos.POSTag(word, s=True))
         
-        print tmp1
         return tmp1
 

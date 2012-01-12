@@ -50,13 +50,13 @@ def application(environ, start_response):
 if __name__ == '__main__':
     #Set up proxy for university network and set working directory
     os.environ["http_proxy"] = "http://wwwcache.lancs.ac.uk:8080"
-    #os.chdir('.\\src')
+    os.chdir('.')
     
     R = runable()
     
     #Indicate when server is starting
     print "It is starting"
-    
+    print os.getcwd()
     httpd = wsgiserver.CherryPyWSGIServer(
             ('0.0.0.0', 8080), application,
             server_name='www.cherrypy.example')

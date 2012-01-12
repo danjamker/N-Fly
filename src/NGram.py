@@ -26,6 +26,7 @@ class NGram(object):
            
         @return: List of ngrams of text
         '''
+        
         sentence = [nltk.ngrams(sent, n) for sent in text]
         t = []
         for s in sentence:

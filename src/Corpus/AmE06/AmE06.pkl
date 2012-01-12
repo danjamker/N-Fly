@@ -1,6 +1,0 @@
-Äcnltk.corpus.reader.wordlist
-WordListCorpusReader
-q)Åq}q(U_tag_mapping_functionqNU	_encodingqNU_rootqcnltk.data
-FileSystemPathPointer
-qU"H:\workspace\Nfly\src\Corpus\AmE06qÖÅq	}q
-U_pathqU"H:\workspace\Nfly\src\Corpus\AmE06qsbU_fileidsq]qUfinalcorpa.txtqaub.

@@ -27,14 +27,15 @@ class LogLikelihood(object):
         '''
         ng = NGram()
         getcontext().prec = prec
+        American = AmE06().getCorpa()
         if wordlist == 'Brown':
             self.fdist2 = nltk.FreqDist(nltk.corpus.brown.words())
             self.fdist2Gram = nltk.FreqDist(ng.NGramUn(nltk.corpus.brown.raw(), n=NLength)[0])
         elif wordlist == 'AmE06':
-            self.fdist2 = nltk.FreqDist(AmE06().getCorpa().words())
+            self.fdist2 = nltk.FreqDist(American.words())
             self.fdist2Gram = nltk.FreqDist(ng.NGramUn(AmE06().getCorpa().raw(), n=NLength)[0])
         elif wordlist == 'BE06':
-            self.fdist2 = nltk.FreqDist(BE06().getCorpa().words())
+            self.fdist2 = nltk.FreqDist(BE06.getCorpa().words())
             self.fdist2Gram = nltk.FreqDist(ng.NGramUn(BE06().getCorpa().raw(), n=NLength)[0])
         return
         

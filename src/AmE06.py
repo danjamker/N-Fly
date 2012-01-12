@@ -25,17 +25,20 @@ class AmE06(object):
         
         try:
             #Attempt to open .plk file and load. 
-            input = open(".\\Corpus\\AmE06\\AmE06.pkl", 'rb')
+            print "Trying to open "
+            print os.getcwd()
+            input = open("./Corpus/AmE06/AmE06.pkl", 'rb')
             reader = load(input)
             input.close()
             print "Loaded the corpa from .pkl"
         except IOError as e:
+            print e
             
             filelist = []
             words = []
             
-            #Find all .txt files in \\AmE06 dirctory
-            for files in os.listdir(".\\Corpus\\AmE06"):
+            #Find all .txt files in /AmE06 dirctory
+            for files in os.listdir("./Corpus/AmE06/"):
                 if files.endswith(".txt"):
                     filelist.append(files)
             
@@ -44,7 +47,7 @@ class AmE06(object):
                 
                 #Iterate through whole list of file
                 for name in filelist:
-                    f = open(".\\Corpus\\AmE06\\" + name)
+                    f = open("./Corpus/AmE06/" + name)
                 
                     lines = f.readlines()
                     
@@ -62,7 +65,7 @@ class AmE06(object):
                     f.close()
                 
                 #Write wordlist to output file.
-                a = open(".\\Corpus\\AmE06\\finalcorpa.txt", "wb") 
+                a = open("./Corpus/AmE06/finalcorpa.txt", "wb") 
                 for word in words:
                     if word not in ".,;!?\"":
                         a.write(word + '\n')   
@@ -70,13 +73,13 @@ class AmE06(object):
                 a.close()    
                 
                 #Creat NLTK corpus, and save a copy in folder for later use
-                reader = WordListCorpusReader('.\\Corpus\\AmE06', ['finalcorpa.txt'])
-                output = open(".\\Corpus\\AmE06\\AmE06.pkl", 'wb')
+                reader = WordListCorpusReader('./Corpus/AmE06', ['finalcorpa.txt'])
+                output = open("./Corpus/AmE06/AmE06.pkl", 'wb')
                 dump(reader, output, -1)
                 output.close()
             else:
-                reader = WordListCorpusReader('.\\Corpus\\AmE06', ['finalcorpa.txt'])
-                output = open(".\\Corpus\\AmE06\\AmE06.pkl", 'wb')
+                reader = WordListCorpusReader('./Corpus/AmE06', ['finalcorpa.txt'])
+                output = open("./Corpus/AmE06/AmE06.pkl", 'wb')
                 dump(reader, output, -1)
                 output.close()
         

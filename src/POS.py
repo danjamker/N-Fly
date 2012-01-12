@@ -6,6 +6,7 @@ Created on Nov 17, 2011
 from Filter import Filter
 from cPickle import load, dump
 import nltk
+import os
 
 class POS(object):
     '''
@@ -20,9 +21,11 @@ class POS(object):
         
         try:
             #Attempt to open .plk file and load. 
+            print os.getcwd()
             input = open(".\\Corpus\\Brown-Uni.pkl", 'rb')
             self.unigram_tagger = load(input)
-            input.close()  
+            input.close() 
+            print "Done" 
         except IOError as e:   
             self.brown_tagged_sents = nltk.corpus.brown.tagged_sents(simplify_tags=False)
             t0 = nltk.DefaultTagger('NN')
