@@ -1,0 +1,188 @@
+<text id="H19" category="" words="1994" checkedby="" modifiedby="" Title="Fact Sheet" Author="Federal Energy Regulatory Commission " PublicationDate="August 8, 2006 " SampledFrom="Beginning" WebAddress="http://www.ferc.gov/legal/fed-sta/epact-fact-sheet.pdf">
+
+ENERGY POLICY ACT OF 2005
+Significant Policy Changes
+The Energy Policy Act of 2005 (EPAct) is the first major energy law enacted in
+more than a decade, and makes the most significant changes in Commission authority
+since the New Deal's Federal Power Act of 1935 and the Natural Gas Act of 1938. In
+passing EPAct, Congress signaled a strong vote of confidence in the Commission. The
+Commission has taken on new duties and authorities with a sense of purpose, mindful of
+the public trust they entail. Moreover, the Commission has been dedicated to meeting
+these obligations within the time allotted by Congress.
+EPAct had three principal policy goals in the areas of the statute that relate to the
+Commission: (1) it reaffirmed a commitment to competition in wholesale power markets
+as national policy, the third major federal law in the last 30 years to do so; (2) it
+strengthened the Commission's regulatory tools, recognizing that effective regulation is
+necessary to protect the consumer from exploitation and assure fair competition; and (3)
+it provided for development of a stronger energy infrastructure.
+EPAct granted the Commission significant new responsibilities and significant
+new authority to discharge these responsibilities by modifying the Federal Power Act, the
+Natural Gas Act and the Public Utility Regulatory Policies Act of 1978 (PURPA).
+New Responsibilities
+Significant new responsibilities include:
+• overseeing the reliability of the nation's electricity transmission grid;
+• implementing new tools, including penalty authority, to prevent market
+manipulation;
+• providing rate incentives to promote electric transmission investment;
+• supplementing state transmission siting efforts in national interest electric
+transmission corridors; and
+• reviewing certain holding company mergers and acquisitions involving electric
+utility facilities, a well as certain public utility acquisitions of generating facilities.
+EPAct also specified a number of actions to be taken by the Commission. In
+fulfilling these requirements during the first year since EPAct was signed into law on
+August 8, 2005, the Commission has promulgated nine final rules, issued three additional
+notices of proposed rulemaking, authored and submitted seven reports to Congress, and
+entered into a memorandum of understanding with the Commodity Futures Trading
+Commission. The Commission has taken these actions in a timely manner  -  meeting
+every deadline set for the Commission in EPAct.
+Some of these deadlines were challenging, particularly the task of implementing
+the repeal of the Public Utility Holding Company Act of 1935 (PUHCA 1935) and
+promulgating a new rule to implement the Public Utility Holding Company Act of 2005,
+as well as implementing rules to address the Commission's expanded corporate
+transaction review authority under the Federal Power Act.
+Market Manipulation
+EPAct gave the Commission the authority to issue rules to prevent market
+manipulation in jurisdictional wholesale power and gas markets, and in jurisdictional
+transmission and transportation services. For the Commission, this is one of the most
+important and challenging provisions of the Act. Congress granted this authority out of
+recognition that wholesale power and gas markets had changed dramatically since the
+1930s. While the Commission's legal duty remains the same  -  protecting the wholesale
+power and gas customer  -  it needed additional regulatory tools to discharge this duty.
+EPAct gives the Commission civil penalty authority, which the Commission has
+indicated it will exercise carefully by assuring that its market manipulation rules are
+clear. That will make it easier for regulated entities to assure compliance, and make it
+easier for the Commission to identify violations.
+Electricity Reliability and Infrastructure
+EPAct significantly augmented the Commission's electricity authorities. Perhaps
+the most important of these are the provisions governing reliability of the bulk power
+system. For the first time, the Commission was granted authority to oversee mandatory
+reliability standards governing the nation's electricity grid. The Commission finalized
+rules on the certification of an Electric Reliability Organization (ERO) and on procedures
+for the establishment, approval and enforcement of mandatory electric reliability
+standards. The Commission has now certified the ERO and issued a preliminary staff
+assessment of 102 reliability standards filed by the ERO for Commission approval.
+EPAct also contained a number of provisions directed at expanding and
+modernizing the nation's electricity grid. The Commission has issued a rule on electric
+transmission pricing reforms designed to promote needed investment in energy
+infrastructure and benefit energy customers. This will bolster power grid reliability and
+lower costs for delivered power by reducing transmission congestion. In addition, the
+Commission issued a rule to require transmission organizations with organized electricity
+markets to make available to load-serving entities long-term firm transmission rights that
+satisfy certain guidelines. This will help customers who want to make long term supply
+arrangements. These customers want to be able to enter into long term transmission
+service arrangements without being exposed to unhedged congestion cost risk. The final
+rule goes far to reduce the risk exposure to transmission customers, and is important to
+development of the grid.
+EPAct addressed the difficulties of siting major new transmission facilities. It
+authorized the Secretary of Energy to designate "national interest electric transmission
+corridors" where there is major transmission congestion. EPAct allows applicants
+seeking to build transmission within these corridors to seek construction permits from the
+Commission under certain conditions. While most transmission projects will continue to
+be sited by states under state law, EPAct granted the Commission this important
+supplemental siting authority. FERC has proposed rules on transmission siting that will
+govern the issuance of construction permits by the Commission for projects that meet the
+statutory criteria.
+Also with respect to transmission, the Commission signed a Memorandum of
+Understanding with the Department of Energy and other federal agencies with authority
+to issue federal authorizations for electric transmission facilities to establish a
+coordinated federal review and permitting process that continues strong federal
+environmental protections.
+In addition to the provisions relating to transmission grid improvements, EPAct
+addressed a significant generation issue within the jurisdiction of the Commission.
+Pursuant to directives in EPAct, the Commission tightened the thermal efficiency
+requirements for qualifying cogeneration facilities under PURPA. These rules should
+limit the potential for abuse under PURPA, curtail sham transactions, and prevent new
+PURPA "machines." At the same time, the rules support the development of new
+cogeneration facilities that truly conserve energy, by ensuring that new qualifying
+cogeneration facilities use thermal output in a productive and beneficial manner, and that
+the electrical, thermal, chemical or mechanical output of new qualifying cogeneration
+facilities is used fundamentally for industrial, commercial or institutional purposes. Also
+pursuant to EPAct amendments to the Federal Power Act, the Commission eliminated
+ownership restrictions on qualifying cogeneration and small power production facilities.
+Only minor changes to the Commission's hydroelectric regulations were enacted
+with the passage of EPAct. For example, the first action the Commission took upon
+enactment of the law was to extend the Flint Creek Project preliminary permit for three
+years. Pursuant to section 241 of EPAct, the Commission has worked with other resource
+agencies to develop mandatory license conditions that are fairer and more balanced. The
+Commission also has issued a guidance document to help hydropower licensees seeking
+renewable tax credit certification for incremental energy gains from efficiency
+improvements.
+Natural Gas Infrastructure
+Pursuant to EPAct, the Commission has acted to encourage more investment in the
+nation's natural gas infrastructure. In order to promote the expansion of natural gas
+storage capacity and mitigate natural gas price volatility, the Commission has issued new
+rules for allowing market-based rates for interstate natural gas storage.
+To decrease the time needed for creating a complete application for new liquefied
+natural gas (LNG) terminals, the Commission adopted a rule requiring potential developers to
+initiate pre-filing procedures at least six months prior to filing a formal application with
+the Commission. The Commission has proposed rules to implement provisions that grant
+authority to coordinate the processing of federal and state authorizations required under
+federal law for natural gas projects, as well as maintain a consolidated record of decisions
+for judicial review.
+Mergers and Acquisitions
+Pursuant to EPAct, the Commission implemented the repeal of PUHCA 1935 and
+the provisions of a new PUHCA 2005. PUHCA 2005 permits Commission access to
+books and records of holding companies and their members if necessary for determining
+jurisdictional rates. The Commission implemented PUHCA rules governing accounting,
+record retention and reporting, including certain blanket waivers and exemptions, within
+the deadlines in EPAct.
+Along with the repeal of PUHCA 1935, EPAct expanded the Commission's
+corporate review authority to include authority over certain holding company mergers
+and acquisitions, as well as certain public utility acquisitions of generating facilities. It
+also imposed statutory deadlines for acting on mergers and other jurisdictional corporate
+transactions. The Commission implemented these new provisions of EPAct by providing
+blanket authorizations for certain transactions while ensuring that captive utility
+customers are protected. The Commission acted quickly, so that new rules would be in
+effect before the effective dates of the new corporate review authority and PUHCA 2005,
+and the repeal of PUHCA 1935, all of which became effective on February 8, 2006.
+Studies and Reports
+The Commission has issued seven reports as mandated by EPAct. In December
+2005, the Commission issued a report on its investigation of the California electricity
+crisis, detailing the actions the Commission has taken and the timetable for future action
+to resolve outstanding refund claims from this time period. Also in December, the
+Commission submitted to Congress a report on whether any PUHCA technical and
+conforming changes were needed as a result of the repeal of the 1935 act. In February
+2006, the Commission together with the Department of Energy issued a report on the
+steps which must be taken to establish a system to make available to all transmission
+owners and regional transmission organizations in the Eastern and Western
+interconnections real-time information on the functional status of all transmission lines
+within the interconnections. Also in February, the Commission issued its initial report on
+the progress made in licensing and constructing the Alaska natural gas pipeline; and a
+subsequent progress report was issued in July 2006, as required by EPAct.
+Meeting EPAct deadlines of August 8, 2006, the Commission issued two
+additional reports. First is a report assessing, by region, demand response resources and
+the use of advanced metering resources. The second is a report detailing the
+recommendations of regional joint boards to study the issue of security-constrained
+economic dispatch for the various market regions, what constitutes security-constrained
+economic dispatch and how it affects or enhances the reliability and affordability of
+electric service.
+Future Responsibilities of the Commission
+Other EPAct requirements that the Commission will be implementing in the
+future:
+• Approve or remand more than 100 separate proposed electric reliability standards,
+act on proposed regional delegation agreements, and oversee the effective
+enforcement of approved mandatory reliability standards.
+• Issue a final rule setting up procedures for the Commission to exercise its siting
+authority for transmission applications in national interest transmission corridors.
+• Issue a final rule on termination of the mandatory purchase obligation under
+section 210 of PURPA.
+• Issue a final rule on coordinating the processing of interstate natural gas
+infrastructure proposals among federal and state authorities and to maintain a
+consolidated record of decisions for judicial review.
+• Enter into a Memorandum of Understanding with the Secretary of Defense to
+ensure coordination of LNG facilities that may affect an active military
+installation.
+• Work jointly with other resource agencies to designate corridors for oil, gas, and
+hydrogen pipelines and electricity transmission and distribution facilities on
+federal land in the 11 contiguous Western states, perform environmental reviews
+for such designations and incorporate the designated corridors into the relevant
+agency land use and resource management plans.
+• Along with the Department of Energy, study and submit a report to Congress on
+the benefits of cogeneration and small power production.
+• Determine the appropriate exercise of authority under new Federal Power Act and
+Natural Gas Act transparency provisions.
+• Along with the Departments of Justice, Energy, Agriculture and the Federal Trade
+Commission, submit a report to Congress on competition within the wholesale and
+retail markets for electric energy in the United States.
+
+</text>

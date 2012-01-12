@@ -1,0 +1,201 @@
+<text id="J75" category="" words="2004" checkedby="" modifiedby="" Title="Cite Right A Quick Guide to Citation Styles -  MLA, APA, Chicago, the Sciences, Professions, and More" Author="Charles Lipson" PublicationDate="2006 The University of Chicago Press, Chicago" SampledFrom="ebook" WebAddress="http://www.netlibrary.com/Reader/">
+
+why cite?
+There are three reasons to cite the materials you use:
+To give credit to others' work and ideas, whether you agree with
+them or not. When you use their words, you must give them credit
+by using both quotation marks and citations.
+To show readers the materials on which you base your analysis,
+your narrative, or your conclusions.
+To guide readers to the materials you have used so they can examine
+it for themselves. Their interest might be to confirm your work,
+to challenge it, or simply to explore it further.
+Taken together, these citations fully disclose your sources. That's important
+for academic integrity in several ways.
+First, good citations parcel out credit. Some belongs to you for the
+original work you did; you need to take full responsibility for it. Some
+belongs to others for their words, ideas, data, drawings, or other work. You
+need to acknowledge it, openly and explicitly.
+Second, if you relied on others' work in order to tell your story, explain
+your topic, or document your conclusions, you need to say exactly what
+you used. Take a simple paper about World War I. No one writing today
+learned about it firsthand.Whatwe know,we learned by reading books and
+articles, by examining original documents and news reports, by listening
+to oral histories, by reviewing data compiled by military historians, and
+perhaps by viewing photographs or movies.When we write about the war,
+then, we should say how we acquired our information. The only exception
+is "commonly known information," something that everyone in the field
+clearly understands and that does not require any substantiation.1 There's
+no need for a footnote to prove Woodrow Wilson was actually president
+of the United States. But if you referred to his speech declaring war, you
+would need a proper citation. If you used his words, you'd need quotation
+marks, too.
+Third, your readers may want to pursue a particular issue you cover.
+Citations should lead them to the right sources, whether those are books,
+interviews, archival documents,Web sites, poems, or paintings. That guidance
+serves several purposes. Skeptical readersmay doubt the basis for your
+work or your conclusions. Others may simply want to double-check them
+or do more research on the topic. Your citations should point the way.
+What citations should not do is prance about, showing off your knowledge
+without adding to the reader's. That's just bragging.
+Beyond this question of style (and good manners), there is the basic
+issue of honesty. Citations should never mislead your readers. There are
+lots of ways to mislead or misdirect your readers; accurate citations avoid
+them. For example, they should not imply you read books or articles when
+you really didn't. They should not imply you spent days in the archives
+deciphering original documents when you actually read them in an edited
+book or, worse, when you "borrowed" the citation from a scholar who
+did study the originals. Of course, it's fine to cite that author or an edited
+collection. That's accurate. It's fine to burrow into the archives and read
+the original yourself. It's dishonest, though, to write citations that only
+pretend you did.
+Good citations should reveal your sources, not conceal them. They
+should honestly showthe research you conducted. That means they should
+give credit where credit is due, disclose the materials on which you base
+yourwork, and guide readers to that material so they can explore it further.
+Citations like these accurately reflect your work and that of others. They
+show the ground on which you stand.
+
+the basics of citation
+Acknowledging your sources is crucial to doing honest academic work.
+That means citing them properly, using one of several styles. The one you
+choose depends on your field, your professor's advice if you are a student,
+and your own preferences.
+There are three major citation styles:
+Chicago (or Turabian), used in many fields
+MLA, used in the humanities
+APA, used in social sciences, education, engineering, and business
+Several sciences have also developed their own distinctive styles:
+CSE for the biological sciences
+AMA for the biomedical sciences, medicine, and nursing
+ACS for chemistry
+AIP for physics, plus other styles for astrophysics and astronomy
+AMS for mathematics and computer sciences
+Legal citations are different from any of these. So are anthropology citations.
+I will cover each one, providing clear directions and plenty of examples
+so you won't have any trouble writing correct citations. That way, you can
+concentrate on your paper, not on the type of citation you're using. I'll
+cover each style separately so you can turn directly to the one you need.
+Using this information, you'll be able to cite books, articles, Web sites,
+films, musical performances, government documents - whatever you use
+in your papers.
+Why would you ever want to use different citation styles? Why can't
+you just pick one and stick with it? Because different fields won't let you.
+They have designed citation styles to meet their special needs, whether it's
+genetics or German, and you'll just have to use them. In some sciences,
+for instance, proper citations list only the author, journal, and pages. They
+omit the article's title. If you did that in the humanities or social sciences,
+you'd be incorrect because proper citations for those fields require the title.
+Go figure.
+Compare these bibliographic citations for an article of mine:
+Chicago Lipson, Charles. "Why Are Some International Agreements
+Informal?'' International Organization 45 (Autumn 1991):
+495 - 538.
+APA Lipson, C. (1991). Why are some international agreements informal?
+International Organization, 45, 495 - 538.
+ACS Lipson, C. Int. Org. 1991, 45, 495.
+None of these is complicated, but they are different. When you leave
+the chemistry lab to take a course on Shakespeare, you'll leave behind your
+citation style as well as your beakers. Not to worry. For chemistry papers,
+just turn to chapter 9. For Shakespeare, turn to chapter 4, which covers
+MLA citations for the humanities. Both chapters include lots of examples,
+presented in simple tables, so it won't be "double, double toil and trouble."
+Despite their differences, all these citation styles have the same basic goals:
+to identify and credit the sources you use; and
+to give readers specific information so they can go to these sources
+themselves, if they wish.
+Fortunately, the different styles include a lot of the same information.
+That means you can write down the same things as you take notes, without
+worrying about what kind of citations you will ultimately use. You should
+writedownthat information as soon as youstart taking notesonanewbook
+or article. If you photocopy an article, write all the reference information
+on the first page. If you do it first, you won't forget. You'll need it later for
+citations.
+How these citations will ultimately look depends on which style you
+use. Chicago notes are either complete citations or shortened versions
+plus a complete description in the bibliography or in a previous note.
+Their name comes from their original source, The ChicagoManual of Style,
+published by the University of Chicago Press. This format is sometimes
+called "Turabian" after a popular book based on that style, Kate Turabian's
+A Manual for Writers of Term Papers, Theses, and Dissertations.
+
+If you use complete-citation notes, you might not need a bibliography
+at all since the first note for each item includes all the necessary data. If you
+use the shortened form, though, you definitely need a bibliography since
+the notes skip vital information.
+Whether you use complete-citation notes or the shortened version, you
+can place them either at the bottom of each page or at the end of the document.
+Footnotes and endnotes are identical, except for their placement.
+Footnotes appear on the same page as the citation in the text. Endnotes are
+bunched together at the end of the paper, article, chapter, or book. Word
+processors give you an easy choice between the two.
+MLA, APA, and the science citation styles were developed to provide
+alternative ways of referencing materials. They use in-text citations such
+as (Stewart 154) or (Stewart, 2004) with full information provided only in
+a reference list at the end.2 Because these in-text citations are brief, they
+require a full bibliography. I'll describe each style in detail and provide lots
+of examples, just as I will for Chicago citations.
+In case you are wondering about the initials: APA stands for the American
+Psychological Association, which uses this style in its professional journals.
+MLA stands for the Modern Language Association. Both styles have been
+adopted well beyond their original fields. APA is widely used in the social
+sciences,MLAin the humanities. Chicago citations arewidely used in both.
+I will discuss the science styles (and what their initials mean) a little later.
+Your department, school, or publisher may prefer one style or even
+require it, or they might leave it up to you. Check on that as soon as you
+begin handing in papers with citations. Why not do it consistently from
+the beginning?
+Tip on selecting a citation style: Check with your teachers in each class to find
+out what style citations they prefer. Then use that style consistently.
+Speaking of consistency . . . it's an important aspect of footnoting. Stick
+with the same abbreviations, capitalizations, and don't mix styles within
+a paper. It's easy to write "Volume" in one footnote, "Vol." in another,
+and "vol." in a third. We all do it, and then we have to correct it. We all
+
+abbreviate "chapter" as both "chap." and "ch." Just try your best the first
+time around and then go back and fix the mistakes when you revise. That's
+why they invented the search-and-replace function.
+My goal here is to provide a one-stop reference so that you can handle
+nearly all citation issues you'll face, regardless of which style you use and
+what kinds of items you cite. For each style, I'll showyou howto cite books,
+articles, unpublished papers,Web sites, and lots more. For specialized documents,
+such asmusical scores or scientific preprints, I show citations only
+in the fields that actually use them. Physicists often cite preprints, but they
+don't cite Beethoven. The physics chapter reflects those needs. Students
+in the humanities not only cite Beethoven; they cite dance performances,
+plays, and poems. I have included MLA citations for all of them. In case
+you need to cite something well off the beaten path, I'll explain where to
+find additional information for each style.
+hanging indents
+One final point about shared bibliographic style. Most bibliographies - 
+Chicago, MLA, APA, and some of the sciences - use a special style known
+as "hanging indents." This applies only to the bibliography and not to
+footnotes or endnotes. It is the opposite of regular paragraph indention,
+where the first line is indented and the rest are regular length. In a hanging
+indent, the first line of each citation is regular length and the rest are
+indented. For example:
+Rothenberg, Gunther E. "Maurice of Nassau, Gustavus Adolphus,
+Raimondo Montecuccoli, and the 'Military Revolution' of
+the Seventeenth Century." In Makers of Modern Strategy from
+Machiavelli to the Nuclear Age, edited by Peter Paret, 32 - 63.
+Princeton, NJ: Princeton University Press, 1986.
+Spooner, Frank C. Risks at Sea: Amsterdam Insurance and Maritime
+Europe, 1766 - 1780. Cambridge: Cambridge University Press, 1983.
+There's a good reason for this unusual format. Hanging indents are
+designed to make it easy to skim down the list of references and see the
+authors' names. To remind you to use this format, I'll use it myself when
+I illustrate references in the citation styles that use it. (The only ones that
+don't use hanging indents are science styles with numbered citations and
+legal citations. It's actually not complicated, and I'll explain it later.)
+
+To make the authors' names stand out further, most bibliographies list
+their last names first. If an author's name is repeated, however, the styles
+differ.APArepeats the full name for each citation.MLAuses three hyphens,
+followed by a period. Chicago uses three em dashes (that is, long dashes),
+followed by a period.
+
+Lipson, Charles. Barbecue, Cole Slaw, and Extra Hot Sauce. Midnight,
+MS: Hushpuppy, 2006.
+More Gumbo, Please. Thibodeaux, LA: Andouille Press, 2005.
+
+</text>

@@ -1,0 +1,267 @@
+<text id="F44" category="" words="2003" checkedby="" modifiedby="" Title="Write Great Code - Think Low Level, Write High Level" Author="Randall Hyde " PublicationDate="2006" SampledFrom="Middle" WebAddress="http://assets.devx.com/download/15603.pdf">
+
+The CPU communicates with memory and I/O devices by placing a numeric
+value on the address bus to select one of the memory locations or I/O
+device port locations, each of which has a unique binary numeric address.
+Then the CPU, I/O, and memory devices pass data among themselves by
+placing the data on the data bus. The control bus contains signals that
+determine the direction of the data transfer (to or from memory, and to
+or from an I/O device).
+3.3.1 Registers
+The register set is the most prominent feature within the CPU. Almost all
+calculations on the 80x86 CPU involve at least one register. For example, to
+add the value of two variables and store their sum into a third variable, you
+must load one of the variables into a register, add the second operand to
+the register, and then store the register's value into the destination variable.
+Registers are middlemen in almost every calculation. Therefore, registers are
+very important in 80x86 assembly language programs.
+The 80x86 CPU registers can be broken down into four categories:
+general-purpose registers, special-purpose application-accessible registers,
+segment registers, and special-purpose kernel-mode registers. We will not
+consider the last two sets of registers, because the segment registers are not
+used very much in modern 32-bit operating systems (e.g., Windows, BSD,
+BeOS, and Linux), and the special-purpose kernel-mode registers are
+intended for writing operating systems, debuggers, and other system-level
+tools. Such software construction is well beyond the scope of this text.
+3.3.2 80x86 General-Purpose Registers
+The 80x86 (Intel family) CPUs provide several general-purpose registers for
+application use. These include eight 32-bit registers that have the following
+names:
+EAX, EBX, ECX, EDX, ESI, EDI, EBP, and ESP
+The E prefix on each name stands for extended. This prefix differentiates
+the 32-bit registers from the eight 16-bit registers that have the following
+names:
+AX, BX, CX, DX, SI, DI, BP, and SP
+Finally, the 80x86 CPUs provide eight 8-bit registers that have the
+following names:
+AL, AH, BL, BH, CL, CH, DL, and DH
+The most important thing to note about the general-purpose registers is
+that they are not independent. That is, the 80x86 does not provide 24 separate
+registers. Instead, it overlaps the 32-bit registers with the 16-bit registers, and
+it overlaps the 16-bit registers with the 8-bit registers. Figure 3-2 shows this
+relationship.
+
+The fact that modifying one register may modify as many as three other
+registers cannot be overemphasized. For example, modifying the EAX register
+may also modify the AL, AH, and AX registers. You will often see compilergenerated
+code using this feature of the 80x86. For example, a compiler may clear (set to zero) all the bits in the EAX register and then load AL with a
+one or zero in order to produce a 32-bit True (1) or False (0) value. Some
+machine instructions manipulate only the AL register, yet the program may
+need to return those instructions' results in EAX. By taking advantage of the
+register overlap, the compiler-generated code can use an instruction that
+manipulates AL to return that value in all of EAX.
+Although Intel calls these registers general purpose, you should not infer
+that you can use any register for any purpose. The SP/ESP register pair for
+example, has a very special purpose that effectively prevents you from using it
+for any other purpose (it's the stack pointer). Likewise, the BP/EBP register
+has a special purpose that limits its usefulness as a general-purpose register.
+All the 80x86 registers have their own special purposes that limit their use in
+certain contexts; we will consider these special uses as we discuss the machine
+instructions that use them (see the online resources).
+3.3.3 The 80x86 EFLAGS Register
+The 32-bit EFLAGS register encapsulates numerous single-bit Boolean
+(True/False) values (or flags). Most of these bits are either reserved for kernel
+mode (operating system) functions or are of little interest to application
+programmers. Eight of these bits are of interest to application programmers
+reading (or writing) assembly language code: the overflow, direction, interrupt
+disable,1 sign, zero, auxiliary carry, parity, and carry flags. Figure 3-3 shows
+their layout within the low-order (LO) 16 bits of the EFLAGS register.
+
+Of the eight flags that application programmers can use, four flags in particular
+are extremely valuable: the overflow, carry, sign, and zero flags. We call
+these four flags the condition codes. Each flag has a state - set or cleared - that
+you can use to test the result of previous computations. For example, after
+comparing two values, the condition-code flags will tell you if one value is less
+than, equal to, or greater than a second value.
+
+3.4 Literal Constants
+Most assemblers support literal numeric, character, and string constants.
+Unfortunately, just about every assembler out there uses a different syntax
+for literal constants. The following subsections describe the syntax for the
+assemblers we'll be using in this book.
+3.4.1 Binary Literal Constants
+All assemblers provide the ability to specify base-2 (binary) literal constants.
+Few compilers emit binary constants, so you probably won't see these values
+in the output a compiler produces, but you may see them in handwritten
+assembly code.
+3.4.1.1 Binary Literal Constants in HLA
+Binary literal constants in HLA begin with the special percent character (%)
+followed by one or more binary digits (0 or 1). Underscore characters may
+appear between any two digits in a binary number. By convention, HLA
+programmers separate each group of four digits with an underscore. For
+example:
+%1011
+%1010_1111
+%0011_1111_0001_1001
+%1011001010010101
+
+3.4.1.2 Binary Literal Constants in Gas
+Binary literal constants in Gas begin with the special 0b prefix followed by
+one or more binary digits (0 or 1). For example:
+0b1011
+0b10101111
+0b0011111100011001
+0b1011001010010101
+3.4.1.3 Binary Literal Constants in MASM and TASM
+Binary literal constants in MASM/TASM consist of one or more binary digits
+(0 or 1) followed by the special b suffix. For example:
+
+1011b
+10101111b
+0011111100011001b
+1011001010010101b
+3.4.2 Decimal Literal Constants
+Decimal constants in most assemblers take the standard form - a sequence of
+one or more decimal digits without any special prefix or suffix. This is one of
+the two common numeric formats that compilers emit, so you will often see
+decimal literal constants when reading compiler output.
+3.4.2.1 Decimal Literal Constants in HLA
+HLA allows you to optionally insert underscores between any two digits in a
+decimal number. HLA programmers generally use underscores to separate
+groups of three digits in a decimal number. For example, take the following
+numbers:
+123
+1209345
+In HLA a programmer could insert underscores as shown here:
+1_024
+1_021_567
+3.4.2.2 Decimal Literal Constants in Gas, MASM, and TASM
+Gas, MASM, and TASM use a string of decimal digits (the standard "computer"
+format for decimal values). For example:
+123
+1209345
+MASM, TASM, and Gas (unlike HLA) do not allow embedded underscores
+in decimal literal constants.
+3.4.3 Hexadecimal Literal Constants
+Hexadecimal (base-16) literal constants are the other common numeric
+format you'll find in assembly language programs (especially those that
+compilers emit).
+3.4.3.1 Hexadecimal Literal Constants in HLA
+Hexadecimal literal constants in HLA consist of a string of hexadecimal
+digits (0..9, a..f, or A..F) with a $ prefix. Underscores may optionally appear
+between any two hexadecimal digits in the number. By convention, HLA
+programmers separate sequences of four digits with underscores.
+For example:
+$1AB0
+$1234_ABCD
+$dead
+3.4.3.2 Hexadecimal Literal Constants in Gas
+Hexadecimal literal constants in Gas consist of a string of hexadecimal digits
+(0..9, a..f, or A..F) with a 0x prefix. For example:
+0x1AB0
+0x1234ABCD
+0xdead
+3.4.3.3 Hexadecimal Literal Constants in MASM and TASM
+Hexadecimal literal constants in MASM/TASM consist of a string of hexadecimal
+digits (0..9, a..f, or A..F) with an h suffix. The values must begin with
+a decimal digit (0 if the constant would normally begin with a digit in the
+range a..f). For example:
+1AB0h
+1234ABCDh
+0deadh
+3.4.4 Character and String Literal Constants
+Character and string data are also common data types that you'll find in
+assembly programs. MASM and TASM do not differentiate between literal
+character or string constants. HLA and Gas, however, use a different internal
+representation for characters and strings, so the distinction between the two
+literal constant forms is very important in those assemblers.
+3.4.4.1 Character and String Literal Constants in HLA
+Literal character constants in HLA take a couple of different forms. The
+most common form is a single printable character surrounded by a pair
+of apostrophes, such as 'A'. To specify an apostrophe as a literal character
+constant, HLA requires that you surround a pair of apostrophes by apostrophes
+(''''). Finally, you may also specify a character constant using
+the # symbol followed by a binary, decimal, or hexadecimal numeric
+value that specifies the ASCII code of the character you want to use.
+For example:
+'a'
+''''
+' '
+#$d
+#10
+#%0000_1000
+String literal constants in HLA consist of a sequence of zero or more
+characters surrounded by quotes. If a quote must appear within a string
+constant, the string constant will contain two adjacent quotes to represent a
+quote character within the string.
+
+For example:
+"Hello World"
+"" -- The empty string
+"He said ""Hello"" to them"
+"""" -- string containing one quote character
+3.4.4.2 Character and String Literal Constants in Gas
+Character literal constants in Gas consist of an apostrophe followed by a single
+character. For example:
+'a
+''
+'!
+String literal constants in Gas consist of a sequence of zero or more
+characters surrounded by quotes. String literal constants in Gas use the
+same syntax as C strings. You use the \ escape sequence to embed special
+characters in a Gas string. For example:
+"Hello World"
+"" -- The empty string
+"He said \"Hello\" to them"
+"\"" -- string containing one quote character
+3.4.4.3 Character/String Literal Constants in MASM and TASM
+Character and string literal constants in MASM/TASM take the same form:
+a sequence of one or more characters surrounded by either apostrophes or
+quotes. These assemblers do not differentiate character constants and string
+constants. For example:
+'a'
+"'" - An apostrophe character
+'"' - A quote character
+"Hello World"
+"" -- The empty string
+'He said "Hello" to them'
+3.4.5 Floating-Point Literal Constants
+Floating-point literal constants in assembly language typically take the same
+form you'll find in HLLs (a sequence of digits, possibly containing a decimal
+point, optionally followed by a signed exponent). For example:
+3.14159
+2.71e+2
+1.0e-5
+5e2
+
+3.5 Manifest (Symbolic) Constants in Assembly Language
+Almost every assembler provides a mechanism for declaring symbolic (named)
+constants. In fact, most assemblers provide several ways to associate a value
+with an identifier in the source file.
+3.5.1 Manifest Constants in HLA
+The HLA assembler, true to its name, uses a high-level syntax for declaring
+named constants in the source file. You may define constants in one of three
+ways: in a const section, in a val section, or with the ? compile-time operator.
+The const and val sections appear in the declaration section of an HLA
+program and their syntax is very similar. The difference between them is that
+you may reassign values to identifiers you define in the val section and you
+may not reassign values to identifiers appearing in a const section. Although
+HLA supports a wide range of options in these declaration sections, the basic
+declaration takes the following form:
+const
+someIdentifier := someValue;
+Wherever someIdentifier appears in the source file (after this
+declaration), HLA will substitute the value someValue in the identifier's
+place. For example:
+const
+aCharConst := 'a';
+anIntConst := 12345;
+aStrConst := "String Const";
+aFltConst := 3.12365e-2;
+val
+anotherCharConst := 'A';
+aSignedConst := -1;
+
+In HLA, the ? statement allows you to embed val declarations anywhere
+whitespace is allowed in the source file. This is sometimes useful because it
+isn't always convenient to declare constants in a declaration section. For
+example:
+?aValConst := 0;
+3.5.2 Manifest Constants in Gas
+Gas uses the .equ statement to define a symbolic constant in the source file.
+This statement has the following syntax:
+.equ symbolName, value
+80x86 Assembly for the HL L P rogrammer 31
+Here are some examples of "equates" within a Gas source file:
+
+</text>

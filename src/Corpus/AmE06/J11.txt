@@ -1,0 +1,305 @@
+<text id="J11" category="" words="2007" checkedby="" modifiedby="" Title="New Members of the Family Enterobacteriaceae" Author="J. MICHAEL JANDA" PublicationDate="New York ; [London] : Springer 2006" SampledFrom="In The prokaryotes: a handbook on the biology of bacteria. p. 5-40" WebAddress="http://www.springerlink.com/content/l367212007p22232/fulltext.pdf">
+
+In the last edition of this chapter, Don Brenner
+(Brenner, 1991) wrote:
+"They are, nonetheless, important for a variety
+of reasons. They have innate importance as members
+of the family, to be compared and contrasted
+with their relatives, in attempts to define
+the phenotypic, phylogenetic, and ecological
+boundaries of the family."
+No words better define the current edition of
+this chapter as the number of genera of Enterobacteriaceae
+has risen 60%, from 15 to 24
+(excluding Raoultella). This current list of 24 genera
+does not even include such organisms as
+Alterococcus agarolyticus and Saccharobacter
+fermentatus, taxa that are not formally discussed
+in this chapter, although they possess some characteristics
+associated with the family Enterobacteriaceae
+(Yaping et al., 1990; Shieh and Jean,
+1998).
+The exponential increase in new genera within
+the family Enterobacteriaceae has been fueled
+by molecular biology, including polymerase
+chain reaction (PCR) technology and 16S (small
+subunit) rDNA sequencing. This list of genera
+will no doubt continue to increase. What has
+resulted from this molecular onslaught is the
+basic fundamental knowledge that the family
+Enterobacteriaceae plays a critical role not only
+in enteric disease of humans and animals, but
+also as phytopathogens, as insect pathogens, and
+in industrial processes. Members of the family
+Enterobacteriaceae can be broadly classified
+into four main categories for convenience,
+although a number of these genera clearly overlap
+into multiple categories (Table 1). Probably
+the greatest explosion in our knowledge concerning
+enterobacteria stems from new insight
+into their role as endosymbionts of insects or of
+the parasites that feed on insect larvae (Moran
+and Baumann, 2000). Some genera, such as Photorhabdus
+and Xenorhabdus, may serve as new
+delivery vehicles of important bacterial toxins
+with insecticidal activity, replacing such classic
+agents as Bacillus thuringiensis (ffrench-
+Constant and Bowen, 1999). Knowledge of the
+association that genera, such as Brenneria and
+Pectobacterium, have with plant diseases continues
+to expand as our understanding of their correct
+taxonomic position becomes apparent.
+Phlyogenetic analysis has also revealed that
+some agents, such as Calymmatobacterium granulomatis,
+the causative agent of the sexually
+transmitted disease, donovanosis (granuloma
+inguinale), are actually members of the Enterobacteriaceae.
+Thus, our knowledge regarding the
+Enterobacteriaceae and factors regulating
+molecular evolution of endosymbionts, disease
+associations in humans, animals, and plants, biological
+applications, and ecologic niches will continue
+to expand at a rapid rate for the forseeable
+future.
+Arsenophonus (Androcidium)
+In 1986, Werren et al. isolated the causative
+agent (Arsenophonus nasoniae) of the son-killer
+(sk) trait from infected tissues of the parasitic
+wasp, Nasonia vitropennis. The sk trait, a sexratio
+distorter, is carried by approximately 5% of
+female wasps from natural populations (Gherna
+et al., 1991). Infected wasps transmit the bacterium
+to fly pupae (wasp host) during oviposition
+and offspring then become infected perorally
+(Werren et al., 1986). The bacterium causes the
+death of only male wasp eggs (unfertilized) by
+arresting their maturation. Werren et al. (1986)
+recovered the slow-growing bacterium from
+tryptic soy and brain heart infusion broth cultures
+containing either infected sk-wasp tissues
+or hemolymph of fly pupae parasitized by sk
+females. Arsenophonus nasoniae was subsequently
+proven to be the causative agent of the
+sk trait by fulfilling Koch's postulates.
+Arsenophonus nasoniae DNA was 0 - 5%
+related to DNA from 54 representative species
+of Enterobacteriaceae (Brenner, 1991). However,
+total DNA from strain A. nasoniae SKI4
+hybridized to an rRNA Escherichia coli
+sequence enriched for, but not exclusive to,
+members of the family Enterobacteriaceae
+(Gherna et al., 1991). SKI4 was 62% related at
+60°C and 42% related at 70°C to the Escherichia
+coli probe. These values are similar to those exhibited by other members of the Enterobacteriaceae
+including Providencia, Proteus mirabilis
+and Xenorhabdus nematophilus. A phylogenetic
+tree based upon rRNA sequences of selected
+members of the family Enterobacteriaceae was
+constructed and indicates that the genus Proteus
+is the closest neighbor to strain SKI4 (Gherna
+et al., 1991). This relationship is further supported
+by the fact that the G+C content (39.5mol%) and fatty acid composition (large
+amounts of C16:0 and 16:1 cis 9, smaller amounts
+of 14:0) of strain SKI4 are very similar to that of
+the genera Proteus and Providencia, respectively.
+A second putative species in the genus Arsenophonus
+has been detected as a "secondary (S)- endosymbiont" in the reduviid bug, Triatoma
+infestans (Hyp a and Dale, 1997). A bacterial
+culture TI1 was isolated from the hemolymph of
+T. infestans. The TI1 bacteria could be propagated
+in vitro by cocultivation with a mosquito
+cell line (Aedes albopictus) but could not be cultured
+in vitro. PCR amplification of a 16S rDNA
+product (1361 bp) from TI1-A. albopictus cultures
+and comparison to other 16S rDNA
+sequences from eubacteria indicated that the
+endosymbiont was a member of the γ-3 subdivision
+of the class Proteobacteria (Hyp a and
+Dale, 1997). The TI1 rDNA sequences are 96.2%
+related to those of A. nasoniae and a phylogenetic
+tree indicates that A. nasoniae is the most
+closely related taxa to TI1. Because TI1 cannot
+be cultured in vitro and valid biochemical tests
+cannot be performed, Candidatus status (provisional
+assignment) has been applied prior to the
+vernacular epithet (Murray and Schleifer, 1994;
+Hyp a and Dale, 1997). Whether Arsenophonus
+contains the enterobacterial common antigen
+(ECA) is unknown.
+Arsenophonus nasoniae is a fastidious Gramnegative,
+oxidase-negative, catalase-positive,
+non-sporeforming, nonmotile rod that produces acid from D-glucose, fructose, and sucrose
+(Brenner, 1991; Gherna et al., 1991). It is unusual
+(with respect to the Enterobacteriaceae) in its
+inability to grow on MacConkey agar and to
+reduce nitrates. It grows optimally at 30°C, with
+a range from 15 to 35°C. A description of biochemical
+characteristics associated with A. nasoniae
+can be found in Gherna et al. (1991). The
+optimal pH range for growth is 7.2 - 7.8, with a
+pH range from 6.2 to 8.7 (Brenner, 1991). Limited
+antibiotic susceptibility studies indicate that
+A. nasoniae is resistant to polymyxin, penicillin,
+methicillin and erythromycin and is sensitive to
+gentamicin, chloramphenicol, tetracycline and
+sulfathiazole (Werren et al., 1986). Growth does
+not occur in minimal salts plus glucose without
+the addition of protein digests; amino acid supplements
+do not support growth. Vitamins, trace
+metals, and IsoVitalex also do not support
+growth (Brenner, 1991). The addition of 1% proteose
+peptone (Difco no. 0120) to conventional
+media, however, has been shown to improve
+growth (Gherna et al., 1991). "Candidatus Arsenophonus
+triatominarum" is also Gram negative,
+nonmotile, and non-sporeforming (Hyp a and
+Dale, 1997). The rods are highly filamentous 
+(&gt;15μm in length, 1 - 1.5μm in diameter).
+Both A. nasoniae and Candidatus Arsenophonus
+triatominarum are maternally transmitted,
+and both are found in the central nervous system
+(brain and neural ganglia) of infected insects.
+Candidatus Arsenophonus triatominarum is
+additionally found in the hemolymph, heart, salivary
+glands, visceral muscles, nephrocytes, ovaries,
+testes and dorsal vessels of T. infestans
+(Hyp a and Dale, 1997). A sex-ratio distorter
+trait due to.
+Candidatus Arsenophonus triatominarum has
+not been found in T. infestans.
+The type strain of A. nasoniae is SKI4(= ATCC 49151).
+Brenneria.
+The genus Brenneria is composed of several
+necrogenic phytopathogenic species that formerly
+resided within the "amylovora group" of
+the genus Erwinia. Phylogenetic investigations
+conducted on 16 Erwinia species utilizing 16S
+rDNA sequence data identified four distinct
+clusters, one of which (cluster IV) contained the
+species E. salicis, E. nigrifluens and E. rubrifaciens
+(Kwon et al., 1997). Hauben et al. (1998a)
+analyzed the 16S rDNA sequences of 29 plantassociated
+strains and also identified four clusters.
+In this later study, cluster III contained the
+three species previously found to reside in cluster
+IV by Kwon et al. (1997), in addition to E.
+alni, E. paradisiaca and E. quercina. These six
+species shared sequence similarities ranging
+from 94.7 - 97.4%. The mean sequence relatedness
+of cluster IV members to the genera
+Erwinia and Pectobacterium were 94.5 and
+95.4%, respectively (Hauben et al., 1998a). Signature
+sequences identified among cluster III
+members were conserved in all six species; these
+sequences differed from those of cluster I
+(Erwinia), cluster II (Pectobacterium) and cluster
+IV (Pantoea). Based upon these results,
+Hauben et al. (1998a) proposed the transfer of
+these six Erwinia species to a new genus, Brenneria,
+named in honor of the American bacteriologist
+Don J. Brenner. Subsequent studies
+investigating sequence divergence in the glyceraldehyde-
+3-phosphate dehydrogenase (gapDH)
+gene of the glycolytic pathway support the
+genetic differentiation of the genera Brenneria
+and Erwinia (Brown et al., 2000). However,
+other phylogenetic studies have not demonstrated
+such a robust separation between Brenneria
+and Pectobacterium species (Spröer et al.,
+1999). At the DNA level, E. salicis, E. nigrifluens
+and E. rubrifaciens are 27 - 32% related to E.
+quercina EQ 102; E. rubifaciens, E. nigrifluens
+and E. quercina are 33 - 60% related to E. salicis
+ATCC 15712 at 60°C (Brenner et al., 1974). Similar
+relatedness values have been reported using
+E. nigrifluens (29 - 47%) and E. rubrifaciens (25 - 
+54%) as labeled DNA. The G+C content of
+members of the genus Brenneria range from 50.1
+to 56.1 mol% (Hauben et al., 1998a).
+The genus Brenneria consists of Gramnegative,
+oxidase-negative, catalase-positive
+fermentative rods, 1.3 - 3.0 μm in length by 0.5 - 
+1.0 μm in width (Hauben et al., 1998a). Biochemically,
+Brenneria species are similar to Pantoea,
+Pectobacterium and Erwinia in that they fail to
+produce arginine dihydrolase and to decarboxylate
+amino acids such as ornithine and lysine
+(Lelliott and Dickey, 1984). Acid is produced
+from the fermentation of D-glucose, D-fructose,
+salicin, mannose and sucrose. Amylases are not
+produced. Brenneria rubrifaciens produces a
+pink diffusible pigment on YDC medium (1%
+yeast extract, 1% D-glucose, 2% precipitated
+chalk, and 2% agar). Most species are sensitive
+to carbenicillin, cephalothin, chloramphenicol,
+naladixic acid and tetracycline, and resistant to
+bacitracin, erythromycin and gentamicin.
+Differential characteristics useful in separating
+members of the genus Brenneria are listed in
+Table 2.
+As former members of the Erwinia "amylovora
+group," Brenneria species cause dry necrosis
+or wilt in the specific host plants they infect.
+Brenneria alni causes necrotic cankers in the
+bark of the trunk, branches and twigs of the Italian
+alder (Alnus cordata) and black alder (Surico
+et al., 1996). In the warmer months, a watery
+liquid is expressed from small cracks in the canker.
+A similar disease called "drippy nut disease"
+is caused by B. quercina in oaks. Brenneria nigrifluens
+causes bark canker in the Persian
+(English) walnut, while B. rubrifaciens causes
+necrosis in the Persian walnut (Juglans regia).
+Brenneria salicis is the causative agent of
+"watermark disease" in willows (Salix sp.). This
+vascular wilting disease is characterized by the
+appearance of wilted, dried, brown-colored
+leaves (Hauben et al., 1998b). Infection primarily
+resides within the xylem vessels of infected
+trees.
+The type strains of Brenneria species are listed
+in Table 3.
+Buchnera.
+The genus Buchnera consists of a single species,
+B. aphidicola, which is an obligate intracellular
+symbiont of the greenbug aphid, Schizaphis
+graminum (Munson et al., 1991). Buchera aphidicola
+cannot be cultured in vitro. The bacterium
+exists within 60 - 80 huge specialized aphid cells
+called "bacteriocytes" or "mycetocytes" located
+within host-derived membrane vesicles termed
+"symbiosomes" (Baumann et al., 1995). Buchnera
+is vertically transmitted to eggs and offspring
+by a process that is not completely
+understood, thereby perpetuating the association
+between bacterium and insect. Buchnera or
+Buchnera-like endosymbionts also have been
+reportedly found in a number of aphid species
+including Rhopalosiphum maides, Rhopalosiphum
+padi, Myzus persicae, Uroleucon sonchi,
+Acyrthosiphon pisum, Diuraphis noxia, Chaitophorus
+viminalis, Mindarus victoria, Pemphigus
+betae and Melaphis rhois (Munson et al., 1991);
+some species of the tribe Cerataphidini are
+devoid of Buchnera endosymbionts (Baumann
+et al., 1995).
+Based upon 16S RNA sequence data, Buchnera
+belongs to the γ-3 subdivision of the class
+Proteobacteria and is most closely related to
+members of the family Enterobacteriaceae
+(Munson et al., 1991; Baumann et al., 1995). The
+G+C content of Buchnera DNA is 30 mol%.
+Buchnera aphidicola appears to have developed
+a symbiotic association with a progenitor aphid
+species approximately 150 - 200 million years ago
+(Buades et al., 1999). The genome (630 - 643 kb)
+is only about one-seventh the size of E. coli
+(Wernegreen et al., 2000). However, the size of
+Buchnera genomes recovered from different
+aphid species is highly conserved (&lt;3% difference),
+suggesting genome shrinkage early in the
+evolutionary symbiotic process. Multiple copies
+of the genome (&gt;120) exist within bacteriocytes
+(Komaki and Ishikawa, 1999).
+
+</text>

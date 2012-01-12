@@ -1,0 +1,185 @@
+Alasdair MacIntyre is known as a moral philosopher rather than as an
+organization theorist and he has indeed been self-critical in respect of his lack
+of attention to, what he has termed, the "productive crafts' (MacIntyre 1994a:
+284). However, the growth of his influence across social science since the
+publication of his seminal After Virtue, in 1981 (Soloman 2003: 142), has
+extended to work within organization science, although much of this work
+continues to be contested.
+It is in this context that we have written this paper. Its purposes are threefold.
+First, to introduce MacIntyre's ideas on virtue in the context of organization;
+second, to trace the development of these ideas; and, finally, to sketch some of
+the uses to which they have been put in the organizational literature. If successful,
+our paper will provide one point of entry to MacIntyre's work for
+readers who have not been introduced to it, and make some novel suggestions
+about its development for those who have.
+MacIntyre's critique of contemporary organizations has formed a remarkably
+consistent feature of work that has, in wider respects, been noted for the
+changes evident in its ideological commitments (Horton and Mendus 1994:
+1; Borradori 1994; MacIntyre 1994b). In attempting to present elements of
+his work to make this case, our selections reflect authorial intent more than
+the structure of his original arguments. We hope that we have done no violence
+to the original, but are aware that this paper is no substitute for it.
+
+The paper begins with some preliminary commentary on epistemology,
+without which our notion of his "general theory' might too easily be seen as
+a set of abstractions. It traces MacIntyre's occasional work on contemporary
+organizations between 1953 and 1980 and suggests that his empirical research
+with practising managers in the power industry alerted MacIntyre to the
+parallels between the compartmentalization of moral positions within
+individuals' roles as managers, citizens and family members, and the victory
+of emotivism over other moral philosophies in the modern age. The paper
+then provides an account of what we claim to be his "general theory' of
+virtues, goods, practices and institutions, which appeared with After Virtue.
+The paper concludes with an account of the use of MacIntyre's ideas in the
+organizational sciences literatures.
+MacIntyre as Critical Realist
+Among the relatively fixed points of MacIntyre's moving ideological
+commitments is his critical realist approach to method in social science (see
+Turner 2003). MacIntyre sees relations between social structures, social roles
+(and characters) and the framework of ideas in which agency comes to be
+understood, as intimate. The factors that agents take to be motives for, and
+justifications of, action are historically rooted in the type of social roles
+and ideologies that frame the relations between motives and action.
+For example, the modern noumenal self needs little justification for action
+other than it be freely chosen, whereas the ancient self of Greek civilization
+could not have so justified her action because she had not acquired a notion
+of free choice. For her, freedom to choose extended only to alternative means
+of fulfilling a social role in a set of circumstances whose understanding
+included that of the range of actions required by those who inhabit her social
+role (MacIntyre [1981] 1985: 58–59).
+It follows that MacIntyre has consistently rejected understandings of social
+science as science (MacIntyre [1981] 1985: 88–108), in which human behaviour
+can be explained, predicted and, at least in part, controlled through the identification
+of relationships between variables, precisely because the understanding
+of those variables is peculiar to social structures in which concepts express
+relationships characteristic of those structures (MacIntyre [1971] 1978: 83–84).
+MacIntyre presents an extended argument in chapters 6–8 of After Virtue
+in which these notions are applied to the claim to expertise relied on by
+managers for their authority (pace Weber). This is the claim "to possess
+systematic effectiveness in controlling certain aspects of social reality'
+(MacIntyre [1981] 1985: 74). MacIntyre argues that such expertise (and the
+education that promises its transference) requires the demonstration of lawlike
+generalizations — hypotheses of causation that predict and explain in the
+same way as those in natural science (MacIntyre [1981] 1985: 88–105).
+However, sources of unpredictability in human action (including the notions
+through which behaviour is understood) are such as to render knowledge of
+this kind impossible.
+
+MacIntyre concludes, that the idea of management's expertise in controlling
+social outcomes is a myth whose purpose is the maintenance of an
+ideology in which the distinction between manipulative and non-manipulative
+action is obscured in the name of effectiveness (see also Brehony 2002). The
+limits that MacIntyre places on the claims of social science are no proxy,
+however, for a commitment to social constructivism (and its postmodern
+allies) in its denial of the possibility of truth (see, for example, Borradori
+1994: 265).
+MacIntyre's position is liable to cause readers some confusion, and one
+commentator has observed that "it may be MacIntyre's special distinction to
+strike half of his readers as an old-fashioned universalizing metaphysician
+(since he defends a version of tradition and teleology) while striking the other
+half as a dangerous relativist' (Higgins 2004: 35). Achtemeier (1994) offers
+a solution to this problem in arguing that MacIntyre's approach to social
+science may be labelled "critical realist' (Bhaskar 1975; Hartwig 2005). At
+the risk of oversimplification, critical realism can be characterized as an
+approach that maintains the existence of an objective reality (hence exhibits
+a realist ontology) while being sceptical towards our ability to understand it
+(hence a critical epistemology). MacIntyre's scepticism carries a unique
+historical flavour, but there is enough here that echoes critical realism for
+MacIntyre's work to suffer from the same misunderstandings that have beset
+critical realist work. Part of this problem is that readers schooled in modern
+treatments of research methods have learned neither to distinguish between
+ontology and epistemology nor to recognize that abjuring this distinction is
+itself characteristic of a distinctive position.
+Nowhere is this more evident than in Burrell and Morgan's (1979) collapsing
+of ontology and epistemology into a single subjective–objective axis,
+which, along with the axis of stability and change, serves to locate alternative
+research paradigms. For MacIntyre, such approaches fail in their definition
+of axes and consequently in their attempt to fix boundaries around ideological
+commitment. What is missing from such accounts includes any notion of time.
+For MacIntyre, intelligibility requires narrative, and narrative requires
+historical awareness (MacIntyre 1990, [1981] 1985: 206, 210). Summarizing
+MacIntyre's entire project, Murphy writes:
+"The path out of the moral wilderness is the formulation of an ethics of human nature
+where human nature is not merely a biological nature but also an historical and social
+nature — and the formulation of an historical, but not relativistic, account of
+rationality in inquiry.' (2003: 7)
+MacIntyre's commitment to historical understanding of the development
+of ideas is bound up with his critical realism — such is the intimacy of the
+relations between ideas and social structures that changes to both over time
+render redundant any attempt at a once-and-for-all determination of paradigms.
+Accustomed as we are to thinking about objectivist and subjectivist
+assumptions as either opposites or polarities along a dimension, an understanding
+of MacIntyre's position requires us to recognize that this way of
+thinking about ideas within social science is itself historically specific (Tsoukas and Cummings 1997). Indeed, in Three Rival Versions of Moral
+Enquiry (1990), MacIntyre traces and dissects the histories of both objectivist
+and subjectivist approaches to moral enquiry (labelled as Encyclopaedia and
+Genealogy, respectively).
+In writing such an account historically, and not analytically, he was
+committed to, argued for and exemplified a different approach to doing social
+studies — one that he labels, not as "critical realist' but as "tradition'. In this
+approach, enquiry is undertaken through using the best methods we have
+discovered up to now, to determine the most accurate rendering of the truth
+that can be given up to now. And part of doing intellectual work this way,
+is the acknowledgment of the historical rootedness of our ideas, methods
+and results.
+It turns out that we can only understand this if we have available to us a
+notion of tradition in which today's "best so far' is only "best so far' because
+it gives a better (according to the "best so far' criteria we have of establishing
+merit) account of whatever it is we are considering than have previous accounts
+(see Borradori 1994: 262 for a brief version of this argument and MacIntyre
+1988 for an extended version). The traditional approach to enquiry holds to a
+notion of truth that seeks neither the timelessness of law-like generalizations
+nor the dissolution of categories through which enquiry is undertaken (the endpoint
+of genealogy). Skinner and Foucault are likewise rejected.
+If social theory involves neither testing hypotheses to adduce relations
+between variables in the cause of developing law-like generalization allowing
+for control of social phenomena, nor deconstructing postulates in the cause
+of unmasking power relations, then what does it involve? For MacIntyre,
+social theory is active self-reflection in the context of practice; the notion of
+disengaged theorizing is illusory. As early as 1953, he wrote that, "Hegel
+forgot what Kierkegaard remembered when Kierkegaard said that the tragedy
+of the speculative philosopher is that he must turn aside from his place as a
+spectator of time and eternity in order to sneeze' (MacIntyre [1953] 1995:
+16–17), and this opposition to speculative theory remains his position in his
+mature work (MacIntyre 1994a: 289).
+His commitment to an engaged philosophy marks an aspect of MacIntyre's
+rejection of utilitarian and other supposedly "rational' systems constructed in
+the Enlightenment. An early MacIntyre text (1964) captures this. Here he uses
+Dickens' contrast of Gradgrind's functional definition of a horse in Hard
+Times with the "living skill' of horse-riding (MacIntyre 1964: 5–6) to illustrate
+the point that abstract knowledge has "nothing to do with an ability to handle
+horses' (MacIntyre 1964: 6). More than 30 years later, his commentary on
+Marxism's detachment from practice echoes the same point (MacIntyre
+[1953] 1995: xxviii–xxx).
+From his earliest writings onwards, before his concept of a "practice'
+became central to his mature project (for example, MacIntyre [1953] 1995:
+60), through his commitments to and rejections of large portions of Marxism
+(Borradori 1994: 258–259), he has maintained that social theory should
+embody features of practical social life and that the proper purpose of theory
+is to enable practitioners to develop better understandings of that life. Further, the ability to resolve the disputes between or inconsistencies within previous
+theories, rather than the ability to explain, predict and control behaviours, is
+the hallmark of successful theorizing (MacIntyre 1977a: 460).
+Having set out the broad direction of MacIntyre's understanding of
+theorizing, and distinguishing it from what usually is required for systematic
+thinking to be labelled "theory', we now turn to a representation of MacIntyre's
+theorizing about organizations. Although subsequent reflections demonstrate
+MacIntyre's rejection of some key theses in his first significant publication
+in this area (particularly his preface to its most recent reissue ([1953] 1995):
+v–xxxi), Marxism and Christianity contains the condemnation of the capitalist
+mode of organization that has persisted in his work (Murphy 2003: 3). In
+the section that follows, we focus on two main features of this criticism of
+contemporary organizations — the centrality of utilitarianism to corporate
+decision-making, and the effects of work under capitalism. We then turn to
+After Virtue (1981), as it is only from this point that a positive account of
+work in conditions of human flourishing can be found and the centrality of a
+conception of the virtues emerges.
+MacIntyre on Contemporary Organizations 1953–1980
+Decision-making in the Capitalist Mode
+The focus of MacIntyre's comments on contemporary organizations prior to
+After Virtue is overwhelmingly critical. MacIntyre does not detain readers
+long with distinctions between types of organizations within capitalism, but
+consistently identifies capitalism both with modernity and bureaucracy as a
+mode of production. The distinction between public and private organizations
+is also subsumed in his work (MacIntyre 1964: 11; [1981] 1985: 25) and there
+is no evidence to suggest, in so far as they take on bureaucratic form, that
+voluntary organizations are in any way exempt.

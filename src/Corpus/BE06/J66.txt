@@ -1,0 +1,186 @@
+III Practical problems
+1 The testing teams
+Although the teams in all the countries have the same goal – the
+development of a suite of valid and reliable tests – the size of the teams
+and the conditions under which they are working vary considerably
+across the region. One team, for example, consists of only three
+members working three hours a week (nine hours in total) while
+another has five full-time members working 40 hours a week and eight
+part-time members working nine hours a week (272 hours in total).
+However, having full-time team members does not necessarily guarantee
+continuity: the basis on which team members are employed
+varies, from those who are on permanent contracts to those whose contracts
+are renewed on an annual basis. Related to employment policy
+are issues of status, payment and, by extension, financial security.
+There are also problems of staff turnover and implications for training.
+Some of the teams are facing enormous practical demands. These
+include having to construct and mark tests not only for NATO-related
+purposes but also for purposes such as placement and achievement
+within the military structure. In addition, teams have to travel a great
+deal of the time to ensure uniformity of administration at distant test
+centres. This has implications for the amount of time they can give to
+writing specifications and designing tests, pre-testing, and analysis of
+results. Much of the success of a team depends on the experience and
+other qualities that the team coordinator brings to the job, and this can
+also vary. The coordinator may be a teacher or an academic, who can
+bring knowledge of language and language learning to the job but
+who may lack credibility in the eyes of the military, or he/she may be
+part of the military and therefore be subject to other demands within
+the establishment or to transfer within or outside the country.
+2 The test population
+The Brasov survey revealed that the number of candidates that the
+testing teams have to handle per year can vary from as few as 100 to
+as many as 3000. These numbers are linked to the size of the target
+test population in each country, the range of people taking the test
+ (e.g., officers, cadets, non-commissioned officers, enlisted personnel,
+Ministry officials, civil servants) and the purpose for which they
+are taking it (e.g., selection for overseas posting, job placement or
+promotion within the country itself, or simply to have an extra language
+qualification).
+The number of test administrations held each year appears to vary
+from one to as many as 10. The countries that are about to join, or have
+just joined NATO, appear to have a higher number of test administrations.
+Unfortunately, many of these extra sessions occur with very
+little advance notice, putting further strain on the teams that already
+have to work under great pressure. This in turn increases the probability
+of errors, and thus the reliability of the test scores awarded.
+According to the survey, candidates' results are issued at differing
+time intervals in different countries, varying from same-day issue to
+a maximum processing time of two months. The number of candidates
+is likely to be a factor here, as is the urgency with which the
+local MoD needs to place personnel in post. Again, there is a greater
+chance that problems associated with reliability may creep in to the
+marking system when the testers are obliged to release test results
+too quickly. In addition, feedback suggests that there is little consensus
+about the longevity of the certificates issued, with some countries
+stating they are valid for two years and others for life.
+IV Political issues
+Politics plays an important role in many aspects of life, and language
+testing is no exception (Alderson, 2003). The three surveys revealed
+a number of issues that could be deemed political, both within the
+countries investigated and between the countries of the region and
+other stakeholders.
+1 Within the countries
+a Ownership and recognition: Most of the testing teams are based
+in one branch or another of their respective MoDs, e.g., General
+Staff, the Human Resources Management Directorate, the Training
+and Doctrine Centre, the National Defence University or military
+academies. How the specific location is chosen is not known;
+however, such decisions may raise issues of ownership and recognition.
+The question of ownership can be particularly taxing when teams
+are faced with conflicting demands, for example, a demand from
+the highest echelons of the military or the Ministry for secure storage
+of test-related data and materials, but the inability or unwillingness
+of the local rector or principal to provide the conditions
+necessary to ensure a secure environment. Problems of recognition
+can be seen in the example of a team working from the premises of
+a funding agency, which has had to wait a long time for its work to
+be recognized by the country's MoD.
+The ownership and recognition issues become even more complicated
+in those situations when teams made up of civilians who have
+received specialist training have to answer to military superiors who
+do not expect to have to explain or justify their decisions. Similarly,
+when foreign funding agencies are involved in the training and/or
+resourcing of the teams, there is only a thin line between what is
+perceived as support and what is perceived as interference.
+b Lack of understanding of what testing involves: One of the
+frustrations faced by many teams is the demand from their superiors
+that they produce large numbers of items or tasks, or complete tests,
+in a very short time, in order to meet the needs of a complex system
+with concerns that are sometimes broader than just testing for NATO
+purposes. The teams often have no say in matters of policy or highlevel
+implementation: such decisions are taken by administrators
+who do not understand or are not interested in concerns like validity
+and reliability and cannot conceive of how much time it takes to
+design and evaluate tests properly. Similarly, the teams might be
+asked to produce multiple versions of their tests, but are not given
+the time or the resources needed to ensure that items and tasks are
+properly constructed. Our survey also indicated that there are teams
+charged with creating fair testing procedures who are then expected
+to change their standards if circumstances require it, and who risk
+losing their jobs if they do not bend in response to this pressure.
+It is interesting to speculate why in the military – where all other
+systems have to be valid and reliable, and equipment and procedures
+are tested repeatedly to make sure that they function correctly – there
+seems to be so little understanding of what it takes to produce a valid
+and reliable instrument for language assessment.
+2 International
+a Who makes the testing decisions within NATO and how are these
+disseminated?: NATO is obviously a political organization as well
+as a military alliance so it is natural that questions will arise that
+involve relationships of responsibility and authority within the
+organization. Whilst it is clear (to most teams) why the decision was
+made to supplement the original STANAG guidelines, it was not
+always clear how this took place and what possibilities there were to
+contribute to the decision-making process. We know from correspondence
+with members of BILC (June 2001) that negotiations
+leading to policy change can be painfully slow, because of the numbers
+of parties involved, the interests represented, the desire for consensus,
+etc., but what is not clear is how teams that have only
+recently entered the NATO testing arena can contribute to such discussions
+in future.
+One matter that is of interest to a number of teams is the status of
+the SHAPE Test and the procedure for analysing it and, if necessary,
+revising it. Whether it has maintained its presumed validity and reliability
+over the years is an important issue to many teams because it
+is this test that has become the de facto criterion in their attempts to
+establish the credibility of their own testing systems. What is not
+clear is who is responsible for monitoring the SHAPE test, who can
+evaluate it, and who can change it if an evaluation indicates the need
+for change. These questions are of special importance, given the perception
+that the SHAPE Test and some others such as IELTS (used
+to screen military staff being sent to the UK for training) are more
+legitimate than the tests produced by local testing teams.
+Another important question that needs to be answered before
+progress can be made in other areas is who decides the range of difficulty
+represented by the various STANAG levels? At present there
+is no common view of how difficult any of the levels should be. This
+has led to comparisons between the STANAG certificates issued by
+different countries, and myths about the standards of some countries
+being higher or lower than those of others. Attempts have been made
+to concretize the STANAG levels through benchmarking exercises at
+the BILC seminars but we have found nothing in the public domain
+about how these benchmarks were arrived at or what conclusions
+were drawn by the teams involved in these exercises.
+b The role of the funding agencies: Some funding agencies contribute
+to curriculum and materials design and other aspects of the
+military language education system, but testing is one of the most
+important areas because of the potential of high-stakes tests to influence
+teaching and learning (Wall, 2000; Shohamy, 2001; Cheng and
+Watanabe, 2004). There is no doubt that the teams have benefited
+from the training they have received and from the networks that have
+been established to help them learn from the work of their colleagues.
+The situation has improved greatly since the time of the first
+survey, when there was some questioning of the motives of some of
+the bodies and confusion about how the efforts of different agencies
+could possibly fit together as a whole. The Brasov seminar in
+September 2003 was particularly important in this respect, but it is
+too early to tell whether events such as this will lead to a more coherent
+approach in the provision of training in curriculum, materials
+design and in language testing.
+c Sustainability: Many of the testing teams have received attention
+and support over the last few years, much of it from external funding
+agencies. The important question now is whether improvements will
+continue once funding ends and/or accession to NATO takes place.
+Measures need to be taken to ensure the continuity of the testing
+systems and of the appropriate personnel to maintain those systems, but
+funding for these will naturally depend on policy decisions taken within
+donor countries in accordance with their own political and strategic
+priorities.
+V Progress
+The respondents to the final request for information mentioned a
+number of areas in which they felt that the testing teams had made
+progress.
+1 Interpretation of STANAG 6001 (edition 2)
+As mentioned above, the new version of the STANAG guidelines,
+which was promulgated in June 2003, is generally seen as an
+improvement on the 1976 version; however, the descriptions of the
+language proficiency levels still lend themselves to multiple interpretations.
+There is a need to standardize the procedures used by test
+developers across the NATO and PfP countries in their attempts to
+operationalize these descriptors. The work begun at the Brasov
+seminar needs to be continued if the STANAG levels awarded by the
+countries in the region are to be recognized as being equivalent in
+terms of the demands made of the candidates. In fact, discussions are
+under way regarding a follow-up seminar.
+

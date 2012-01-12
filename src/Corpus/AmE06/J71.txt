@@ -1,0 +1,281 @@
+<text id="J71" category="" words="2003" checkedby="" modifiedby="" Title="Zonal Ship Design" Author="Capt. Norbert Doerry" PublicationDate="WINTER 2006" SampledFrom="Naval Engineers JournalVolume 118, Issue 1, p. 39-43 " WebAddress="http://onlinelibrary.wiley.com/doi/10.1111/j.1559-3584.2006.tb00407.x/pdf">
+
+Modern ships typically have a number of distributed systems. Distributed systems are used because it's simpler, cheaper, and better to centrally produce a commodity such as electricity or chill water, than to locally produce it with the users of the commodity. For naval warships, in addition to cost, two measures of performance are very important: Survivability and quality of service. Survivability relates to the ability of the distributed system, even when potentially damaged by a threat, to support the ship's ability to continue fulfilling its missions to the degree planned for the particular threat. Quality of service measures the ability of the distributed systems to support the normal, undamaged operation of its loads. This paper defines a number of key terms, details a number of different zonal architectures, describes the situations where the architectures are best suited and proposes a framework for zonal ship design that promises to satisfy survivability performance requirements and quality of service requirements.
+Introduction.
+The advantages of zonal systems design have
+long been recognized and documented (Petry and
+Rumburg 1993), (Shiffler 1993). Since then, zonal
+a.c. electrical distribution systems have been used
+in the DDG 51 class, LPD 17 class, and LHD 8.
+The next advance in zonal electrical distribution,
+integrated fight through power (IFTP) featuring
+d.c. zonal electrical distribution is being developed
+for the Navy and is a candidate for future
+installation on DD(X) and CG(X). (Ciezki and
+Ashton 1999), (Roberts 2002), (Hiller 2003),
+(Walsh 2003), (Zgliczynski et al. 2004)
+To date, zonal design concepts have been applied
+to distributed systems (usually just the electrical
+system) in an ad hoc fashion. A systematic study
+of zonal architectures has not been published.
+Likewise, the impact of zonal system design
+on total ship design has not been adequately
+addressed. This paper defines a number of
+key terms, details a number of different zonal
+architectures, describes the situations where
+the architectures are best suited and proposes a
+framework for zonal ship design that promises
+to satisfy survivability performance requirements
+and quality of service requirements.
+Background.
+Modern ships typically have a number of distributed
+systems. Distributed systems are used
+because it's simpler, cheaper, and better to centrally
+produce a commodity such as electricity
+or chill water, than to locally produce it with the
+users of the commodity. For naval warships, two
+measures of performance are very important:
+survivability and quality of service.
+Survivability relates to the ability of the distributed
+system, even when potentially damaged by
+a threat, to support the ship's ability to continue
+fulfilling its missions to the degree planned for
+the particular threat. The threats for which a
+ship is designed to are its design threats, and the
+residual capability following exposure to the
+design threats is the design threat outcome.
+While survivability measures the ability of the
+ship to continue to function during damage,
+quality of service measures the ability of the distributed systems to support the normal, undamaged
+operation of its loads. Quality of service
+is measured in terms of a mean time between
+failure (MTBF) where a failure is defined as any
+interruption in the supply or deviations outside
+of normal bounds of commodity characteristics
+that prevent the load from performing its assigned
+function.
+Although survivability and quality of service are
+usually not the source of design conflicts, design
+features may impact one more than the other.
+For example, the routing of cables in an electrical
+distribution plant will have little impact on
+quality of service, but will have a tremendous
+impact on survivability. On the other hand, the
+reliability of generator sets has a bigger impact
+on quality of service than on survivability.
+In the design of distributed systems, cost is always
+a major consideration. Because the relative
+costs and capabilities of different distributive
+system components differ from system to system,
+a universal zonal design that applies to all cases
+does not exist. In selecting an architecture, the
+following strategies for reducing acquisition
+costs (while still meeting performance requirements)
+should be considered:
+a. Eliminate hardware and software
+b. Substitute expensive hardware and software
+with cheaper hardware and software. This includes
+increasing cost and capability of device
+A to enable the reduction in cost and capability
+of device B as long as there is a net savings.
+c. Enable the hardware to be installed more
+easily
+d. Enable the hardware to be tested before
+installation onboard ship
+e. Reduce the engineering effort needed to design
+the ship
+Because this paper does not address specific distributed
+systems, these cost reduction strategies
+will be addressed only in general terms.
+Definitions.
+Zone.
+A zone is a geographic region of ship. In a general
+sense, the boundaries of the zone can be arbitrary,
+but to maximize survivability, the zones of
+multiple distributed systems as well as damage
+control zones should be aligned. For shipboard
+distributed systems, this typically means the zone
+boundaries are the exterior skin of the ship and
+selected transverse watertight bulkheads. The
+zone boundaries may rise above the watertight
+bulkheads into the superstructure, or the superstructure
+may be composed of one or more zones
+independent of the zones within the hull.
+Adjacen t Zones.
+Adjacent Zones are zones that could simultaneously
+be damaged by a design threat. Zones
+are typically sized so that usually only 2 zones
+are simultaneously damaged by a design threat,
+although in some cases a third zone (such as the
+superstructure) may also be damaged.
+Zona l Survivability.
+For a distributed system, zonal survivability is the
+ability of the distributed system, when experiencing
+internal faults because of damage or equipment
+failure confined to adjacent zones, to ensure
+loads in undamaged zones do not experience a
+service interruption. Zonal survivability assures
+damage does not propagate outside the adjacent
+zones in which damage is experienced. For many
+distributed system designs, zonal survivability
+requires that at least one longitudinal bus remains
+serviceable, even through damaged zones.
+At the ship level, zonal survivability facilitates
+the ship, when experiencing internal faults in
+adjacent zones due to design threats, to maintain
+or restore the ships primary missions as required
+by the design threat outcome. Ship level zonal
+survivability focuses restoration efforts on the
+damaged zones, simplifying the efforts required
+of the ship's crew to maintain situational awareness
+and take appropriate restorative actions.
+Ship level zonal survivability requires sufficient
+damage control features to prevent the spreading
+of damage via fire or flooding to zones that were
+not initially damaged.
+Compartment Survivability.
+Zonal survivability only addresses loads outside
+of the damaged adjacent zones. For some
+important loads, including those implementing
+mission systems, providing redundant capability
+across multiple non-adjacent zones may prove
+to be infeasible. This situation often arises in the
+superstructure where the sensor masts are located
+in the same or adjacent zones. In some cases,
+these loads may be perfectly functional although
+damage has reached into its zone. Likewise, maximizing
+the probability of maintaining loads that
+support damage control efforts within the damaged
+adjacent zones also assists in preventing the
+spread of damage to zones not initially impacted.
+Examples of such loads include emergency lighting
+and power receptacles for portable dewatering
+pumps. In these cases, providing compartment
+survivability for the distributed systems for the
+specific loads is warranted.
+Compartment survivability requires that every
+distributed system required by a specific load
+provide independent normal and alternate sources
+of its commodity (power, cooling water, etc.). For
+the specific design threat, one of the sources of the
+commodity should be expected to survive if the
+specific load is expected to survive. The point at
+which the in zone distribution of the commodity
+merge (such as with an automatic bus transfer
+- ABT) from the normal and alternate sources
+should be within 1/2 of the expected damage
+radius of damage centered at the specific load.
+Mission System,
+A mission system consists of the hardware and
+software dedicated to the performance of a primary
+or secondary mission of the ship. Examples
+of mission systems include aircraft launch
+and recovery equipment (ALRE), propulsion
+systems, combat systems, and C4ISR systems.
+Ideally, the mission systems of a ship should be
+designed such that the capability to perform
+the ship's missions is not lost if mission system
+equipment in adjacent zones are not operational.
+Unfortunately, ship design constraints will often
+preclude the level of redundancy required to ensure
+continuous capability. If mission capability
+can not be assured continuously, then the ability
+to restore capability to achieve the desired threat
+outcome must be provided.
+Distributed System.
+A distributed system moves a commodity
+from one or more sources to multiple loads
+distributed through-out the ship. Examples of
+commodities include electrical power, cooling
+water, firefighting water, and fuel. For a given
+commodity, distributed systems can generally
+be described by an architecture consisting of the
+following functional elements:
+Generation.
+A generation element produces the commodity.
+Examples include gas turbine generator sets,
+firepumps, and chill water plants. Generation
+elements for one distributed system are generally
+loads for other distributed systems.
+Distribution.
+A distribution element transports the commodity
+between other functional elements. For zonal
+distribution systems, the longitudinal buses are
+instances of distribution functional elements.
+Conversion.
+A conversion element converts the commodity
+from one form to another. An example of a conversion
+element is a transformer in an electrical
+system. A transformer changes the voltage level
+of its commodity, electrical power.
+Load.
+A load is a consumer of the commodity. A load
+for one distributed system can be a generation
+element for another distributed system. For example,
+a chill water plant is a load to the electrical
+distribution system and a generation element
+for the chill water distribution system.
+Storage.
+A storage element stores the commodity for
+later use. In some systems, such as fuel systems,
+storage elements (fuel tanks) functionally replace
+generation elements. In other systems, such as
+electrical systems, storage elements (uninterruptible
+power supplies) serve as buffers to prevent
+power disturbances from propagating to loads.
+Control.
+A control element coordinates the other elements
+of a distributed system to enhance quality of
+service and to facilitate the restoration of service
+following a casualty. For new designs, the control
+element typically consists of software that resides
+within the total ship computing environment.
+For an example of this architecture as applied
+to an integrated power system, see Doerry and
+Davis (1994) and Doerry et al. (1996).
+Design Threat.
+A design threat is a threat to the ship where a
+design threat outcome has been defined. Examples
+of design threats could be specific cruise
+missiles, torpedoes, guns, explosives, weapons
+of mass destruction as well as accidents such as
+main space fires, helicopter crashes, collisions,
+and groundings.
+Design Threat Outcome.
+The design threat outcome is the acceptable performance
+of the ship in terms of the aggregate of
+susceptibility, vulnerability, and recoverability,
+when exposed to a design threat. Possible design
+threat outcomes include:
+a. Ship will likely be lost with the loss of over
+25% of embarked personnel.
+b. Ship will likely be lost with the loss of 25% or
+under of embarked personnel.
+c. Ship will likely remain afloat and not be capable
+of performing one or more primary mission
+areas for a period of time exceeding one day.
+d. Ship will likely remain afloat and be capable
+of performing all of its primary mission areas
+following restoration efforts not exceeding
+one day using only that external assistance
+that is likely available within the projected
+operating environment.
+e. Ship will likely remain afloat and be capable
+of performing all of its primary mission areas
+following restoration efforts not exceeding
+two hours using only organic assets.
+f. Ship will likely remain afloat and would be
+capable of performing all of its primary mission
+areas following restoration efforts (if needed) not
+exceeding two minutes using only organic assets.
+g. Ship will likely remain afloat and would likely
+be capable of performing all of its primary
+mission areas without interruption.
+h. The threat weapon is not considered a significant
+threat because the probability that
+the threat weapon would have been defeated
+before striking the ship is greater than 98%.
+Note: The term "likely" should be assigned a
+specific probability of occurrence.
+
+</text>

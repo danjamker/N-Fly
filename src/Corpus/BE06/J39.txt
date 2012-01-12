@@ -1,0 +1,68 @@
+Premenstrual symptoms occur in 95% of all women of reproductive age. Premenstrual syndrome (PMS) occurs in about 5% of those women. The terminology of premenstrual disorders has become complex. PMS is most often used in the UK; PMT (premenstrual tension) is the lay term; premenstrual dysphoric disorder (PMDD) is the extreme, predominantly psychological, end of the PMS spectrum, estimated to occur in 3–9% of women. PMDD requires the specific diagnostic criteria outlined in the Fourth Edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM IV) (Table 1). It should be noted that these are research rather than clinical diagnostic criteria and the term has not been accepted in European or UK gynaecological practice. 
+Table 1. 
+DSM-IV diagnostic criteria for PMDD(1994). 
+A. In most menstrual cycles, five (or more) of the following symptoms are present, with at least one of the symptoms being either (1), (2), (3), or (4):
+1. Markedly depressed mood, feelings of hopelessness, or self-depreciatory thoughts
+2. Marked anxiety, tension, feeling of being "keyed up' or "on edge'
+3. Marked affective lability (e.g. feeling suddenly sad or tearful or with increased sensitivity to rejection)
+4. Persistent and marked anger or irritability or increased interpersonal conflicts
+5. Subjective sense of difficulty in concentrating
+6. Decreased interest in usual activities (e.g. work, school, friends, hobbies)
+7. Lethargy, easy fatiguability, or marked lack of energy
+8. Marked change in appetite, overeating, or specific food cravings
+9. Hypersomnia or insomnia
+10. A sense of being overwhelmed or out of control
+11. Other physical symptoms, such as breast tenderness or swelling, headaches, joint or muscle pain, a sensation of "bloating', weight gain 
+B. Interference with work, school, or social relationships 
+C. Symptoms of PMDD must be present for most of the time during the last week of the luteal phase (premenses) and absent during the week after menses 
+D. The disturbance can not be merely an exacerbation of the symptoms of another disorder 
+E. Confirmation by prospective daily ratings for two consecutive menstrual cycles
+Definition
+PMS is the term most often used, and its criteria are outlined in the Tenth Revision of the International Classification of Disease (ICD-10). A woman has PMS if she complains of recurrent psychological or somatic symptoms (or both), recurring specifically during the luteal phase of the cycle and resolving by the end of menstruation. This separates PMS from background psychiatric disorders. An enormous range of symptoms has been described and their character is less important than their timing and severity. Many symptoms have been described: irritability, aggression, depression, tension, feeling out of control, bloatedness and mastalgia are well-known "classical' symptoms. 
+The symptoms of PMS must be sufficiently severe to disrupt women's normal functioning, quality of life and interpersonal relationships. This distinguishes PMS from the physiological premenstrual symptoms that occur during the normal menstrual cycle. 
+Aetiology
+The aetiology and pathophysiology of PMS remain unknown. The syndrome is seen in women of reproductive age and is not present before puberty, during pregnancy, or after the menopause. Elimination of the ovarian endocrine cycle by oophorectomy or by administration of analogues of GnRH is associated with the parallel suppression of PMS symptoms. The hypothesis that ovarian steroids, particularly progesterone, have a role in the pathophysiology of the syndrome is intuitively obvious. 
+Over the past 20 years, research studies into PMS have generated data which could support theories of progesterone deficiency, oestrogen/progesterone imbalance or progesterone excess. However, serum ovarian steroid concentrations have repeatedly been found to be normal in the women studied. Therefore, factors other than differences in the levels of individual hormones must be important. The interactions of fluctuating levels of ovarian steroids or their metabolites with neurotransmitter systems or receptor imbalances in the brain may be relevant in PMS pathogenesis. Several neurotransmitters are clearly influenced by ovarian steroids. These include serotonin, acetylcholine, noradrenaline and dopamine. Oestrogen acts cumulatively as an agonist on serotonergic function by increasing the number of serotonin receptors, serotonin (5-HT) postsynaptic responsiveness, neurotransmitter transport and uptake. It also increases serotonin synthesis and boosts the levels of the metabolite 5-Hydroxyindole acetic acid (5-HIAA). The precise inter-relationship between progesterone and serotonin is not yet clear. It is also likely to be more complex because of the potential interaction between the metabolite of progesterone, allopregnanolone, and GABA-ergic receptors. 
+Diagnosis
+An enormous range of symptoms has been described. The character of the symptoms is less important than their timing and severity. For the diagnosis of PMS, the symptoms must: 
+• occur in the luteal phase of the cycle;
+• resolve by the end of menstruation;
+• be severe enough to have major impact on normal functioning and
+• have occurred in at least four of the six previous cycles.
+For clinical purposes a prospective calendar or a menstrual chart is most appropriate for identifying the symptoms and their timing. However, quantifying these symptoms and the degree of underlying psychological dysfunction, and identifying the degree to which the patient's life is disrupted is more difficult. The symptoms can be recorded and analysed manually, or, more conveniently, by using a hand-held computer which incorporates questionnaires as well as a series of visual analogue scales. 
+In some difficult cases it may be of value to use a GnRH depot for 3 months to identify the degree to which the ovarian cycle contributes to symptoms. As a test, this has not been scientifically validated. There are currently no biochemical tests for PMS. However, blood tests may be useful to exclude other disorders such as menopause, polycystic ovary syndrome, hyper- and hypothyroidism and anaemia. 
+Though the physical examination of the PMS patient will make little contribution to her diagnosis, the importance of excluding disorders which may mimic somatic symptoms (i.e. pelvic pain and abdominal bloatedness) must be stressed. Reassurance that there is no breast, cervical or pelvic cancer is of particular value and, of course, patients should not receive hormonal therapy without such an examination. More rarely, in patients with premenstrual pelvic pain, it may be necessary to undertake a laparoscopy to exclude endometriosis. 
+Steiner and associates (2003) recently reported a tool that could be used to screen for PMS/PMDD. (The Premenstrual Symptoms Screening Tool (PSST)). The PSST reflects and "translates' categorical DSM-IV criteria into a rating scale with degrees of severity. They concluded in their study that this tool is less time consuming and more practical than two cycles of prospective charting, and is an effective screening tool and an important starting point for further assessment. 
+Management
+There is a wide range of proposed therapeutic regimens for the treatment of PMS. This may result partly from the high but short-lived placebo effect. Also, the lack of long-term benefit leads to the quest for new methods. 
+PMS does not seem to be caused by an endocrine imbalance. However, it appears that there is increased sensitivity to normal circulating levels of ovarian hormones (particularly progesterone), secondary to a neuroendocrine disturbance, probably serotonin deficiency. Accordingly, potential approaches to treatment fall into two broad strategies: (a) suppression of ovulation or (b) "correction' of the neuroendocrine anomaly. Presenting all the different proposed treatments for PMS is beyond the scope of this article; however, we indicate the pharmacological treatments which fall into these two strategies (see Fig. 1). 
+
+Display Full Size version of this image (36K)
+Figure 1. Flow chart for the treatment plan in PMS. Modified from figure in: Eriksson E, Endicott J, Andersch B, Angst J, Demyttenaere K, Facchinetti F, et al. New perspectives on the treatment of premenstrual syndrome and premenstrual dysphoric disorder. Arch Womens Ment Health 2002;4:111–9. 
+(a) Suppression of ovulation
+Progesterone and progestogens
+Progesterone is usually given in the luteal phase of the cycle, so the aim is to correct progesterone deficiency (which has never been demonstrated) rather than suppress ovulation. There is insufficient evidence to support the effectiveness of this; a recent systematic review of randomised trials comparing progesterone or progestogen with placebo found no improvement in overall premenstrual symptoms. 
+Oestrogen
+Studies suggest that oestrogenic ovarian suppression may eliminate PMS. Oestrogen can be used in the form of patches (100–200 ?g), implants (50–100 mg), or gel. The latter seems to be effective for premenstrual migraine. However, progestogens, necessary to protect the uterus from the untoward effects of unprotected oestrogen, may reintroduce PMS. To avoid this systemic effect, progestogen may be used locally by means of the levonorgestrel intrauterine system. 
+Danazol
+The suppression of ovulation can be achieved by danazol. But concerns about potential masculinising effects, lipid changes and possibly ovarian cancer mean it is no longer licensed for the treatment of PMS. Luteal-phase danazol seems to be effective for premenstrual breast pain and does not have a significantly high rate of short-term adverse effects (Sarno et al. 1987; O'Brien &amp; Abukhalil, 1999). 
+GnRH analogues (GnRHa)
+A systematic review and meta-analysis of randomised controlled trials (RCTs) comparing GnRHa with placebo was recently conducted in the authors' unit. This showed that the overall odds ratio was 8.66 (95% confidence interval 2.52–30.26) in favour of GnRHa. GnRHa were significantly more efficacious for physical than for behavioural symptoms, although the difference was not statistically significant. Analysis of data from RCTs that compared GnRHa with add-back therapy vs. GnRHa alone emphasised that the addition of HRT did not reduce the efficacy of GnRHa. However, the use of GnRHa in PMS is limited because significant trabecular bone loss occurs after only 6 months of analogue treatment. The extent to which add back prevents this during long-term therapy is not entirely clear. 
+The use of GnRH analogues in PMS serves the following purposes: 
+1. It allows us to determine what proportion of symptoms is of ovarian endocrine origin.
+2. It pinpoints which patients with severe PMS would benefit from bilateral oophorectomy should they be undergoing hysterectomy for gynaecological pathology.
+3. It offers short-term therapy of 6 months in particular circumstances.
+4. It may be useful in women in whom oestrogens are contraindicated and who are soon to reach the menopause.
+Oral contraceptives
+There is limited and conflicting evidence on the effects of oral contraceptives in PMS. Some women develop PMS-like symptoms for the first time when taking the oral contraceptive pill. Because many women who present with PMS will also request contraception, it seems worthwhile trying this empirically to achieve both aims. There are claims that oral contraceptives containing drospirenone are effective, but the evidence is very limited. 
+Hysterectomy and bilateral salpingo-oophorectomy
+Hysterectomy with bilateral oophorectomy is curative but rarely justified; it may be indicated if there are coexisting gynaecological problems. Patients may first be identified as being suitable for this treatment following a positive goserelin test. Surgery must be followed by oestrogen replacement, which should be unopposed. 
+(b) Correction of the neuroendocrine anomaly
+Selective serotonin re-uptake inhibitors (SSRI)
+Altered serotonergic function has been reported in patients with PMS. Serotonin deficiency possibly makes women with severe PMS more sensitive to their endogenous ovarian steroid cycle than women with physiological premenstrual symptoms. This hypothesis has not been proven but does provide a theoretical basis for the use of SSRIs in management of the syndrome. A systematic review of 15 RCTs and two subsequent trials found that SSRIs were effective in treating physical as well as behavioural symptoms. SSRIs used in the trials included fluoxetine, sertraline, citalopram, fluvoxamine and paroxetine. 
+Common adverse effects were headache, nervousness, insomnia, drowsiness/fatigue, sexual dysfunction and gastrointestinal disturbances. Increasing synaptic serotonin levels with SSRIs is clearly beneficial, but none of these drugs now has a pharmaceutical licence for the management of PMS or PMDD in the UK or Europe. 
+Anxiolytics/Non-selective serotonin re-uptake inhibitor (non-SSRI) antidepressants
+Antidepressants (bupropion, clomipramine, nortriptyline, and desipramine), ?-blockers (atenolol and propranolol), and anxiolytics (alprazolam and buspirone) have been assessed in adequately controlled trials. These found benefit for one or more symptoms of PMS, but as a proportion of women stop treatment because of adverse effects, they appear less effective than SSRIs. 
+Vitamin B6
+Vitamin B6 is a cofactor in the final stages of neurotransmitter synthesis, particularly of serotonin and dopamine, from tryptophan. In practice, many patients will have self-prescribed vitamin B6 before consulting their doctor. A recent meta-analysis has been equivocal and points to the inadequacy of the published studies. 
+

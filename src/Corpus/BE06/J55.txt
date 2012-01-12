@@ -1,0 +1,185 @@
+The same test was performed for total duration. Over the course of a whole class
+section, significantly more time was given to boys for the following discourse moves:
+praise (F = 21.1, p &lt;0.001), acceptance (F = 13.8, p &lt;0.001), direction (F = 14.2,
+p &lt;0.001), closed questions (F = 3.18, p &lt;0.05), and refocuses (F = 6.6, p &lt;0.05).
+Boys also answered significantly more than girls (F = 15.8, p &lt;0.001). These
+differences are the same differences as those found for the frequency data. It seems to
+be the case then, that the number of discourse moves is different among boys and
+girls, but generally not the duration of these moves (total duration is higher for boys
+simply because the higher frequencies contributed to this, but the average length of
+each discourse move is similar).
+Impact of IWBs upon gender differences in classroom interaction
+As reported elsewhere (F. Smith et al., 2005a), no significant differences between
+whiteboard lessons and non-whiteboard lessons were found for the first year of whiteboard
+use (in 2003). For example, boys were no more likely than girls to answer in
+whiteboard lessons, or vice versa.
+Under 40% 40-60% Over 60%
+Percentage of boys in class
+80
+100
+120
+140
+160
+180
+Pace
+Figure 1. Impact of gender composition in class upon pace for boys and girls
+A two-way mixed ANOVA2 with one between-subject variable of "situation' (no
+IWB 2003/IWB 2003/IWB 2004) and one within-subject variable of gender
+(number of discourse moves directed to/initiated by girls or boys), was then used to
+see whether another year with a whiteboard made a difference. Three discourse
+moves were found to have significant interaction effects: the number of open questions
+asked by the teacher; the number of answers given by students; and the
+number of evaluations given by the teacher (specifically, it is the number of acceptances
+which is higher).
+It is clear that all three are linked in terms of the traditional IRF structure. In all
+cases, the discourse moves relating to boys were significantly higher in the final year
+of IWB use (in 2004). Table 6 shows the percentage increase in discourse moves for
+the boys. The data show, for example, that teachers directed 69% more open
+questions to boys than girls when using an IWB in 2004, compared to the reverse situation
+in 2003 in lessons which did not use whiteboards (–11% difference). Therefore,
+there appears to have been an embedding effect whereby changes in classroom interaction
+only become apparent in the second year of IWB use. No differences were
+found for the duration data.
+Table 5. Duration of discourse moves
+Mean duration (s) Total duration (s)
+Receiver
+Discourse move Boy Girl Boy Girl
+Open question 4.6 3.2 4.1 3.1
+Closed question 2.8 2.8 14.6 *11.5
+Repeat question 2.7 **3.8 2.6 2.8
+Uptake question 3.1 2.8 9.4 8.3
+Probe 3.2 3.5 19.8 17.7
+Praise 4.9 4.8 32.8 ***27.3
+Accept 4.2 4.2 20.8 ***20.5
+Criticism 5.0 4.9 9.9 7.4
+Explain 7.6 7.0 19.3 12.4
+Direct 5.0 5.6 23.3 ***20.9
+Refocus 6.2 6.0 27.0 *7.8
+Initiator
+Discourse move Boy Girl Boy Girl
+Procedural spontaneous
+contribution
+11.6 8.3 3.0 2.0
+Curricular spontaneous
+contribution
+7.3 8.0 21.2 11.6
+Answer 4.4 4.4 143.8 ***129.3
+Note: *p &lt;0.05, **p &lt;0.01 and *** p &lt;0.001
+Discussion
+This paper set out to investigate gender differences in whole class classroom interaction
+where IWBs were not being used, and to measure the impact of IWB use upon
+gender differences in classroom interaction. The research focused upon literacy and
+numeracy lessons in Year 5.
+With regard to lessons not using IWBs, the frequency data showed that boys
+received significantly more closed questions, direction, evaluation and refocuses;
+boys also answered significantly more than girls. Boys' answers were praised and
+accepted significantly more than girls. An indicator of pace was calculated by
+summing up all of the discourse moves to boys and to girls. Pace with girls decreased
+dramatically as the percentage of boys in class increased (this decrease was steeper
+than would be expected if the relationship were proportionate).
+These discourse moves may be higher in frequency with boys, but the average
+duration of each move is similar between boys and girls. The total duration for each
+of the following moves was higher with boys: praise, acceptance, direction, closed questions,
+and refocuses. Boys' answers also took up more time in class than girls' answers.
+Total duration is higher for boys simply because the higher frequencies contributed
+to this: average length of each move remains similar between boys and girls.
+No significant differences between whiteboard lessons and non-whiteboard lessons
+were found for the first year of whiteboard use. However, open questions to boys,
+their answers, and evaluation of their answers were significantly higher in the second
+year of IWB use. There were no differences in the duration of these moves.
+Overall the findings show that, at least in Year 5, there is significant gender
+imbalance in classroom interaction, and that whiteboards seem to exacerbate this
+imbalance. In earlier studies of whole class teaching (Mroz et al., 2000; English et al.,
+2002; Smith et al., 2004), and in the broader study from which this paper originates
+(F. Smith et al., 2005), we found clear evidence of directive teaching across all years
+of the primary school. This was characterised by highly structured question, answer
+and evaluation sequences (the IRF structure), direction, and explanation. In the
+current study it was found that more of this directive teaching is aimed at boys than
+girls (with more refocusing of boys too), and that IWBs increase directive teaching to
+Table 6. Frequency of discourse moves by gender and IWB use
+No WB 2003 WB 2003 WB 2004
+Boy Girl % Diff Boy Girl % Diff Boy Girl % Diff
+Open question 2.2 2.5 –11.4% 4.6 4.3 5.4% 7.0 4.2 68.8%
+Answer 34.1 30.2 13.1% 42.5 38.1 11.5% 51.9 35.7 45.5%
+Evaluation 13.9 11.6 19.7% 14.2 13.2 7.8% 25.9 18.3 42.0%
+Note: Open question (F = 4.30, p &lt;0.05); Answer (F = 4.00, p &lt;0.05); Evaluation (F = 3.60, p &lt;0.05).
+boys. From the viewpoint of girls in a whole class session, boys receive more teacher
+attention, and the girls must listen to more directive teaching, which is aimed at boys.
+Howe (1997), in her research review on gender and classroom interaction,
+concluded that boys dominate "both physically and verbally' and boys are evaluated
+more. Looking beyond primary school level, Drudy and Chathain (2002) found more
+"acceptance, higher-order questions, criticisms, lower-order answers and pupil initiations'
+associated with boys (p. 43) in Irish second-level schools. They refer to this
+imbalance as a "performance gap' on the part of teachers which requires "remedial
+action' (p. 34); while Hammersley (1990) has rightly cautioned against assuming that
+"equal aggregate teacher attention between sexes is a good thing' (p. 126). It should
+not be a goal for teachers to distribute their amount of attention (e.g. the aggregate
+of discourse moves) evenly between the sexes; but teachers (and researchers) should
+be questioning why types of attention differ so much between boys and girls, and they
+should think beyond the classroom to the likely effects of such imbalance upon boys'
+and girls' attitudes to learning and their expectations or inhibitions when partaking in
+discussions. It is in this sense that the imbalance can be called an inequity. Of course,
+the first step in this process is to make these predominantly subconscious biases
+visible to teachers through self-awareness, reflection and information, as Martino
+et al. (2004) argue. Research into dialogic teaching also emphasises that it is not
+simply the quantity of interaction that is important but the quality, so that all pupils
+are effectively engaged in the classroom discourse.
+The finding that boys answer more in lessons which use IWBs is consistent with
+Glover and Miller's (2001) finding that boys are more motivated and involved in
+these lessons. However, the only other impact of IWBs involved more open questions
+to boys and more evaluation. There was no evidence of boys becoming more involved
+(than girls) in interaction which stimulates higher order thinking (e.g. probes, uptake
+questions, curriculum spontaneous contributions). As the provision and use of
+Information and Communication Technology (ICT) within schools increases (Prior
+&amp; Hall, 2004), it is important to continue monitoring the differential impact of ICT
+(e.g. internet, email, electronic discussion boards, more personal computers, and
+video conferencing facilities) upon boys and girls in terms of participation in discussion.
+This study also found that, as the percentage of boys in class increases, so does the
+pace (or total number of discourse moves per hour) with boys: and since these
+discourse moves are generally directive, the amount of directive teaching also
+increases. The interesting aspect to this finding is that the decrease in pace with girls
+shows a sharp decline (sharper than the incline in pace for boys) as the percentage of
+boys increases. There is a 52% drop in the total number of discourse moves with girls
+as the percentage of boys in class moves from under 40% to over 60%; however, there
+is only an 11% drop in the total number of discourse moves with boys as the percentage
+of girls in class moves from under 40% to over 60%. It seems that girls are more
+inhibited than boys when they are outnumbered in class. Drudy and Chathain (2002)
+also found that girls are less likely to answer or initiate interactions in class as the
+male:female ratio increases, and they referred to this as a "comfort zone' issue.
+It seems clear that future research needs to investigate gender and classroom interaction
+from a number of different angles. First, there needs to be continued monitoring
+of the changing classroom and the impact of new policies and technologies upon
+classroom interaction: pedagogies as well as technologies are gendered (Lucey et al.,
+2003). Second, teachers need support to achieve a greater awareness of the implicit
+processes which can lead to imbalance in the classroom, particularly in relation to the
+use of technology in the primary classroom (Jenson &amp; Brushwood Rose, 2003).
+Structured observation, coaching and talk-analysis feedback may be useful tools in
+encouraging this reflection (Temperley &amp; McGrane, 2005). Researchers must also
+monitor the effectiveness of this reflection upon subsequent interaction patterns.
+Finally, research needs to move beyond quantifying the gender imbalance and
+towards understanding why it exists, which processes are behind it, and what impact
+this has upon learning. For example, is it because: girls choose to remain silent
+(Myhill, 2002); boys are more verbally outgoing; boys generally seek the teacher's
+attention more; or because a small group of boys seek attention (either the teacher's
+or that of their peers)?
+The answers to these questions can only be established through the triangulation
+of results from a range of methods, including: sophisticated video observation
+methods which focus on the verbal and the non-verbal; recorded lessons where the
+focus can be (simultaneously) upon the teacher, individual students, all students, or
+groups of students; Stimulated Recall interviews with students and teachers which
+might probe some of the participants' understandings of such interaction; and
+sequential analysis of observational data to establish patterns in classroom interaction
+which are not apparent from frequency and duration data.
+Acknowledgement
+The authors would like to thank the Centre for British Teachers (CfBT) for their
+funding of this research and the Department for Education and Skills for their
+support with the research project. Thanks also go to Kate Wall, Ian Hall and Heather
+Smith who undertook the classroom observations.
+Notes
+1. An analysis of covariance (ANCOVA) tests for differences between groups (in this case gender)
+but it controls for the effects of another variable (in this case percentage of boys present in
+class).
+2. An analysis of variance (ANOVA) compares the variance of group means (e.g. the variance of
+the three means for "no IWB 2003/IWB 2003/IWB 2004') with the variance of the values within
+these groups.
+

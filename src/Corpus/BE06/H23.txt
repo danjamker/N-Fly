@@ -1,0 +1,100 @@
+Victims’ Code
+This was the first year of the Victims’ Code (the Code). The Code sets minimum standards of service that criminal justice agencies should provide to victims of crime. The Ombudsman considers complaints which criminal justice agencies have not resolved locally. During this first year, we investigated only one of the eight enquiries referred to us. The other enquiries concerned matters that either pre-dated the Code, or which are not subject to it, for example a prosecution decision or a police investigation. The Code has been in operation for only a short time and we lack any firm evidence to suggest why the volume of complaints has not been as high as we anticipated. It might be that victims are choosing to delay making a complaint until a prosecution has been concluded, which can be a lengthy process. It might also be that complainants find the complaints process itself confusing. This is an area we will continue to monitor from the complaints referred to us. The section entitled ‘Our Workload and Performance’ provides further details of our work on Parliamentary enquiries and investigations.
+
+The relevance of the Principles of Good Administration
+
+We issued the Principles of Good Administration (the Principles) to help public bodies get it right and deal properly with their customers. The Principles are:
+- Getting it right
+- Being customer focused
+- Being open and accountable
+- Acting fairly and proportionately
+- Putting things right
+- Seeking continuous improvement
+
+Recurring themes from the complaints we have investigated this year demonstrate the relevance of
+the Principles. Below we provide examples of how they apply to some of our complaints.
+
+Getting it right
+
+Government departments and agencies have millions of contacts with the public every year. Inevitably, mistakes sometimes occur and some customers are dissatisfied with a decision or the standard of service they have received. In some cases, we do not find any evidence of
+maladministration. In others, we find the misapplication of policies or procedures, or a failure to provide an effective service.
+
+A number of complaints have arisen this year about failure to follow stated policies and procedures or about the application of contradictory guidance. A case involving the DWP showed that guidance on investigating benefit fraud was confusing. DWP and HMRC regularly exchange information to assist them in preventing and detecting benefit fraud. DWP check this information to see whether people claiming incomebased benefits appear to have more savings than they have declared and, if
+so, whether that affects their benefit entitlement. If there is evidence of this, Jobcentre Plus (on DWP’s behalf) can interview a person under caution, if it appears that they might proceed to prosecute him or her later on. In this case, we found that Jobcentre Plus should have made informal
+enquiries first before proceeding to conduct formal interviews (see the case of Miss Y overleaf).
+
+Confusing guidance on investigating possible benefit fraud
+
+Miss Y claimed contribution-based Jobseeker’s Allowance in November 2003. In March 2004, she began part-time self-employment and declared her earnings to Jobcentre Plus. In April she claimed incomebased jobseeker’s allowance. She told Jobcentre Plus that she had savings of £1,857. That summer her business took off and on 28 September, she told Jobcentre Plus of her intentions to end her benefit claim.
+
+Meanwhile, in August 2004, Jobcentre Plus received information from the Revenue that Miss Y had
+savings in 2001-02, which, if she still had them, would put her above the limit for receipt of income-based jobseeker’s allowance in May 2004. At that time she had received approximately £200 in incomebased benefits. Jobcentre Plus decided to interview Miss Y under caution about her savings and she was invited to attend an interview on 24 September. Miss Y attended the interview, which was adjourned to allow her to collect information about her savings to bring to an interview a week later. Miss Y took her own life on 29 September 2004. Two DWP officers have indicated that sanction action would have been unlikely in Miss Y’s case even if it had been found that she had wrongly received benefits.
+
+Miss Y’s mother complained about Jobcentre Plus’s actions, believing they incorrectly used information about her savings and inappropriately interviewed her under caution, which led to her taking her own life. We partly upheld the complaint.
+
+We found that:
+- Jobcentre Plus were maladministrative in the way they decided to interview Miss Y under caution;
+- Miss Y had insufficient time to prepare for the interview;
+- parts of the procedures for investigating undeclared savings were confusing and contradictory
+– guidance tells Jobcentre Plus investigators to treat HMRC’s savings data with caution, but goes on to say that, where there are grounds to suspect an offence on the basis of that data, claimants should be processed for an interview under caution.
+
+On the balance of probabilities, we did not uphold the complaint that the interview under caution directly caused Miss Y to take her life, although we recognised her parents were clearly very distressed and believed this to be the case. Jobcentre Plus agreed to our recommendation that they should review their procedures for dealing with HMRC’s savings data. They have strengthened the requirement to consider all available evidence and the likelihood of prosecution before proceeding to interview under caution.
+
+Being customer focused
+
+Delays in dealing with correspondence, claims or applications are among the most common failings we encounter – a clear sign that a public body is not being customer focused. We reported on 112 complaints this year about the former IND of the Home Office (now the Border and Immigration Agency). Many of these related to delays in handling applications combined with administrative errors that prolonged the delay (see the case of Mr P opposite). The uphold rate of 76% for IND cases is higher than that for parliamentary cases overall (58%, excluding tax credits complaints).
+We have had constructive discussions with IND about complaints handling during the year. More details are on page 18.
+
+Delay has also been the subject of a number of complaints about the Rural Payments Agency’s handling of farmers’ claims under the 2005 Single Payments Scheme. The scheme replaced the 11 subsidies paid to farmers based on agricultural production with one payment for land management. Twenty-four of these complaints fell into two broad categories and two representative cases are under investigation, which we aim to complete in 2007-08.
+
+These involve:
+- complaints about the length of time it took the Rural Payments Agency to provide farmers and
+landowners with accurate digitised maps of their fields. Complainants told us that errors were reported
+and corrected, only for fresh mistakes to appear;
+- complaints about notifying farmers and landowners of their scheme entitlement and delay in making
+the payments. Complainants told us that this had caused them financial loss, including increased
+interest payments and banking charges, inconvenience and stress.
+
+Being open and accountable
+
+One of the Principles stipulates that public bodies should always be open and accountable. That includes ensuring that information, and any advice provided, is clear, accurate and complete. Some complainants have received poor advice or have been influenced by misleading information to make decisions that they would not otherwise have made. Through no fault of their own, they have
+experienced considerable distress and sometimes financial loss. The complaint of Mrs A against The
+Pension Service of DWP illustrates this. Misleading information has also been the subject of a number of complaints we have investigated this year against the Criminal Records Bureau (the Bureau). We reported on 28 complaints, of which all but two were upheld. The majority were about delays in processing Enhanced Disclosures which are required for posts involving a high level of contact
+with children or vulnerable adults, for example teachers or carers. This certifies that there is no evidence of a criminal record or other information that would bar them from doing such work.
+
+The Bureau provides a one stop shop for applications for Enhanced Disclosures. In many cases, the delays were caused by staff shortages and other problems which delayed police checking of applications, and were therefore not directly within the Bureau’s control. However, the Bureau was fully aware of these problems and did not warn applicants of the likelihood of delay. We therefore
+upheld the complaints because the Bureau’s escalation process misled applicants about how long they would have to wait for a Disclosure.
+
+The Bureau agreed to compensate complainants whose case was upheld for loss of earnings or inconvenience, since they had failed to manage complainants’ expectations of the service they would receive and the likely timescale for the issue of Disclosures. See the case of Mr J
+opposite.
+
+Enhanced Disclosure
+
+Mr J, an Ofsted inspector, complained that the Criminal Records Bureau delayed in
+processing his application for Enhanced Disclosure. As a result, he had to withdraw from three Ofsted
+inspections, causing financial loss. It took the Bureau just over eight weeks to process Mr J’s
+application. During that time, the Bureau failed to alert Mr J to the likely delay when his application was with the police for checking. The Bureau’s published service standard for the processing of
+enhanced applications is 90% within four weeks, but they have a published agreement with the
+police to pursue matters with them after eight weeks if their checks on an application remain
+outstanding. We considered it reasonable for Mr J to expect that he would receive his Disclosure
+within the Bureau’s four week published service standard.
+
+We recommended the Bureau should compensate Mr J for loss of earnings and make him a consolatory payment in recognition of the inconvenience caused. The Bureau agreed that they had
+mismanaged Mr J’s expectations. They consequently agreed to make him a payment of £4,000: £3,870 for loss of earnings and £130 as a consolatory payment for the inconvenience caused.
+
+Putting things right
+
+Departments and agencies with a high public profile and many customer contacts are bound to generate complaints about decisions and processes. This makes it even more important that they handle complaints well at source. Those bodies which do not operate an effective complaints procedure are failing to act up to the Principles. The high uphold rates for complaints we
+investigate about some of these departments show that there is still room for improvement. An example of the need to put mistakes right, quickly, is the case of Mrs X (opposite).
+
+Senior staff from this Office have held regular liaison meetings with the Director General of IND (now the Chief Executive of its successor body, the Border and Immigration Agency). We agreed to establish a direct route into IND, for resolving some complaints without carrying out a full investigation, which had not previously existed. In this way, we have quickly resolved complaints on
+several occasions during the year. Assisting government departments and agencies in making improvements to their complaints handling is a priority for us. During the year we had productive discussions with Ministers and staff at DWP. In October 2006 the Ombudsman and some of her investigation staff hosted a visit to the Office by the Rt Hon John Hutton MP, Secretary of State for Work and Pensions. This gave the Secretary of State the opportunity to learn about
+our day-to-day work, the types of issues that cases about DWP raise and the effect on complainants. The Ombudsman and senior staff also met DWP’s Executive Team in November 2006 to discuss opportunities to improve complaints handling across the department.
+
+
+Inadequate handling of an application
+
+Advisers complained on behalf of Mrs X about the way in which the Immigration and Nationality Directorate (IND) had handled her application for leave to remain in the UK.
+
+It took IND two years to determine Mrs X’s application for leave to remain in the UK as a domestic worker in a private household, which she made on 23 May 2003. Although IND wrote to Mrs X in June 2003 indicating that they expected to determine her application by March 2004, it was not until June 2005 that this occurred. IND then repeatedly gave Mrs X leave to remain in a diplomatic household rather than a private household and it took them almost a year to correct that error.
+

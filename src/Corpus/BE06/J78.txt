@@ -1,0 +1,204 @@
+introduction
+
+This article examine s some of the issues encountered by first-year
+undergraduate students at Coventry University while engaging in "the
+Grammar Project' – an assessment task in the module Academic and Professional
+Skills for Language Learning – and illustrates how collaborative use of the
+Virtual Learning Environment (VLE) WebCT was instrumental in supporting
+their learning. The module is compulsory for all Year 1 undergraduates
+studying a foreign language as a "major' degree subject, either in the Bachelor
+of Arts Honours Degree in Modern Languages or a Joint Honours Degree
+in which a language constitutes half the programme of studies (e.g. BA in
+French and History/Politics/International Relations/Business and so on). The
+two student cohorts in academic years 2003–2004 and 2004–2005, whose
+work is discussed here, included a number of non-native English speakers
+studying English as a Foreign Language and/or another foreign language.
+We will maintain that designing an assessment task which actively involves
+learners in the learning process can help increase their level of motivation
+and, as a consequence, their level of understanding of "troublesome
+knowledge', as defined by Meyer and Land (2003, 2005) after Perkins (1999):
+that is to say, enhance students' understanding of fundamental subject-related
+concepts that they struggle with and can become "stuck' on. Furthermore, we
+will argue that use of the VLE can help students to overcome a certain
+reluctance to engage with meta-reflection on their learning experience, as
+documented in a previous, related study (Orsini-Jones, 2004). This outcome
+is in line with the existing literature on assessment tasks that aim to foster in
+students an intrinsic approach to learning, rather than an extrinsic one, by
+encouraging them to take ownership of their learning experience and to
+become more involved in decision-making processes related to assessment
+tasks (Boud, 1995; Race, 1995; Elton, 1996; Biggs, 1999; McDowell and
+Sambell, 1999). In addition, the article will argue that students' perceptions of
+their understanding of a concept can be misleading. Some students believe
+that they have understood a particular concept but then produce work which
+shows evidence to the contrary. Others demonstrate, via their assessed work,
+that they have mastered some troublesome knowledge while believing that
+the knowledge in question is still problematic to them.
+
+the grammar project task
+
+The target languages in Academic and Professional Skills for Language Learning
+were French, German, Italian, Spanish and English (as a Foreign Language).
+The students were all taking one or two of the languages as a major subject,
+and possibly a second or third as a minor subject. In the United Kingdom
+higher education sector there is a requirement for each programme of study
+to comply with quality assurance guidelines, set by the Quality Assurance
+Agency (QAA) in a "Subject Benchmark Statement' document. The
+document for Languages and Related Studies states, under the heading "4.2
+Language related skills', that by the end of their course:
+Students of Languages and Related Studies (LRS) will have developed appropriate
+linguistic tools and metalanguage to describe and analyse the main features of the
+language(s) studied. They will thus be able to make effective use of language reference
+materials, such as grammars, standard and specialised dictionaries and corpora, to refine
+knowledge and understanding of register, nuances of meaning and language use. Students
+of LRS will be effective and self-aware independent language learners. (QAA, 2002: 9)
+In order to foster the development of such skills, a team of linguists and
+educational developers designed an Information and Communication
+Technology-based (ICT-based) collaborative Grammar Project. This task was
+the major assessment component for the module – 60 per cent of the final
+module mark. The aim of the task was to provide students with some
+elementary tools, and a basic framework for analysis, which could be applied
+to any of the five languages mentioned, while encouraging them to reflect
+both as a team and individually on the meta-cognitive aspects of their
+learning experience. It was decided to adopt the Hallidayan rank scale
+(Halliday, 1985) to explain the basic structure of these languages.
+Students were taught how to perform two basic levels of analysis. Firstly
+they were asked to divide "sentences' into "clauses', "clauses' into "phrases',
+"phrases' into "words' and "words' into "morphemes'. Secondly, they were asked
+to distinguish between different types of "clause', "phrase', "word' and
+"morpheme'. For "words' the traditional parts of speech or "word classes' were
+used (i.e. nouns, verbs, adjectives and so on). "Phrases' were classified in the
+same way, with the most important, or "head' word of each phrase determining
+its class (e.g "noun phrase, "verb phrase', "adjective phrase'). Basic elements
+of "clause' structure, such as "subject' and "direct object' were also identified.
+Students were provided with examples in class, and an example on paper of
+the type of analysis required (see the Appendix). The grammatical analysis was
+considerably simplified, because the time available was limited and because
+the main aim was to provide some basic analytical tools which teachers of
+the individual languages could then develop as they saw fit and in line with
+the characteristics of each language. All the examples used were of formal
+written language; some were invented by the teaching staff in the relevant
+languages, others taken from authentic sources though often adapted to
+remove difficulties that went beyond the scope of this particular exercise.
+Working in groups, students were to create a website containing linked web
+pages (minimum of three/maximum of five). In each page they had to analyse
+a sentence. At least one of the sentences had to be in one of the target
+languages studied, and the other(s) in English. Students chose three sentences
+from a list given to them, and each group had to create the relevant analysis
+and website. The latter had to be uploaded into the VLE's collaborative group
+area, and was available for all students and staff to view and use. Each website
+had to be presented to the rest of the class by the group that had created it,
+with the support of a PowerPoint slide presentation to highlight the major
+issues encountered while completing the project. Both the websites and the
+PowerPoint slides were available in WebCT for all students until the end of
+the academic year following the completion of the project.WebCT was also
+used to enable students to exchange files and ideas in dedicated discussion
+forums created for each group. After the presentation had taken place, students
+had to write an individual reflective report on the project. Subsequently, each
+element of the presentation project had to be included in an end-of-year
+reflective portfolio of evidence, adapted from the European Language
+Portfolio (CILT, 2005 [2001]).
+The task required students to develop a variety of skills, both academic and
+professional:
+• ICT (PowerPoint, web management, file management,WebCT discussion
+tools, importing pictures, word processing)
+• Language (grammar analysis)
+• Team work
+• Problem solving
+• Time management/coping under pressure
+• Learning to learn (weekly progress logs on the project; written individual
+reflective report after the presentation; oral group reflective report on the
+day of the presentation; individual portfolio entries on this experience in
+the end-of-year portfolio)
+• Information retrieval.
+The administration of the task was managed by a team of two language
+lecturers (the module leader and a specialist in linguistics), one educational
+technologist from the Centre for Higher Education Development (CHED),
+and two student mentors. The mentors were experienced students from
+previous years who assisted the lecturer in supporting the students, both
+during the face-to-face hands-on sessions in the computer laboratory and
+outside classroom hours (e.g. one-to-one portfolio counselling and/or online
+support via discussion forum and private mail).
+
+preparing for the task
+
+Students received the following lectures, always followed by a one-hour
+workshop/practical.
+• Two grammar lectures, increased to four in the second year of the project
+in view of student feedback (i.e. in 2004–2005: "What is grammar?';
+"Grammar classification 1:Words and morphemes'; "Grammar classification
+2: Words and phrases'; "Grammar classification 3: Phrases, clauses and
+sentences').
+• Two presentation skills lectures ("Effective presentation skills'; "PowerPoint
+and effective presentation skills').
+• Four web-management/file-management lectures.
+• One academic writing lecture on how to write a reflective report.
+The students then had two project workshop sessions in which all the experts
+were at hand, but they had to work amongst themselves to finalize their
+projects. Figures 1 and 2 illustrate two of the projects presented in 2004–2005.
+The Figure 1 screen-shot shows an extract from the analysis of a German
+sentence, while Figure 2 is an extract from the analysis of an English sentence
+(unedited by the tutors, so there are some mistakes).
+
+research methodology
+
+In order to evaluate the students' learning experience, both quantitative and
+qualitative research methods were used. Informed consent to participate in
+the research was sought from each participant. WebCT tracking data, the
+marks received by each student for their project and their feedback on individual
+reports and portfolios were analysed. Feedback was elicited from the
+students during semi-structured group interview sessions in both academic
+years, 2003–2004 and 2004–2005. Roughly 30 per cent of all students (selfselected)
+participated in the interviews in both years. The transcripts of the
+semi-structured interviews were analysed using the software package
+ATLAS.ti (Muhr, 1997), a workbench suitable for the processing of qualitative
+data.
+In 2003–2004 the interviews were conducted by a researcher from the
+Centre for Higher Education Development, while in 2004–2005 they were
+conducted by the module leader, who was also one of the four module tutors,
+as it was felt that to conduct the interviews effectively a depth of disciplinespecific
+knowledge was required coupled with in-depth background
+knowledge of the module design. In 2003–2004 students were asked what
+they had perceived to be the most challenging aspects of the project in
+general, while in 2004–2005 the questions were more focused on the
+"stumbling blocks' they had come across while working on the Grammar
+Project: how they had tackled them and overcome them (or not), and what
+perception they had of their understanding of the basic grammar concepts
+taught to them. A comparison between the students' personal assessment of
+their level of proficiency in grammar analysis and their actual marks for the
+grammar component of the project was made in both years.
+
+the action research/action learning cycle
+
+The syllabus of the module is revised regularly according to a cycle of action
+research similar to the one illustrated by Hopkins (1993: 48), reproducing the
+"action research spiral' by Kemmis and McTaggart (1988: 14) – see Figure 3.
+A phase of "reconnaissance' (or identification of a problematic issue or
+issues) normally precedes the start of the cycle, followed by planning, implementation/
+action(s), observation, reflection and re-planning (Orsini-Jones,
+2004: 192). That is:
+• a problematic issue is identified;
+• change is planned collaboratively (staff and students) to address the issue;
+• the change process is implemented – "acted out';
+• all agents involved in the change process reflect upon its outcomes, both
+while it is happening and at the end of the first phase of implementation;
+• actions are taken to re-plan the changes and the second phase of the
+action-research cycle starts (Carr and Kemmis, 1986; McNiff, 1988;
+McKernan, 1992; Kember, 2000).
+In 2004–2005 more time was dedicated to explaining the concept of the
+"morpheme', as this had proved a troublesome matter for the students in the
+2003–2004 cohort. Subsequently, most students stated that they were
+confident they had understood this concept despite their initial difficulties
+with it, and their marks confirmed their confidence. Ten grammar projects
+were completed in 2004–2005: in seven of the groups students had made
+some mistakes – mostly minor ones – in identifying morphemes correctly,
+but they had at least demonstrated an understanding of the basic concept.
+This was pleasing to the lecturers involved, as these results compared favourably
+with those from the previous year and showed that a change in the
+syllabus can help students to understand a "troublesome concept'. The major
+changes implemented to achieve this result from 2003–2004 to 2004–2005
+were:
+1. doubling of the time allocated to explaining grammar in general (increased
+from two to four face-to-face sessions) and morphemes in particular, and
+changing the assessment of the module to better reflect this increased
+grammar input;
+

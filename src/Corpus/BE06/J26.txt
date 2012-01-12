@@ -1,0 +1,206 @@
+Introduction
+Corpora have been widely used by linguists to develop and refine “language
+models”, descriptions of lexis, grammar, dialogue, etc. Language models can
+also be automatically extracted or machine-learnt from corpora, to drive language
+analysis systems; for example, machine-learning of Part-of-Speech taggers
+from PoS-tagged corpora (Atwell 1983; Atwell et al. 2000a); machinelearning
+to automatically cluster words in a corpus into grammatical classes
+(Atwell &amp; Drakos 1987; Hughes &amp; Atwell 1994); machine-learnt grammar
+checkers (Atwell 1983, 1987); machine learning of parsers from parsed corpus
+treebanks (Atwell 1983, 1988, 1996; Atwell et al. 1984), adapting speech
+recognition models for English language learners (Atwell et al. 2000b, 2003).
+Chatbot technology integrates a language model and computational algorithms
+to emulate informal chat communication between a human user and
+a computer using natural language. The idea of chatbot systems originated in
+the Massachusetts Institute of Technology (Weizenbaum 1966, 1967), where
+Weizenbaum implemented the ELIZA chatbot to emulate a psychotherapist.
+The idea was simple and based on keyword matching. The input is inspected
+for the presence of a keyword. If such a word is found, the sentence is mapped
+according to a rule associated with the keyword; if not, a connected free remark,
+or under certain conditions an earlier transformation, is retrieved. For
+example, if the input includes the keyword “mother”, ELIZA can respond “Tell
+me more about your family”. This rule is inspired by the theory that mother
+and family are central to psychological problems, so a therapist should encourage
+the patient to open up about their family; but the ELIZA program does not
+really "understand' this psychological strategy, it merely matches the keyword
+and regurgitates a standard response. To keep the conversation going, ELIZA
+has to produce responses which encourage the patient to reflect and introspect,
+and this is donemechanistically using some fixed phrases if no keywordmatch
+is found such as “Very interesting. Please go on.”, or “Can you think of a special
+example?”. The next major program was PARRY (Colby 1973, 1999). In
+contrast to ELIZA, instead of simulating a psychotherapist, PARRY modelled
+a paranoid patient during an interview with his therapist. Saygin, Cicekli and
+Akman (2000) noticed that, “Both ELIZA and PARRY use certain tricks to be
+able to successfully perform in conversations. ELIZA directs the conversation
+away from herself by asking questions. ELIZA uses parts of the user's input in
+the output questions and seems to be following the conversations. In addition
+to these techniques, PARRY has little stories to tell and tend to insert these in
+the conversation.” Chatting (1) shows a sample of chatting with ELIZA.
+Chatting (1). A sample of conversation with ELIZA (from Jurafsky &amp; Martin 2000)
+Human: Men are all alike.
+ELIZA: In what way?
+Human: They're always bugging us about something.
+ELIZA: Can you think of a special example?
+Human: Well, my boyfriend made me come here.
+ELIZA: Your boyfriend made you come here?
+Human: He says I'm depressedmuch of the time.
+ELIZA: I'm sorry to hear that you are depressedmuch of the time.
+Human: It's true. I'm unhappy.
+ELIZA: Do you think coming here will help you not to be unhappy?
+Human: I need some help, that much seems certain.
+Since that time, several other chatbots or human-computer dialogue systems
+have been developed using text communication such as MegaHAL (Hutchens
+1996), CONVERSE (Batacharia et al. 1999), ELIZABETH (Abu Shawar &amp;
+Atwell 2002), HEXBOT (HEXBOT 2004) and ALICE (ALICE 2002). Chatbots
+have been used in different domains such as: customer service, education, web
+site help, and for fun.
+However, these chatbots are restricted to the linguistic knowledge that is
+manually “hand-coded” in their files. To save the time and effort of encoding
+such knowledge and to develop a chatbot that simulates a human dialogue,
+we developed a Java program to convert a dialogue transcript text corpus
+to AIML format: Artificial IntelligenceMarkup Language, the ALICE chatbot
+rule-format (see Section 2). In order to retrain ALICE, we used a range of
+corpora to create several different experimental versions of ALICE, speaking
+different varieties of English, as well as French, Afrikaans, Arabic and bilingual
+chatbots. This paper illustrates the ability of our program to learn a linguistic
+knowledge base of more than one million categories or rules, extracted
+from the British National Corpus (BNC) spoken transcriptions. The approach
+seemed straightforward at the outset, but we encountered problems and drawbacks;
+we discuss these and propose potential directions for further research.
+The ALICE chatbot engine and its AIML knowledge representation formalism
+are presented in Section 2. Section 3 outlines our initial attempts to
+learn AIML files from English, French, Afrikaans and Arabic corpora; we explain
+how feedback from users of our initial machine-learnt chatbots led us to
+develop more sophisticated versions of the learning algorithm. Section 4 examines
+the British National Corpus and the problems which arose when converting
+the BNC spoken transcripts to the AIML format. The latest version of
+the AIML-learning program tackles the BNC problems; the necessary modifications
+are discussed in Section 5. The results and conclusions are in Sections
+6 and 7 respectively.
+ The ALICE chatbot engine
+A.L.I.C.E. (ALICE 2002; Wallace 2003) is the Artificial Linguistic Internet
+Computer Entity, first implemented by Wallace in 1995. ALICE knowledge
+about English conversation patterns is stored in AIML files. AIML, or Artificial
+IntelligenceMark-up Language, is a derivative of ExtensibleMark-up Language
+(XML), developed byWallace and the Alicebot free software community
+during 1995–2000 to enable people to input dialogue pattern knowledge into
+chatbots based on the ALICE open-source software technology.
+AIML consists of data objects called AIML objects, which are made up of
+units called topics and categories. The topic is an optional top-level element,
+has a name attribute and a set of categories related to that topic. Categories
+are the basic units of knowledge in AIML. Each category is a rule formatching
+input to output, and consists of a pattern, whichmatches against the user input,
+and a template, which is used in generating the ALICE chatbot answer.
+The AIML pattern is simple, consisting only of words, spaces, and the wildcard
+symbols _ and *. The words may consist of letters and numerals, but no
+other characters, as shown in Section 4.1.4. Words are separated by a single
+space, and the wildcard characters function like words. The pattern language is
+case invariant. The idea of the pattern matching technique is based on finding
+the best, longest, pattern match.
+
+Types of ALICE/AIML Categories
+There are three types of categories: atomic categories, default categories, and
+recursive categories.
+a. Atomic categories have patterns that do not have wildcard symbols _ or *,
+e.g.:
+&lt;category&gt;&lt;pattern&gt;Hello Alice&lt;/pattern&gt;
+&lt;template&gt;Hi, who are you?&lt;/template&gt;&lt;/category&gt;
+
+In the above category, if the user inputs "Hello Alice', then ALICE answers "Hi,
+who are you?'. An atomic category only fires if the human input is an exact
+word-for-word match for the pattern; this can be used to encode formulaic
+conversation openers, for example.
+b. Default categories have patterns including wildcard symbols * or _. The
+wildcard symbols match any input but they differ in their alphabetical order.
+Assuming the input "Hello robot', if this does not match a category
+with an atomic pattern, then it will try to find a category with a default
+pattern such as:
+&lt;category&gt;&lt;pattern&gt;Hello *&lt;/pattern&gt;
+&lt;template&gt;Hi there&lt;/template&gt; &lt;/category&gt;
+So ALICE answers "Hi there'. The wildcard symbol allows the category tomatch
+a wider range of possible human inputs.
+c. Recursive categories have templates including &lt;srai&gt; and &lt;sr&gt; tags, which
+refer to simply recursive artificial intelligence and symbolic reduction. Recursive
+categories have many applications: symbolic reduction that reduces
+complex grammatical forms to simpler ones; divide and conquer that splits
+an input into two or more subparts, and combines the responses to each;
+and dealing with synonyms and misspellings by mapping different ways of
+saying the same thing to the same reply.
+c.1 Symbolic reduction
+&lt;category&gt; &lt;pattern&gt;DO YOU KNOWWHAT THE * IS&lt;/pattern&gt;
+&lt;template&gt;&lt;srai&gt;What is &lt;star/&gt;&lt;/srai&gt;&lt;/template&gt;&lt;/category&gt;
+In this example &lt;srai&gt; is used to reduce the human input “Do you know what
+the * is?” to a simpler form“what is *”; this is then recursively fed back into ALICE
+as replacement for the original input, allowing other categories to match.
+c.2 Divide and conquer
+&lt;category&gt;&lt;pattern&gt;YES *&lt;/pattern&gt;
+&lt;template&gt;&lt;srai&gt;YES&lt;/srai&gt;&lt;sr/&gt;&lt;template&gt;&lt;/category&gt;
+The input is partitioned into two parts, "yes' and the second part; * is matched
+with the &lt;sr/&gt; tag (where &lt;sr/&gt; is a short form for &lt;srai&gt;&lt;star/&gt;&lt;/srai&gt;).
+Each of the two parts is then recursively fed back into ALICE to match against
+separate categories; then the two separate responses are joined together to
+produce the ALICE reply.
+c.3 Synonyms and misspellings
+&lt;category&gt;&lt;pattern&gt;HALO&lt;/pattern&gt;
+&lt;template&gt;&lt;srai&gt;Hello&lt;/srai&gt;&lt;/template&gt;&lt;/category&gt;
+The misspelled input "halo' is mapped to another form "hello', which has the
+same meaning and should match against another category when recursively
+fed back into ALICE.
+ALICE Interpreter
+The AIML interpreter tries to find the longest match between the human user
+input and the stored knowledge. The Interpreter does not have a record of the
+dialogue so far, so each ALICE response is based solely on the most recent human
+input. Furthermore, ALICE has no model of the overall goals of the dialogue,
+or what the user is “on about” beyond the most recent input. This may
+seem implausibly simple to a linguist; but chatbot developers have found that
+in practice a lot of conversations have little discourse structure, this “naïve” approach
+actually works much of the time as long as ALICE has a wide range of
+categories to respond to a wide range of possible human inputs. There aremore
+than 50,000 categories in the current public-domain ALICE “brain”, added by
+the Botmaster over several years. The AIML format was deliberately kept simple
+tomake it easy to author new rules or categories; other public-domain chatbots
+such as Elizabeth (Abu Shawar &amp; Atwell 2003a, c) or HEXBOT (HEXBOT
+2004) claim to be readily adaptable and extendable, but their more complex
+rule format makes it much harder to author extensions or new chatbot rules.
+However, all these categories are manually “hand-coded”, which even in AIML
+is time-consuming, and restricts adaptation to new discourse-domains and
+new languages. Chatting (2) shows a sample of chatting with the hand coded
+version of ALICE. In the following sections we will present the automation
+process we developed, to train ALICE using a corpus based approach.
+
+Chatting (2). A sample of conversation with ALICE (from the AI movie website)
+Emily: My name is Emily
+Chatbot: OK, I will call you Emily
+Emily: Are you really Alice?
+Chatbot: I won't say “yes” or “no” for now. For real
+Emily: Who created you?
+Chatbot: I was created by Dr Richard S. Wallace
+Emily: Do you know the chatbot Alice?
+Chatbot: Is there only one chatbot. Ask the open directory about it
+Emily: Have you seen the movie AI?
+Chatbot: Have you told many people that your favorite movie is a you?
+Emily: Can you explain?
+Chatbot: There is no more information to clarify.
+Emily: Do you know Steven Spielberg?
+Chatbot: Not a robot. Probably a human. Maybe a celebrity. Would you like
+to know more?
+Emily: I know. I was wondering if you knew.
+Chatbot: How do you know it? I have never considered it. I answer a lot of
+silly questions.
+Emily: You are actually a guest on the AI website. Do you know that?
+Chatbot: Thanks for telling me that I am actually a guest on the AI website
+Emily: What do you like to talk about?
+Chatbot: My favorite subject is artificial intelligence and robots.
+Emily: What is artificial intelligence?
+Chatbot: Artificial intelligence is the branch of engineering and science devoted
+to constructing machines that think. Would you like to
+know more?
+ Learning to chat in a range of languages
+We developed Java software to extract AIML categories from a corpus text-file.
+Different corpora were used (displayed in Table 1) and a range of increasingly
+sophisticated learnt patterns were examined. The learning techniques range
+from primitive literal matches to corpus utterances, generating atomic categories
+which require an exactmatch to human user input, tomore complicated
+patterns involving identification of the most significant words in an utterance,
+generating default categories with wildcards (Abu Shawar &amp; Atwell 2003c).
+

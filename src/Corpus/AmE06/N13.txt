@@ -1,0 +1,137 @@
+<text id="N13" category="" words="2011" checkedby="" modifiedby="" Title="Skeleton Coast" Author="Clive Cussler" PublicationDate="2006" SampledFrom="Middle" WebAddress="/">
+
+"You wanted to see me?"
+
+Linda swiveled her flat-panel display so Max could read the news for himself. The tension in the room had risen as though an electric current had passed between the two.
+
+"Will someone please tell us what's happened?" Eric Stone asked from the helmsman's position.
+
+"Benjamin Isaka has been implicated in a coup plot," Linda replied. "He was arrested a couple of hours ago."
+
+"Isaka. Why does that name sound familiar?"
+
+Max answered, "He was our government contact in the Congo for that weapons deal."
+
+"Oh, man, that is seriously not good," Mark Murphy said. Though there was no need to man the Oregon's offensive systems he usually took his position whenever the senior staff had the watch.
+
+"Hali, any word on the weapons we delivered?" Linda asked. She didn't care about Congo's local politics, but the Corporation had a responsibility for those arms.
+
+"Sorry, I haven't checked. That report just came through the AP wire service a minute ago."
+
+Linda looked to Max. "What do you think?"
+
+"I have to agree with Mr. Murphy. This could be a potential disaster. If Isaka told the rebels about the radio tags and they disabled them, then we just handed five hundred assault rifles and a couple hundred grenade launchers to one of the most dangerous group of thugs in Africa."
+
+"I can't find anything about weapons being seized," Hali said. "The story's still breaking so maybe it will come through later."
+
+"Don't count on it." Max had his pipe in his hand and was tapping the stem against his teeth. "Isaka had to have told them. Hali, is there any way we can check the signals from the radio tags?"
+
+The Lebanese-American frowned. "I don't think so. Their range is pretty limited. The whole idea was for Congolese army forces to follow the arms back to the rebel base using handheld detectors that could pick up the tags' signals. They only needed to broadcast for a couple of miles."
+
+"So we're screwed," Linda said, her anger putting a hard edge in her girlish voice. "Those guns could be anywhere and we have no way of finding them."
+
+"Ye of little faith," Murph said with a broad grin.
+
+She turned to him. "What have you got?"
+
+"Will you guys ever stop underestimating the chairman's cunning? Before we sold the guns he asked me and the chief armorer to replace a couple of tags the CIA gave us with some of my own design. Their range is nearly a hundred miles."
+
+"Range isn't the issue," Hali said. "Isaka knew where we hid the tags on the weapons. He's bound to have told the rebels, and they could disable ours just as easily as the ones we got from the CIA."
+
+Mark's smile never faltered. "The CIA tags were hidden in the butt stocks of the AKs and forward grip assembly of the RPGs. I put our tags in the grips of the AKs and modified the sling swivels to hide them on the grenade launchers."
+
+"Oh, bloody brilliant," Linda said with true admiration. "Once they find the CIA tags they wouldn't look for any more. Ours are still in place."
+
+"And transmitting on a different frequency, I might add." Mark crossed his arms over his chest and leaned far back into his seat.
+
+"Why didn't Juan tell us about this?" Max asked.
+
+"He sort of thought he was straying from prudence into paranoia with his idea," Murph replied. "So he didn't want to mention it because more than likely our tags would never be needed."
+
+"How close did you say we need to be to pick up the signals?" Linda asked.
+
+"About a hundred miles."
+
+"That still leaves us searching for a needle in a haystack without some idea where the rebels were headed."
+
+Mark wiped the smug look from his face. "Actually, there's another problem, too. To give the tags that kind of range I had to sacrifice battery life. They'll start failing in another forty-eight to seventy-two hours. After that there really is no way to find them again."
+
+Linda looked to Max Hanley. "The decision to find those weapons has to come from Juan."
+
+"I agree," Max said. "But you and I both know he'll want us to track them down and alert the Congolese army so they can get 'em back."
+
+"As I see it we have two options," Linda said.
+
+"Hold on a sec," Max interrupted. "Hali, call the Chairman on his satellite phone. Okay, two options?"
+
+"One is we turn back and send a team from Cape Town up to the Congo with whatever detection gear they need. Mark, this stuff is man portable, right?"
+
+"The receiver's not much bigger than a boom box," the technical wizard told her.
+
+Normally someone would have commented on the size of the boom box he played when he turned part of the Oregon's cargo deck into a makeshift skateboard park complete with ramps, jumps, and a half pipe made from an old section of ship's funnel.
+
+Max said, "Going back to Cape Town will cost us the five hours we've steamed so far, another couple messing around in port, and a further five to return to this exact same spot of ocean."
+
+"Or we keep going and send a team in from Namibia. Tiny's got the jump plane waiting at the airport in Swakopmund and will have one of our jets there by tomorrow afternoon for when we have Geoffrey Merrick. We can chopper them directly to the airport, Tiny can fly them up to the Congo, and be back in time for the raid."
+
+"I can't get the Chairman on his sat phone," Hali told the group.
+
+"Did you try the radio on the lifeboat?"
+
+"Nada."
+
+"Damn." Unlike Cabrillo, who could think through a dozen scenarios at a time and intuitively pick the right one, Hanley was more deliberative. "How much time do you think we'd save for the search team by turning back right now?"
+
+"About twelve hours."
+
+"Less," Mark said without turning from his computer screen. "I'm checking flights right now between Cape Town and Kinshasa. There isn't much."
+
+"So we'd have to charter a plane."
+
+"That's what I'm checking," Eric Stone said. "I'm finding only one company in Cape Town with jet aircraft. Hold on. No, there's a note on their website saying both their Learjets are grounded." He looked over at his shipmates. "If it's any consolation they do apologize for the inconvenience."
+
+"So we're looking at saving maybe eight hours," Mark concluded.
+
+"And costing us twelve and pushing back the rescue attempt by another full day. Okay, there's our answer then. We keep heading north." Max focused on Hali. "Keep trying Juan. Call him every five minutes and let me know the instant you reach him."
+
+"Aye, Mr. Hanley."
+
+Max didn't like that Juan wasn't replying. Knowing how close they were to launching their attack on the Devil's Oasis there was no way he wouldn't be carrying his sat phone. The chairman was a stickler about communications.
+
+There were a hundred possibilities why he couldn't be reached and Hanley didn't like any of them.
+16
+
+C ABRILLO squinted into the distance, not caring for how dark clouds were building to the east. When he and Sloane had motored out of Walvis in the lifeboat there hadn't been any weather advisories, but that didn't mean much in this part of the world. A sandstorm could whip up in a matter of minutes and blot the sky from horizon to horizon. Which was exactly what looked like was happening.
+
+He glanced at his watch. Sunset was still hours away. But at least Tony Reardon's plane from Namibia's capital, Windhoek, to Nairobi and on to London had left the ground four minutes ago.
+
+The night before they had intercepted the Pinguin a mile from the harbor entrance. After explaining what had happened to Papa Heinrick, Justus Ulenga agreed to take his boat north to another town and fish up there for a week or two. Cabrillo took Tony Reardon onto the lifeboat.
+
+The British executive had complained bitterly about the situation, railing against Sloane, Cabrillo, DeBeers, Namibia, and anything else that came into his head. Juan gave him twenty minutes to vent while they waited offshore. When it seemed he would go on for hours more Cabrillo gave him an ultimatum: Either shut up or he'd knock him unconscious.
+
+"You wouldn't dare!" the Englishman had shouted.
+
+"Mr. Reardon, I haven't slept in twenty-four hours," Juan replied, moving closer so their faces were inches apart. "I just saw the body of a man who was horribly tortured before being murdered and I was shot at about fifty times. To top it off I have the beginning of a headache, so you will go below, sit on one of the benches, and keep your damned mouth shut."
+
+"You can't ord - "
+
+Juan pulled the punch at the last second so he didn't break Reardon's nose but the blow had enough power to send him crashing through the hatch to the lifeboat's passenger compartment, where he sprawled on the floor in an untidy heap. "I warned you," Cabrillo said and turned his attention back to keeping the craft facing into the wind as they waited for dawn.
+
+They stayed a couple miles offshore as the Walvis fishing fleet paraded out for their daily catch and only turned to enter the port after Juan had made arrangements over his satellite phone. Reardon remained below, massaging his swelling jaw and even more bruised ego.
+
+A taxi was waiting at the wharf when Cabrillo eased the lifeboat into a berth. He made sure that Sloane and Tony stayed below while he presented his passport to a customs official. Without the need for a visa and with a cursory inspection of the lifeboat and the Britons' already stamped passports, Juan's own passport was stamped and they were free to leave the docks.
+
+He paid to have the boat's fuel tanks refilled, giving the attendant a large enough tip to ensure he did the job properly. He retrieved the Glock from where he'd stashed it in the bilges and made sure nothing looked suspicious before calling over the car and bundling his two companions into the rear seat.
+
+They crossed the Swakop River and raced through Swakopmund on their way to the airport. Being that one of the gunmen from the previous night was the helicopter charter pilot, Cabrillo couldn't take the risk of hiring a private aircraft to spirit Reardon out of the country. But today was one of the four days a week that Air Namibia had a flight from the coastal city to the capital. He'd timed their arrival in town so Reardon would spend only a couple of minutes at the airport before his flight, and his connection to Nairobi was the next flight out of Kenya.
+
+Juan noted a twin-engine plane sitting idle on the tarmac well away from other aircraft. It was the one Tiny Gunderson, the Corporation's chief pilot, had rented for their assault. If everything went according to plan the big Swede was en route with their Gulfstream IV. Juan had considered waiting and using their own plane to get Reardon out of Namibia, but he didn't think he could spend that much time in the man's company.
+
+The three entered the small terminal together, Cabrillo's senses tuned to any detail that seemed out of place, though their opposition should still be assuming that their quarry was already dead. While the Englishman checked in for his flight, Sloane promised that she would pack up his belongings still at the hotel and bring them back to London with her once she and Cabrillo finished their investigation.
+
+Reardon muttered something unintelligible.
+She knew he was beyond reasoning with and honestly couldn't blame him. Tony went through security without a backward glance and was quickly gone from their view.
+
+"Bon voyage, Mr. Chuckles," Juan quipped and the two of them left the airport and rode back to town.
+
+</text>

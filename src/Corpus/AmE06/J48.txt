@@ -1,0 +1,206 @@
+<text id="J48" category="" words="2010" checkedby="" modifiedby="" Title="Peer Exclusion and Victimization: Processes That Mediate the Relation Between Peer Group Rejection and Children's Classroom Engagement and Achievement?" Author="Eric S. Buhs, Gary W. Ladd and Sarah L. Herald" PublicationDate="February 1, 2006 " SampledFrom="Journal of Educational Psychology Vol. 98, No. 1, p. 1 - 13" WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=112&sid=58f8ab5d-fca9-4f3f-abb1-231ea2567e5f%40sessionmgr114&vid=3">
+
+Longitudinal data from a study of kindergarten through 5th graders were used to estimate a structural model in which chronic peer exclusion and chronic peer abuse were hypothesized to mediate the link between children's early peer rejection, later classroom engagement, and achievement. Peer exclusion and abuse were expected to predict changes in 2 forms of school engagement (classroom participation and school avoidance), and changes in both forms of engagement were expected to predict changes in achievement. The model fit the data well and lent support to the premise that distinct forms of peer maltreatment and classroom engagement mediate the link between early peer rejection and changes in children's achievement. Early peer rejection was associated with declining classroom participation and increasing school avoidance, but different forms of chronic peer maltreatment mediated these relations.
+Whereas chronic peer exclusion principally mediated the link between peer rejection and classroom
+participation, chronic peer abuse primarily mediated the link between rejection and school avoidance. Children's reduced classroom participation, more than gains in school avoidance, anteceded decrements in children's achievement.
+The premise that peer group acceptance and rejection influences
+children's development and adjustment has been a compelling
+impetus for research on children's peer relationships since the
+1930s (see Ladd, 2003). Since that time, a sizable body of empirical
+findings has been assembled, much of which is consistent with
+the inference that peer group rejection is a cause of children's
+adjustment difficulties (see Ladd, 1999; MacDougall, Hymel,
+Vaillancourt, &amp; Mercer, 2001; Parker &amp; Asher, 1987). Contributing
+to this corpus of evidence were early investigations in which
+investigators found that peer group rejection was concurrently
+linked with child maladjustment (e.g., Koch, 1933; Northway,
+1944) and recent longitudinal studies in which researchers reported
+that childhood peer group rejection not only anteceded early- and
+later emerging adjustment problems (Boivin, Hymel, &amp; Bukowski,
+1995; Ladd, 1999) but also predicted these problems independently
+of other potential risk factors (e.g., children's behavioral dispositions, and the like; Coie, Lochman, Terry, &amp; Hyman, 1992;
+Ladd &amp; Burgess, 2001).
+Among the most convincing evidence gathered to date are
+findings that implicate peer group acceptance or rejection as an
+antecedent of children's school adjustment problems (see Ladd,
+2003; Parker &amp; Asher, 1987). The construct of peer acceptance/
+rejection has been defined at the level of the peer group (e.g., in
+contrast to friendship, which is defined at the level of the dyad),
+and it has been construed as an attitudinal variable that reflects the
+collective valence of group members' sentiments (i.e., liking,
+disliking) toward individuals in the group (Buhs &amp; Ladd, 2001).
+Thus, when administered in classrooms, measures of peer group
+acceptance/rejection yield information about how well liked versus
+disliked a child is, on average, by classmates. Low classroom peer
+acceptance has been consistently linked with indicators of school
+disengagement (e.g., negative school attitudes, school avoidance;
+Ladd, 1990; Ladd, Kochenderfer, &amp; Coleman, 1997), and, relative
+to other types of peer relationships, peer group rejection appears to
+be one of the strongest predictors of academic readiness and
+achievement (Buhs &amp; Ladd, 2001; Ladd, Birch, &amp; Buhs, 1999;
+Ladd et al., 1997; Vandell &amp; Hembree, 1994).
+Although these findings support the interpretation that peer
+group rejection negatively impacts children's engagement and
+achievement in the school environment, insufficient effort has
+been devoted to understanding how this linkage is established or
+develops over time. In part, this limitation stems from a lack of
+theory about the processes through which peer group rejection may
+affect children's involvement in learning opportunities and
+achievement in classrooms. Only recently have investigators begun
+to question how peer sentiments, themselves not directly
+observable, can affect children's adjustment (Boivin &amp; Hymel, 1997; Buhs &amp; Ladd, 2001; Bukowski, Hoza, &amp; Boivin, 1993;
+Coie, 1990; Wentzel &amp; Caldwell, 1997).
+Toward this end, researchers have begun to formulate and
+evaluate frameworks that identify specific mediating processes
+that account for the association between peer group rejection and
+children's school engagement and achievement. On the basis of
+propositions advanced by Coie (1990), Buhs and Ladd (2001)
+proposed a model in which it was hypothesized that the effects of
+peer rejection on children's achievement is mediated through two
+processes: (a) the negative behavioral treatment that rejected children
+receive from peers and (b) resulting changes that such treatment
+causes in children's classroom participation (see Figure 1).
+The specific premises upon which this model was constructed can
+be summarized as follows (see Buhs &amp; Ladd, 2001): First, peers
+express the dislike they feel toward rejected children by treating
+them more negatively than other classmates, and, once manifested,
+these negative behaviors serve as visible markers of rejection for
+both the larger peer group and for rejected children. Second, once
+children are marked by maltreatment, or behavioral manifestations
+of rejection, they become marginalized from classroom peer activities.
+Marginalization occurs because, as peers become aware of
+children who are often targeted for maltreatment, they tend not to
+associate with these children or include them in classroom activities.
+Moreover, rejected children disengage from classroom activities
+as a way of avoiding further abuse. Third, disengagement
+from classroom activities negatively impacts children's learning,
+which ultimately leads to lower levels of achievement.
+Preliminary empirical support for this model was obtained by
+Buhs and Ladd (2001) with a sample of young children who were
+identified at school entrance and followed from fall to spring of
+their kindergarten school year. Results showed that children who
+were rejected by their classmates in the fall of the school year were
+more likely to be maltreated by classmates and that exposure to
+these rejecting behaviors partially mediated the negative association
+found between peer rejection in the fall of kindergarten and
+changes in classroom participation over the course of the school
+year. Furthermore, these findings also revealed that early peer
+rejection was negatively related to later achievement and that this
+association was partially mediated through peer maltreatment and
+declining classroom participation, respectively.
+Although illuminating, the Buhs and Ladd (2001) results were
+limited in three important ways. First, because the construct of
+peer maltreatment was evaluated as a latent variable, the findings
+did not generate a high degree of specificity about the types of peer
+maltreatment that may be most closely associated with children's classroom disengagement. The latent peer maltreatment variable
+was constructed from three indicators of rejecting behaviors, including
+being ignored or rebuffed by peers when attempting to
+interact or enter activities (via a measure of unilateral entry bids),
+being actively excluded from peer activities (peer exclusion), and
+being verbally or physically harassed (peer abuse or victimization).
+Measurement model results revealed that, although the latent negative
+treatment variable contained information about all three
+forms of maltreatment, exclusion had the highest lambda (loading)
+of the three indicators. For this reason, the investigators speculated
+that, as children began school, exclusion might be a more powerful
+mediator of the link between peer rejection, declining classroom
+participation, and underachievement.
+Whether exclusion is the principal mediator between rejection
+and classroom disengagement, and whether this inference generalizes
+beyond the first year of formal schooling - and to other
+forms of school disengagement - remains to be evaluated. Note
+that Buhs and Ladd (2001) hypothesized that classroom disengagement
+was a consequence not only of peers' exclusionary behaviors
+but also of children's propensity to avoid contexts in which they
+are likely to be abused by peers. This logic implies that there are
+two pathways to classroom disengagement that emanate from
+peers' rejecting behaviors: First, children become less active participants
+in classroom activities because their opportunities to do
+so are increasingly restricted as a result of peer exclusion. Second,
+children who are harassed by peers seek to avoid classrooms (or
+the school context in general) as a means of escaping further abuse.
+Whereas exclusion by peers is construed as a cause of reduced
+participation in classroom activities, abuse is seen as increasing
+children's motivation to avoid the classroom or school context.
+Notice that these two pathways imply that different forms of
+classroom disengagement evolve from each form of peer maltreatment.
+This observation illustrates a second limitation of the Buhs
+and Ladd (2001) study: Only one form of classroom engagement
+(i.e., classroom participation) was examined as a mediator between
+peer maltreatment and children's achievement. A better test of the
+Buhs and Ladd model would entail an empirical evaluation of the
+following predictions: (a) decrements in children's classroom participation
+are better predicted by peer exclusion than by peer
+abuse, and increments in children's school avoidance are better
+predicted by peer abuse than by peer exclusion; and (b) the link
+between peer exclusion and achievement is mediated through
+classroom participation, and the link between peer abuse and
+achievement is mediated through school avoidance.
+Third, the Buhs and Ladd (2001) results were limited by features
+of their longitudinal design and assessment plan. Although it was
+proposed that peer rejection incites peer maltreatment, the measures
+of these constructs were obtained concurrently. A more
+rigorous test of this premise requires a design and assessment plan
+in which the former variable is assessed prior to the latter, thereby
+establishing temporal precedence for peer rejection. Furthermore,
+because Buhs and Ladd (2001) conducted their study within a
+single school year (kindergarten), it remains to be determined
+whether the forms of peer maltreatment that originate from early
+peer rejection endure over time (e.g., across grade levels) and, if
+so, whether children who are exposed to sustained (chronic) rather
+than transient maltreatment are at greater risk for classroom disengagement
+and delayed scholastic progress. On the basis of logic
+that originates within theories of psychological risk, stress, and
+support (Dohrenwend &amp; Dohrenwend, 1981; Johnson, 1988; Ladd
+&amp; Troop-Gordon, 2003), it was hypothesized that prolonged peer
+maltreatment increases the probability that children will disengage
+from classrooms (or the school context) and that increasing disengagement
+impairs children's achievement. Thus, it was predicted
+that longer rather than shorter histories of peer maltreatment,
+after controlling for contemporary exclusion or abuse, would
+mediate the link between early peer rejection and later classroom
+disengagement.
+Thus, the principal purpose of this investigation was to address
+prior limitations by implementing the proposed innovations and
+gathering data that would reflect on the aforementioned hypotheses
+(see Figure 1). In contrast to the Buhs and Ladd (2001)
+short-term longitudinal design, we conducted a 6-year prospective
+longitudinal study that spanned the school years of kindergarten
+through fifth grade. The assessment plan was expanded to include
+measures of peer group acceptance/rejection, peer exclusion, peer
+abuse, classroom participation, school avoidance, and achievement.
+Peer group acceptance/rejection was defined as the extent to
+which individuals were liked/disliked by classroom peers and
+indexed with averaged sociometric ratings that were obtained from
+classmates during children's first year in grade school (kindergarten). 
+One form of peer maltreatment - peer exclusion - was defined
+as the extent to which children were the target of peers'
+nonaggressive rejecting behaviors, including behaviors such as
+ignoring, avoiding, or refusing to associate with them in the
+classroom context. The other form of peer maltreatment - peer
+abuse - was defined as the extent to which children were recipients
+of classmate's aggressive and harassing behaviors (i.e., the
+target of confrontive aggressive acts such as verbal and physical
+aggression). Measures of the two peer maltreatment constructs
+were obtained in kindergarten and every year thereafter until grade
+5, and separate indicators of chronic versus current peer maltreatment
+were created so that the predictive efficacy of chronic peer
+maltreatment could be estimated while controlling for current peer
+maltreatment. The constructs used to represent aspects of classroom
+disengagement were termed classroom participation and
+school avoidance. Classroom participation encompassed two aspects
+of children's classroom behavior that have been termed
+autonomous and cooperative participation (see Buhs &amp; Ladd,
+2001; Ladd et al., 1999; Ladd, Buhs, &amp; Seid, 2000). Both forms of
+participation have been shown to be indicators of classroom engagement
+and predictors of achievement. Autonomous participation
+refers to classroom behaviors that are characterized by initiative
+or self-directedness (e.g., starting activities, working
+independently, seeking challenges), and cooperative participation
+refers to classroom behaviors that are conducted in a socially
+responsible manner (i.e., adhering to classroom rules and role
+expectations; see Ford, 1985; Wentzel, 1991). School avoidance
+was defined as the degree to which children expressed a desire to
+avoid school and engaged in school-avoidant behaviors.
+
+</text>

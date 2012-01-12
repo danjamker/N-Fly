@@ -1,0 +1,189 @@
+<text id="D10" category="" words="2007" checkedby="" modifiedby="" Title="Secrecy and display in the quest for transcendence in China, CA. 220 BCE - 350 CE. History of Religions 45:4 291-336" Author="Robert Ford Campany" PublicationDate="2006" SampledFrom="Beginning" WebAddress="http://www.journals.uchicago.edu/doi/pdfplus/10.1086/507857">
+
+SECRECY AND DISPLAY IN THE QUEST FOR TRANSCENDENCE IN CHINA, CA. 220 BCE - 350 CE
+
+There is something about a secret which makes people believe.
+(Graham Greene,Our Man in Havana )
+In ancient, medieval, and early modern times, esoteric religious traditions
+were developed in several civilizations. They represented paths of salvation,
+often including alchemical and alimentary disciplines and some sort
+of claim to personal immortality, which were transmitted in secret texts
+from masters to initiated disciples and were at least partially defined in
+contrast to the sacrificial cults of mainstream society. One thinks of the
+mysteries of Eleusis and Dionysus, of the various so-called Gnostic texts
+and movements, and of the Hermetic path in the Mediterranean world; of
+Manichaeism, which once flourished from western Europe and along the
+Silk Road all the way into China; of the "books of secrets" of medieval
+and Renaissance Europe and the communities of practitioners who made
+and transmitted them; and of the siddha traditions of India.
+
+In addition to these complex regimes of salvation, with their intricate mythologies
+and cosmologies and their elaborate biospiritual technologies, bodies of
+"practically religious" techniques were developed for the pursuit of more
+proximate, if no less urgent, felicities; these esoteric procedures, often
+rather grossly and unsatisfactorily labeled "magic" or "the occult" in
+modern writings, were also claimed to be derived from hidden sources,
+their dissemination - however widespread - at least initially controlled by
+initiates. Whatever their stated goals and methods, all of these esoteric
+traditions, practices, and texts share two essential features: they were constituted
+(by both insiders and outsiders) as being in tension with other religious
+and cultural currents often seen as predominant and public, and
+access to them was restricted, if only by the crucial claim that they
+stemmed from secret sources not publicly accessible. A gulf separates
+these cultures of secrecy, wherein knowledge was deemed powerful because
+access to it was restricted and access to it was restricted because it
+was deemed powerful, from those styles of culture Steven Shapin and
+Peter Burke have recently argued arose only in early modern times (in
+Europe at least), wherein truth-telling and the art of civil conversation
+among gentlemen with no reason to misrepresent things formed the basis
+of a new epistemological decorum, and wherein lying and secrecy came
+to be seen as violations of a code of honor.
+
+Sporadically for a century now, scholars beginning with Georg Simmel
+have attempted a "sociology of secrecy" or "sociology of esoteric culture"
+3
+ - an enterprise perhaps possible only in a historical period when
+secrecy has come to seem unusual. To quote one of the most useful contributions
+to this literature, "a crucial aspect of esoteric knowledge is that
+it is a secret knowledge of the reality of things, handed down, frequently
+orally and not all at once, to a relatively small number of persons who are
+typically ritually initiated by those already holding this knowledge." In progressively
+realizing this knowledge, "the subject develops internally and
+liberates himself from the strictures of everyday life." Because this knowledge
+is of "the real but concealed nature of things," its recipients must
+prove themselves worthy to receive it, so we often find "a series of trials
+and ordeals, in the course of which the adept becomes increasingly socialized
+into the esoteric culture and increasingly desocialized from the natural
+attitude of the exoteric culture." Since esoteric knowledge must be concealed
+from public dissemination, it is often "presented to the adept not
+directly but . . . symbolically or metaphorically, so that it has to be deciphered
+progressively by the neophyte who uncovers layers of meaning
+in stages of initiation." Correspondingly, "the social organization and
+handling of esoteric culture tends to take the form of secret societies, societies
+whose modes and codes of organization and membership lists are
+not publicly disclosed." Finally, "since [esoteric] secrets are those that
+reveal the ultimate nature of reality, the concealed forces of the cosmic
+order, . . . esoteric knowledge is an ultimate source of power, which must
+be shared and utilized by a relatively small group of initiates. Such power
+is never justifiable in terms of the enhancement of the material conditions
+of the esoteric knowers but rather in terms of broad impersonal ends [or]
+humanitarian ideals." At first blush, this list of general features seems to fit the masters of esoterica
+(fangshi) and practitioners of longevity and transcendence arts
+in late classical and early medieval China, with two adjustments. The first
+necessary adjustment is that the most "social organization" such practitioners
+ever achieved was the formation of loose (and often only fictively
+and retrospectively constructed) lineages of the transmission of texts and
+techniques. There were no exclusive brotherhoods of practitioners, no
+schools or cross-lineage organizations, and no secret societies, only masters with (usually) small clusters of disciples who were free and often
+encouraged by their teachers to seek esoteric knowledge elsewhere as
+well.
+
+The second adjustment is that the Chinese practitioners of this period
+rarely appealed to "broad impersonal ends" or "humanitarian ideals"
+to justify their practices. Accordingly, we should be alert to the possibility
+that, in the sorts of cases on which this stipulation of Tiryakian's is based,
+such professions may have as much to do with self-justifying ideology as
+with "humanitarian" concern.
+
+However, in what follows I want to suggest a more fundamental revision
+to this sociology of secrecy. To do so I will draw on recent work
+by scholars such as Beryl Bellman, Lamont Lindstrom, and Hugh B. Urban
+that approaches secrecy as a cluster of forms of discourse rather than as
+a type of content, and that approaches discourses of secrecy as strategies
+for accumulating a type of cultural capital, to invoke the language of Pierre
+Bourdieu.
+
+More specifically, the following article is, in part, an elaboration
+on one particular strategy briefly characterized by Urban as "advertising
+the secret" - that is, "the claim to possess very precious, rare, and
+valuable knowledge, while simultaneously partially revealing and largely
+concealing it. For a secret is only worth anything if someone knows you
+have a secret."
+
+I will argue a proposition about the practice and practitioners of esoteric
+arts in China up until roughly 350 CE, one that may apply equally to esoteric
+traditions in other societies (a possibility I leave for future exploration).
+That proposition, which will be filled in more clearly below, may for
+now be summarized as follows. In China, at least, there was a basic tension
+between hidden arts and observed wonders, between reclusion and recognition,
+and these two opposing tendencies implied and reinforced each
+other; to describe the tendency to secrecy without describing the other
+member of the dyad is to paint an incomplete picture. At least if we understand
+power and prestige in social terms, for initiated practitioners to
+have accrued any power or prestige from their possession of secretly
+transmitted arts, it was necessary that the impressive effects of those arts
+be shown to the uninitiated. And, as I will demonstrate, they were indeed
+shown, massively, publicly, to people of all social levels - and especially
+to the elite. For prestige to accrue, it was necessary also that practitioners of such arts be recognized by others as practitioners, whether or not they flaunted their abilities; as we will see, some are remembered for performing wonders, others for refusing to do so, but to the extent that individual
+practitioners are textually remembered as practitioners at all, we can be
+sure that they were recognized as practitioners by audiences and that this
+recognition was inscribed in works of collective memory. In short, the
+detailed methods of the esoteric arts and the texts in which they were
+transmitted remained hidden, in principle if not always in practice, from
+public view, but the wondrous effects of these arts and the reputations of
+those who wielded them were socially displayed, socially sought after and
+supported, socially discussed, and socially consumed. I will suggest that
+secrecy both implied and stoked outsiders' interest; the existence of esoteric
+knowledge was rarely a secret; neither the identities of its possessors
+nor the special powers it afforded these persons were typically secret. Only
+the contents of the knowledge (or even, in some cases, only a small but
+key proportion of the contents) were secret. I will argue that this "simultaneous
+proclamation and concealment," to borrow Frank Kermode's fine
+characterization of the Gospel of Mark, was fundamental to constituting
+the "master of esoterica" or "seeker of transcendence" as social roles, and
+that, as in Mark, much depended on the recognition of adepts by others
+and on the interpretation of their strange words and behaviors.
+
+I begin, in the first section below, by charting the textual portrayal of
+secrecy among practitioners of esoteric arts in China. This charting will
+then lead us naturally to notice, in the second section, practitioners' habit
+of displaying their secretly transmitted abilities. A concluding section
+highlights the tension and co-implicative feedback relationship between
+these opposing habits.
+
+The culture of esotericism
+
+A history of secrecy in early Chinese cul ture might begin with chapter 65
+of the received Daode jing ("Of old those who excelled in the
+pursuit of the way did not use it to enlighten the people but to hoodwink
+them"), proceed to early "allegorical" and other understandings of the Book of Odes
+as indirect or veiled speech, continue to the notion that Confucius hid his teachings in indirect sayings and historical passages that required decoding by interpreters, treat the role of deception and secrecy
+in rhetorical and military strategy, and alight on the strange hermeneutic
+applied to what had by then become the canonical works of the imperium
+in the Han weft texts (of which we are in desperate need of renewed
+study) - a hermeneutic that assumed and implied the classics spoke in
+code. Such a history has yet to be written. When it is, it should weigh the implications
+of these facts: that books in general during this entire period - 
+existing only in laboriously copied manuscripts, of course - were rare,
+treasured commodities, in many cases not available at all to private readers
+but rather locked up inside royal libraries; that even such (to us at least)
+apparently nonesoteric books as the texts of the ancient philosophers, including
+the Zhuangzi, were held in secret, a practice motivated or at least
+justified by the fear of the texts' dangerous effects on readers; and that
+there were no bookshops before the first century CE.
+
+As Donald Harper has observed, "Notions of secrecy fueled Han bibliophilia in general; books were regarded as objects of power. In this environment the concern
+that books might be misused by the 'wrong person' and the desire to
+possess them were equally matched. Specialists [that is, practitioners of
+esoteric arts] and elite collectors [of books] . . . shared this mentality."
+
+Books of esoterica, of course, were hedged about with even more
+secrecy, expressed and enacted in several ways. The first of these was
+nomenclature. The key generic term used to denote esoteric arts, texts,
+and practitioners - fang, literally "recipes" or "methods" - itself already
+implies specialization and limited access, heightened by its occasional
+pairing with modifiers such as mi, " secret," and jin, "prohibited." More fundamentally, these books' contents and typical rhetorical forms created an aura of remote origins. In other words, many esoteric texts were written in ways that created a palpable sense of their own inaccessibility, rarity, and hence, extreme value and sacred power. self-esotericizing texts
+
+Divine revelation and extreme antiquity are two types of remote origin
+commonly claimed by esoteric texts for themselves, often simultaneously.
+One of the rhetorically simplest ways in which such origins were claimed
+was to frame the text as a dialogue between beings widely recognized
+as divine, ancient, or both. Two of the medical manuscripts found at
+Mawangdui, for example, share this structure. The text titled "Ten Questions"
+(Shiwen) presents itself as the record of dialogues between
+various ancient figures, notably including the Yellow Thearch and
+Yu, who are cast as disciples, and more authoritative and in some cases
+transcendent figures, including the likes of the Celestial Teacher,
+Rong Chen, and Ancestor Peng.
+
+</text>

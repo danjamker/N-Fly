@@ -1,0 +1,217 @@
+<text id="H02" category="" words="1992" checkedby="" modifiedby="" Title="School Size and Student Outcomes in Kentucky's Public Schools Program Review and Investigations Committee. Legislative Research Commission" Author="Greg Hager" PublicationDate="2006" SampledFrom="End" WebAddress="http://www.lrc.ky.gov/lrcpubs/RR334.pdf">
+
+Hispanic Students. Table 6 displays the results for Hispanic
+students. On some assessments, the scores of Hispanic elementary
+students were typically higher for those attending schools with
+either 301 to 600 students or 601 to 900 students. The scores for
+students attending the smallest schools, those with 300 or fewer,
+were similar to those attending the larger schools.
+Among Hispanic middle school students, the scores on the math
+assessment were highest for those attending moderately sized
+schools. There were no other statistically significant differences in
+the scores of Hispanic middle school students. There were also no
+differences in the scores of Hispanic high school students across
+any of the assessments.
+Asian Students. Table 7 shows the performance of Asian students
+by school size. The results do suggest somewhat different patterns
+for Asian students than for all students. While scores of all
+elementary students were typically higher at larger schools, the
+scores of Asian elementary students were often lower for those
+attending larger schools. For example, social studies scores among
+Asian elementary students at schools with 901 to 1,200 students
+were approximately 50 points lower than those of Asian
+elementary students at schools with 300 or fewer students.
+The results for Asian middle school students were mixed. On some
+assessments the Asian students at larger schools performed as well
+as those attending smaller schools, while on other assessments they
+performed worse.
+On most assessments, there were no differences in the scores of
+Asian high school students attending different-sized schools.
+Differences did exist, however, on the reading assessment and the
+practical living and vocational skills assessment. For reading,
+scores were lowest for Asian students in school with 901 to 1,200
+students. For practical living and vocational skills, scores were
+typically lower at the moderately sized schools.
+Students Receiving Free or Reduced Lunch. Scores were also
+compared across school size categories for students participating in
+free or reduced lunch programs. Some students who qualify may
+choose not to participate in the free or reduced lunch programs, so
+those participating may not fully reflect those eligible.
+Table 8 indicates that the results for students participating in these
+programs exhibited the most variation. On some assessments
+administered to elementary students, scores were lower among
+those enrolled in moderately sized schools. Scores on the arts and
+humanities assessment, however, were lowest among the
+elementary students attending large schools. There were few
+differences among the scores of middle school students. Among
+high school students, scores were typically
+School-level Performance
+School-level performance was also compared across differentsized
+schools. This analysis was similar to the student-level
+analysis. The performance levels compared are individual student's
+scores aggregated for the school. Students are assigned to
+performance levels based on their scores on each assessment. A
+student with a score that falls within a particular range would be
+classified as performing at the proficient level. The percentage of
+students within each performance level is multiplied by a weight
+and totaled to determine the school's academic index. Table 9
+shows how the academic index is calculated for 4th-grade reading.
+Table 10 shows how school-level performance varied across
+different-sized schools. As with the student-level results, the
+figures show the difference between schools of a particular size
+and schools with 300 or fewer students. None of the differences for
+elementary schools was statistically significant. For middle and
+high schools, scores were typically lower for the moderately sized
+schools. There were no statistically significant differences,
+however, between the smallest group of schools and the largest
+group of schools.
+The results of the school-level analysis often differed from the
+student-level analysis. For example, elementary student-level
+scores did vary across school size, but no evidence of this
+difference was found in the school-level analysis. The method used
+to aggregate student-level scores may be the reason for these
+discrepancies. As individual scores are aggregated, some of the
+smaller differences are lost. For example, two students might both
+be considered distinguished even if there are several points
+between their scores. When aggregated at the school level, it only
+matters that they scored at the distinguished level, not that one
+scored higher. Therefore, both of these students make the same
+contribution to their schools' scores and any difference between
+them is lost. Given the lost precision inherent in the school-level
+scores, some of the differences observed at the student level would
+not be observed at the school level.
+In addition to comparing academic scores, it is possible to compare
+other measures such as attendance rates, dropout rates, and
+retention rates across different-sized schools. Dropout rates
+represent the number of students who drop out of school. Retention
+rates represent the percentage of students who are held back to
+repeat a grade. Comparisons across elementary and middle schools
+yielded no statistically significant differences across school size for
+any of these measures. Differences for high schools are shown in
+Table 11. Attendance rates were lower in high schools with 601 to
+900 students, otherwise there were no statistically significant
+differences. All of the groups of high schools with more than 300
+students had higher dropout rates than did high schools with 300 or
+fewer students. Other than being higher than schools with 300 or
+fewer students, there did not appear to be a strong relationship
+between dropout rates and school size. Retention rates were higher
+in schools with 901 to 1,500 students, but as with the academic
+measures of performance, there was no difference between the
+smaller and larger schools.
+Limitations of the Analysis
+The results discussed above provide an indication of how different
+types of students perform in schools of various sizes. There are
+some limitations, however, that should be noted. First, while it was
+possible to account for some factors that could influence scores,
+such as participation in an extended school services program, it is
+not possible to account for all the factors that influence student and
+school scores. For example, school officials and teachers may have
+developed independent programs to address their unique situations.
+Data on these programs are limited and not consistently collected
+across all districts in the state.
+In addition, it is likely that some families locate in school districts
+with characteristics that are seen as desirable. Families that believe
+small schools are preferable may locate in districts with small
+schools. If this is more likely to occur among families with highperforming
+students, then the results might be affected by these
+choices. Similarly, high-performing students may be attracted to
+larger schools that are able to offer a broader range of
+opportunities. As a result, the differences in performance across
+different-sized schools may not reflect only the advantages or
+disadvantages associated with different sizes. Instead, the results
+would also reflect the choices made by different types of families.
+It is unclear how much of the differences should be attributable to
+school size and how much should be attributable to other factors.
+Due to these limitations, the results should be interpreted as
+showing the performance levels of students who are enrolled in
+schools of various sizes with the recognition that other factors that
+might be unrelated to school size may also affect the results. The
+results do not necessarily indicate that the size of a school is the
+reason for different scores.
+Conclusions
+The results presented indicate that students' performance levels do
+differ across sizes of schools. These differences persisted even
+after accounting for various factors that could affect performance.
+The results comparing scores of all students suggest that students
+in the largest schools scored as well or higher than did students at
+smaller schools. The differences in scores varied across
+elementary, middle, and high schools and across assessments.
+Scores for elementary students were generally as high or higher at
+the largest schools. For some assessments, however, scores at the smallest and the largest groups of elementary schools were
+statistically the same. For middle school students, scores were
+progressively higher at the larger schools. Students' scores at high
+schools with 300 or fewer students were higher than those with
+301 to 600 and those with 601 to 900 students. This differed,
+however, for the largest high schools, in which students had scores
+as high or higher than students in the smallest schools.
+Much of the past research examining the relationship between
+enrollment and student performance concluded that performance is
+typically lower at larger schools. The original research examining
+Kentucky schools that was presented in this report suggests that
+this is not the case. One reason for this difference may be the
+amount of detailed data available in Kentucky. Often researchers
+must rely on samples of data or data that is limited in other ways.
+Kentucky collects many types of detailed data across all schools
+and for all students, which tends to improve the validity of the
+results.
+Another possible reason for the different findings is the manner in
+which differences in school size were evaluated. Past researchers
+typically assumed that the relationship between enrollment and
+performance was constant across all school sizes. This assumption
+was made by Summers and Wolfe, Fowler and Walberg, and
+Caldas. Given this assumption, the results would show a
+relationship that was the same across all schools. That is, if the
+analysis showed a negative relationship, the relationship would be
+negative across all sizes of schools. The relationship between size
+and performance, however, might not be constant across all school
+sizes.
+The results from analyzing Kentucky schools suggest that the
+relationship is more complicated. When comparing small schools
+to somewhat larger schools, performance was lower among the
+somewhat larger schools, indicating a negative relationship
+between size and performance. When the largest schools were
+included, performance at these schools often exceeded
+performance at the smaller schools. Therefore, the relationship is
+negative over a range of enrollment but positive beyond that
+range.9 Researchers who assumed the relationship was constant
+may have found a negative relationship overall because there are
+typically more schools with enrollment in the negative range than
+there are in the positive range.
+Proponents of small schools suggest that small schools offer
+students certain advantages that can result in a better education,
+such as more personalized attention or greater opportunities to be
+involved. There was some evidence suggesting that these types of
+advantages may exist. Students' scores at the smallest high schools
+were higher than those at somewhat larger schools. For all
+students, however, the largest schools frequently had higher scores
+than did the smallest schools. This suggests that the advantages
+provided at larger schools may be more effective at increasing
+scores on the state assessments.
+There is an important caveat that should be noted regarding these
+results. While the results do indicate that Kentucky students
+attending larger schools tend to perform as well as or better on
+average than do students at smaller schools, the reasons for this are
+not entirely clear. These differences could be due to the advantages
+that the largest schools can provide such as specialized programs.
+There may be other factors, however, affecting scores that could
+not be adequately accounted for in the analysis. For example, if
+larger schools are able to provide a broader range of classes than
+can smaller schools, higher-performing students may try to enroll
+in these schools. In addition, schools with high scores may attract
+more students, so that high performance levels result in larger
+schools. The performance differences across school size may
+reflect these types of choices and other factors that are not
+necessarily related to how well students learn at a particular-sized
+school.
+In addition, to the extent that larger schools do provide certain
+education advantages, these advantages may not apply equally to
+all students. For example, Asian students in large elementary
+schools scored lower than those in small elementary schools.
+Similar results were found on some assessments for Asian middle
+school students. Therefore, depending on their circumstances,
+some students may learn better in the environments provided at
+smaller schools, while others may perform better with the greater
+resources and more specialized classes that larger schools might
+provide.
+
+</text>

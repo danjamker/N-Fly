@@ -1,0 +1,146 @@
+TO UNAMBIGUOUSLY INTERPRET data from an OMICS style experiment, there is a requirement for access
+to a significant amount of additional information, or data about data (meta-data) (Bammler et al., 2005),
+for example, information related to the sample used in the experiment, details of the experimental design,
+and hardware used to obtain measurements. It is particularly important to have these meta-data if OMICS
+style experiments are to have any applied use in regulation and policy (e.g., chemicals management).
+In practice, any one of a myriad of uncontrolled environmental, biological, or technological parameters
+can have a significant influence on the resulting data. This is particularly true in environmental OMICS investigations
+in which biological samples which come from outbred individuals, populations (of a single
+species), and communities (e.g., of soil, water, or artificial environment-like bioreactors). The field of environmental
+OMICS is a diverse, heterogeneous discipline, often involving non-model organisms and multifactorial
+experiments that can have an extremely large number of measurable parameters. Some of these
+parameters are beyond the control of the researcher, but could still represent important information for interpretation
+of the investigation. The challenge, therefore, is to provide biologists with a framework that
+aids them in identifying and capturing the essential information associated with these particular types of
+experiments.
+The effective annotation of such data will necessarily require the extension of current OMICS data standards
+which have largely been developed to describe model organisms and which are appropriately generic.
+Groups that have developed or are developing standards in an attempt to address this requirement for OMICS
+style experiments include MGED (Microarray Gene Expression Data Society) for transcriptomics (Ball and
+Brazma, this issue), HUPO-PSI (Human Proteome Organisation–Proteomics Standards Initiative) for proteomics
+(Taylor et al., this issue), and more recently, the Metabolomics Standards Initiative for metabolic
+studies (Fiehn et al., this issue).
+In transcriptomics, the MGED society has developed a conceptual structure for representing the Minimum
+Information About a Microarray Experiment (MIAME) (Brazma et al., 2001). MIAME outlines the
+core information that is common to most microarray experiments and aims to establish a foundation for
+the standardized annotation of microarray data (Ball and Brazma, this issue). Most major scientific journals
+now require that any microarray data described in publications that involve microarray experiments
+comply with the MIAME guidelines. Furthermore, as with sequence data, prior to publication researchers
+should first obtain an accession number by submitting their data to a MIAME-compliant, public data repository
+such as ArrayExpress (Parkinson et al., 2005), GEO (Barrett et al., 2005), or CIBEX (Ikeo et al.,
+2003).
+The challenge of capturing domain specific information is not unique to environmental biology and is faced
+by investigators in many different areas of biology. Historically, MIAME was developed as a generic specification,
+neutral of biological discipline, but there are now successful examples of its extension to describe
+particular types of investigations. Discipline-specific initiatives can be regarded as important because they address
+“real world” data capture requirements for the particular community they represent. A good example of
+this is MIAME for Toxicogenomics (MIAME/Tox), which has expanded the core standard to support more
+closely the field of toxicogenomics (Sansone et al., 2004), MIAME for Nutrigenomics (MIAME/Nut) (Garosi
+et al., 2005) and MIAME/Plant (Zimmermann et al., 2006). All of these initiatives seek to build new resources
+and standardize best practice within their respective communities.
+We have built a similar extension to MIAME to meet the needs of the environmental genomics community.
+This effort has depended heavily on the involvement of the scientists actually generating environmental
+genomic data to help model the concepts for inclusion in the specification who now work together
+as the Environmental Genomics Working Group (EGWG). This community project is being coordinated by
+the Natural Environmental Research Council's (NERC) Environmental Bioinformatics Centre (NEBC), a
+bioinformatics center established to serve the data management needs of this community (Field et al., 2005).
+The toxicogenomics, nutrigenomics, and envirogenomic communities have recognized the need for a
+strategy that capitalizes on synergies and have joined forces to form the Reporting Structure for Biological
+Investigations (RSBI) (Sansone et al., this issue) working group under the MGED umbrella. The EGWG
+working group represents the environmental genomics component of the RSBI working group.
+In the short-term, the EGWG aims to contribute to the systematic support of transcriptomic data management
+generated in environmental genomic studies through the development of:
+1. Guidelines and a specification for the extension of the core MIAME specification to create MIAME/Env
+to capture environmental transcriptomic data
+2. A set of case studies in which MIAME/Env is applied to data from the environment transcriptomics
+community
+3. An appropriate repository that allows the storage, publishing, and searching of Env annotations such that
+they can illustrate the features of Env and promote its discussion within the wider community
+In the longer-term, the EGWG hopes to contribute the following in an environmental OMICS context:
+4. Terms and structure for an environmental biology ontology
+5. Guidelines for the capture of environmental information about the biomaterials used in other OMICS
+experiments
+6. Closer interactions with members of the wider functional OMICS community
+DEVELOPING THE MIAME/ENV CHECKLIST
+The general process we have used to develop Env is similar to most efforts to build community-level consensus.
+In summary, this process entailed the recognition of the need for an Env extension to MIAME, formation
+of a working group, selection of relevant case studies, generation of a MIAME/Env checklist, development
+of a suitable implementation, development of a repository to store, view, and distribute Env annotations,
+and finally, the annotation of case study data to Env compliant format and submission to the repository. In
+this process, the support, both financial and intellectual, of the management of the NERC Environmental Genomics
+Science programme (EG) was invaluable (Tiwari et al., 2006).
+Rationale
+The informal Env specification was developed in the first instance through the formulation of a working
+group that included scientists generating transcriptomic data for a variety of species of environmental importance.
+From discussions within our community it became apparent that most environmental genomics
+experiments can be placed into one of three broad categories:
+1. Field trials—Experiments in which one or more organisms are taken directly from the field or obtained
+from a standard provider, samples and extracts are prepared, and the hybridizations then performed
+2. Conditioned field trials—Experiments in which one or more organisms are taken from the field and conditioned
+in the lab or field under controlled animal husbandry conditions (preconditioning) and where
+“treatments” (conditioning) may be performed pre- and/or postsample/extract preparation
+3. Lab experiments—Experiments in which one or more organisms are lab reared or obtained from a standard
+provider and where “treatments” (conditioning) are usually performed pre- and/or post-sample/extract
+preparation
+This is the principal classification that drove the design of the MIAME/Env specification. We envisaged
+that these three experimental types would require different levels of experimental detail to be provided in
+certain sections of the specification. For example, field trials might be considered to be an irreproducible
+type of experiment, and as such the environmental history and location of the sample source will be of paramount
+importance and the information provided here will provide a high degree of detail. In contrast, sections
+such as animal husbandry and sample manipulations may be of less importance and might be relatively
+sparsely annotated.
+Environmental transcriptomic use cases
+The draft checklist was developed using case studies selected from our community. The usefulness
+of case studies in the development of such a project cannot be overstated. The selection of a range of
+case studies helped to define the “core” descriptors that were thought to be essential to capture from environmental
+transcriptomic studies. Four of the case studies selected to represent a broad range of taxa
+and experimental conditions are described on the project website (_http://envgen.nox.ac.uk/miame/case_
+studies.html_) and involved (1) rhythmic gene expression investigation in Nereis virens [egcat:000029],
+(2) lytic phase transcription profile of a Coccolithovirus [egcat:000010] (Wilson et al., 2005), (3) application
+of microarray technology to reveal the complexity and genetic basis of the environmental adaptive
+osmoregulatory physiology of euryhaline teleosts [egcat:000011], and (4) turnip mosaic virus coevolution
+in wild Brassica species [egcat:000023]. The description of each case study provided on
+the web site overviews the environmental information of most importance to each study to illustrate
+the scope of the data that needed to be modelled. Further information about each project is stored in
+EnvBase (_http://envgen/nox.ac.uk/envbase_) and can be accessed using the accession number given (i.e.,
+egcat:000010).
+The MIAME/Env checklist
+The MIAME/Env checklist was developed through an iterative process of knowledge gathering by the
+developers from the participating environmental biologists and is available from the project website
+(_http://envgen.nox.ac.uk/miame/miame_env.html_). In brief, we decided to define four additional concepts
+useful for environmental genomics studies: geographic location, environment, organism relationship, and
+phenotype. These four concepts range in complexity. Geographic location is given as set of coordinates in
+a global context. In comparison, organism relationship has been designed to capture interactions and dependencies
+between organisms, a common feature of environmental (ecological) studies used, for example,
+to model endo-parasite host relationships, where the “environment” of the parasite under study is another
+organism.
+In contrast to the minimal complexity required to adequately describe the concepts “geographic location”
+and “organism relationships,” the concepts “environment” and “phenotype” can be described with a potentially
+endless variety of parameters. For example, worms have about 40 different measurable phenotypic
+characteristics. Among those currently used in the analysis of polychaete worms, Rouse and Fauchald (1997)
+adopt a methodology in which measures of anatomical characteristics such as the antennae, palps, nuchal
+organs, parapodia, and chaetae form the basis of subsequent analyses. In particular, Olive et al. (case study
+1) capture information about the behavioral phenotype of costal dwelling worms, recording their activity
+as a function of time. Clearly, the majority of these phenotypic characteristics are unique to these specific
+types of organisms and do not constitute generic minimal descriptors that would be common for other experimenters
+wishing to annotate their data.
+The Env specification attempts to overcome this challenge by adhering to a defined structure as follows.
+Four pieces of information are collected to describe each optional parameter. The first piece of information
+is a “compound concept,” consisting of the entity and a measure of that entity. This is followed by a value
+for the measurement; the units used for the value (if appropriate) and finally, the assay used to obtain the
+value. For example, when capturing an environmental concept the compound entity might be soil and the
+measure of that entity might be temperature (“soil temperature”), the value could be “14,” the unit could
+be “Celsius,” and the assay for the measurement was “thermometer.” This concept is based on a proposal
+for describing mouse phenotypes (Gkoutos et al., 2005). Capturing the parameters using a generic methodology
+such as this, permits data annotation both with existing ontologies and via user-specific terms. Another
+benefit of this approach is that it provides a unified method for capturing measured and derived parameters.
+Two further additions were made which applied to the description of experimental protocols. Firstly, we
+defined terms to describe the biological treatment of a sample (in addition to physical and chemical treatments).
+The main motivation for doing this was a particular need among environmental biologists to describe
+treatments involving a biological component. For example, one of our case studies (case study 4) examined
+the effect on gene expression in the plant Brassica rapa when exposed to a biological perturbation, namely infection
+with Turnip mosaic virus. Secondly, the concept “ExperimentalPhase” was defined to record the phase
+in the experiment in which a protocol was applied. For example, many of the treatment procedures constitute
+an acclimation phase, which involves pre-conditioning the organisms potentially taken from the wild, prior to
+treatment or conditioning. This was considered to be a common and important distinction in the phase of most
+environmental experiments that the community considered useful to represent about their data.

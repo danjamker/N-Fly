@@ -1,0 +1,175 @@
+1. Introduction
+In the current economic environment, organisations have realized that effective development
+and management of an enterprise's organisational knowledge base will be
+a crucial success factor in the knowledge-intensive markets of the current century
+ (Abecker and Decker 1999; Davenport and Prusak 1998). An organisational memory1
+is designed to store what employees have learned from the past in order for it to
+be reused by current employees in solving problems more effectively and efficiently.
+There are two kinds of retrieval in the organisational memory. One is information
+retrieval, which aims to provide the information required by the task at hand. However,
+access to information only is not sufficient, as people often need to communicate
+with each other in order to find more important information that cannot be obtained
+from explicit documentation. That is why we need another kind of retrieval—
+people retrieval. The process of finding relevant individuals who have similar interests
+is also called expertise matching. As noted by many researchers (Ackerman
+and Halverson 1998; Bannon et al. 1996; Bennis 1997; Bishop 2000; Cross and
+Baird 2000; Gibson 1996; Stewart 1997; Wellins et al. 1993; Yimam-Seid 1999),
+employees learn more effectively by interacting with other employees because the
+tacit knowledge and expertise people possess are difficult to codify and store in
+a knowledge management system. There is widespread agreement that the highest
+value knowledge is the tacit knowledge stored in peoples heads (Horvath 2000). Consequently,
+our research emphasis is on how to support people retrieval rather than
+information retrieval.
+If users wish to search for information in web pages, they can use search engines.
+However, if they want to locate an individual with the required expertise, there is
+no existing system that provides a satisfactory result. Users have to manually check
+different data sources stored in the organisational memory in order to find pieces of
+information relevant to an expert and then combine them manually. Considering the
+huge amount of information that the organisational memory stores, it is difficult for
+users to find experts with specific expertise. The main challenge addressed in this
+work is how people retrieval can be improved by extracting relevant information associated
+with an expert from different data sources and then semantically integrating
+them.
+This paper analyses the problem of expertise matching and presents a RDF-based
+solution to the problem. This approach has been tested through a case study that can
+assist Ph.D. applicants to the School of Computing, University of Leeds, locate the
+potential supervisors with the required expertise. The profile of each potential supervisor
+is created based on semantically integrated information derived from diverse
+data sources; hence, the performance of expertise matching is enhanced, which is
+illustrated through the results of the experiment.
+This paper is organised as follows. It begins with an analysis of the expertise
+matching problem in Sect. 2. Section 3 describes the possible approaches to solving
+heterogeneous problems and justifies the use of RDF to the expertise matching
+problem. Section 4 demonstrates expertise matching in a brokering system that has
+been developed at the University of Leeds to help Ph.D. applicants locate potential
+supervisor(s). It also describes the rationale for the system and presents the architecture.
+The use of the system is illustrated in Sect. 5 along with the key results.
+Section 6 investigates how to extend the single disciplinary expertise matching to
+multidisciplines domain. Section 7 compares our work with other related projects
+and finally conclusions are given in Sect. 8.
+Fig. 1. Expertise Matcher as a knowledge broker to locate experts
+2. Analysis of the problem
+There are many definitions of expertise. One definition from Webster's dictionary
+is “having, involving, or displaying special skill or knowledge derived from training
+or experience.” Engestrom gave a further explanation: “expertise resides under
+the individual's skin, in the form of explicit or tacit knowledge, skills and cognitive
+properties that enable one to display superior performances in the given field”
+(Engestrom 1992). It is also defined as “the ability to apply intellectual skills and
+knowledge to solve problems” (Abel et al. 1998). However, the substance of skills,
+knowledge and ability is a hidden variable and difficult to codify. One solution is
+to ask experts to express their expertise in several keywords, which are then stored
+in an expertise database. Examples are COS2, VTED3, BATH4, and New England5.
+REPIS6 is distinct from these and a brief description of the system is given here.
+The University of Leeds Research Expertise and Publications Information System
+(REPIS) is a web-based information management system. It stores information about
+publications and research projects acquired from a variety of different sources. The
+principal objectives of REPIS are to provide a directory of research expertise across
+the University so that users can locate members of staff with expertise in specific
+areas. The REPIS Expertise Matcher acts as a knowledge broker connecting knowledge
+seekers and knowledge Providers, as shown in Fig. 1. The difference between
+REPIS and other systems is that expertise is not input by the individual academics
+themselves but derived from their associated work outputs, in other words, their publications
+and projects. The information of these work outputs has already been stored
+in an organisational memory. The current REPIS system uses search methods employed
+by Microsoft SQL Server to search publication and project databases in order
+to locate the most appropriate expert(s).
+The above two kinds of approaches use DBMS techniques to store and retrieve
+expertise. However, there are limitations associated with DBMS techniques. First,
+users looking for experts in a particular field need a lot of information in order
+to assess if this is an appropriate person to contact. For example, users need to
+know the experts' position(s), their research interests, the project(s) in which they
+are involved, records of activities, and they may even want to read research papers
+the experts have produced. Manually creating a database to store all this information
+is very difficult and expensive. Second, there is the critical problem of maintaining
+up-to-date information. A person's expertise changes over time and it is not feasible
+to rely on the individual to report developments to their expertise profile and even
+so, the database maintenance task would be significant if many individuals were
+involved (for example, there are nearly 4,000 academic-related staff at the University
+of Leeds).
+Rather than creating a new database to store the duplicate information, some systems
+have been built to find up-to-date expertise information by monitoring users'
+emails (such as Foner (1997), Kanfer and Schlosser (1997)), browsing behaviour
+(such as Cohen et al. (1998), Pikrakis et al. (1998)), organisational electronic repositories
+(such as Mattox et al. (1999), McDonald and Ackerman (2000)), and so on.
+However, using email as an implicit source for expertise may raise privacy and security
+problems, and browsing behaviour reflects users' interests more than their expertise.
+Organisational electronic repositories are good sources to extract people's expertise.
+For example, personal homepages, publications, projects can all be considered
+as expertise indication. However, most systems rely on a single data source only. One
+important issue is whether it is possible to automatically extract the pieces of information
+relevant to each expert from heterogeneous data sources in the organisational
+memory and then integrate them dynamically. In order to locate the right experts and
+present the supported information, it is necessary to collect more relevant information
+of each expert. To address this issue, we have to examine closely what kind of
+data source is stored in the organisational memory, including an expertise indicator.
+There are a number of different data sources, varying from structured data (such as
+project databases) and semistructured data (such as personal web pages) to unstructured
+data (such as technical reports) that include evidence of expertise. This heterogeneity
+brings many difficulties in information integration. Heterogeneity can be
+classified differently (Busse et al. 2002; Seligman and Rosenthal 2001; Sheth 1998);
+the most common types are (1) heterogeneous interfaces, (2) heterogeneous attribute
+representations, (3) heterogeneous schemas, (4) heterogeneous semantics, (5) object
+identification.
+3. Approaches to solving the problems of heterogeneity
+The problems of heterogeneity have been addressed in various studies and corresponding
+techniques have been proposed. Traditional approaches, which include standards
+like ODBC, middleware, federated database system (FDBS), and mediatorbased
+information system, all suffer limitations. For example, middleware may be
+costly and may be inefficient compared with using native interfaces (Seligman and
+Rosenthal 2001). FDBS is only applicable to databases, while mediator-based information
+systems require the software developers to have a clear understanding of
+a variety of metadata as well as a comprehensive understanding of schematic heterogeneity
+(Sheth 1998). In rule-based mediators (such as Garcia-Molina et al. (1997)),
+rules are mainly designed to deal with structural heterogeneity problems rather than
+Use of RDF for expertise matching within academia 107
+semantic heterogeneity (Stuckenschmidt 2000). The literature on integration is more
+concentrated on syntax and structure, with few studies focusing on semantic interoperability
+(see, for example, Fensel et al. (1999), Stuckenschmidt (2000)).
+Extensible markup language (XML) (Bray et al. 2000) is accepted as the emerging
+standard for data interchange on the web. XML has defined a neutral syntax
+that can transform diverse data structures into graph-structured data as nested tagged
+elements (Seligman and Rosenthal 2001). In this way, heterogeneous data structures
+can be represented in a uniform syntax—XML. Using XML, the three problems
+listed in Sect. 2 can be alleviated (heterogeneous DBMSs, heterogeneous attribute
+representations and heterogeneous schemas). However, XML cannot support integration
+at the semantic level. For example, there are two expressions: &lt;Surname&gt;
+Black &lt;/Surname&gt; and &lt;Lastname&gt; Black &lt;/Lastname&gt;, which seem to carry
+some semantics. However, the system does not understand that Surname and Lastname
+mean the same thing and that they are related to another concept, for example,
+person. XML schema provides support for explicit structural cardinality and data
+typing constraints, but does not provide much support for the semantic knowledge
+necessary to integrate information (Hunter and Lagoze 2001). Again, XML does not
+play a very significant role in object identification.
+RDF (resource description framework) (Lassila and Swick 1999) and RDFS (the
+schema language for RDF) (Brickley and Guha 2000) are W3C recommendations for
+describing metadata on the web. They can be used to solve the semantic heterogeneous
+problem. RDF provides a standard representation language for web metadata
+based on directed labelled graphs (Karvounarakis et al. 2000). It consists of three object
+types: resource, property and statement. Every resource has a uniform resource
+identifier (URI). The use of URIs to unambiguously denote objects and of properties
+to describe relationships between objects distinguish it fundamentally from XML's
+tree-based data model (Decker et al. 2000). The same RDF tree can be expressed
+differently in many XML trees because the order of elements in an XML document
+is very restricted. So RDF successfully avoids the problem of querying XML trees,
+which attempts to convert the set of all possible representations of a fact into one
+statement (Berners-Lee 1998).
+To solve the heterogeneous semantics problem, a common understanding of
+a shared set of terms describing the application domain is needed. This is called an
+ontology7, which includes not only the definition of the terms but also the relationships
+between these terms. RDF/RDFS can be used to define instances/concepts of
+an ontology. Through using ontology to make the implicit meaning of their different
+terminologies explicit, it is then possible to dynamically locate relevant data sources
+based on their content and to integrate them as the need arises (Cui et al. 1999).
+Having justified the importance of RDF/RDFS for semantic information integration,
+the use of RDF/RDFS in an organisational memory can now be explored. The
+aim is to provide a coherent and meaningful view of the integrated heterogeneous
+information sources associated with each expert. To better understand the issue involved
+in the design of RDF-based expertise matching, the following case study has
+been chosen. This case study is about a brokering system, which matches Ph.D. applicants
+with potential supervisors in the School of Computing at the University of
+Leeds.
+7 The difference between ontology and conceptual model is that “Ontology is external to information
+systems and is a specification of possible worlds in some particular domain that covers multiple and often
+a priori unknown information systems while a conceptual model is internal to information systems and is
+a specification of one possible world of that domain” (Bishr and Kuhn 2000)
+

@@ -1,0 +1,158 @@
+<text id="J73" category="" words="2012" checkedby="" modifiedby="" Title="Determinants of Airport Choice in a Multi-Airport Region" Author="Erwin A. Blackstone, Andrew J. Buck, and Simon Hakim" PublicationDate="2006" SampledFrom="Atlantic Economic Journal (2006)34:313Y326" WebAddress="http://proquest.umi.com/pqdlink?Ver=1&Exp=12-21-2015&FMT=7&DID=1135519291&RQT=309&clientId=14829">
+
+Until 1984, the Civil Aeronautics Board (CAB) was responsible for regulating airfares
+in the United States. As a consequence of that regulation, commercial passenger carriers
+competed on many dimensions other than price. Such behavior was recognized as being
+economically inefficient. The price system was not being allowed to direct resources to
+their greatest value in use. The CAB was dismantled on the premise that price
+competition among carriers would benefit consumers and direct productive resources
+to their greatest value in use. It was felt that, inter alia, the threat of entry would be
+sufficient to prevent airlines from being able to exploit apparent monopoly power. That
+premise ignores the fact that consumers are an essential element in the exercise of
+market power. If consumers do not search for low fares, then it is unlikely that the threat
+of entry will have much impact on the fare structure. The effect of the entry of a low fare
+carrier will only be the reallocation of fliers among carriers at an airport, with little
+impact on the allocation of passengers among airports. Indeed, one of the current stylized
+facts about air travel is that there is more variation in price among carriers at an airport
+than among airports. It is possible to evaluate the effect of low fares on consumer
+behavior, and by implication the likely success of the threat of entry as a disciplinary
+device, by examining multi-airport markets. The unwillingness of flyers to travel to other
+airports to obtain lower fares increases the ability of carriers to exploit monopoly power
+and discriminate in prices. Since broad geographic markets are often used in merger
+cases,1 our analysis may shed some light on such markets.
+
+Ashford and Benchemam [1987] studied airport choice in central England for the
+period 1975Y1978. Among business travelers, distance to the airport was the most
+important variable, followed by frequency of service. Fare was found to be most
+important among those traveling for pleasure. Caves et al. [1991] found access
+time, frequency, and fare to be significant variables in a model of choice between mature
+and emerging airports in England. Thompson and Caves [1993] used data for 1983 to
+study airport choice in northern England. For both business and leisure travelers,
+distance to the airport and number of available seats were important. Frequency of
+service was also important for business travelers. In the San Francisco market, Harvey
+[1987] found access time and frequency of service to be determinative. None of these
+earlier efforts would lead one to believe that the difference in fares from different
+airports would lead to more competition among carriers, or that fare differences could
+lead to the reallocation of market share among airports. More recent studies, using
+various modifications of the multinomial logit model, also confirm the importance of
+access time and frequency of flights in airport choice [Basar and Bhat, 2004; Pels et al.,
+2003; Windle and Dresner, 1995]. The lack of searching for the best fare among airports
+is perhaps understandable given the time cost of travel to a lower fare airport may
+swamp any differences in fares.
+In Spring of 2000, a phone survey was conducted of residents of the market area of
+Philadelphia International Airport (PHL). The eventual goal of PHL was to learn about
+its customer base with an eye to increasing its market. PHL management considers its
+facility in competition with not only the small regional airports but also with its large
+neighbors to the north and the south: JFK International, Newark International, and
+BaltimoreYWashington International. The relevant market was defined by PHL_s
+management. Newark is the largest of the four, and BaltimoreYWashington is the
+smallest. The analysis of that survey is reported here.
+The 1,100 respondents in the final sample were asked a wide variety of questions
+about their travel and airport usage. From the survey data, both univariate and
+multivariate probit models of airport choice were estimated. A preference for using a low
+fare airport was expressed by survey participants. However, in the sample used here,
+actually searching for a low fare was not a significant variable in airport selection.
+Apparently, respondents liked the idea of using a low fare airport but did not do much
+fare research and did not base their eventual choice on fare differences. As a new entrant
+in a multi-airport region, a discount airline should enter at that airport where there is
+the greatest opportunity for winning market share from incumbents without relying on
+attracting new passengers from other airports.
+Income was a significant variable in the use of two of the three distant airports:
+Newark and BWI. Higher income increased the likelihood of flying from either Newark
+or BWI in the previous year. If distance from the respondent_s residence to the airport
+was an important consideration, then it increased their likelihood of using JFK, Newark,
+and Philadelphia. Those who used airports other than the target airport were also more
+likely to use the target airport. For example, those who had used BWI, JFK, and EWR
+were also more likely to have used PHL.
+The Model
+Passengers must decide on both an airline and an airport for their travel. The phone
+survey used to assemble the data asked respondents to think about all of their travel in
+the prior year. This precluded directly asking about choice of airline as could be done in
+an intercept interview in an airport. Consequently the model used here addresses only
+the choice of airport.
+The decision about which airport to use can be cast as either an index function model
+or a random utility model. In the index function approach, the agent makes a marginal
+benefit Y marginal cost calculation based on the utility achieved by choosing to fly a
+particular airline between one originYdestination pair instead of another. The difference
+between benefit and cost is modeled as an unobservable variable y* such that
+The error term is assumed to have a particular known distribution. The net benefit of
+the choice is never observed, only the choice itself. Therefore, the observation is
+
+and is known as the index function. The open issue is the parametric specification of
+the error term.
+The preponderance of airport choice studies rely on intercept interviews in the
+airports. Consequently, the respondent has made an airline and airport choice from
+among mutually exclusive alternatives. In this context, a multinomial model is
+appropriate. The computationally least cumbersome model of
+the error process is the multinomial logit. The logit model has the drawback that adding
+an additional choice comes at the expense of reducing the probabilities of the original
+choices, even when the added choice is no different from those already in the choice set.
+This is known as the problem of the independence of irrelevant choices. To escape the
+problem of independence of irrelevant alternatives inherent in the multinomial logit,
+authors frequently use a nested multinomial logit. A numerically more cumbersome alternative is the multinomial probit model, in which the error term in equation (1) is assumed to have a normal
+distribution. The multinomial probit model which overcomes the independence of
+irrelevant alternatives problem is used here.
+The individual studies and the methodological approach reviewed above all suppose
+that the economic agent is choosing from among mutually exclusive alternatives. In the
+phone survey conducted for the Philadelphia International Airport, the respondents
+were not at a particular airport, having made a travel mode decision. Rather, they were
+at home and were asked to reflect on all the choices that they had made in the previous
+year. Hence, having flown from Newark Airport does not preclude having flown from
+another airport in the region during the prior year, for example. With this in mind the
+univariate binomial choice model of equation (1) becomes
+for the four airports included in the Philadelphia International Airport study. The error vector
+has a joint normal distribution. Since the net benefit of flying from a particular
+airport is unobserved, the observed data on the dependent variable are the quadruplet
+The open question is the modeling of the index function. The index function that is
+used here is a mix of indirect utility arguments and tastes and preferences. The survey
+results included data on the respondents_ age, gender, and income. The signs on age and
+gender are indeterminate. The marginal effect of an increase in income on the
+probability of using a more distant airport could be negative or positive. As an
+individual_s income rises, she finds the opportunity cost of increased travel time to a
+more distant airport to be a disincentive to using that airport. On the other hand,
+service and fare might overcome that incentive.
+The indirect utility arguments include whether the respondent_s travel agent tried to
+steer them toward a particular airport choice and whether the respondent had obtained
+the price of a comparable flight from an airport other than Philadelphia. The agent may
+have insider information about fares and service at an airport that is not otherwise
+available to the respondent. The advent of the Internet and its lower cost of information
+gathering may weaken this argument. Consequently, the respondent values the agent_s
+information and is more likely to use the recommended airport. One would expect that a
+consumers price research would induce them to use the flight departing from the
+cheaper airport.
+Tastes and preferences are modeled from a sequence of questions regarding factors that
+the traveler finds important in choice of airport. The survey3 asked for an ordered response
+to eight such questions. Table 2 provides the questions and corresponding descriptive
+statistics. Survey participants could rank an attribute of an airport and its services from 0
+to 5; a response of 0 indicated that the factor was not at all important, a response of 5
+indicated that the factor was extremely important in the decision making process.
+If ability to choose a particular airline or fly an international carrier is important, then
+one would expect that the respondent would be more likely to have flown out of JFK, all
+other things equal, given its much wider choice of carriers. People for whom
+distance to the airport is an important consideration would be less likely to have flown
+out of JFK. If finding a non-stop flight is extremely important, then the respondent
+should be more likely to have flown out of EWR. The folk wisdom is that because USAir
+has dominated PHL for so long, it has the ability to charge higher fares. There is no
+similar carrier dominance in the other three airports. Therefore, if price is an extremely
+important consideration, then a respondent should be less likely to have flown out of
+PHL in the preceding year. Since BWI has the greatest number of parking spaces per
+passenger, one would expect that those for whom parking is extremely important would
+be more likely to fly from BWI. All three airports are served by public transit. JFK has
+the most difficult public transit system. It requires use of the subway and train changes.
+On the other hand, there is a direct heavy rail link from Philadelphia_s major train
+stations out to the airport, but hardly anyone uses the system. Ticket counter waiting
+times at the different airports is not reported on a systematic basis. An alternative would
+be ticket counters per passenger, but we were not able to locate that data.
+The Data
+In May and April 2000, a phone survey was conducted on behalf of the management
+of the Philadelphia International Airport. Approximately 5,000 households in a market
+region defined by the management of the Philadelphia International Airport were
+contacted regarding their participation in the survey about travel outside the region and
+modal choice. The phone contacts were selected from one of two sub-populations: those
+who had previously expressed an interest in travel and those from the general
+population. Those who had flown out of Philadelphia International Airport are overrepresented
+in the sample.The resulting final sample had 1,100 usable responses, of
+which 827 had traveled out of the region and 627 had flown out of one or more of the
+major airports in the region.
+
+</text>

@@ -1,0 +1,165 @@
+In earthquake
+engineering, the hazard is the earthquake and the vulnerability depends on the design,
+construction and maintenance of the facility. The risk is the anticipated loss when the
+hazard impacts on the facility. For this purpose, buildings are classified into specific
+types and a vulnerability index found from a number of assessed indicators. Acceptable
+risk has to be decided through the political process. The acceptability or otherwise of two
+similar risks is complex since what might be easily acceptable to one person might be
+Structural integrity: hazard, vulnerability and risk 121
+totally unacceptable to another e.g., dangerous sports can be exciting. One important
+aspect is the degree of control felt by the individual. Risks therefore must be set in a
+social context and, in a democracy, within a regulatory framework agreed through a
+political process.
+As stated earlier, risk combines vulnerability and hazard. However before pursuing
+this approach in more detail let us look at the chance of the various levels of damage (D)
+in a structure leading to ultimate failure (F) of that structure due to hazard (H). To assess
+the risk we need to get some measure of chance. This is usually done as a probability.
+p(F&amp;D&amp;H)?p(F/D&amp;H).p(D/H).p(H). (1)
+This says, in natural (non-mathematical language), that the probability of F and D and H
+all occurring together is equal to the probability of F given that D and H have occurred
+together multiplied by the probability of D given that H has occurred multiplied by
+the probability that H will occur. This expression is a standard piece of probability
+mathematics using conditional statements.
+To help us understand what this means we can make some further assumptions.
+Let us assume that F logically implies D and also that D logically implies H. This means
+that D is necessary (must happen) for F to happen. Likewise H is necessary
+(must happen) for D to happen. In other words we are restricting ourselves to looking at
+failure that can not happen without damage and damage that cannot happen without a
+hazard. Figure 1 sets this out diagrammatically. We therefore simplify equation (1) to
+p(F&amp;D&amp;H)??p(F/D). p(D/H). p(H). (2)
+Figure 1 The sets of hazard, damage and failure
+This says, in natural language, that the probability of F and D and H all occurring
+together is equal to the probability of F given that D has occurred multiplied by the
+probability of D given that H has occurred multiplied by the probability that H will occur.
+This is slightly simpler than the previous expression but still requires some interpretation.
+Many earthquake engineers (e.g., di Pasquale et al., 2005) use p(D/H) to define
+vulnerability. Then p(F/D) is used to express loss so that seismic risk is the product of
+loss, vulnerability and hazard.
+However we suggest that we think of p(F/D) . p(D/H) as an expression of
+vulnerability. It expresses the chance of failure given a specific intensity of earthquake by
+looking at the level of damage. A vulnerable structure will have a high value of p(F/D)
+for a low level of damage. This is because vulnerability is more than simple susceptibility
+to damage. Vulnerability should express the idea of the susceptibility in the sense
+that a small amount of damage (that has occurred because of the earthquake) leads to
+disproportionate consequences. Note that we have detached p(F/D) from the hazard
+itself although it is still related through the level of the damage D. We have made
+p(F/D) clearly a property of the form of the structure and the way it responds to
+damage – whatever the action that causes it although we recognise it is embedded in a
+hazard. If a structure experiences a small level of damage and then "unzips' through
+progressive failure to total collapse then it is more vulnerable than one that does not have
+that characteristic. This allows us to connect the ideas used in earthquake engineering to
+those used in progressive collapse and robustness in other areas of structural engineering
+and also to concerns about designing structures that are robust to terrorism.
+In earthquake engineering the level of vulnerability is often captured by a
+vulnerability index rather than as a probability. These two quantities are distinct but
+related and must not be confused. The expression p(D/H) is the chance of a given level of
+damage in an earthquake. When the damage causes failure (D = F) it is more usually
+called the probability of failure or reliability of the structure. A full probabilistic
+analysis is not easy but a deterministic estimate may be derived from a response
+analysis of the usual form. This may include (i) a complex non-linear finite element
+analysis, (ii) a simpler but still quite complicated push over analysis where a shear force
+is applied at ground level and the horizontal sway displacement at the top of the building
+estimated, (iii) a vertical pushover test or (iv) at the most simplest a classification of
+buildings according to some chosen indicators. Again the measure of p(D/H) is distinct
+from the damage assessments often used in practice but they are very likely to vary
+proportionately (unlike the many and various vulnerability indices and p(F/H) which may
+not vary proportionately).
+Finally p(H) is the probability of hazard e.g., an earthquake of a given intensity
+or corrosion. Thus we can express the mathematics in words as chance of
+failure = vulnerability ??hazard but we must take care over the interpretation of the
+vulnerability measure since it involves characteristics of the form of the structure as well
+as characteristics of structural response to hazard and loading actions including terrorist
+action. We shall demonstrate this in the next section through an example.
+4 Vulnerability and risk assessment
+Research at Bristol University has focused on how to identify the "weakest links' in a
+structure (see e.g., Lu et al., 1999; Agarwal et al., 2001). Figure 2 shows an example of
+damage events on a truss structure leading to progressive collapse (ignoring dynamic
+effects). Figure 3 gives a schematic view of how a failure scenario may be formed.
+The method of finding failure scenarios as series of damage events is based on a systems
+Structural integrity: hazard, vulnerability and risk 123
+approach to clustering the structure into simple sub-structures and searching for failure
+scenarios with high vulnerability index. This kind of vulnerability assessment is one of
+the connectivity of form and the absorption of energy. In brief, it requires the following
+processes:
+??Building a model of the form of a structural system. Graph theory is used as a basis
+to develop a model of the form of a structural system. The characteristics of the form
+of a structural system are captured in a structural ring in 2D or a structural round
+in 3D. A structural ring or round is the minimum structural configuration capable to
+resisting loads in 2D and 3D respectively. This enables the development of a
+measure of the quality of its form – called "wellformedness'.
+??Representing the structure in a hierarchical form. The structural components are
+organised into structural clusters according to the quality of their structural form.
+A structural system is then represented as a set of these interconnected clusters.
+Successive clustering creates a hierarchy. At the lowest level a structure is
+represented with its components and at the highest level is the whole structural
+system.
+??Identifying various failure scenarios of the structural system. A hierarchical model
+reveals the form of the structure and enables the identification of weak links at
+different levels. A set of such links gives a failure scenario. By analysing the damage
+demand and the consequences of various damage events, vulnerable failure scenarios
+are identified.
+Figure 2 An example of progressive collapse
+Source: Pinto (2002)
+Figure 3 Trajectories through damage classes
+In the vulnerability analysis, the actions causing damage events are not specified initially
+but these may include, for example, material defects, material degradation, extreme
+natural hazards, accidental damage, fire and so on. Once the vulnerable failure scenarios
+have been identified these are considered in turn and an assessment is made about their
+likelihood. This requires considering all possible hazards (or threats) and gathering the
+corresponding evidence that these hazards will lead to the realisation of damage events.
+Table 2 summarises risk calculations for the failure scenario shown in Figure 2.
+Different external hazards (column b in the table) are considered and a linguistic
+assessment of damage to members is made assuming each hazard existed independent of
+the others. For the purpose of this illustration, the likelihood of hazards p(H) (column c)
+and damage assessment of members p(D/H) (column e) is based on a simplified
+quantitative analysis and/or engineering judgment and a rigorous quantitative analysis for
+different hazards would help improve the results. Support for the likelihood of a failure
+scenario is summarised in column i. Where a scenario has more than one damage event
+careful consideration has to be given to the degree of dependency between them.
+Consequences (column j) of different vulnerable scenarios and the chance of failure
+(column i) can be plotted in the form of a risk map. However, here a measure of risk
+(column k) has been obtained. The two numbers here refer to the lower and upper
+bounds. In general there would be a large number of failure scenarios and appropriate
+actions can be taken to mitigate critical failure scenarios. These may include
+??modifications to the structure
+??appropriate measures to limit the hazards.
+Table 2 Assessment of structural risk
+In recent work (England et al., 2005) various failure scenarios identified through
+vulnerability analysis have been considered for changing member properties and
+loading conditions to calculate a hazard potential (Figure 4). The measure is based on a
+thermodynamic analogy where the hazard potential is analogous to temperature and heat
+flow is analogous to change in internal strain energy. As a structure is damaged the
+internal strain energy increases until the final damage event when all of the internal
+energy is released into kinetic and other forms of energy such as sound and heat.
+The hazard potential is the change in strain energy divided by the change in well
+formedness of the structure. The resulting curves represent an accident waiting to happen
+and provide an important potential way of assessing the vulnerability of individual
+important structures (such as hospitals, schools and buildings containing valuable or
+potentially dangerous assets).
+Figure 4 Hazard potential for structures
+Source: England et al. (2005)
+Although different tools do help us to identify vulnerabilities and assess risks, it must be
+emphasised that the management of risk, hazard and vulnerability ultimately depends
+crucially on the competence of the people who are responsible for it.
+5 Conclusion
+Risk, hazard and vulnerability are words that are used interchangeably in everyday life.
+Specific technical interpretations have emerged from these every day meanings.
+The difficulty is that different professions and groups are using the terms differently and
+this can be confusing unless we are careful.
+Structural integrity: hazard, vulnerability and risk 127
+The core idea of hazard is potential for danger. Vulnerability captures the concept of
+susceptibility to damage – but it is more than that. It is a property of a system where
+small damage can cause disproportionate consequences.
+Risk is in the future. When we think of risk we are thinking of a potentially dangerous
+situation which might or might not exist in the future with consequences we want to
+avoid.
+Risk combines vulnerability and hazard but we must take care over the interpretation
+of the vulnerability measure since it involves characteristics of the form of the structure
+as well as characteristics of structural response to hazard and loading actions including
+terrorist action.
+The method of finding failure scenarios as series of damage events is based on a
+systems approach to clustering the structure into simple sub-structures and searching for
+failure scenarios with high vulnerability index. The product of vulnerability index and
+the corresponding support for the failure scenario due to different hazards gives a
+measure of risk.
+

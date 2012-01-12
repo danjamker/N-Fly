@@ -1,0 +1,126 @@
+PART 1 PERSONS WHO LACK CAPACITY 
+The principles 
+1 The principles 
+(1) The following principles apply for the purposes of this Act. 
+(2) A person must be assumed to have capacity unless it is established that he lacks capacity. 
+(3) A person is not to be treated as unable to make a decision unless all practicable steps to help him to do so have been taken without success. 
+(4) A person is not to be treated as unable to make a decision merely because he makes an unwise decision. 
+(5) An act done, or decision made, under this Act for or on behalf of a person who lacks capacity must be done, or made, in his best interests. 
+(6) Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person's rights and freedom of action. 
+Preliminary 
+2 People who lack capacity 
+(1) For the purposes of this Act, a person lacks capacity in relation to a matter if at the material time he is unable to make a decision for himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain. 
+(2) It does not matter whether the impairment or disturbance is permanent or temporary. 
+(3) A lack of capacity cannot be established merely by reference to— 
+(a) a person's age or appearance, or 
+(b) a condition of his, or an aspect of his behaviour, which might lead others to make unjustified assumptions about his capacity. 
+(4) In proceedings under this Act or any other enactment, any question whether a person lacks capacity within the meaning of this Act must be decided on the balance of probabilities. 
+(5) No power which a person (“D”) may exercise under this Act— 
+(a) in relation to a person who lacks capacity, or 
+(b) where D reasonably thinks that a person lacks capacity, 
+is exercisable in relation to a person under 16.
+(6) Subsection (5) is subject to section 18(3). 
+3 Inability to make decisions 
+(1) For the purposes of section 2, a person is unable to make a decision for himself if he is unable— 
+(a) to understand the information relevant to the decision, 
+(b) to retain that information, 
+(c) to use or weigh that information as part of the process of making the decision, or 
+(d) to communicate his decision (whether by talking, using sign language or any other means). 
+(2) A person is not to be regarded as unable to understand the information relevant to a decision if he is able to understand an explanation of it given to him in a way that is appropriate to his circumstances (using simple language, visual aids or any other means). 
+(3) The fact that a person is able to retain the information relevant to a decision for a short period only does not prevent him from being regarded as able to make the decision. 
+(4) The information relevant to a decision includes information about the reasonably foreseeable consequences of— 
+(a) deciding one way or another, or 
+(b) failing to make the decision. 
+4 Best interests 
+(1) In determining for the purposes of this Act what is in a person's best interests, the person making the determination must not make it merely on the basis of— 
+(a) the person's age or appearance, or 
+(b) a condition of his, or an aspect of his behaviour, which might lead others to make unjustified assumptions about what might be in his best interests. 
+(2) The person making the determination must consider all the relevant circumstances and, in particular, take the following steps. 
+(3) He must consider— 
+(a) whether it is likely that the person will at some time have capacity in relation to the matter in question, and 
+(b) if it appears likely that he will, when that is likely to be. 
+(4) He must, so far as reasonably practicable, permit and encourage the person to participate, or to improve his ability to participate, as fully as possible in any act done for him and any decision affecting him. 
+(5) Where the determination relates to life-sustaining treatment he must not, in considering whether the treatment is in the best interests of the person concerned, be motivated by a desire to bring about his death. 
+(6) He must consider, so far as is reasonably ascertainable— 
+(a) the person's past and present wishes and feelings (and, in particular, any relevant written statement made by him when he had capacity), 
+(b) the beliefs and values that would be likely to influence his decision if he had capacity, and 
+(c) the other factors that he would be likely to consider if he were able to do so. 
+(7) He must take into account, if it is practicable and appropriate to consult them, the views of— 
+(a) anyone named by the person as someone to be consulted on the matter in question or on matters of that kind, 
+(b) anyone engaged in caring for the person or interested in his welfare, 
+(c) any donee of a lasting power of attorney granted by the person, and 
+(d) any deputy appointed for the person by the court, 
+as to what would be in the person's best interests and, in particular, as to the matters mentioned in subsection (6).
+(8) The duties imposed by subsections (1) to (7) also apply in relation to the exercise of any powers which— 
+(a) are exercisable under a lasting power of attorney, or 
+(b) are exercisable by a person under this Act where he reasonably believes that another person lacks capacity. 
+(9) In the case of an act done, or a decision made, by a person other than the court, there is sufficient compliance with this section if (having complied with the requirements of subsections (1) to (7)) he reasonably believes that what he does or decides is in the best interests of the person concerned. 
+(10) “Life-sustaining treatment” means treatment which in the view of a person providing health care for the person concerned is necessary to sustain life. 
+(11) “Relevant circumstances” are those— 
+(a) of which the person making the determination is aware, and 
+(b) which it would be reasonable to regard as relevant. 
+5 Acts in connection with care or treatment 
+(1) If a person (“D”) does an act in connection with the care or treatment of another person (“P”), the act is one to which this section applies if— 
+(a) before doing the act, D takes reasonable steps to establish whether P lacks capacity in relation to the matter in question, and 
+(b) when doing the act, D reasonably believes— 
+(i) that P lacks capacity in relation to the matter, and 
+(ii) that it will be in P's best interests for the act to be done. 
+(2) D does not incur any liability in relation to the act that he would not have incurred if P— 
+(a) had had capacity to consent in relation to the matter, and 
+(b) had consented to D's doing the act. 
+(3) Nothing in this section excludes a person's civil liability for loss or damage, or his criminal liability, resulting from his negligence in doing the act. 
+(4) Nothing in this section affects the operation of sections 24 to 26 (advance decisions to refuse treatment). 
+6 Section 5 acts: limitations 
+(1) If D does an act that is intended to restrain P, it is not an act to which section 5 applies unless two further conditions are satisfied. 
+(2) The first condition is that D reasonably believes that it is necessary to do the act in order to prevent harm to P. 
+(3) The second is that the act is a proportionate response to— 
+(a) the likelihood of P's suffering harm, and 
+(b) the seriousness of that harm. 
+(4) For the purposes of this section D restrains P if he— 
+(a) uses, or threatens to use, force to secure the doing of an act which P resists, or 
+(b) restricts P's liberty of movement, whether or not P resists. 
+(5) But D does more than merely restrain P if he deprives P of his liberty within the meaning of Article 5(1) of the Human Rights Convention (whether or not D is a public authority). 
+(6) Section 5 does not authorise a person to do an act which conflicts with a decision made, within the scope of his authority and in accordance with this Part, by— 
+(a) a donee of a lasting power of attorney granted by P, or 
+(b) a deputy appointed for P by the court. 
+(7) But nothing in subsection (6) stops a person— 
+(a) providing life-sustaining treatment, or 
+(b) doing any act which he reasonably believes to be necessary to prevent a serious deterioration in P's condition, 
+while a decision as respects any relevant issue is sought from the court.
+7 Payment for necessary goods and services 
+(1) If necessary goods or services are supplied to a person who lacks capacity to contract for the supply, he must pay a reasonable price for them. 
+(2) “Necessary” means suitable to a person's condition in life and to his actual requirements at the time when the goods or services are supplied. 
+8 Expenditure 
+(1) If an act to which section 5 applies involves expenditure, it is lawful for D— 
+(a) to pledge P's credit for the purpose of the expenditure, and 
+(b) to apply money in P's possession for meeting the expenditure. 
+(2) If the expenditure is borne for P by D, it is lawful for D— 
+(a) to reimburse himself out of money in P's possession, or 
+(b) to be otherwise indemnified by P. 
+(3) Subsections (1) and (2) do not affect any power under which (apart from those subsections) a person— 
+(a) has lawful control of P's money or other property, and 
+(b) has power to spend money for P's benefit. 
+Lasting powers of attorney 
+9 Lasting powers of attorney 
+(1) A lasting power of attorney is a power of attorney under which the donor (“P”) confers on the donee (or donees) authority to make decisions about all or any of the following— 
+(a) P's personal welfare or specified matters concerning P's personal welfare, and 
+(b) P's property and affairs or specified matters concerning P's property and affairs, 
+and which includes authority to make such decisions in circumstances where P no longer has capacity.
+(2) A lasting power of attorney is not created unless— 
+(a) section 10 is complied with, 
+(b) an instrument conferring authority of the kind mentioned in subsection (1) is made and registered in accordance with Schedule 1, and 
+(c) at the time when P executes the instrument, P has reached 18 and has capacity to execute it. 
+(3) An instrument which— 
+(a) purports to create a lasting power of attorney, but 
+(b) does not comply with this section, section 10 or Schedule 1, 
+confers no authority.
+(4) The authority conferred by a lasting power of attorney is subject to— 
+(a) the provisions of this Act and, in particular, sections 1 (the principles) and 4 (best interests), and 
+(b) any conditions or restrictions specified in the instrument. 
+10 Appointment of donees 
+(1) A donee of a lasting power of attorney must be— 
+(a) an individual who has reached 18, or 
+(b) if the power relates only to P's property and affairs, either such an individual or a trust corporation. 
+(2) An individual who is bankrupt may not be appointed as donee of a lasting power of attorney in relation to P's property and affairs. 
+(3) Subsections (4) to (7) apply in relation to an instrument under which two or more persons are to act as donees of a lasting power of attorney. 
+

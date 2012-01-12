@@ -1,0 +1,67 @@
+<text id="H24" category="" words="2008" checkedby="" modifiedby="" Title="Publication 600 (2006), State and Local General Sales Taxes" Author="Department of the Treasury" PublicationDate="2006" SampledFrom="Middle" WebAddress="http://www.irs.gov/publications/p600/ar02.html">
+
+Did you live in Alaska, Arizona, Arkansas (Texarkana only), California (Los Angeles County only), Colorado, Georgia, Illinois, Louisiana, New York State, or North Carolina in 2006?
+No. Enter -0
+Yes. Enter your local general sales taxes from the applicable table on page 7 (see page 3 of the instructions)
+Did you enter -0- on line 2 above? 
+ 	No. Skip lines 4 and 5 and go to line 6 
+ 	Yes. Enter your state general sales tax rate (shown in the table heading for your state), but omit the percentage sign. For example, if your state general sales tax rate is 6%, enter 6.0 
+Divide line 3 by line 4. Enter the result as a decimal (rounded to at least three places) 
+Did you enter -0- on line 2 above? 
+ 	No. Multiply line 2 by line 3 	 
+ 	Yes. Multiply line 1 by line 5. If you lived in more than one locality in the same state during 2006, see page 4 of the instructions 	 
+Enter your state and local general sales taxes paid on specified items, if any (see page 4 of the instructions) 
+Deduction for general sales taxes. Add lines 1, 6, and 7. Enter the result here and the total from all your state and local general sales tax deduction worksheets, if you completed more than one, on Schedule A, line 5. Be sure to enter "ST" on the dotted line to the left of the entry space
+Instructions for the State and Local General Sales Tax Deduction Worksheet 
+Line 1.    If you lived in the same state for all of 2006, enter the applicable amount, based on your 2006 income and exemptions, from the optional state sales tax table for your state on page 5 or 6. Read down the "At least-But less than" columns for your state and find the line that includes your 2006 income. If married filing separately, do not include your spouse's income. Your 2006 income is the amount shown on your Form 1040, line 38, plus any nontaxable items, such as the following. 
+•	Tax-exempt interest.
+•	Veterans' benefits.
+•	Nontaxable combat pay.
+•	Workers' compensation.
+•	Nontaxable part of social security and railroad retirement benefits.
+•	Nontaxable part of IRA, pension, or annuity distributions. Do not include rollovers.
+•	Public assistance payments.
+The exemptions column refers to the number of exemptions claimed on Form 1040, line 6d. Do not include any additional exemptions you listed on Form 8914 for individuals displaced by Hurricane Katrina. 
+
+What if you lived in more than one state?    If you lived in more than one state during 2006, look up the table amount for each state using the above rules. If there is no table for your state, the table amount is considered to be zero. Multiply the table amount for each state you lived in by a fraction. The numerator of the fraction is the number of days you lived in the state during 2006 and the denominator is the total number of days in the year (365). Enter the total of the prorated table amounts for each state on line 1. However, if you also lived in a locality during 2006 that imposed a local general sales tax, do not enter the total on line 1. Instead, complete a separate worksheet for each state you lived in and enter the prorated amount for that state on line 1. 
+Example.
+You lived in State A from January 1 through August 31, 2006 (243 days), and in State B from September 1 through December 31, 2006 (122 days). The table amount for State A is $500. The table amount for State B is $400. You would figure your state general sales tax as follows. 
+State A: 	$500 x 243/365 = 	$333 	 
+State B: 	$400 x 122/365 = 	134 	 
+Total 	= 	$467 	 
+If none of the localities in which you lived during 2006 imposed a local general sales tax, enter $467 on line 1 of your worksheet. Otherwise, complete a separate worksheet for State A and State B. Enter $333 on line 1 of the State A worksheet and $134 on line 1 of the State B worksheet. 
+Line 2.   If you checked the "No" box, enter -0- on line 2, and go to line 3. If you checked the "Yes" box and lived in the same locality for all of 2006, enter the applicable amount, based on your 2006 income and exemptions, from the optional local sales tax table for your locality on page 7. Read down the "At least-But less than" columns for your locality and find the line that includes your 2006 income. See the line 1 instructions on this page to figure your 2006 income. The exemptions column refers to the number of exemptions claimed on Form 1040, line 6d. Do not include any additional exemptions you listed on Form 8914 for individuals displaced by Hurricane Katrina. 
+What if you lived in more than one locality?   If you lived in more than one locality during 2006, look up the table amount for each locality using the above rules. If there is no table for your locality, the table amount is considered to be zero. Multiply the table amount for each locality you lived in by a fraction. The numerator of the fraction is the number of days you lived in the locality during 2006 and the denominator is the total number of days in the year (365). If you lived in more than one locality in the same state and the local general sales tax rate was the same for each locality, enter the total of the prorated table amounts for each locality in that state on line 2. Otherwise, complete a separate worksheet for lines 2 through 6 for each locality and enter each prorated table amount on line 2 of the applicable worksheet. 
+Example.
+You lived in Locality 1 from January 1 through August 31, 2006 (243 days), and in Locality 2 from September 1 through December 31, 2006 (122 days). The table amount for Locality 1 is $100. The table amount for Locality 2 is $150. You would figure the amount to enter on line 2 as follows. Note that this amount may not equal your local sales tax deduction, which is figured on line 6 of the worksheet. 
+Locality 1: 	$100 x 243/365 = 	$67 	 
+Locality 2: 	$150 x 122/365 = 	50 	 
+Total 	= 	$117 	 
+Line 3.   If you lived in California, check the "No" box if your combined state and local general sales tax rate is 7.25%. Otherwise, check the "Yes" box and include on line 3 only the part of the combined rate that is more than 7.25%. 
+  If you lived in Nevada, check the "No" box if your combined state and local general sales tax rate is 6.5%. Otherwise, check the "Yes" box and include on line 3 only the part of the combined rate that is more than 6.5%. 
+  If you lived in Texarkana, Arkansas, check the "Yes" box and enter "4.0" on line 3. Your local general sales tax rate of 4.0% includes the additional 1.0% Arkansas state sales tax rate for Texarkana and the 1.5% sales tax rate for Miller County. 
+What if your local general sales tax rate changed during 2006?    If you checked the "Yes" box and your local general sales tax rate changed during 2006, figure the rate to enter on line 3 as follows. Multiply each tax rate for the period it was in effect by a fraction. The numerator of the fraction is the number of days the rate was in effect during 2006 and the denominator is the total number of days in the year (365). Enter the total of the prorated tax rates on line 3. 
+Example.
+Locality 1 imposed a 1% local general sales tax from January 1 through September 30, 2006 (273 days). The rate increased to 1.75% for the period from October 1 through December 31, 2006 (92 days). You would enter "1.189" on line 3, figured as follows. 
+January 1 - September 30: 	1.00 x 273/365 = 	0.748 	 
+October 1 - December 31: 	1.75 x 92/365 = 	0.441 	 
+Total 	= 	1.189 	 
+What if you lived in more than one locality in the same state during 2006?    Complete a separate worksheet for lines 2 through 6 for each locality in your state if you lived in more than one locality in the same state during 2006 and either of the following applies. 
+•	Each locality did not have the same local general sales tax rate.
+•	You lived in Texarkana, AR, or Los Angeles County, CA.
+  To figure the amount to enter on line 3 of the worksheet for each locality in which you lived (except a locality for which you used the table on page 7 to figure your local general sales tax deduction), multiply the local general sales tax rate by a fraction. The numerator of the fraction is the number of days you lived in the locality during 2006 and the denominator is the total number of days in the year (365). 
+Example.
+You lived in Locality 1 from January 1 through August 31, 2006 (243 days), and in Locality 2 from September 1 through December 31, 2006 (122 days). The local general sales tax rate for Locality 1 is 1%. The rate for Locality 2 is 1.75%. You would enter "0.666" on line 3 for the Locality 1 worksheet and "0.585" for the Locality 2 worksheet, figured as follows. 
+Locality 1: 	1.00 x 243/365 = 	0.666 	 
+Locality 2: 	1.75 x 122/365 = 	0.585 	 
+Line 6.   If you lived in more than one locality in the same state during 2006, you should have completed line 1 only on the first worksheet for that state and separate worksheets for lines 2 through 6 for any other locality within that state in which you lived during 2006. If you checked the "Yes" box on line 6 of any of those worksheets, multiply line 5 of that worksheet by the amount that you entered on line 1 for that state on the first worksheet. 
+Line 7.    Enter on line 7 any state and local general sales taxes paid on the following specified items. If you are completing more than one worksheet, include the total for line 7 on only one of the worksheets. 
+1.	A motor vehicle (including a car, motorcycle, motor home, recreational vehicle, sport utility vehicle, truck, van, and off-road vehicle). Also include any state and local general sales taxes paid for a leased motor vehicle. If the state sales tax rate on these items is higher than the general sales tax rate, only include the amount of tax you would have paid at the general sales tax rate. 
+2.	An aircraft or boat, if the tax rate was the same as the general sales tax rate.
+3.	A home (including a mobile home or prefabricated home) or substantial addition to or major renovation of a home, but only if the tax rate was the same as the general sales tax rate and any of the following applies. 
+a.	Your state or locality imposes a general sales tax directly on the sale of a home or on the cost of a substantial addition or major renovation. 
+b.	You purchased the materials to build a home or substantial addition or to perform a major renovation and paid the sales tax directly. 
+c.	Under your state law, your contractor is considered your agent in the construction of the home or substantial addition or the performance of a major renovation. The contract must state that the contractor is authorized to act in your name and must follow your directions on construction decisions. In this case, you will be considered to have purchased any items subject to a sales tax and to have paid the sales tax directly. 
+  Do not include sales taxes paid on items used in your trade or business. If you received a refund of state or local general sales taxes in 2006, see Refund of general sales taxes on page 1.
+
+</text>

@@ -1,0 +1,192 @@
+<text id="J30" category="" words="2027" checkedby="" modifiedby="" Title="Psychology's grand theorists :  how personal experiences shaped professional ideas " Author="Demorest, Amy" PublicationDate="2005 p. 20-25" SampledFrom="Mahwah, N.J. : Lawrence Erlbaum Associates, 2005" WebAddress="http://www.netlibrary.com/Reader/">
+
+THE PSYCHODYNAMIC APPROACH: SIGMUND FREUD.
+Sigmund Freud was just over 40 when he conceived of writing
+the book that would become The Interpretation of Dreams. By all accounts
+it was his greatest work, introducing a model of the human
+psyche that was to profoundly change the way that later generations
+would think about themselves and their world. Although the
+book appeared in print in November 1899, the publication date
+printed on the title page was 1900, as if to lay claim to the emergence
+of a new era. Freud himself wrote of it in his 1931 preface
+to the third English edition: "It contains, even according to my
+present-day judgement, the most valuable of all the discoveries it
+has been my good fortune to make. Insight such as this falls to one's
+lot but once in a lifetime." But at the dawn of the 20th century, an
+analysis of dreams would seem an unlikely topic for an important
+work, especially for a man who considered himself a scientist, not
+a mystic. So it is worth asking what led Freud to undertake such a
+thing. Before we look directly at the book itself and the theory it
+presents, let us see what led Freud to the study of dreams.
+In the late 1890s Freud held a medical degree from the University
+of Vienna and had set up practice in Vienna as a specialist
+in neurology. As a specialist of physical disorders in the nervous
+system, in this time and place, the most frequent illness that he
+encountered in treatment was hysteria. Hysteria was an astonishing
+syndrome that baffled the medical community. It was characterized
+by various physical problems that on superficial analysis
+seemed to be based in neurological damage: problems such as
+blindness, deafness, paralysis, or anesthesia of limbs. But fuller
+examination would reveal the impossibility of a physical cause.
+For one thing, it was not uncommon for the symptoms to move
+from one part of the body to another. A patient might first show
+signs of blindness, then weeks later appear with loss of hearing,
+later with paralysis in a leg, and later still with lack of feeling in a
+hand.
+One account tried to explain this by viewing hysteria as resulting
+from a generally weak nervous system that produced random
+effects. But there was a further problem: Some of the symptoms
+made no sense neurologically. Take one common symptom of
+hysteria, glove anesthesia, which involves loss of feeling in the hand.
+Anatomically, there are three separate nerves that run the length
+of the arm from shoulder to fingertips, and this means that damage
+to any one would result in partial loss of feeling in the whole
+arm. Despite its psychological reasonableness, there is no way to
+account neurologically for total loss of feeling in the hand only.
+An alternative explanation of hysteria, proposed by confused
+and no-doubt frustrated practitioners, held that the syndrome
+was just an expression of malingering, intentional fakery by the
+patient in order to get attention or to avoid responsibility. Support
+for this account could be inferred from another feature of
+the disorder, this one involving mental functioning. Patients with
+hysteria often alternated between two different states of consciousness:
+one a normal state and the other a hallucinatory state. In
+the hallucinatory state, patients would behave as if experiencing
+events that were not actually occurring, and would fail to experience
+events that were occurring in front of their eyes. A woman
+might carry on a conversation with an imaginary figure, but make
+no response to her husband despite his attempts to get through to
+her.
+But there was also counter-evidence to the account of intentional
+fakery to explain hysteria. For example, some patients appeared
+with hysterical pregnancies that involved actual physical
+changes, such as swelling of the stomach and breasts, which could
+not be faked. In other patients, symptoms such as partial blindness
+were discovered in the course of a medical examination that had
+not been noticed previously by the patient or by others in her life.
+In the midst of these flailing attempts to come to terms with this
+remarkable disorder, there was one man in Vienna who had suggested
+a wholly new approach to hysteria. This innovative thinker,
+Josef Breuer, was a renowned researcher and a highly esteemed
+clinician. Freud was a medical student when he first met Breuer,
+and he was fascinated when Breuer told him of his treatment of a
+hysterical woman whose case has since become famous under the
+pseudonym of "Anna O."
+Anna O. was 21 when she first developed symptoms of hysteria,
+after nursing her father for months through what was to be a fatal
+illness for him. Over the course of her hysteria she developed
+a host of symptoms: paralyses and anesthesias in her arms, legs,
+and neck; deafness and visual disturbances; the loss of ability to
+speak her native German. (For a period she spoke only in English,
+without knowing that she was doing so, having disputes with her
+nurse who could not understand a word.) She also experienced
+a delirious state in which she had hallucinations, at one point
+in her illness hallucinating day after day the actual events that
+had occurred exactly 1 year before. At first Breuer was unable to
+make any sense of Anna O.'s hallucinations, for she was unable
+to relate to him while in her delirious state, and was unable to
+recall her hallucinations when she returned to a normal state of
+consciousness. But one day he discovered that she could answer his
+questions about the hallucinations if she was in a state of hypnosis.
+What he learned from her answers was that her hallucinations
+were always related to her current symptom. Further, he was astonished
+to discover that if she was given the opportunity to talk out
+all memories associated with the symptom she was experiencing at
+the time, that symptom would suddenly disappear when the final
+memory was recounted. For example, in the course of her illness
+she developed a visual disorder in which she saw objects as large
+and blurred. Under a state of hypnosis, she recounted to Breuer a
+series of memories of times when she had visual difficulties, until finally arriving at one that originated from early in her father's
+illness. In this memory she sat by her father's sickbed, crying while
+he slept. When her father awoke and asked her the time, she swallowed
+her sobs and tried to blink back her tears so that he would
+not know she was crying. To answer his request she had to bring
+the clock close to her face to read it through her tears. This made
+the timepiece looked large and blurred, as all objects looked in the
+symptom that developed after this experience. But as soon as she
+recounted her memory of this experience to Breuer with its associated
+feelings, her visual symptom suddenly disappeared.
+According to the story that Breuer told to the transfixed young
+Freud, each of Anna O.'s symptoms was cured one by one as she
+was able to recall emotionally disturbing memories that were associated
+with the symptoms. Each ultimately went back to a memory
+of her time nursing her fatally ill father. This suggested to Breuer
+that hysteria was both caused and cured by psychological processes.
+It was not, as most physicians assumed, a disorder caused
+by physical damage to the nervous system to be cured by physical
+intervention. Nor was it, as others proposed, a sham to get
+attention that should be dismissed as a nonillness. Rather it was
+an illness in which pathological processes took place in a mental
+domain rather than in a physical one.
+Breuer's proposal was that hysteria results when psychologically
+traumatic events create an excess of emotion that cannot be expressed.
+As a result, the unexpressed emotional experiences find
+symbolic expression in physical symptoms. In Anna O.'s case, the
+trauma of the fatal illness of her beloved father led to painful
+but censored emotional experiences (e.g., she sought to hide her
+tears while crying at her father's sickbed). These found symbolic
+expression in symptoms that related to her emotionally disturbing
+memories of his illness (e.g., her visual disturbance). If the
+experiences could be remembered and their associated emotions
+expressed, there would no longer be any need for the symbolic
+symptoms. It was a radical conceptualization of the disorder in
+psychological terms, requiring a psychological treatment.
+Freud was deeply impressed by Breuer's work, and as he set up
+his own medical practice in Vienna he was determined to take a
+psychological approach to hysteria. But there was a challenge to
+identifying the psychological origins of a patient's disorder, for
+Breuer had found that they could not be recalled in a normal waking state. Freud originally began his treatment of hysteria by
+trying Breuer's method of hypnosis. He found hypnosis unsatisfactory,
+however, partly because he was never very good at it. And
+so he began to search for other ways to access information that his
+patients seemed to know at some level, but were unable to report
+in a normal waking state. In pursuing this search, Freud came to
+the study of dreams. In his patients' dreams Freud was able to
+find clues to the meanings of their symptoms. It was with the goal
+of finding the meaning and cure of this remarkable syndrome of
+hysteria, then, that Freud first came to the analysis of dreams.
+As it turns out, however, it was not only in his work with patients
+that Freud found the fruitfulness of dream analysis. In the 1890s,
+he also began to analyze his own dreams. For Freud himself suffered
+from a neurosis. This neurosis was most pronounced during
+the years 1897 to 1900, when he pursued his self-analysis most
+systematically and wrote the book on dreams at the same time.
+Although Freud at times referred to his neurosis as "hysteria,"
+he probably meant anxiety hysteria, a disorder different from that
+described earlier and what today would probably be called panic
+disorder. His primary symptoms were mood related, involving a
+change of mood from periods of elation to periods of anxiety and
+depression; in particular, he suffered fears about dying (what he
+called "death deliria") and about traveling by train ("travel anxiety").
+A heart arrhythmia was probably also a neurotic symptom,
+which he described as "the most violent arrhythmia, constant tension,
+pressure, burning in the heart region; shooting pains down
+my left arm... and with it a feeling of depression, which took the
+form of visions of death and departure." He also suffered from
+gastrointestinal problems or irritable colon, which is common in
+people with panic disorder.
+So Freud had turned to dream analysis in part to find the meaning
+of his own neurosis, and the discoveries that he reported in
+The Interpretation of Dreams are discoveries that had revealed to him
+the source of this disturbance. A hint of the source of Freud's
+neurosis can be found in two events in the late 1890s that coincided
+with the worsening of his symptoms. Both events involve the
+loss of intimate male authority figures: his mentor Josef Breuer
+through estrangement and his father through death. For over a
+decade, Josef Breuer was not only Freud's collaborator in studying
+hysteria but also a supportive mentor with whom Freud shared an affectionate relationship. Breuer had provided Freud friendship
+and advice, as well as substantial financial loans. Yet by the
+1890s this relationship began to deteriorate, primarily because of
+a disagreement over how hysteria should be conceptualized. In
+1896 there was such bad feeling between them that Freud would
+write to a friend "I simply can no longer get along with Breuer
+at all; what I had to take in the way of bad treatment and weakness
+of judgement that is nonetheless ingenious during the past
+months finally deadened me, internally, to the loss."  
+But despite
+this claim, Freud continued to be deeply affected by their break,
+and he wrote to the same friend only one week later "I would like
+indeed to have Breuer's letter; in spite of everything, I find it very
+painful that he has so completely removed himself from my life."
+
+</text>

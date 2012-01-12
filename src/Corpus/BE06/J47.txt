@@ -1,0 +1,139 @@
+1 Introduction
+This paper considers how to achieve new creative advances in the design of programming languages. It is
+based on the analysis of a single application domain, the practice of Live Coding in Laptop Music
+performance. Neither laptop music nor live coding has yet received much attention in the psychology of
+programming or HCI communities, so this paper also provides a brief introduction and history of the field
+for the benefit of programming language researchers.
+We believe that the study of unusual programming contexts such as Laptop music may lead to more
+general benefits for programming research. This is because significant advances in programming language
+design have often arisen by considering completely new classes of user who might engage in programming
+activity. In contrast, traditional programming languages are generally designed to support professional
+programmers and academics, and their day to day activities have changed little over the past 50 years.
+Conventional programming languages have become more sophisticated, but mainly in order to provide
+better support for the kind of work that was described quite accurately by Hartree in 1950: “Programming
+is the process of drawing up the schedule of the sequence of individual operations required to carry out the
+calculation” (Hartree 1950, p. 111).
+Conventional programming languages have been greatly improved by improving our mathematical
+understanding, and the consequent sophistication, of what Hartree describes as “schedule” and
+“operations”. However if programming is “a process of translating from the language convenient to human
+beings to the language convenient to the computer” (McCracken 1957), then as Myers argues (Myers
+2002), we should also spend some time trying to understand what makes a language convenient to users.
+There is little benefit in considering the convenience of mathematicians or computer scientists, because
+they are quite happy introspecting on their own experience in order to make programming languages they
+like, and in any case there is little research challenge in this particular translation because “the language
+convenient to the computer” has been structured according to mathematicians' habits of thought in the first
+place.
+1.1 The End User as a Strategic Research Focus
+The most imaginative developments in programming language design have generally arisen from trying to
+meet the needs of a completely different class of user, one whose understanding of the computer is not
+necessarily based on mathematical formalisms, and whose reasons for doing programming are unlike the
+daily work of mathematicians and computer scientists. Much of this has occurred in the field of “end-user
+programming” research, although that research does not set out principally to create radically new
+programming languages, but rather to meet the needs of this user population in whatever way is most
+In P. Romero, J. Good, E. Acosta Chaparro &amp; S. Bryant (Eds). Proc. PPIG 17 Pages 120 - 130
+17th Workshop of the Psychology of Programming Interest Group, Sussex University, June 2005 www.ppig.org
+appropriate. Hopefully the beneficiaries of such research are appreciative, but we suspect that the
+motivations of the researchers may be in part the opportunity to design programming languages that can be
+evaluated according to different sets of criteria from those that are over-familiar in computer science.
+An important characteristic of end-user programming research is that end-user programmers should not
+be regarded as “deficient” computer programmers, but recognised as experts in their own right and in their
+own domain of work. They might only write programs occasionally or casually, but it is possible that they
+have done so for many years, possibly distributing their work for use by many others. From this
+perspective, research into the programming behaviour of first year computer science students, although
+convenient and commonplace, provides little relevant insight into the needs of end-user programmers
+(Blackwell, in press). Similarly, attempts to investigate “natural” programming concepts, by studying
+school children before they have encountered any other language (Pane et.al. 2001), are of great interest to
+researchers, but may not be directly relevant to the needs of expert end-user programmers.
+The real benefit in studying unusual populations of programmers, whether they are representative of
+end-users or not, is that in addressing more unusual needs we may find more creative solutions. In fact
+many of the greatest adventures in programming language design arose specifically from encounters with
+new user populations. Kay's work on Smalltalk was motivated by the needs of children (Kay 1972), as was
+Kahn's “programming as videogame” system ToonTalk (Kahn 1996). The spreadsheet was invented in
+response to the needs of business school students (Power 2004), and our own more modest work leading to
+the unusual tangible programming language MediaCubes was a response to the problem of configuring
+networked home appliances (Blackwell &amp; Hague 2001).
+One substantial advantage of these unusual user populations is the way in which the resulting inventions
+are inspired by very different contexts of programming activity. For example, the context of the home is
+rich in opportunities for programming, but these are dominated by social interactions between family
+members (Rode, Toye &amp; Blackwell 2004). Consideration of the purpose of programming in schools leads
+not only to innovations for individual students (Blackwell 2003), but also imaginative response to the
+school curriculum (Rode, Stringer et. al. 2003) and even new teaching models as when students from one
+year act as apprentices to mentors who took the same course in the previous year (Ching 2000).
+This research strategy forms the focus for the rest of our paper. We consider a new domain for research
+in terms of i) the ways in which these users' tasks are unlike the normal models of program execution, ii)
+the ways in which these users' needs are unlike the needs of professional software developers, iii) the ways
+in which these users' needs are unlike previous research into end-user programming languages, and iv) the
+ways in which the context of use may inspire novel conceptions of the nature of programming.
+2 Music and Programming Interfaces
+The domain of music technology provides a exciting range of challenges and analytic perspectives both for
+HCI and for Psychology of Programming. Traditional musical instruments include highly evolved user
+interfaces, often addressing issues that are of pressing concern in contemporary HCI. Most instruments
+offer sophisticated modes of bimanual interaction (MacKenzie &amp; Guiard 2001). Instruments like the
+concertina demonstrate how a user interface can be based on an elegant visualisation of abstract musical
+structure, integrating melodic (the tune from note-to-note) and harmonic (chords to go with those notes)
+into a two-dimensional layout of controls (Holland 1994). On the other hand, instruments like the bassoon
+provide us with a puzzle that challenges conventional ideas of usability, inconsistent with the standardised
+key layout of other instruments, and with peculiarities such as the fact that different keys should be pressed
+to produce the same note, depending on how hard the player is blowing (Derrett 2004).
+Written music notations have many features in common with programming languages, especially when
+analysed in terms of the Cognitive Dimensions of Notations framework. Our study of a music typesetting
+system, comparing it to a range of programming languages, found that Cognitive Dimensions could express
+concerns common to both domains (Blackwell &amp; Green 2000). In this case, the users of music notation
+systems are composers and editors of music, rather than musicians – a distinction that, as we shall find, is
+far less clear-cut in the case of live coding.
+Electronic music technology has also introduced a significant engineering element into the production of
+music, so that recording and post-production studios, as well as performance venues, have a substantial
+amount of notational content involved in the configuration of electronic equipment (Blackwell, Green &amp;
+Nunn 2000). Even music consumers may find that domestic audio equipment includes significant
+programmable functionality (Blackwell, Hewson &amp; Green 2003). These facilities too, have made their way
+into performance contexts, both in the development of audio processing software designed for use in live
+situations (e.g. Ableton Live) and in the appropriation of audio playback technologies like the turntable as
+new musical instruments (Smith 2000).
+The distinction between composition and performance, or between notation and instrument, is becoming
+increasingly blurred in contemporary music technologies. From the perspective of psychology of
+programming research, this is a provocative development, because it echoes the way in which
+programmability is pervading the user interface (Blackwell 2002). In previous work, we have described the
+cognitive effects of this transition in terms of the Attention Investment model (Blackwell &amp; Burnett 2002).
+Programming-like interaction techniques similar to macro recording can be seen in many aspects of live
+sampling and sequencing, as well as in the advanced features of research prototypes such as the D'Groove
+digital haptic turntable, which can be used to control digital audio files as though they were vinyl records
+being manipulated by a scratch disc jockey (Beamish et. al. 2004). When we look beyond the individual
+interaction paradigm to collaborative technology use, live performance often incorporates an astonishing
+array of programmed beats, notated music played by classically trained instrumentalists, and traditional
+folk music acquired through instrumental apprenticeship or ethnographic research (all of which can be
+found in most pieces performed by popular Cambridge band Horace X).
+3 Laptop and Live Programming History
+Laptop music is not a genre but a characteristic of contemporary performance practice in electronic music,
+born of the affordability of easily transportable computer systems powerful enough for real-time signal
+processing. The Austrian collective Farmer's Manual are often vaunted as the first true laptop ensemble
+(they started performing in 1996), though the use of laptops for digital music performance has been
+practised since the early 90s, particularly in Japan (Loubet 2000). Unsurprisingly, live electronic music has
+a heritage far longer than that of the laptop through bulkier apparatus such as IRCAM's 4X or earlier
+modular synthesis systems like the Sal-Mar Construction, and Atari ST and Amiga computers were
+sufficiently powerful and portable to enable their use (with MIDI software, 8-bit audio sampling tracker
+programs or early VJ graphics applications) in late 80s raves.
+Whilst many interaction peripherals may form part of the laptop musician's interface, the (much
+criticised) typical performance mode consists of a single user, interacting via mouse with a GUI-based
+program, at a gestural rate divorced from the rate of output events, so that causes are uncorrelated from
+effects. Notwithstanding this basic image, laptopists very much vary in their choice of programs, interface
+and musical output. Laptops are now a staple of the music scene, whether it is Matmos accompanying
+Björk, Fennesz live sampling and processing guitar, or extreme sound artist Merzbow building a wall of
+noise.
+The degree of challenge and flexibility in programming music software can be characterised along
+various continua. Popular live laptop music programs like Ableton Live and Reason offer some sequencing,
+triggering and processing controls in rigid interfaces, but do not have the algorithmic manouverability and
+customisation potential of graphical programming packages like Cycling 74's Max/MSP or Miller
+Puckette's PD. Yet more difficult to master, but with compensatory exploratory potential, come textual
+programming languages for audio like SuperCollider (McCartney 2002) or ChucK (Wang and Cook 2003).
+Live coding (Ward et al. 2004, Collins et al. 2003, Collins 2003) was born out of the possibility of
+programming on stage with interpreted languages. A few pioneers used FORTH and Lisp in the 80s, and in
+current practice many different languages are exploited, some original and devised for live coding
+applications. The most widespread are probably the aforementioned SuperCollider, which is a Smalltalk
+derived language with C-like syntax, and most recently ChucK, a concurrent threading language
+specifically devised to enable on-the-fly programming. Adaptations of conventional programming language
+environments are also extant, for example Alex McLean has written his own customised text editor for Perl
+with cued or looping interpretation (McLean 2004).
+Historically, the first known live coding performance is that of Ron Kuivila in 1985 at the Amsterdam
+based music research institute STEIM, on a desktop computer. Somewhat anticipating later developments,
+his half hour FORTH performance ended with a system crash. 
+

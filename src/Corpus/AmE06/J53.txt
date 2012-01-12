@@ -1,0 +1,161 @@
+<text id="J53" category="" words="2010" checkedby="" modifiedby="" Title="Dynamics of Sociality" Author="MICHAEL E. BRATMAN" PublicationDate="January 1, 2006 " SampledFrom="Midwest Studies In Philosophy Vol. 30 Issue 1, p1-15" WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=112&sid=b13d81c9-d6f0-4d31-947e-86a39a69572f%40sessionmgr112&vid=3">
+
+I am going to try to make some progress toward a model of our sociality that
+focuses on both interpersonal structures at a time and characteristic forms of
+construction of our sociality over time. I begin with some ideas about shared
+agency that I have defended elsewhere; I then turn to the dynamics of our
+sociality.This leads me to a complex view of the relation between shared intention
+and obligations of each to each not to opt out. While such obligations are not
+essential to shared intention, they are a common and important aspect of standard
+ways in which we construct our sociality over time in response to systematic
+problems of stability and depth, problems that arise as we seek shared agency
+and shared deliberation in the face of our different reasons and our different
+judgments.
+SHARED INTENTION AND SHARED VALUING.
+Suppose that we are building a house together. Our interrelated activities are
+structured and organized by relevant intentional structures.This is why it is true, in
+the relevant sense, that we are building the house together. These intentional
+structures normally involve something like a shared intention to build the house, as
+well as related forms of shared valuing - in favor, for example, of earthquake
+preparedness. Our shared intention and our related shared valuings help coordinate
+and organize not only our interconnected activities, but also our associated
+planning, bargaining, and shared deliberation.
+What is shared intention? As I see it, in a basic case you and I share an
+intention to J when, in a public context, we each intend that we J by way of each of
+our intentions that we J and their meshing subplans, and the continued persistence
+of our intentions involves a recognized interdependence.
+The idea is to understand shared intention to act in two stages.We first appeal
+to a background theory of the intentions of individuals - as I see it, this will be what
+I have called the planning theory. The planning theory sees intentions as playing
+basic roles in forms of planning central to our abilities to achieve complex goals
+across time and interpersonally. It aims at understanding intention primarily in
+terms of regularities and norms that are associated with these coordinating, organizing
+roles. In the second stage we then apply to intentions so understood a theory
+of intention sharing, a theory that appeals to certain characteristic contents and
+interrelations among such intentions in a public context. Central ideas for this
+theory of sharing will include ideas of intentions of an individual in favor of a joint
+activity, intentions that subplans come to mesh, semantically interlocking intentions
+(i.e., intentions that are about each other's roles in thought and action),
+recognized interdependence of intentions, and public accessibility.The theory tries
+to see characteristic forms of functioning of shared intentions in cross-temporal
+and social organization of action and planning as following from the basic theory
+of intention, together with appeal to the special contents, interrelations, and contexts
+that characterize intention sharing.
+It is important that this theory goes beyond a simple appeal to public accessibility,
+or some version of common knowledge or the like, and appeals to semantic,
+causal, epistemic, and explanatory interconnections across the relevant intentions
+of the participants. This helps it explain forms of rational mutual responsiveness, over time, on the part of each to developments in the intentions of other participants.
+So, for example, my intention that we J by way of your analogous intention
+and meshing subplans imposes rational pressure on me, as time goes by, to fill in
+my subplans in ways that fit with and support yours as you fill in your subplans;
+and vice versa. This pressure derives from the basic rational pressure on me for
+means-end coherent and consistent plans, given the ways in which your intentions
+enter into the content of my intention.
+Turn now to shared valuing - for example, our shared valuing, in the context
+of our shared house building, of earthquake preparedness. My proposal here
+has been that this is, in a basic case, a shared policy about relevant practical
+reasoning - where policies are intentions that are appropriately general in their
+contents. For us to value X is, in a basic case, for us to have a shared policy to treat
+X as justifying in shared deliberation in which we intend to engage and by which
+we intend to be guided.We say in what such a shared policy consists by extending
+the account of shared intention to the case in which the content of the relevant
+policy-like intentions of the participants is our treating X in this way. So, in a basic
+case, you and I have a shared policy of treating X as justifying in relevant shared
+deliberation when, in a public context, we each have a policy (i.e., a general
+intention) that favors that treatment by us by way of meshing subplans, these
+policies are interlocking, and their persistence is appropriately interdependent and
+recognized as such.
+Such shared valuing is different from, and has a complex relation to commonality
+in value judgment.There are two general considerations that support this
+point.The first concerns individual agency. Here the basic point is that even in the
+case of an individual agent there is a distinction between judging something good
+or valuable, and valuing it. As Gilbert Harman notes, I might judge listening to
+Mozart to be valuable but not value it. Further, if I do value X the significance or
+weight that my valuing accords to X may be quite different from what I judge to be
+its value. Finally, I may reasonably hold my value judgments to certain constraints
+of intersubjective rational convergence. Given my recognition of thoughtful and
+rational divergence across different evaluators, this may block certain value judgments
+on my part. Nevertheless, in the course of living my own life, I may value
+certain things in certain ways while recognizing the absence of interpersonal rational
+convergence on this. So my valuings go beyond my value judgments.
+What conception of the valuings of an individual best coheres with these
+observations? This is a large issue. Here let me just say that, as I see it, for an
+individual to value X is, at least in a basic case, for that individual to have a policy
+(i.e., an intention that is appropriately general) of giving X relevant weight, or
+other kinds of justifying significance, in her motivationally effective practical reasoning.
+And the present point is that such a policy is not the same as, and is related
+in complex ways to, a judgment that X is good or valuable.
+The second promised consideration concerns the wedge between shared
+valuing and shared value judgments that is introduced by the structure of sharing.
+Of course, given potential divergences between the valuings and the value judgments
+of the individual participants, we already have reason to expect that shared
+valuings may not involve commonality of value judgment. But there are also
+further pressures for such divergences once we turn to phenomena of sharing.You
+and I may each judge that earthquake preparedness is a good thing, and we may
+each personally value earthquake preparedness, and yet we may not participate in
+a shared valuing of earthquake preparedness with respect to the shared deliberation
+associated with our house-building activities. It is one thing for each of us to
+think earthquake preparedness a good, another for us to be committed to giving it
+weight in these shared deliberations. Further, even if we both judge that earthquake
+preparedness is a good thing and we both participate in a shared valuing of
+earthquake preparedness, the weight given to it in our shared valuing may diverge
+significantly, in either direction, from the extent to which each of us judges it good.
+Finally, we might have a shared policy of giving significant weight to earthquake
+preparedness in our shared deliberations even if I believe there is no significant
+earthquake danger and so no significant value to earthquake preparedness in
+house building, and even if I do not myself value earthquake preparedness in my
+own personal deliberations. I may still participate in our shared valuing because
+earthquake preparedness matters so much to you, and because it is part of a
+package of shared commitments that makes overall sense to me, as well as to you.
+Our sociality is, in this way, a package deal.
+There is a general point that lies behind this distinction between shared
+valuing and commonality of value judgment. Shared valuing involves a relativity to
+certain shared contexts, especially contexts of shared deliberation. Commitments
+to participate in giving weight to X in such contexts are context-relative. But
+judgments about the value of X are not context-relative in this way. So we have interrelated models of shared intention and shared valuing,
+models that exploit the two-stage strategy noted earlier. I now want to emphasize
+a basic feature of the underlying account of sharing: Such sharing does not require
+commonality in each agent's reasons for participating in the sharing.You and I can
+have a shared intention to garden together even though I participate because I
+need the exercise and you participate because you need the food.Though we have
+different background reasons for which we participate, our shared intention nevertheless
+establishes a common framework. Again, suppose we are on a college
+admissions committee and we have a shared policy of giving weight to legacy
+considerations in relevant shared deliberation. In this sense we value such considerations.
+Nevertheless, I might participate in this because I think giving such
+weight in admissions decisions is an effective fund-raising tool; whereas you participate
+in it because you think our institution has made an implicit promise to its
+alumni to provide this benefit to their children.We participate for different reasons,
+but our shared valuing nevertheless establishes a common framework.
+I think it is a significant virtue of this theory of sharing that it helps us model
+such partial social unity and commonality of framework in the face of different
+background reasons for participation. After all, much of our sociality is partial in
+this way. Nevertheless, it is also true that when our shared intention or shared
+valuing is grounded in different reasons the absence of certain forms of social unity
+can pose important practical problems. In particular, there can be problems of
+stability and problems of depth.The potential for these problems might be seen as
+an objection to the model of sharing. But I believe, in contrast, that it is a virtue of
+the model that it helps us articulate both these problems and also standard ways in
+which a group can, over time, reasonably respond. Or so I will argue.
+PROBLEMS OF STABILITY AND OF DEPTH.
+Begin with instability.
+There is a potential for instability of the shared intention or
+shared valuing if the different reasons for which participants engage in the sharing
+were to come to point in different directions: Just consider what is likely to happen
+to our joint gardening if you were no longer to need this source of food even
+though I continue to need the exercise. Of course, there will many times be, in the
+context of the shared activity, various kinds of salient consequences associated with
+sticking with one's part in the shared activity. Issues about reputation effects and
+the like belong here. But these are contingent matters.
+That there are these possibilities of instability, given the model, might be seen
+as a ground for rejecting the model as insufficiently rich. After all, it may seem that
+sharing brings with it a further bond between the parties, a bond that goes beyond
+the interlocking and interdependence I have highlighted, and a bond that supports
+stability in a way that we have not yet captured.
+Our model of sharing does have further resources here, resources grounded
+in the planning theory that is in the background. Central to the planning theory is
+the idea that there are norms for stability of intention. To some extent, these are
+norms of nonreconsideration of prior intentions; to some extent these are norms
+that give prior intentions a (defeasible) default status even in the face of reconsideration.
+
+</text>

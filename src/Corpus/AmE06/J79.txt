@@ -1,0 +1,71 @@
+<text id="J79" category="" words="2010" checkedby="" modifiedby="" Title="Influenza virus targets the mRNA export machinery and the nuclear pore complex" Author="Neal Satterly" PublicationDate="2007" SampledFrom="Proceedings of the National Academy of Sciences of the United States of America" WebAddress="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&db=pmc&term=0027-8424%5Bjour%5D%20AND%202007%5Bdp%5D%20AND%20104%5Bvolume%5D%20AND%206%5Bissue%5D%20AND%201853%5Bpage%5D">
+
+The NS1 protein of influenza A virus is a major virulence factor that is essential for pathogenesis. NS1 functions to impair innate and adaptive immunity by inhibiting host signal transduction and gene expression, but its mechanisms of action remain to be fully elucidated.
+We show here that NS1 forms an inhibitory complex with NXF1/TAP, p15/NXT, Rae1/mrnp41, and E1B-AP5, which are key constituents of the mRNA export machinery that interact with both mRNAs and nucleoporins to direct mRNAs through the nuclear pore complex. Increased levels of NXF1, p15, or Rae1 revert the mRNA
+export blockage induced by NS1. Furthermore, influenza virus down-regulates Nup98, a nucleoporin that is a docking site for mRNA export factors. Reduced expression of these mRNA export factors renders cells highly permissive to influenza virus replication, demonstrating that proper levels of key constituents of the mRNA export machinery protect against influenza virus replication. Because Nup98 and Rae1 are induced by interferons, downregulation of this pathway is likely a viral strategy to promote viral
+replication. These findings demonstrate previously undescribed influenza-mediated viral - host interactions and provide insights
+into potential molecular therapies that may interfere with influenza infection. 
+Influenza viruses cause _500,000 deaths worldwide per year 1). Strains that are extremely pathogenic pose an even greater health threat. The 1918 influenza pandemic, for example, resulted
+in _30 million deaths around the world (2). The non-structural 1 (NS1) protein of influenza A virus is a major irulence factor that inhibits host immune responses by disrupting
+host signal transduction (3 - 11) and gene expression (12, 13) pathways. Genetic studies have shown that abrogation of NS1 function by mutation results in highly attenuated viruses, except
+in animals lacking innate antiviral mechanisms (12, 14). These observations define NS1 as an essential element of viral virulence and suggest that its function represents a point of vulnerability
+for inhibiting influenza viral pathogenesis. NS1 is a multifunctional protein that, in infected cells, is
+localized in both the cytoplasm and in the nucleus (15). In the cytoplasm, NS1 inhibits innate immune response by forming a
+complex with the pathogen sensor RIG-I (4, 7, 9, 10) and by targeting PKR and the RNase L pathway (6, 8). In addition, NS1 has been shown to activate phosphatidylinositol-3-kinase signaling,
+which may be important for promoting viral replication (16). In the nucleus, NS1 inhibits host gene expression. This effect includes mRNA processing, which is mediated by interaction of
+NS1 with polyadenylation factors (CPSF and PABII) (12, 13) and a putative splicing factor (NS1-BP) (17). The binding of NS1 to CPSF and PABII inhibits polyadenylation of host mRNAs, contributing to nuclear retention of these messages (12, 13).
+However, the potent ability of NS1 to inhibit host mRNA nuclear export led us to explore a potential interaction of NS1 with the mRNA nuclear export machinery that could explain further the mechanism of mRNA export inhibition induced by NS1. The mRNA export receptors NXF1-p15 (TAP-NXT) are key constituents of the mRNA export machinery that is responsible
+for nuclear exit of _70% of cellular mRNAs (18). This heterodimer interacts with both messenger ribonucleo protein particles and nuclear pore complex proteins [nucleoporins (Nups)]
+to direct mRNAs through the nuclear pore complex (NPC) (18).
+Another factor termed E1B-AP5, identified as a cellular protein that interacts with the adenovirus protein E1B-55 and implicated in mRNA export (19), is an hnRNP-like protein that likely mediates the interaction of NXF1 with mRNAs (20). In addition, other RNA-binding proteins such as the REF family (21) and SR splicing factors (22) also are known as adapters for the interaction
+between NXF1 and mRNAs. Furthermore, the mRNA export factor Rae1/mrnp41/Gle2 (23 - 25), which shuttles between the nucleus and the cytoplasm, forms a complex with RNPs (24, 26), NXF1 (27), and the nucleoporin Nup98 (26). It has been proposed that Rae1 may recruit TAP to Nup98 to
+mediate transport through the NPC (27). Nuclear export of mRNAs has been shown to be targeted by
+viruses. For instance, the VSV matrix (M) protein is an inhibitor of bulk mRNA nuclear export (28 - 30), and we showed that it interacts with Rae1 (31), which is in complex with Nup98 (30,
+31). However, this mRNA export block can be fully reverted by increasing the intracellular levels of Rae1 or partially reverted by inducing higher levels of Nup98-Nup96 (31, 32). Furthermore, treatment of cells with interferons, which up-regulates Nup98- Nup96 and Rae1, also can revert this mRNA export blockage mediated by VSV M protein (32). Recently, by targeting the
+Nup96 gene in mice to produce a strain that expresses low levels
+of Nup96 protein, we demonstrated a role for Nup96 in preferentially facilitating expression of IFN-regulated proteins (33). Thus, these findings showed a complex role for the mRNA export machinery in both viral-mediated cytotoxicity and antiviral response.
+In this study, we investigated the mechanisms used by influenza A virus to disrupt the mRNA nuclear export machinery, leading to a block in mRNA export. In addition, we showed a
+previously undescribed role for the mRNA export machinery in regulating influenza virus replication and cytotoxicity.
+
+Results and Discussion
+NS1 Interacts with Key Constituents of the mRNA Export Machinery.
+To examine the importance of regulated bulk mRNA export in the context of viral infection, we determined the distribution of host poly(A) RNA in influenza virus-infected cells. We detected
+inhibition of bulk host poly(A) RNA nuclear export in MDCK cells infected with the influenza virus strain A/WS/33 at a multiplicity of infection (MOI) of 1 (Fig. 1a). Expression of
+influenza proteins clearly was detected by immunoblot analysis, starting at 4 h after infection (Fig. 1b). Inhibition of mRNA export was observed as early as 6 h after infection (Fig. 1a),
+which was a time point at which we could easily detect infected cells by using polyclonal antibodies against all influenza proteins.
+However, inhibition of mRNA export may begin even earlier, because a key constituent of the mRNA export machinery is degraded at early stages of infection (see below). The inhibition
+of mRNA export was enhanced by 24 h of infection. Inhibition of export appeared to be selective for host mRNAs; viral proteins were expressed throughout the course of infection, presumably
+because viral RNAs are exported through the Crm1 pathway (34), which does not involve NXF1, p15, or Rae1.
+We then investigated whether NS1 interacts with the mRNA nuclear export machinery. Purified GST-NS1 or GST alone was incubated with cell extracts from 293T cells, which expressed
+zz-p15. As shown in Fig. 2a, NS1 interacted with endogenous NXF1, p15, Rae1, E1B-AP5, and very weakly with Nup98. In contrast, we did not detect any interaction of NS1 with other
+constituents of the nuclear transport machinery including Nup96, Nup62, Nup153, and Nup214 (Fig. 2 b and c). These results indicate that NS1 binds specifically to the mRNA export factors NXF1, p15, Rae1, and E1B-AP5, which are known to form a complex (27).
+We then analyzed the domains of NS1 involved in the interactions with these constituents of the mRNA nuclear export machinery. A domain within the amino terminal region of NS1,
+from amino acids 19 to 38, is required for NS1-mediated inhibition of mRNA nuclear export (35). Furthermore, a region at the carboxyl terminal domain of NS1, from amino acids 134 to 161, also was shown to be required for the inhibitory effect of NS1 on mRNA export (35). Deletion of the first 73 aa of NS1 inhibited its interaction with NXF1 and Rae1 and decreased considerably its interaction with E1B-AP5 (Fig. 2d). However, lack of the first 48 or 73 residues of NS1 retained significant interaction with endogenous p15 (Fig. 2d) or ectopically expressed
+zz-p15 [supporting information (SI) Fig. 6]. On the other hand, NXF1, Rae1, and E1B-AP5 bound poorly to the aminoterminal domain of NS1 (amino acids 1 - 73), and p15 showed no
+significant interaction with this domain. These results demonstrate that p15 interacts with the carboxyl-terminal domain of NS1 whereas NXF1, Rae1, and E1B-AP5 binding requires
+residues within the amino- and carboxyl-terminal domains of NS1. Interaction of NS1 with NXF1, p15, and Rae1 is not dependent on RNA, because incubation of cell extracts with
+RNase A did not affect these interactions (Fig. 2e). However, interaction of E1B-AP5 with NS1 was diminished in the present of RNase A (Fig. 2e), indicating partial dependence on RNA.
+These findings demonstrate that NS1 is able to interact with constituents of the mRNA nuclear export machinery and that NS1 may cause a rearrangement of the NXF1/p15/E1B-AP5/ Rae1 complex, resulting in inhibition of mRNA nuclear export.
+Alternatively, NS1 may mask binding sites of this mRNA export complex, preventing its proper interaction with other constituents of the mRNA export pathway.
+Down-Regulation of Nup98 in Cells Infected with Influenza Virus. To investigate additional effects of influenza virus on the mRNA nuclear export machinery, we determined the levels of constituents of this machinery after infection of 293T and MDCK cells.
+We observed that Nup98 levels were depleted markedly at _2 - 4 h after infection of 293T cells and by 24 h in MDCK cells (Fig.2 f and g). We did not detect any major differences in the levels
+of Rae1, NXF1, E1B-AP5, Nup153, and Nup62 (Fig. 2 f and g).
+We then tested whether the observed changes in Nup98 levels are a consequence of general inhibition of protein synthesis by influenza virus. Fig. 2h shows that Nup98 has a long half-life of
+_26 h, which indicates that it is actively degraded during influenza virus infection. This degradation likely contributes to the inhibition of mRNA nuclear export observed upon influenza
+infection.
+Increased Expression of mRNA Export Factors Maintains Nuclear
+Export of mRNA in the Presence of NS1. To determine whether blocking mRNA nuclear export is critical for influenza virus mediated-inhibition of host gene expression, we tested whether  increasing expression of mRNA export factors could prevent this inhibition. As shown in Fig. 3a, NXF1-p15 reversed the dosedependent inhibition of NS1. Inhibition of gene expression also
+was reversed when Rae1, Nup98, NXF1, or p15 were overexpressed individually, but it was not altered by overexpression of Nup96 (Fig. 3b). Nup96 does not forma complex with NXF1-p15
+(Fig. 2b), but it has a role in mRNA export (33, 36). Thus, reversal of NS1 function is specific for constituents of the NXF1-p15 complex. Then, to demonstrate that both the inhibition of gene expression by NS1 and its reversal by increased levels of mRNA export factors occurred at the mRNA export level, we performed immunofluorescence and oligo(dT) in situ hybridization
+in cells expressing NS1 alone or in cells coexpressing NXF1 and p15. As shown in Fig. 3c, expression of NS1 caused nuclear retention of poly(A) RNA, and this effect was significantly
+reverted in cells that coexpressed NS1 and NXF1-p15.
+These results show that mRNA export factors can antagonize the inhibitory effects of the NS1 protein on mRNA nuclear export.
+One possibility is that NS1 may bind to more than one constituent of the NXF1 mRNA export complex by using its different domains, and this would explain the reversal of the NS1 effect
+by more than one constituent of this machinery.
+Influenza Virus Virulence Correlates with Impaired mRNA Export
+Function. To demonstrate the role of the mRNA nuclear export machinery in influenza virus-mediated cytotoxicity, we used cells from mice that express low levels of two key mRNA export
+factors to determine their susceptibility to influenza infection. Cells from Rae1_/_ and/or Nup98_/_ mice express low levels of Rae1 or Nup98, respectively, and normal levels of other nuclear
+export factors (31, 37). We found that Rae1_/_ or Nup98_/_ cells are more susceptible to influenza virus-mediated cell death than wild-type cells, whereas cells that are heterozygous for both
+Rae1 and Nup98 show enhanced susceptibility to cell death induced by influenza infection (Fig. 4 a and b). Mutant cells also produced more viral particles compared with wild-type cells (Fig. 4c). These results demonstrate a key role for the mRNA export machinery components in antiviral response. Interestingly, we observed a higher number of viral particles in the supernatants of Rae1_/_ Nup98_/_ cells as compared with Nup98_/_ Rae1_/_ or Rae1_/_ Nup98_/_ cells, despite the fact that the later cell types showed more cell death than the Rae1_/_ cells (Fig. 4 a and b).
+
+</text>

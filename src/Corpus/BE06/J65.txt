@@ -1,0 +1,80 @@
+
+
+
+   RESULTS 
+ 
+
+ 
+Gender effects
+Girls were more likely to have mental health problems (153 of 1331 compared with 120 of 1252; 11.5% compared with 9.3%, OR = 1.3, 0.99 to 1.7, p = 0.06). In unadjusted analyses stratified by gender, boys with integrated friendship choices, and girls with integrated clothing choices had fewer mental health problems (table 3). On stratifying by gender and adjusting for confounds, lower levels of mental health problems were found among girls classified as having integrated clothing choices (compared with girls making marginalised clothing choices; OR = 0.52, 0.29 to 0.93, p = 0.03), and among boys making integrated friendship choices (compared with boys making marginalised friendship choices; OR = 0.45, 0.22 to 0.91, p = 0.03). 
+Fully adjusted analyses
+Table 4 shows that when gender is included in the fully adjusted model, the lower risk of mental health problems among those making integrated friendships is sustained. The findings for friendship choices were also sustained after adjustment for social support from friends (OR = 0.61, 0.39 to 0.95, p = 0.03). In this model high social support was also associated with some reduced risk of mental health problems (OR = 0.7, 0.5 to 0.98, p = 0.04). The association between integrated clothing choices and fewer mental health problems remains non-significant. 
+
+
+Table 4  Acculturation and mental health: logistic regression models with strengths and difficulties questionnaire as a binary "caseness" as outcome 
+
+ 
+Ethnic group effects
+We stratified the fully adjusted analyses by ethnic group. Only two findings were highly significant. On friendship choices, integration was protective only among South Asians (OR = 0.25, 0.12 to 0.54, p&lt;0.001), this finding remained significant only for Bangladeshi adolescents (OR = 0.15 95%CI: 0.04 to 0.55, p = 0.004) when stratified by specific ethnic groups. Religious group was not associated with mental health problems. There was a trend for those born outside of the UK to be more likely to have a mental health problem (OR = 1.3, 95%CI: 1 to 1.74, p = 0.09). 
+
+
+
+   DISCUSSION 
+ 
+Mental health and integration
+Our findings suggest that integrated cultural identity based on friendship choices is related to fewer mental health problems among adolescents of all ethnic groups. This finding suggests more attention is necessary for all ethnic and cultural groups, including the white minorities in some inner city areas. There were however some specific ethnic group findings. It is known that ethnic group is a proxy for a number of structural and individual socioeconomic variables that may be more important as mediators of health outcomes. However, in our adjusted analyses integration on the basis of friendship choices remained significantly associated with a lower risk of mental health problems, even when adjusted for socioeconomic indicators, social support from friends, duration of stay in the UK, religion, age, gender, and ethnic group. 
+Cultural identity seems to be a more specific risk factor of importance beyond ethnic group. Previous studies used proxy measures such as duration of residence, language ability, language preference, cultural orientation to daily life tasks, ethnic self identification, perceived social acceptability, discrimination experiences, daily life interactions including choice over food, friends, and business acquaintances.29–31 
+An earlier view that migrants give up their own culture to adopt host culture is seen now as too simplistic and does not consider individuals' choice in selecting identities that aid coping behaviours and mitigate mental distress.4 Assumptions about acculturation are now less dogmatic about the inevitability and direction of adaptive change, allowing for diverse outcomes depending upon individual choice in the adaptation process.31 For example, intensification of traditional identity may follow a substantial period of residency in the host nation.31 Unlike this study, most acculturation scales have been developed, validated, and piloted in a single ethnic, linguistic, or cultural group, precluding their use in comparative research.32,33 The implications of such work are that immigration, health, nationality, education, asylum, and social policy may encourage particular cultural identities that carry higher risks of mental health problems.4,18,33,34 In particular, policies that do not encourage integration may lead to poorer health outcomes.4 
+Friendships of the same or different gender and race
+Despite integration being healthy, segregated local communities and same culture friendship groups are common. A previous study reported that traditionalism was more common among women but this study did not explore the relation with mental distress or health.33 Traditional friendship choices may minimise the stress related to facing new dress, beliefs, diets, attitudes, religion, and lifestyle. Gender roles may also place constraints on the impact of acculturative experiences; this may explain the lower risk of mental health problems only among girls making integrated clothing choices in the partially adjusted models. It is well known that higher rates of mental health problems among girls, irrespective of cultural or ethnic origin,35 emerge during puberty and are explained by gender differences in roles, family environments, and stressful events.35 These gender related risks of psychopathology persist into adulthood, with early maturing girls being particularly prone to psychopathology, especially with additional life events and stresses.35–38 Therefore, late maturing girls may carry a lower risk of mental health problems, as this protects them from life events associated with mixed gender relationships that are characteristic of puberty. Family environments may also influence maturation, which in turn influences degree of traditionalism and integration in terms of friendships. For example, family relationships are powerful influences even on the age of menarche and puberty.38 Therefore, it is possible that protective family environments delay maturation, and this may diminish the risk of mixed gender relationships and reduce stress between adolescents and their parents. There are several other reasons why boys and girls differ on levels of attachment and intimacy, and select friends of the same gender and race.39–41 Immigrant adolescents differ from non-immigrants in seeking more similarity between themselves and others when choosing friends.43 African Americans' ethnic identity was a more important determinant of friendship choices than either academic achievements or similarity in terms of using substances.22 More evidence for same race/culture friendships arise from studies reporting that the cross cultural friendships of African Americans are less reciprocal than same culture friendships.41,43 Cultural representations that are found in school education curriculums and immigration policies must be tackled to encourage integration while tackling other social processes that encourage segregation. Understanding the persistence of traditional social groups and identities is crucial for the development of public health and social policies that will ensure social inclusion. 
+
+
+Key points 
+* Integrated friendship choices confer some advantage for all cultural groups
+* Bangladeshi and South Asian pupils with integrated friendship choices had lower levels of mental health problems than white pupils
+* Girls with integrated clothing choices and boys with integrated friendship preferences have fewer mental health problems.
+ 
+Clothing choices and culture
+We found integrated clothing choices were associated with fewer mental health problems among girls, but the effect did not reach statistical significance, although the point estimate odds ratio of 0.68–0.7 was unchanged by adjustment. Girls making integrated clothing choices may already be healthier or more able to negotiate clothing restrictions placed upon them. Alternatively, girls making integrated clothing choices may have more permissive families with whom they can negotiate a modification of cultural norms, and more permissive family environments may be associated with better mental health. Another study of clothing choice and mental distress found that those with emotional disturbances did not use clothes to influence their moods, perhaps allowing for more conformity.44 Our findings were less compelling for clothing choices. Several explanations can account for this. Clothing is linked to self esteem and clothing choices can influence mood.44 However, school uniforms, economic and religious constraints may influence these far more than personal choice. Therefore, clothing choices may be subject to more contextual influences than friendship choices. For example, not all ethnic groups have a unique dress code. Furthermore, most boys, whether from traditional families or not, wear westernised clothes. Similarly, girls may be more influenced by fashion trends or poverty rather than by identity. 
+Limitations of the study
+Entering ethnicity into models had little impact on the associations between cultural identity measures and mental health outcomes. This may reflect similar relations between cultural identity and mental health in each of the ethnic groups, or a lack of power to detect differences in specific ethnic groups. The ethnic group subanalyses suggested that integration may be a protective factor for South Asians, and specifically for Bangladeshi pupils. However, it may be that the non-Asian ethnic categories were not culturally homogenous groups. Therefore, non-significant findings in the other groups may reflect negative confounding because of aggregation of specific ethnic groups. Alternatively, the sample sizes of other ethnic groups may be inadequate to detect an effect, or the magnitude of the effects of acculturation may vary by ethnic groups, with smaller effects not being detectable in this study. In contrast with our findings, fewer mental health problems among those choosing friends from the same culture may be expected on the basis of the ethnic density hypothesis; this predicts that living in an area with people from the same cultural group, as is the case with our Bangladeshi subjects, reduces the risk of mental health problems.45 The study was also limited by the number of domains we used; future work will need to pilot similar work using more domains of cultural identity. 
+
+
+Policy implications 
+* Gender roles interact with acculturation to produce different risks of mental health problems for specific cultural identities, requiring gender specific education, immigration, and social policies.
+* Health, education, and social care policies that encourage integrated friendships are likely to be beneficial for the mental health of girls and boys, of all cultural groups.
+* Understanding the reasons why boys and girls make traditional and marginalised friendship choices is important to unravel; marginalisation and traditionalism are common so interventions that encourage transitions to integrated friendships are needed.
+ 
+Future research and policy
+These findings are intriguing and argue for more research into processes of transition across identity groups, for new migrants and younger people born in migrant families in the UK, and taking account of more domains to measure identity. For adolescents, acculturation may be understood as a process of adaptation to an adult world, as well as reconciling cultural differences in proximate social groups. Such work will need qualitative and quantitative longitudinal designs, and must ensure adequate sample sizes for individual level analyses, and sampling across a range of socioeconomic contexts to enable multilevel modelling to unravel contextual contributions. Future research may also progress to measure the relation of cultural identity on a number of domains with distinct diagnostic groups, alongside the impact of life events on the onset and course of mental health problems among adolescents.46,47 Young refugees for example, and immigrant groups to other continents will differ in their country of origin profile from migrants to the UK. This work will need to be replicated in other countries on other cultural groups.46,47 The implications for educational policy include giving attention to exploration of cultural identity in schools, perhaps with a review of educational materials to ensure thoughtful and non-discriminatory representations of culture, but also policies in all social institutions that encourage and facilitate cultural integration. 
+
+
+
+   APPENDIX 1: CULTURAL IDENTITY QUESTIONS 
+ 
+The following questions are about how similar or different you feel from people in your race or ethnic group. 
+IS YOUR CHOICE IN CLOTHES SIMILAR TO PEOPLE FROMYOUR RACE/ETHNIC GROUP? 
+* 1 No 
+* 2 A little like them 
+* 3 Quite a lot like them 
+* 4 Mostly like them 
+IS YOUR CHOICE IN CLOTHES SIMILAR TO PEOPLE FROM OTHER RACES/ETHNIC GROUPS? 
+* 1 No 
+* 2 A little like them 
+* 3 Quite a lot like them 
+* 4 Mostly like them 
+DO YOU HAVE MANY GOOD FRIENDS WHO BELONG TO YOUR RACE/ETHNIC GROUP? 
+* 1 None 
+* 2 Some 
+* 3 Quite a lot 
+* 4 Most or all of them belong to my own race/ethnic group 
+DO YOU HAVE MANY GOOD FRIENDS WHO BELONG TO OTHER RACES/ETHNIC GROUPS? 
+* 1 None 
+* 2 Some 
+* 3 Quite a lot 
+* 4 Most or all of them belong to other races/ethnic groups 
+
+
+
+
+

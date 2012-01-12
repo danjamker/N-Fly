@@ -1,0 +1,192 @@
+<text id="J68" category="" words="2018" checkedby="" modifiedby="" Title="The Ends of Enchantment Colonialism and Sir Gawain and the Green Knight" Author="Lynn Arner" PublicationDate="June 1, 2006  " SampledFrom="Texas Studies in Literature & Language Vol. 48, No. 2, Summer 2006 " WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=122&sid=d9a3dba2-c59e-4b97-a7eb-250f6a5d4188%40sessionmgr113&vid=3">
+
+By the thirteenth century, the English had learned that the Welsh were
+treacherous and fickle. In the last quarter of the fourteenth century, the
+English trembled when the Welsh both raided English territory and produced
+an alarming increase in the number of settlers migrating into English
+border counties. After the widespread Welsh uprising in the first decade
+of the fifteenth century, the English realized that the Welsh were not the
+submissive and deferential natives they had feigned to be, but were a
+perfidious people, on par with the wild Irish. These "insights" into the nature
+of the Welsh were widely held perceptions among the English in the
+late Middle Ages. Lest the English forget that the Welsh possessed these
+characteristics. Sir Gawain and the Green Knight (SGGK) was prepared to
+remind them.
+SGGK was thoroughly tied to England's colonial project in Wales when
+the poem was composed. SGGK is typically dated between 1350 and 1400
+(a common ascription being the last quarter of the fourteenth century), a
+period during which the English were attempting to complete their colonization
+of Wales, while the Welsh violently opposed such domination.
+Resembling several Arthurian histories from medieval Britain, SGGK is
+structured by these colonial conflicts and, appropriately, arises from a border
+culture: the poem is conventionally believed to have been composed
+in northwest England, alongside the Welsh border, and employs a northwest
+midlands dialect, specifically, the dialect of Lancashire and Cheshire.
+Appropriately, the bulk of SGGK's narrative action unfolds in the English-
+Welsh borderland. This location is specified at the beginning of Gawain's
+quest to find the Green Knight. Gawain initially journeys through the
+realm of Logres (England, south of the Humber) and eventually reaches
+northern Wales. Gawain passes the Anglesey Islands, fords rivers near the
+headlands, crosses at Holy Head, and lands "In be wyldrenesse of Wyrale"
+("In the wilderness of Wirral," 701), a peninsula just inside England,
+by the northeastern border of Wales. Gawain is in Wirral when Bertilak's
+castle magically appears, making SGGK a border romance. 
+This article investigates SGGK's participation in colonial struggles
+between the English and the Welsh in the late fourteenth century. As the
+models of ideology employed in British cultural studies attest, a text does
+not simply reflect the political climate in which it is composed but intervenes
+in the political terrain and participates in the production of the
+social formation. Hence, using a methodology in dialogue with Stuart
+Hall, Raymond Williams, Louis Althusser, and Antonio Gramsci, this article
+examines how the ideologies speaking through SGGK attempted to
+reformulate readers' conceptions of themselves and of their neighbors and
+thus shape their perceptions of how to negotiate English-Welsh conflicts.
+The defining work of SGGK in relation to England's colonization
+of Wales is that of Patricia Clare Ingham, and we disagree dramatically
+about how to understand the English-Welsh negotiations embedded in
+the poem. Ingham argues that, as the poem unfolds, the issues surrounding
+colonization raised early in the text disappear and that the ethnic and
+geographic disparities between the English and the Welsh in the first half
+of the poem collapse to be replaced by gender difference. I maintain that
+SGGK insists throughout the entire poem - as did, in general, the English
+and the Welsh in the late fourteenth century - that the two peoples differed
+greatly. Ethnic and geographic incongruities are not effaced as SGGK
+unfolds, but are reinscribed at the locus of gender - more precisely, at
+the site of female sexuality - in a conventional move that acts to further
+elaborate and consolidate colonial power by buttressing ideologies of colonialism
+with ideologies of gender.
+This divergence points to a more fundamental disagreement between
+Ingham's work and my own. We understand the English colonization
+of the Welsh, and hence the poem's colonialist politics, very differently.
+Ingham writes,
+Welsh and English interaction in march towns, at regional marketplaces,
+on the battlefield, or in the narrative tropes of a Middle English
+poem become the multiple places where unity is forged from ethnic heterogeneities.
+Colonial union becomes an act of cultural synchronicity,
+a coordination of capitulation . . . Rhetorics of distance and differentiation - 
+the desire to separate "Welsheries" from "Englishries" in late
+medieval histories, or in the case before us to determine once and for
+all which parts of Gawain are Welsh or English - efface the familiarities,
+shared dreamings, common spaces of household and story.
+Ingham views the intermixing of the Welsh and English (in the poem
+and in Wales) as the creation of a hybridity, a conflation which is, for
+the most part, a reasonably pleasant cultural and geographical commingling.
+Rhonda Knight's work on SGGK and colonization also centers on
+hybridity, insisting that Gawain's identity is a "cultural collage" and that
+Bertilak embodies Anglo-Welsh hybridity, reflective of the border region.
+Knight acknowledges the harshness of England's seizure of Wales but
+claims that by the time SGGK was composed, the intensity of conquest and
+occupation had subsided to be replaced by a more settled coexistence.
+Hence, both Knight and Ingham seem unaware that the English conquest
+of the Welsh in the late fourteenth century was frequently bloody: many
+Welshmen and women were dispossessed of their lands and livelihoods;
+and many were killed by the invaders. Focusing more strongly on consensual
+relations than coercive ones, Ingham roots her discussion in the
+dialectical (specifically in Homi Bhabha's formulation of mimicry); but
+when discussing a dialectic, it is important to emphasize that two disparate
+groups do not approach their convergence on equal terms, as
+Ingham's work frequently seems to imply. As Antoruo Gramsci and Stuart
+Hall argue, when a dominant group seeks to produce hegemony, there is
+a dialectic, where, in order to be effective, the ruling group must take account
+of the interests and tendencies of the subaltern groups over whom
+hegemony will be exercised. However, such compromise does not imply
+equity, and the two groups do not contribute equally to the production of
+the new social formation. Ingham and Knight make the power relations
+in the poem and in Wales seem more equitable and especially more palatable,
+I would argue, than they indeed were. As the historical discussion
+in this article will demonstrate, relations between the Welsh and the colonizing
+English - including in northeastern Wales and in the Marches in
+the southeast - were generally bitter in the second half of the fourteenth
+century. Accordingly, rather than arguing for the leveling of dissimilarities
+and the liquidation of "ethnic heterogeneities . . . into nothing more than
+the differences of an extended family," as Ingham holds or for some collage
+of identities as Knight maintains, this article argues that SGGK insists
+that the Welsh and the English are two distinct groups and that the poem
+promoted England's conquest of Wales.
+England's Conquest of Wales.
+As R. R. Davies explains, by the close of the twelfth century, the Anglo-
+Normans had entrenched themselves firmly in much of Wales, especially
+in the southeast, in the far southwest, and, in places along the eastern
+border. By the end of the next century, Edward I had paid extraordinary
+amounts to effect and to sustain the conquest of the remaining areas of
+north and west Wales, areas that had more successfully resisted colonization.
+Thereafter, the Welsh provoked constant anxiety in the English.
+There were occasional outbreaks of violence by the Welsh against their
+colonizers, including anti-English violence in the north in the 1340s.
+The English feared Welsh uprisings, a fear that intersected with apprehension
+that the French and the Scots would employ Wales as a threshold for
+attacking England. This trepidation mounted rapidly after the resumption
+of the Hundred Years War in 1367, producing English garrisons at most
+Welsh castles in the 1370s. Tensions in Wales grew palpably in the last
+three decades of the fourteenth century. Ruthless English lords exploited
+Welsh tenants to a particularly pronounced degree, and under these
+conditions the indigenous community grew increasingly resentful. Relations
+between the rural Welsh and burgesses in English towns in Wales
+were fraught in places as distant as Carmarthen and Flintshire. In the
+1370s, Owain Lawgoch, another in a long line of Welsh rebels emerged,
+proclaiming his intention to recover Wales. Lawgoch's cause attracted the
+support of the French, the Castilians, and some leading men in northern
+Wales, and in response, the English government assassinated Lawgoch.
+The last quarter of the fourteenth century witnessed a resumption and
+intensification of campaigns by English counties bordering Wales against
+Welsh raids and against what the English perceived to be an alarming
+influx of Welsh settlers into English border counties.
+Northeast Wales in particular generated considerable anxiety for the
+English near the end of the fourteenth century: in the 1390s, it was the site
+of both a bitter family feud and a violent demonstration that threatened to
+become a sizable uprising. In 1400, an insurrection, led by Owain Glyn Dwr,
+did erupt. Northern Wales was the seat of Glyn Dwr's power, with Glyn Dwr
+also enjoying the support of his powerful cousins from Anglesey. English boroughs
+in northern Wales were the primary targets of Glyn Dwr's followers
+in their initial forays, although insurgency quickly spread throughout Wales.
+Glyn Dwr's uprising was the longest rebellion in Wales since the Norman
+Conquest, and the uprising threatened to secure Welsh independence from
+foreign rule. However, by 1408, Welsh rebels had effectively lost the battle.
+Whatever their biological or cultural interminglings, the Welsh and
+the English understood themselves to differ greatly. This was evident on
+the part of the English through their pronounced divisions between themselves
+and the Welsh administratively and institutionally. As the thirteenth
+century unfolded, the categorization of "the Welsh" versus "the English"
+became much sharper, and the existence of two separate peoples was institutionalized
+in the governance of Wales. The Welsh not only differed from
+the English but were for many purposes considered inferior. This shift in
+perceptions was discernable in newly emergent pejorative representations
+of the Welsh in official documents - especially claims that the Welsh were
+treacherous and fickle. In the fourteenth century, the distinction between
+conqueror and conquered, settler and native, was even more clearly defined
+in formal and institutional terms than at any other time. For the Welsh,
+a pronounced distinction between themselves and the English was intact 
+not only as the sporadic anti-English violence throughout the fourteenth
+century testified, but as the widespread rebellion, led by Glyn Dwr, of the
+colonized against their colonizers proclaimed. Most Welshmen and women
+were united against the English under a common feeling of oppression and
+under a shared political and historical identity. SGGK articulates - and
+helps to produce - the understanding that the English and the Welsh differed
+dramatically and that the two peoples were antagonistic.
+Colonialism, King Arthur, and SGGK.
+English-Welsh colonial struggles included contestations over King Arthur.
+According to Welsh traditions, the invading Saxons drove Arthur and his
+Britons into Wales. The Welsh not only claimed to be Arthur's descendants,
+but they traced their glorious heritage through Arthur to Brutus,
+to Aeneas, and ultimately to Troy. Elissa R. Henken explains that, in the
+Middle Ages, Arthur confirmed the inherent worth of the Welsh by establishing
+their honorable and often glorious past and by offering the promise
+of a glorious future. Arthur became one of the most renowned redeemerheroes
+of the Welsh in the Middle Ages - a figure who would someday
+return to emancipate his people. Medieval Welsh texts, including the
+Mabinogion and Geoffrey of Monmouth's writings, typically situate Arthur
+and his court in Wales, frequently at Caer Llion ar Wysg (Caerleon-on-
+Usk). For the English, however, Arthur and the Britons were forebears of
+Englishmen. Hence, medieval English texts more readily identify Camelot
+as Arthur's primary dwelling, located in some undisclosed spot in England.
+Some English kings, especially Edward I and Edward III, claimed
+descent from Arthur, citing his sovereignty over Britain as proof that English
+monarchs ought to rule the British Isles.
+SGGK emphatically participates in English-Welsh contestations over
+Arthur and his lineage. In its opening lines, the poem provides a thumbnail
+sketch of Arthur's genealogy: Aeneas flees Troy, leading to the founding of
+Rome (and later of Tuscany and Lombardy); Brutus, descendent of Aeneas,
+abandons his homeland to settle in Britain; and, of the subsequent kings of
+Britain, Arthur is the noblest (1-26).
+
+</text>

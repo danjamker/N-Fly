@@ -1,0 +1,173 @@
+<text id="J18" category="" words="2008" checkedby="" modifiedby="" Title="Linear model theory : univariate, multivariate, and mixed models " Author="Muller, Keith E. " PublicationDate="2006" SampledFrom="Hoboken, N.J. : Wiley-Interscience" WebAddress="http://www.netlibrary.com/Reader/">
+
+CHAPTER 1.
+Matrix Algebra for Linear Models.
+NOTATION.
+Graybill (1969), Searle (1982), Harville (1996), and Schott (2005) provided
+thorough introductions to matrix algebra for statistics. We summarize only key
+results here. Substantial omissions include the deletion of nearly all proofs, as well
+as consideration of more general forms not commonly used in statistics. Also,
+many issues of numerical accuracy have been ignored. Some of the formulas
+described here, although very useful for understanding concepts, prove
+numerically unstable with typical computer precision.
+Braces, { }, indicate sets and brackets, [ 1, indicate matrices or vectors (arrays).
+In a distinct use of the same symbols, mathematical expressions will be grouped by
+using the nesting sequence {[()I}, which may be iterated as { [( {[()I} )I}.
+Definition 1.1 (a). A matrix is a rectangular, two-dimensional array of
+elements. Writing A = {atJ} says A is the matrix with element azJ at row i
+and column j. Here i is the row index, while j is the column index, which
+are always written in row-column order. (b) A vector is any matrix with exactly one column, such as = [:I.(c). A scalar, such as s = 6, can be expressed as a vector with one row or as
+a matrix with one row and one column, written s = s = S.
+We restrict attention to real numbers and finite dimensions. With T rows, c
+columns, A is T x c (T by c).
+In turn, (A)t=J indicates element i ,j has been extracted from A.
+Although not all authors do so, we are scrupulous about the distinction between
+a matrix of one row.
+The vector b can also be written in terms of a transpose (defined in the next section), b = A'.
+Doing so not only avoids notational ambiguity, but also builds in many consistency
+checks by requiring dimensions and symbol types (a or A) to align.
+As an aid to working with matrices, we always use bold typeface in word
+processing software, as in the present book. Most, but not all, statistical journals
+require the convention. With the convention, a represents a scalar, a represents a
+vector, and A represents a matrix. When handwriting expressions, we highly
+recommend always putting a tilde or dash under any matrix or vector to indicate
+boldface. It is extreme2y helpful to write the dimensions of each matrix in an
+equation underneath the equation.
+The practice saves a great deal of time (otherwise spent being confused). More
+bluntly, if one does not know the dimensions, one cannot understand the equation.
+We reserve superscripts for operators and use subscripts for descriptors, such as
+in 5, x2, 5 2 . Often, functional notation, such as x ( c , a ) , provides a better
+alternative than a long and elaborate subscript descriptor.
+SOME OPERATORS AND SPECIAL TYPES OF MATRICES.
+As mentioned earlier, we use the term "vector" only for n x 1 arrays and never
+for 1 x n arrays. A 1 x n array will always be written as a matrix, such as
+A = [ 1 2 3 1, or as a transposed vector, b' = [ 1 2 3 1. Here A = b' and A' = b.
+Definition 1.6 An identity matrix, I or I,,,is a square matrix with all 1's on
+the main diagonal, and all 0's off-diagonal. Equivalently, utj = 0 if i # j
+and a,, = 1 if i = j .
+Definition 1.7 A zero matrix, 0, has q7 = 0 and may be written
+0, to indicate a vector or Orxc to indicate a matrix for clarity.
+Definition 1.9 A partitioned matrix (supermatrix) has elements grouped
+meaningfully by combinations of vertical and horizontal slicing, indicated
+A = {Alk }. Necessarily A3k and Ap have the same number of rows, while
+Ajk and Ajk Ih, ave the same number of columns.
+Definition 1.10 A block diagonal matrix is a partitioned matrix with all
+partitions zero except possibly {Ajj}.
+However, complete uniformity of dimensions is not
+required (the number of rows of B need not equal the number of rows of E). It
+would be hard to overemphasize the value of partitioned matrices in deriving
+algebraic and statistical properties for linear models. Expressions can often be
+greatly simplified by taking advantage of special properties of partitioned matrices
+for basic operations (matrix summation, multiplication, etc.) and more complicated
+operations (determinants, inverses, etc.).
+Definition 1.11 For T x c A, writing colk(A) = ak indicates extracting T x 1
+column j from A. Writing Aj = rowj(A) indicates extracting a particular
+1 x crow.
+As an important example of partitioning, T x c A can be expressed in terms of
+its c column vectors, {aj},w ith aj of dimension T x 1, or its T rows, {Ak}, with
+Ak of dimension c x 1.
+Definition 1.12 (a) Writing A = [ al a2 ... a,],w hich requires {aj} to be
+T x 1, indicates {aj} have been horizontally concatenated.
+Definition 1.13 Writing vec( ) indicates all elements of a matrix have been
+stacked by column, as in bl = vec(A), because it creates an (TC) x 1 vector
+from an T x c matrix. Equivalently, the columns have been vertically
+concatenated.
+Definition 1.15 Matrices conform for an operation if their sizes allow the
+result of the operation to exist. Matrices do not conform for an operation ij
+their dimensions do not allow the desired operation.
+Definition 1.16 Matrix addition yields A + B = {az, + bzJ} while matrix
+subtraction yields A - B = {azJ - bzJ}. Either result exists only if A and
+B are the same size (and thereby conform for the operation).
+FIVE KINDS OF MULTIPLICATION.
+Definition 1.17 Scalar multiplication of a matrix gives Ab = bA = { baij}.
+Definition 1.18 If A and B are both r x c, then elementwise
+multiplication gives A # B = {a2Jb23=} C,w ith C also r x c.
+Matrix multiplication can be expressed as a collection of cross products.
+Multiplying row j' of A with column j' of B yields cjk = {rowj(A)colk(B)}.
+Lemma 1.1 (a) Premultiplying by a (square) diagonal matrix scales the rows, and
+postmultiplying by a (square) diagonal matrix scales the columns.
+(b) The result generalizes to partitioned matrices with conforming partitions.
+Definition 1.21 The horizontal direct product creates a new matrix by
+elementwise multiplication of pairs of columns from two matrices with the same number of rows.
+To operate on rows ( 1 ) transpose each operand, (2) compute the product, and
+(3) transpose the result, as with (A' 0 B')'. The operator could be called the
+vertical or column direct product.
+With r x c A and s x d B, the result has dimension
+( T S ) x ( c d ) = (rows x columns). Some authors choose to define {Abij} as the
+direct product, which produces a different matrix.
+THE DIRECT SUM.
+Definition 1.23 The direct sum operator creates a block diagonal matrix
+from any set of square matrices.
+Direct products including an identity matrix, A @ I or I @ B, occur often in
+expressions for covariance matrices of data in clusters of fixed size. A common
+form occurs in describing the covariance matrix of data observed in N clusters of
+constant size, with homogeneity of covariance between clusters.
+RULES OF OPERATIONS.
+Unless otherwise specified, we assume A and B conform for the operations in
+question. Without additional knowledge of the matrices involved, the following
+are true.
+Theorem 1.1 Some operations obey commutative laws.
+It is important to recognize that AB # BA and A @ B # B @ A, except in special cases.
+Theorem 1.6 (a) For any matrix pair, tr(A @ B) = tr(A)tr(B)
+(b) For conforming matrices, tr(AB) = tr(BA).
+OTHER SPECIAL TYPES OF MATRICES.
+Definition 1.24 A matrix of the form A'A is an inner product and AA' is an
+outer product.
+Both inner and outer products are always symmetric.
+Using concepts introduced later in the chapter, inner and outer products are always
+either positive definite (all eigenvalues real and positive) or positive semidefinite
+(all real eigenvalues, with some positive and some zero). Inner and outer products
+always have the same rank, which equals the rank of A. They also have the same
+eigenvalues, except for some zeros if A is not square.
+product) is diagonal, and a matrix is (rowwise) orthogonal if AA' (the outer
+product) is diagonal. A matrix is (columnwise) orthonormal if A'A = I,
+and a matrix is (rowwise) orthonormal if AA' = I. Two matrices are
+biorthogonal if AB = 0.
+In the preceding definition, neither A nor B need be square.
+Definition 1.26 Any square matrix is described as idempotent if A = A2.
+Lemma 1.3 If A is idempotent, then I - A is also idempotent and
+A ( I - A ) = 0.
+Idempotent matrices play important roles in discovering properties of quadratic
+forms, especially independence.
+QUADRATIC AND BILINEAR FORMS.
+Definition 1.27 (a) For square A = A' and conforming x, the expression q = x'Ax is a quadratic form in x.
+(b) The expression b = x',Bx,, for B not necessarily symmetric or square is a bilinear form in conforming vectors XI and x2.
+If x ( 2 x 1) is free to vary and qo &gt; 0 is constant, then qo = X'AX is the
+equation of an ellipse. The result generalizes to higher dimensions. A quadratic
+form lies at the heart of the density of a vector Gaussian and consequently leads to
+ellipsoidal probability contours.
+Lemma 1.4 If q = x'Az, then without loss of generality A may be assumed to be symmetric.
+VECTOR SPACES AND RANK.
+Definition 1.29 (a) Any finite set of n x 1 vectors generates a vector
+space, namely the (usually infinite) collection of all possible vectors created
+by any combination of multiplications of one vector by a constant, or the
+addition of two vectors.
+(b) Any set of vectors which generate the particular set of vectors spans the
+vector space, and provides a basis for the space.
+Definition 1.30 (a) The rank of the vector space equals the smallest possible
+number of linearly independent vectors which span the space. The rank of a
+set equals zero if and only if the only member of the set is xz = 0. The rank
+of a set of p vectors, necessarily an integer, ranges from zero to p.
+(b) A set with rank p isfull rank, while a set with rank strictly less than p is
+less than full rank.
+Any two distinct vectors XI and x2 are orthogonal if and only if xix2 = 0. An
+orthogonal basis provides the most convenient form and has xix~ = 0 if j # j'.
+Spectral (eigenvalue) decomposition provides an orthonormal basis for any square
+and symmetric matrix, and some nonsymmetric square matrices. The singular
+value decomposition provides a convenient way for any matrix, symmetric or not,
+square or not. Both are discussed later in the chapter.
+An T x c matrix, A, can be thought of as a collection of c vectors, the columns,
+each T x 1. Alternately, considering the columns of A' allows describing the
+matrix as a collection of T vectors, the transposed rows, each c x 1. The rank of a
+matrix may be found by decomposing it into its columns and treating them as a set
+of vectors.
+Transposing the matrix allows applying the same process to the rows.
+The resulting row rank always equals the column rank, which leads to the following.
+Definition 1.31 The rank of a matrix equals the maximum number of linearly
+independent rows or columns, indicated rank(A). An T x c matrix is full
+rank if rank(A) = min(r, c) and less than f i l l rank otherwise. The only
+matrix of rank zero is a matrix of all zeros, Onxm.
+It would be hard to overemphasize the importance of the concepts of vector
+space, span, basis, and orthogonal basis in the study of linear models.
+
+</text>

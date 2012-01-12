@@ -1,0 +1,253 @@
+<text id="H28" category="" words="2005" checkedby="" modifiedby="" Title="Greening the Government Through Leadership in Environmental Management" Author="U.S. Department of Energy Office of Health, Safety and Security" PublicationDate="2006" SampledFrom="Middle" WebAddress=" http://www.hss.energy.gov/nuclearsafety/env/reports/eo13148/2007.pdf">
+
+Improved Relations with Outside Entities
+DOE organizations reported improved relations with outside entities, including improved
+relations with regulatory agencies and better community relations.
+2. BEST PRACTICES/LESSONS LEARNED
+Facilities were invited to provide up to three statements identifying EMS
+implementation best practices/lessons learned.
+DOE organizations reported numerous examples of best practices/lessons learned
+associated with EMS implementation at their facilities. These are discussed under the
+following general categories.
+• Integration
+• Management/staff roles
+• Communication/coordination
+• Aspects analysis
+• Auditing/assessment
+• Goals/objectives/targets
+• Documentation
+• Contacting/Subcontracting
+• Electronics recycling
+• Procedural and program practices.
+The following paragraphs highlight best practices/lessons learned in each of these
+categories.
+Integration
+DOE organizations reported lessons learned/best practices associated with integrating
+environmental management considerations into their policies, operations, planning, and
+management. Integration was cited at various levels, including the workplace, site, and
+mission. One site reported:
+"integrating EMS principles and the National Environmental Policy Act
+evaluations through use of an environmental checklist,"
+and another said that:
+"ISO 14001 laid the foundation for implementation of the OHSAS 18001 system
+for occupational safety and health."
+One site reported that the: 
+"integration of environmental corrective actions into the project's overall
+[corrective action tracking] system provides an excellent example of the seamless
+integration of the EMS into fundamental operational processes."
+One lesson learned regarding integration was that:
+"true integration with safety is difficult (processes will integrate but philosophy of
+safety still dominates)."
+Management/Staff Roles
+DOE organizations stressed the importance of senior management involvement for EMS
+success. One response is typical of many:
+"Even though employees are generally environmentally responsible in their
+actions, without the support and emphasis of top management, the EMS would
+probably struggle to succeed."
+Variations on this theme included the need for senior management support to "establish a
+single entity with overall responsibility and authority if EMS covers diverse groups;" the
+need for senior management to remain engaged  -  at least on an annual basis; and the
+benefits of senior management support for marketing, sitewide communication and
+aggressive EMS promotion. Sites also noted that acceptance of objectives/targets should
+be at all levels involved with the subsequent management program  -  not just top
+management, and that a bottoms-up approach to EMS design and direction produced
+strong staff ownership.
+Communication/Coordination
+Lessons learned and best practices regarding communication and coordination were
+reported by DOE organizations. A recurrent theme was the need for early and frequent
+communication. Specific lessons learned included the need to develop an understanding
+of environmental impacts among employees and the need for a full-time EMS
+coordinator, especially at the larger facilities. One site reported that:
+"Translating [the site's] over 24 aspects and potential impacts into terms which
+can be communicated effectively to employees was an influential action taken in
+response to an assessment (continual improvement cycle). This translation was
+then quickly incorporated into [the site's] General Employee Training."
+Best practices included the establishment of a lessons learned project point of contact for
+each program area and the dissemination of examples of successes to line organizations
+to provide guidance to future projects. One site observed that:
+"Close working relationships between the environmental professionals, facilities
+operations, procurement, and experimental operations personnel provide the best
+opportunities for adoption of sustainable practices across the organization. By fostering these relationships, environmental professionals can help influence
+decisions made throughout the organization in order to promote sustainable
+practices."
+Organizations reported lessons learned regarding marketing as a form of communication.
+For example, one said that extensive marketing was effective, and another reported that:
+"By keeping the EMS policy simple, it was easy to turn it into an acronym that
+helped remind employees of environmental commitments. The policy
+commitments  -  Pollution Prevention, Community, Cleanup, Continual
+Improvement and Compliance  -  were condensed into the acronym P2C4."
+Aspects Analysis
+DOE organizations reported best practices or lessons learned regarding the analysis and
+evaluation of environmental aspects. These included the importance of broad input to
+aspect/impact identification, that the aspects analysis process needs to mature with the
+EMS, and that revisions will be required as significant aspects are reevaluated. One
+organization reported that the greater the effort (broad-based involvement) to identify
+activities and their environmental aspects, the greater the potential to recognize areas for
+improvement through new objectives and targets. Best practices cited include:
+"Environmental impacts and aspects are analyzed along with health and safety
+concerns on a continual basis during review of individual work packages as they
+are prepared for field work,"
+and
+"Annual evaluations of aspects and impacts to identify potential vulnerabilities as
+a result of changing conditions. Examples include facility demolitions;
+equipment moves; and process start ups."
+Auditing/Assessment
+DOE organizations reported best practices and lessons learned regarding auditing and
+assessment. One noted that a defined self-assessment process facilitates continuous
+improvement, and another reported that it had integrated a process-assessment approach
+that allows for periodic review of environmental aspects of major operations. Another
+facility reported that a:
+"Robust internal EMS audit process drives continuous improvement and
+demonstrates commitment to external auditors."
+Another said that using an external auditor gives the program more credibility.
+Goals/Objectives/targets
+DOE organizations reported lessons learned regarding goals and objectives. One noted
+that the objectives should be achievable even under adverse conditions, and another
+reported that the "establishment of annual goals and objectives allows management to
+identify important ESH issues in their organizations."
+Documentation
+DOE organizations reported on the advantages of using electronic documentation. One
+said:
+"The documentation of the [project] EMS has been done entirely electronically
+through our Intranet. Using web page documentation has made it much easier to
+update and manage changing processes and procedures."
+Another said that:
+"[The laboratory] utilizes a state-of-the art database system . . . to manage its
+environmental management obligations. This internet-based relational database
+system allows for the integrated management of citations (permit requirements,
+regulatory citations, etc.), operational requirements, tasks, monitoring data,
+documents, and reporting. Automatic comparison of requirements against
+regulatory limits and escalating e-mail notifications provide robust compliance
+management tools. User-specific regulatory update notifications provide flexible
+and powerful tools to manage regulatory compliance obligations. Reporting and
+document management functions provide a comprehensive status of
+environmental performance."
+Contracting/Subcontracting
+Organizations reported lessons learned regarding EMS and contracting, including that
+EMS targets were tied directly to concrete objectives. They noted that:
+"EMS supports the subcontracting process through consideration and inclusion of
+environmental issues."
+"The transition of management and operating responsibilities from the previous
+contractor to [the current operating contractor] demonstrates continuation of
+commitments to the prevention of pollution, compliance with applicable
+requirements, and continual improvement."
+Electronics Recycling
+One organization reported a best practice that it intends to repeat in future years:
+"During Earth Day, 2006 [the organization] sponsored an employee electronics
+recycling day whereby personnel and their families could bring old electronic
+equipment in to be reused or recycled by [the organization's] recycling contract
+vendor. Approximately 4500 lbs of old electronic equipment, televisions,
+computers, etc. were accumulated at this event. It was apparent from comments
+made by employees that there are few means in the general public to recycle old
+electronic equipment. [The organization] is planning to perform this service next
+year in hopes of expanding the total amount of equipment recycled."
+Procedural and Program Practices
+Various EMS procedural and program best practices were identified. Examples include
+the following:
+Flexibility.
+"The EMS needs to be flexible to accommodate different types of workers
+in the organization. Changes in performance take time."
+Implementation.
+"Use of EMS toolkit to assist in EMS implementation and operation."
+Purchasing.
+"Use of warehouse to purchase in-stock 'green' items."
+Planned work reviews. One organization reported its process for facilitating
+approval of work documents:
+"All planned work (in the form of a Work Document) undergoes
+comprehensive review by the site Work Review Group, which is
+comprised of representatives from the following departments: Safety,
+Environmental Affairs, Radiation Protection, QA, and the work group
+assigned to complete the task. The process requires that a hazard analysis
+checklist be completed for each work activity planned. The checklist
+includes an evaluation for applicability of waste minimization/pollution
+prevention opportunities to the work, as well as required environmental
+reviews. When environmental aspects are identified during the checklist
+process, subject matter experts from the Environmental Affairs department
+evaluate the proposed work with respect to applicable state and federal
+environmental regulations and associated permits. Based upon these
+environmental reviews, and as necessary, the Environmental Affairs
+department will modify the work scope to comply with existing permits, modify existing permits/licenses, or apply for new permits/licenses. The
+method for transmitting the upcoming work packages to the Work Review
+Group via electronic mail prior to issuance is noteworthy. This process
+allows time for representatives of the Work Review Group to thoroughly
+review each document and brainstorm any questions prior to the work
+being performed. The implementation of this process allows for an
+efficient mode in getting work documents approved."
+Energy conservation. DOE organizations reported that energy conservation
+measures were implemented or improved at their sites. For example, one said that
+"Through energy and environmental conservation efforts, the amount of
+natural gas consumed in the X-6002 Boilers was reduced by
+approximately 59% for the period from October 2005 through July 2006.
+This was accomplished through reducing thermostat settings and by
+application of a biocide to control bacteria growth in the boiler water
+during the summer months instead of running the boilers to keep the
+temperature high enough to control the bacteria growth. In addition to the
+cost savings of $173,900, the reduction in consumption of natural gas
+resulted in a corresponding reduction in risk of harm to the environment
+by reducing the quantity of greenhouse gas emissions (CO2) by
+approximately 2 million pounds."
+Programs and operating procedures. Best practices regarding programs and
+operating procedures included the following:
+• An Environmental Program Description that addresses all of the specified
+DOE Order 450.1 requirements.
+• Standard operating procedures (for used oil and for cold weather), emergency
+response systems, a [site] Safety Observer program (which has provided
+localized support to ensure issues are identified and corrected), and
+aggressively conducted Pollution Prevention Opportunity Assessments that
+result in the elimination or reduction of emissions, effluents, and waste.
+• Required periodic reviews to ensure that the EMS remains current and
+dynamic.
+3. EMS IMPLEMENTATION CHALLENGES
+Facilities were invited to provide up to three statements identifying EMS
+implementation challenges.
+DOE organizations identified several challenges to EMS implementation, which have
+been grouped under the following topics:
+• Funding/resources/costs
+• Staff resources/turnover
+• Integration
+• Awareness
+• Management
+• Compliance
+• Communication
+• Flowdown of requirements
+• Cultural change/mindset
+• Procurement
+• Continuous improvement
+• Other priorities
+• Other challenges
+Funding/Resources/Costs
+Three related types of funding issues were reported: (1) lack of funding, (2) competition
+with other funding priorities, and (3) additional costs posed by EMS. A typical lack-offunding
+challenge was:
+"The ability to dedicate resources to implementation is hampered by uncertainties
+in funding availability and application."
+Funding competition challenges included:
+"New contract significantly reduced funding across the Lab creating priority
+problems."
+"With environment as a supporting function, it is not always given a priority in
+the organization. Additional documentation required by EMS requires resources
+not always available."
+Staff Resources/Turnover
+Related to funding challenges are staffing challenges. Organizations cited the challenges
+of limited personnel resources and of transferring EMS knowledge to a staff with high
+turnover rates. For example, one said that meeting reporting requirements in a timely
+manner is difficult with the minimal staff available to conduct EMS.
+Integration
+Organizations expressed challenges pertaining to EMS integration. Specific integration
+challenges included integration among site contractors and into various levels within the
+organization, integration of EMS principles into the work control processes and day-today
+activities, and integration of the EMS into other management systems. Examples
+include:
+"The single greatest challenge to achieve the long-term benefit of an EMS is to
+fully integrate it within a site's management structure."
+"Joint Federal/Contractor EMS poses challenges to EMS management, audits and
+reviews."
+"Managing a vast number of procedures and instructions required to address
+significant environmental aspects requires constant vigilance from multiple
+disciplines."
+
+Awareness
+DOE organizations said that maintaining awareness was a challenge and that training was
+needed to foster awareness.
+
+</text>

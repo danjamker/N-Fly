@@ -1,0 +1,279 @@
+<text id="J09" category="" words="2008" checkedby="" modifiedby="" Title="Prostaglandin F2a Upregulates Uterine Immune Defenses in the Presence of the Immunosuppressive Steroid Progesterone" Author="Gregory S. Lewis and Meghan C. Wulster-Radcliffe" PublicationDate="August 1, 2006 p. 102-106" SampledFrom="American Journal of Reproductive Immunology " WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=122&sid=7ad6228e-3a39-4fff-a0c4-971e9f9eb845%40sessionmgr110&vid=3">
+
+Problem.
+Uterine infections often develop in some livestock species during the
+first luteal phase postpartum. Exogenous prostaglandin F2a (PGF2a)
+induces luteolysis, reduces progesterone, and enables the uterus to
+resolve infections. However, the effects of PGF2a on luteal function and
+on immune functions are confounded. These effects must be disentangled
+to determine whether alternatives to antibiotic treatments can
+be successfully developed.
+Method of study.
+Treatments were in a 2 X 2 X 2 factorial arrangement. Main effects were
+ovariectomy or sham on day 0 (i.e. estrus), exogenous progesterone or
+sesame oil from day 0 to 11, and exogenous PGF2a or saline on day 9.
+Intrauterine inoculations with Arcanobacterium pyogenes and Escherichia
+coli were administered on day 6.
+Results.
+Ewes treated with exogenous PGF2a either did not have uterine infections,
+infections were less severe, or infections were resolving when
+uteri were examined on day 12, despite increased progesterone.
+Conclusions.
+Exogenous PGF2a has effects on the resolution of uterine infections that
+are independent of its effects on luteal progesterone production.
+Introduction.
+Cattle, sheep, and pigs are resistant to uterine infections
+when progesterone concentrations are basal,
+and they are susceptible to uterine infections when
+progesterone concentrations are increased. In
+dairy cattle, this transition, and thus the development
+of a non-specific uterine infection termed pyometra,
+is coincident with the development of the
+first postpartum corpus luteum. In livestock production
+systems, non-specific uterine infections are
+inevitable and typically not life threatening; however,
+they reduce fertility and increase costs. The incidence of non-specific uterine infections in herds
+and flocks ranges from 10% to 50% of the dairy cattle,
+20% to 75% of the dairy buffaloes, and 5% to
+10% of the dairy sheep. These infections are
+considered non-specific because the initial colonizing
+bacteria are not known, and the specific bacteria
+causing the signs of infection are not known.
+Nevertheless, Arcanobacterium pyogenes and Escherichia
+coli are usually associated with non-specific uterine
+infections in cattle and sheep.
+Antibiotics are used commonly to treat uterine
+infections in livestock, but many antibiotic-treatment
+protocols have not been effective. There are general concerns about the relationship between
+antibiotic use in livestock and the potential for accelerating
+the evolution of antibiotic-resistant strains of
+bacteria, although resistance to ceftiofur, an antibiotic
+commonly used to treat uterine infections in
+dairy cattle, does not yet seem to be extensive.
+Despite that alternative treatments, such as exogenous
+prostaglandin F2a (PGF2a), have been evaluated
+and found to be effective for some conditions, especially
+pyometra.
+Because exogenous PGF2a is luteolytic, its mechanism
+of action has been presumed to be related to
+reductions in circulating progesterone concentrations
+and the resultant upregulation of immune functions.
+ But, the actual mechanism by which exogenous
+PGF2a enhances the resolution of uterine
+infections is not known. In fact, PGF2a has direct
+and positive effects on immune functions. Thus,
+we conducted this study with sheep to determine
+whether exogenous PGF2a enhances immune functions
+and improves the ability of the uterus to
+resolve an infection, independent of the effects of
+PGF2a on luteal progesterone production.
+Materials and methods.
+All procedures with animals were in compliance
+with U.S. Department of Agriculture, Agricultural
+Research Service guidelines and U.S. Sheep Experiment
+Station (USSES), Institutional Animal Care
+and Use Committee guidelines. All sheep were maintained
+at the USSES, fed diets that met their nutrient
+requirements, and given free access to water before
+and during the experiment. Except that feed and
+water were withheld for approximately 36 hr before
+laparotomy to minimize the chances that ingesta
+would escape from the rumen and be aspirated into
+the lungs.
+Estrous Cycle Regulation
+Mature white-faced ewes (combinations of Rambouillet,
+Columbia, Targhee, and Polypay genetics)
+in synchronized estrus were assigned to eight randomized
+treatment groups. Estrus was synchronized
+during the autumn breeding season: pessaries containing
+60 mg of medroxyprogesterone acetate (Veramix;
+Pfizer Animal Health, Orangeville, ON,
+Canada) for 12 d; 15 mg of PGF2a (Lutalyse; Pfizer
+Animal Health, New York, NY, USA) i.m. on day 6
+of the 12-day period; and 400 IU of eCG (Sioux Biochemical Sioux City, IA, USA) i.m. at pessary
+removal. After pessary removal, vasectomized rams
+were used to check ewes for signs of estrus. Ewes
+standing firmly to be mounted were considered to
+be in estrus. If ewes were not observed in estrus
+after pessary removal, they were not used for this
+experiment.
+Experimental Protocol
+The treatment groups were in a 2X2X2 factorial
+arrangement, with eight ewes per group. The main
+effects were ovariectomy, exogenous progesterone,
+and exogenous PGF2a. Ewes were ovariectomized or
+a sham procedure was performed on the day estrus
+was detected (i.e. day 0). Sodium pentobarbital
+(65 mg/mL) was infused i.v. to achieve and maintain
+a surgical plane of anesthesia. The uterus and ovaries
+were exposed through a midventral laparotomy,
+the ovaries were removed, and the uterus was
+returned to the abdominal cavity. Or, the uterus
+and ovaries were exposed through a midventral
+laparotomy and returned to the abdominal cavity.
+The laparotomy was then sutured closed. Progesterone
+(5 mg/2.5 mL of sesame oil; Sigma Chemical, St
+Louis, MO, USA) or sesame oil (2.5 mL) was injected
+i.m. at 06.30 and 18.30 hours daily from day 0
+through day 11. PGF2a (15 mg in 3 mL) or saline
+(3 mL) was injected i.m. at 06.30 hours on day 9.
+On day 5, a catheter was positioned in the vena
+cava, via a saphenous vein, at a point just cranial to
+the site of entry of uteroovarian blood. On day
+6, all ewes received intrauterine inoculations of
+75X107 cfu of A. pyogenes and 35X107 cfu of
+E. coli. Vena caval blood was collected on days
+9, 10, and 11 to measure lymphocyte proliferation in
+vitro and for progesterone and PGF2a immunoassays.
+On day 12, ewes were anesthetized with sodium
+pentobarbital (65 mg/mL) and exsanguinated. Catheter
+placement was confirmed postmortem.
+The uterus was collected postmortem from each
+ewe. Uterine contents were flushed out with 0.9%
+NaCl solution (wt/vol), samples were cultured for
+bacteria, flushings were centrifuged, and the appearance
+of the endometrium was evaluated to determine
+whether a ewe developed a uterine infection
+in response to the bacteria and whether a uterine
+infection appeared to be resolving. Clear uterine
+flushings, small amounts of sediment (&lt;5% by
+volume), which contains bacteria and leukocytes, no
+signs of endometrial inflammation, and the inability to culture dense colonies of A. pyogenes and E. coli from the flushings were signs that a uterus was not
+infected. Cloudy uterine flushings, large amounts of
+sediment (&gt;5%, but usually &gt;20%, by volume),
+inflamed endometrium, and the ability to culture
+dense colonies of A. pyogenes and E. coli from the
+flushings were signs of infection. This method for
+determining whether a sheep uterus contains an
+infection and then classifying the severity of the
+infection is consistent with a method used with cervical
+mucus from cattle. Because all ewes received
+intrauterine inoculations of bacteria, A. pyogenes and
+E. coli, which are typically found in livestock environments,
+were cultured from all uterine flushing.
+However, sediment volume, density of bacterial colonies,
+and appearance of the endometrium always
+seemed to be positively related.
+Vena caval blood was collected with syringes via
+the catheters, transferred to heparinized tubes, and
+held in an ice bath. Within approximately 1 hr after
+blood was collected, a portion of each sample was
+centrifuged, and plasma was harvested and stored at -20C. A solid phase RIA kit (progesterone; Diagnostic Products, Los Angeles, CA, USA) was
+used to quantify progesterone.7,28 An EIA kit (Cayman
+Chemical Co., Ann Arbor, MI, USA) was used
+to quantify PGF2a.
+Another portion of each blood sample was used
+for lymphocyte isolation and culture to evaluate unstimulated
+and mitogen-stimulated lymphocyte proliferation.
+The isolation and culture procedures were
+the same as those we have used previously, except
+that a non-radioactive method, instead of [3H]thymidine
+incorporation, was used according to the manufacturer's
+instructions to quantify lymphocyte
+proliferation (CellTiter 96 AQueous Non-Radioactive
+Cell Proliferation Assay; Promega, Madison, WI,
+USA). Concanavalin A (Con A; stimulates T
+cells; 1.0 lg/well; Sigma) and lipopolysaccharides
+(LPS; stimulates B cells; 0.5 lg/well; Sigma) were
+the mitogens used.  The data were expressed
+as optical density units (odu).
+Statistical Analyses.
+The General Linear Model (GLM) procedures of SAS
+(SAS Inst. Inc., Cary, NC, USA) were used to analyze
+the data. The anova model included terms for ovariectomy,
+progesterone, PGF2a, ovariectomy X progesterone,
+ovariectomy X PGF2a, progesterone X PGF2a,
+ovariectomy X progesterone X PGF2a, ewe nested
+within ovariectomy · progesterone · PGF2a, day, and
+all interactions with day. Ewe nested within ovariectomy
+X progesterone X PGF2a was the main plot error
+term, and residual was the subplot error term. Unstimulated
+lymphocyte proliferation was used as a linear
+covariant in the anova models to analyze the data
+for mitogen-stimulated proliferation. For volume
+of sediment in uterine flushings, the model included
+terms for ovariectomy, progesterone, PGF2a, ovariectomy
+X progesterone, ovariectomy X PGF2a, progesterone
+X PGF2a, and ovariectomy X progesterone X
+PGF2a. The Duncan's option was used as needed, after
+a prior significant F-test, to compare means.
+Results.
+Treatment groups will be abbreviated as, for example,
+sham-oil-saline, which refers to ewes that were
+sham ovariectomized on day 0, given sesame oil
+injections from day 0 through day 11, and given an
+injection of saline on day 9. Ovariectomy - progesterone - 
+PGF2a refers to ewes that were ovariectomized
+on day 0, given progesterone injections from day 0
+through day 11, and given an injection of PGF2a on
+day 9.
+Vena caval progesterone concentrations were
+consistent with the conditions of each treatment
+group (Table I). Exogenous progesterone increased
+(P &lt; 0.05) vena caval progesterone concentrations,
+and exogenous PGF2a decreased (P &lt; 0.05) vena
+caval progesterone concentrations in Sham ewes.
+Progesterone concentrations on days 9, 10, and 11
+in sham-oil-saline ewes were indicative of functional
+corpora lutea. In sham - oil - PGF2a, progesterone concentration
+decreased after PGF2a treatment on day
+9; this indicates that exogenous PGF2a was luteolytic.
+In sham - progesterone - saline and sham - progesterone - 
+PGF2a, progesterone concentrations on
+days 9, 10, and 11 were greater than they were in
+all other groups. Progesterone concentrations in
+ovariectomy - progesterone - saline and ovariectomy - 
+progesterone - PGF2a were similar to those in
+sham - oil - saline on days 9, 10, and 11 and in sham - 
+oil - PGF2a on day 9, but they were greater than
+progesterone concentrations in ovariectomy - oil - 
+saline and ovariectomy - oil - PGF2a, which were
+0.3 ng/mL or less on days 9, 10, and 11. The data
+indicated that exogenous progesterone enhanced
+vena caval progesterone concentrations in ovaryintact
+ewes and maintained progesterone concentrations
+in ovariectomized ewes. Ovariectomy produced  basal progesterone concentrations, and exogenous
+PGF2a removed luteal progesterone. Thus, the treatment
+groups produced the desired progesterone concentrations.
+Ovariectomy decreased (P &lt; 0.05), exogenous progesterone
+increased (P &lt; 0.05), and exogenous PGF2a
+decreased (P &lt; 0.05) sediment volume, but none of
+the interactions were significant (Table I). On the
+basis of the criteria used, sham - progesterone - saline,
+sham - progesterone - PGF2a, and ovariectomy - progesterone - 
+saline ewes had uterine infections at the
+time uteri were collected on day 12; infections
+seemed less severe in sham - progesterone - PGF2a and
+ovariectomy - progesterone - saline than in sham - 
+progesterone - saline ewes. Ovariectomy - oil - saline,
+ovariectomy - oil - PGF2a, and ovariectomy - progesterone - 
+PGF2a ewes did not have uterine infections on
+day 12. Sham - oil - saline and sham - oil - PGF2a ewes
+seemed to be resolving uterine infections on day 12,
+although determining whether a ewe was resolving
+an infection or whether the infection was less
+severe throughout the experiment is somewhat
+subjective.
+Ovariectomy decreased (P &lt; 0.05) and exogenous
+PGF2a increased (P &lt; 0.05) vena caval PGF2a concentrations
+(Table I). PGF2a concentrations varied
+(P &lt; 0.05) with day (Table I). The concentrations of
+PGF2a in sham - oil - PGF2a, sham - progesterone - 
+PGF2a, and ovariectomy - progesterone - PGF2a ewes
+were greater (P &lt; 0.05) on day 10, which was 1 day
+after exogenous PGF2a, than they were on days 9
+and 11. This increase seemed to account for the day
+effect (Table I).
+Exogenous progesterone reduced (P &lt; 0.01)
+unstimulated lymphocyte proliferation, and the
+PGF2a · day interaction was significant (P &lt; 0.01;
+Table II). Unstimulated lymphocyte proliferation
+on days 10 and 11 was greater in PGF2a than in
+Saline ewes (PGF2a: day 10, 1.95 and day 11,
+1.95 odu; saline: day 10, 1.52 and day 11,
+1.28 odu); this seemed to be the source of the
+interaction. 
+Prostaglandin F2a treatment increased (P &lt; 0.05)
+Con A-stimulated lymphocyte proliferation (Table II).
+
+</text>

@@ -1,0 +1,156 @@
+<text id="H07" category="" words="1997" checkedby="" modifiedby="" Title="Revised power integrated resource plan for Metropolitan's Colorado river Aqueduct power operations" Author="Metropolitan water district of Southern California" PublicationDate="2006" SampledFrom="Middle" WebAddress="http://www.wapa.gov/es/irp/CustIRPs/dsw/MetWaterDistIRP.pdf">
+
+RESOURCE OPTIONS
+Metropolitan's consideration of resource options to supply CRA pumping requirements focuses on
+renewable and conventional resources. As electric industry restructuring continues, Metropolitan may
+consider other options, as they become available.
+Historically, Metropolitan has been able to meet its CRA pumping energy needs using economy energy
+purchases whenever necessary. This has been facilitated by WSPP membership which began in December
+1990. Metropolitan does not expect that economy energy will be required to supplement Metropolitan's
+existing resources over the period from 2007-2017. However, alternate sources of energy have been
+considered for analysis after 2017 or in case greater than the Expected CRA Delivery levels should occur in
+the future. Metropolitan's consideration of alternative pumping energy resources and efficiency measures
+must: 1) Be consistent with the schedule of Metropolitan's resource requirements; and 2) Reduce the
+expected cost of meeting pumping loads on the CRA or provide other benefits, such as increased system
+reliability.
+In addition to alternative sources of energy, Metropolitan has identified and continues to evaluate energy
+efficiency and operating measures which may reduce energy requirements, or improve the reliability of
+CRA operations.
+Existing Renewable Generation onMetropolitan's System:
+Metropolitan owns and operates approximately 122 MW of eligible renewable generation, as further
+described below, and strongly supports efforts to promulgate the development of additional generation from
+renewable resources in California. Some of these renewable resources currently help serve the CRA pump
+load through the Edison exchange arrangement as previously discussed. As these existing contracts
+terminate under their own terms, Metropolitan is re-evaluating their use as future options for CRA supplies,
+which may be described in the annual action plans.
+15 small hydro generating plants have been integrated into Metropolitan's water distribution system since
+the early 1990s. Generation from these plants is sold under existing contractual agreements with Pacific Gas
+and Electric Company, Edison, and DWR. During the first half of 2001, the State of California was
+concerned of a potential power shortage during the summer of 2001. Metropolitan responded to an
+emergency generation program offered by the California Energy Commission (CEC) to have new generation
+on line by June 1, 2001 by adding generation capability at its 800,000 AF reservoir, Diamond Valley Lake
+(DVL). The DVL reservoir, completed in 2002, was originally installed with 12 vertical turbine pumps.
+With control system changes, these pumps were converted to turbine generating units and currently have a
+total dependable capacity of 21 MW. Energy from DVL is sold in the spot energy market.
+All 16 plants have been registered with the CEC as renewable resources. Ten plants are certified to meet
+Renewable Portfolio Standard goals for Edison and PG&amp;E. The chart below summarizes the interrelationship
+between energy production from these 16 existing plants, with a total Capacity of 122 MW, and
+water delivery requirements.
+Potential Renewable Resources:
+Metropolitan is investigating the feasibility of adding at least two new renewable hydro plants: (1) a third
+unit at the Foothill power plant which currently has two 4.5 MW units; and (2) a pressure control facility
+along the planned Inland Feeder Project near Diamond Valley Lake. This planned Inland Feeder Project,
+expected to be in service by 2011 should result in minimizing if not eliminating the need to pump water into
+Diamond Valley Lake after constructed.
+Four wind measurement instruments were installed at the Julian Hinds Pumping Plant along the CRA in
+2005. The data provided by these instruments will be used to evaluate the Hinds site as a future location for
+wind turbines. Other CRA sites that will also be evaluated for wind energy include the Gene and Iron
+pumping plants.
+Resource Evaluation Criteria
+Metropolitan's energy resource requirements may vary significantly from one year to another. Since
+Metropolitan's year-to-year energy requirements are difficult to forecast in more detail than presented
+herein, no resource options have been screened from consideration solely due to the expected schedule of
+energy availability. The primary criterion then becomes the estimated cost of the energy resource, and its
+relationship to the forecasted range of Metropolitan's marginal cost of energy supplies.
+Metropolitan's marginal cost of energy depends on the volume of water to be delivered through the CRA5.
+Therefore, for up to annual deliveries of about 915,000 AF, Metropolitan's marginal cost of energy is
+defined by the cost of the Hoover Power Plant and Parker Power Plant resources, as suggested by Table 8.
+Metropolitan expects that in future years should deliveries exceed 915,000 AF, off-peak economy energy
+purchases would represent Metropolitan's marginal energy cost. A forecasted range of the estimated cost of
+these potential marginal energy supplies has been developed, and is shown in Table 10 and detailed in
+Appendix 1.
+Metropolitan considered a range in natural gas price escalation, and the uncertainty introduced by industry
+restructuring, in developing the escalators used for economy energy in Table 10. The primary difference
+between the Low Case and High Case is the future cost of natural gas, which is based on the Energy
+Information Administration Energy Outlook 2006. In the Low Case rapid technological progress in
+production and end-use efficiencies is assumed, with increased ultimate reserves and lower well-head gas
+costs. The High Case assumes less success in production and reserve replacement, and that the increased
+use of natural gas to reduce emissions from power plants, industrial boilers, and vehicles will lead to higher
+prices.
+A 30-year study period is used for cost comparisons. Based on the history of the last several years, and an
+informal assessment of industry projections, a general inflation rate of 3.5 percent per year is assumed. A
+discount rate of 5 percent, reflecting a margin of 1.5 percent over the assumed inflation rate, was also
+applied. Metropolitan's actual cost of financing is currently less than 5 percent, and this rate is assumed to
+provide a reasonable adjustment to acknowledge forecast uncertainty and risk.
+Energy costs from the Hoover and Parker Power Plants are assumed to escalate at the general inflation rate
+of 3.5 percent under both the High and Low Cases. Economy energy costs are assumed to escalate at 0.994
+percent for the Low Case and 2 percent for the High Case.
+Table 10 provides a forecasted range for Metropolitan's marginal cost of energy for CRA pumping. Which
+resource is at the margin will depend on the amount of Colorado River water available to Metropolitan for
+delivery through the CRA, the energy available from Parker and Hoover Power Plants, and the relative
+economics of economy energy purchases or sales. For CRA deliveries less than 915,000 AF, Metropolitan
+has sufficient or even surplus energy and no purchases are typically necessary. However, Metropolitan is
+planning to maximize delivery of water through the CRA as allowed, and expects the marginal cost of
+energy to be based on the prices to be paid for energy beyond the Hoover and Parker resources while the
+contracts exist through 2017.
+Table 11 provides the average cost of supplies and marginal cost of supplies for each delivery case. The
+only case that requires marginal energy supplies is the 1,300,000 AF Maximum Delivery Case since there is
+surplus energy for sales or use on the SWP for the other two delivery cases.
+Power Resource Options
+Metropolitan has considered a range of conventional and renewable supply options to replace or supplement
+the supplies presently available to Metropolitan. That review considered the cost and characteristics of a
+range of technologies. Western's Resource Planning Guide Reference Data Volume 5 was used, and official
+energy statistics from the U.S. Government6 the Energy Information Administration website published by
+the Department of Energy were evaluated.
+Renewable technologies which were investigated include:
+• Wind
+• Geothermal
+• Solar Thermal
+• Photovoltaic
+Conventional and non-renewable technologies which were considered include:
+• Conventional Combined cycle (CC)
+• Combustion turbine (CT)
+• Coal-fired steam
+Figure 3 and Appendix 2 provide a comparison of resource costs under the Low Case. Under this scenario,
+the cost of each alternative conventional and renewable resource option is higher than Metropolitan's
+weighted forecast of marginal cost of energy except for the Maximum Delivery Case which is not expected
+to occur in the next five years.
+Figure 4 and Appendix 2 present a comparison of levelized energy costs under the High Case. As in the
+Low Case, Metropolitan's weighted forecast of marginal cost of energy is lower than the cost of each
+alternative supply-side resource except for the Maximum Delivery Case which is not expected to occur in
+the next five years.
+Efficiency and LoadManagement Options
+As discussed, Metropolitan will generally schedule as much water as is available and allowed for delivery
+through the CRA. The nature of Metropolitan's load on the CRA limits the number of demand-side
+management options that are applicable, and also simplifies the analysis that must be completed to
+determine cost-effectiveness. In contrast, a retail electric utility must consider multiple factors including
+customer load characteristics, appliance saturations, participation rates, free ridership, differential costs to
+participants and non-participants, measure screening criteria, program design, marketing and evaluation.
+These requirements are substantially simplified for Metropolitan.
+Each of Metropolitan's member agencies will be similarly affected by Metropolitan's decisions regarding
+demand-side management options on the CRA. All member agencies will implicitly participate. All costs
+will be directly incurred by Metropolitan, making the analysis a simple comparison of the cost of energy
+saved by efficiency measures under consideration, as compared to the cost of energy that would be
+purchased in the alternative. Metropolitan has established a schedule in the action plan to monitor and
+report on the performance of the efficiency measures planned and implemented.
+Pumping Plant Rehabilitation - The objective of Metropolitan's pumping plant rehabilitation program was to
+improve pumping efficiency and system reliability by restoring pumps, transformers, motors and other
+systems. The cost of the five-year program was $33.3 million, with savings of as much as 100 GWh per
+year at full CRA operation. The program was completed in 1993.
+Improvement in System Efficiency - In addition to increasing pump efficiency and reducing transformer
+losses, the pumping plant rehabilitation program provided better data regarding flow rates and net-head so
+that system efficiency can be monitored on a continuous basis. The rehabilitated pumps were balanced to a
+uniform pumping capacity to minimize the need for throttling head gates at the pumping plants, thereby
+improving efficiency. Metropolitan has conducted system flow tests at the five pumping plants using
+different unit combinations for multiple CRA flow rates. Information from these tests was used to assist in
+identifying a balanced CRA flow condition, and the most cost-effective mode of operation of the CRA.
+SCADA System - The CRA operation is coordinated from the Gene Dispatch Control Center (GDCC)
+located near the intake to the CRA (Refer to Figure 1). Metropolitan owns and operates a microwave
+communication system which provides communications for the CRA operations.
+Under the existing operating guidelines, the GDCC which is staffed 10 hours per day, seven days per week
+by Metropolitan personnel, has the responsibility of monitoring and coordinating the flow control of the
+CRA pumping operation. During the unstaffed 14 hours per day, the CRA operation is monitored by the
+individual pumping plant's and GDCC's standby personnel via a paging system. The transmission and
+distribution switching are coordinated from the GDCC. The real-time scheduling and accounting is
+performed at the Operations Control Center located at Eagle Rock, California which is staffed 24 hours per
+day and receives the pumping schedule changes from the GDCC. All changes and control operations are
+done at the GDCC. After hours requests go to a GDCC standby operator via a paging system which is sent
+to the related plant(s) standby operators.
+Metropolitan has a Supervisory Control and Data Acquisition (SCADA) system. There are several benefits
+from the SCADA system including the ability to more flexibly schedule energy from alternate sources on a
+real-time basis. Improved emergency response, better control of water deliveries, reduced purchased
+power costs, and a better database for future forecasting are also provided.
+Other benefits of the SCADA system include a better indication of real-time load requirements to make
+decisions on economy energy purchases.
+
+</text>

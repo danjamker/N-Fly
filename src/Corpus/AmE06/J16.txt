@@ -1,0 +1,181 @@
+<text id="J16" category="" words="2011" checkedby="" modifiedby="" Title="Characterization of the Vaccinia Virus A35R Protein and Its Role in Virulence" Author="Rachel L. Roper" PublicationDate="January 2006, p. 306 - 313" SampledFrom="JOURNAL OF VIROLOGY" WebAddress="http://jvi.asm.org/cgi/reprint/80/1/306">
+
+The vaccinia virus A35R gene is highly conserved among poxviruses and encodes a previously uncharacterized hydrophobic acidic protein. Western blotting with anti-A35R peptide antibodies indicated that the protein is expressed early in infection and resolved as a single sharp band of 23 kDa, slightly higher than the 20 kDa predicted from its sequence. The protein band appeared to be the same molecular weight on sodium dodecyl sulfate-polyacrylamide gel electrophoresis, whether expressed in an in vitro transcription/translation system without microsomes or expressed in infected cells, suggesting that it was not glycosylated. A mutant virus with the A35R gene deleted (vA35) formed wild-type-sized plaques on all cell lines tested (human, monkey, mouse, and rabbit); thus, A35R is not required for replication and does not appear to be a host range gene. Although the A35R protein is hydrophobic, it is unlikely to be an integral membrane protein, as it partitioned to the aqueous phase during TX-114 partitioning. The protein could not be detected in virus-infected cell supernatants. 
+A35R localized intracellularly to the virus factories, where the first stages of morphogenesis occur. The vA35 mutant formed near-normal levels of the various morphogenic stages of infectious virus particles and supported normal acid-induced fusion of virus-infected cells. Despite normal growth and morphogenesis in vitro, the vA35 mutant virus was attenuated in intranasal challenge of mice compared to wild-type and A35R rescue virus. Thus, the intracellular A35R protein plays a role in virulence. The A35R has little homology to any protein outside of poxviruses, suggesting a novel virulence mechanism.
+Poxviruses are large double-stranded DNA viruses with genomes
+that range from 130 to 379 kbp. Poxviruses have
+worldwide distribution and infect a wide variety of animals,
+including insects, birds, and mammals. While smallpox
+was eradicated from nature, variola virus continues to present
+a bioterrorism concern, and several other poxviruses infect
+humans, causing morbidity and mortality: molluscum contagiosum
+virus (MCV), monkeypox virus, Tanapox virus, Yaba-like
+disease virus, cowpox virus, and Cantagalo virus (evolved from
+a vaccinia virus [VV] vaccine strain). The prevalence of poxviruses in animals and humans and
+their propensity for recombination and gene acquisition suggest
+that it would be unwise to discount them as important
+human pathogens. This is especially true, since most emerging
+infectious diseases are zoonoses, crossing from animals to humans,
+and poxviruses are known to acquire mutations and
+become highly pathogenic in a new animal species.
+The complex poxvirus replication cycle occurs in the cytoplasmic
+areas of dense viroplasm called virus factories. Gene
+expression is temporally regulated, with early, intermediate,
+and late gene expression. Early genes include those encoding
+intermediate transcription factors, components of the DNA
+replication machinery, inhibitors of cellular apoptosis and proteins
+that interfere with immune clearance of virus-infected
+cells. Among the last group, there are inhibitors of complement;
+alpha interferon (IFN-a), IFN-b, and IFN-y; major histocompatility
+complex class I expression; antigen presentation;
+interleukin 1-converting enzyme; Fas-induced killing; chemokines;
+and interleukins. While a great many viral
+pathogenic strategies have been described, my colleagues and
+I have documented that of the 90 most widely conserved poxvirus
+genes, 25 remain uncharacterized. This fact underscores
+the large amount that is still unknown about poxviruses
+and highlights the need for further study of these viruses and
+genes.
+Most poxvirus research has focused on VV, the prototypical
+poxvirus that was used as the live smallpox vaccine. Poxvirus
+morphogenesis is complex with multiple viral forms. The
+spherical immature virus particle matures into the intracellular
+mature virus (IMV) concomitant with proteolytic cleavage.
+The IMV is infectious, but to escape the cell during infection,
+IMV must undergo a second membrane-wrapping event, during
+which the IMV acquires two additional membrane layers
+derived from the trans-Golgi network or early endosomes,
+forming the intracellular enveloped virus (IEV). The IEV fuses out, losing its outermost membrane and releasing the extracellular enveloped virus (EEV). Seven proteins have been identified that are
+specifically incorporated into the IEV and/or EEV membranes:
+an 89-kDa hemagglutinin (encoded by the VV A56R
+gene), a 42 kDa protein (B5R), a 43- to
+50-kDa protein (A36R), the 65-kDa (F12L) protein, the acylated 37-kDa (F13L) protein (3, 24), and two variably glycosylated 21- to 24-kDa proteins encoded by A33R and
+A34R. The A33R, A34R, and A36R envelope
+genes are contained within a small contiguous region of the
+genome interrupted only by the A35R open reading frame
+(ORF). The location of the A35R and its hydrophobic nature
+suggested that it might also be an envelope-associated protein.
+This report describes the first characterization of the A35R
+protein and its role in virulence.
+MATERIALS AND METHODS
+Cells. HeLa cells were used for growth of virus stocks as previously described
+(12). BS-C-1 cells were routinely used for plaque assays, immunostaining, immunoprecipitations,
+and Western blotting. For titrations of VV and analysis of
+plaque size, monolayers were fixed and stained with 0.1% crystal violet in 20%
+ethanol.
+RK13 cells were used to propagate virus for CsCl purification of virus particles.
+Cells were grown in Eagle's minimum essential medium with 10% fetal bovine
+serum, and infections were carried out in Eagle's minimum essential medium
+with 2.5% fetal bovine serum. Cell lines used for host range studies are listed
+with the American Type Culture Collection number in parenthesis: RK-13,
+normal rabbit kidney (CCL-37); CV-1, normal African Green monkey kidney
+(CCL-70); HeLa, human cervical adenocarcinoma (CCL-2); human, thymidine
+kinase-negative (TK) (CRL-8303); African green monkey normal kidney, BSC-
+1 (CCL-26); human lung carcinoma, A549 (CCL-185); normal human lung
+fibroblast, MRC-5 (CCL-171); and hamster kidney, BHK-21 (CRL 8544).
+Antibodies. Polyclonal rabbit sera were raised to three A35R peptides (supplied
+by J. Coligan, National Institute of Allergy and Infectious Diseases). Sequences
+were derived from hydrophilic regions of the predicted amino acid
+sequence of A35R. The peptide A35R-55 sequence was CQKCYFSYKGKIVP
+QDSND (residues 55 to 72), the A35R-102 peptide sequence was CDIEDKH
+QPFY (residues 102 to 111), and A35R-85 was YRSKNTIIIACDYDC (85 to
+98). Cysteine residues (underlined) were included to aid in peptide coupling.
+Peptides were coupled to keyhole limpet hemocyanin using the Imject Activated
+Immunogen Conjugation kit (Pierce, Rockford, IL). A total of five injections
+were given, and the rabbits were bled to prepare antiserum.
+Cloning and in vitro expression of A35R. The Sal L opp plasmid (a gift from
+Nelson Cole) was cut with NcoI and SpeI restriction enzymes to release a DNA
+segment containing the A35R gene, from 1 nucleotide before the ATG translation
+start site to 37 nucleotides after the stop codon. The A35R segment and
+NcoI- and SpeI-cut pGem5Zf (Promega) and pTM1 plasmids were gel
+purified using the Geneclean II kit, ligated, and transformed into Escherichia
+coli. Ampicillin-resistant colonies were picked and screened for inserts. In vitro
+expression was carried out using the TNT reticulolysate system (Promega) in the
+absence of microsomal membranes.
+vA35R mutant virus construction. DNA segments containing the A35R
+flanking regions were joined with the E. coli xanthine guanine phosphoribosyl
+transferase (gpt) gene under the p7.5 promoter by recombinant PCR.
+The flanking sequence that included part of the adjacent A34R gene was amplified
+by using the primer pair CCAGATTGCCTAGACCGGATACTAG and
+GCGGGTGGGTTTGGAATTAGTGTGGCGGCGTACGTTAACGACTTA.
+Sequences of the gpt gene (underlined) were incorporated into the primers for
+sequential amplification and joining of the gpt and A35R flanking regions. The
+flanking sequence that included part of the adjacent A36R gene was amplified
+using the primer pair CCTGGCACTGCCGGGCGTTCATAAAAGTTGTAA
+AGTAAATAATAAAAC and TCATTCCTAGAAATATTATCTACG. Primers
+used to amplify the gpt cassette were CACTAATTCCAAACCCACCCGCTT
+and AACGCCCGGCAGTGCCAGGCGT. The three DNA segments were amplified
+by PCR individually, purified by using Promega PCR Preps, and then
+joined by recombinant PCR in a stepwise fashion. The final PCR product was
+purified, TA cloned (Invitrogen), and sequenced using a Prism Dye Deoxy
+Terminator Cycle Sequencing kit (Applied Biosystems, Foster City, Calif.) in
+conjunction with a model 373 DNA sequencer (Applied Biosystems). The TA
+plasmid containing the A35A construct was transfected with N-[1-(2,3-dioleoyloxy)
+propyl]-N,N,N-trimethylammonium methyl-sulfate (DOTAP; Roche) into
+cells infected with the wild-type VV strain Western Reserve (WR). Viruses were
+grown under semisolid agarose (GIBCO/BRL, Grand Island, N.Y.) containing
+mycophenolic acid (Sigma) for selection of recombinant virus. Viruses were
+plaque purified three times and amplified. Recombinant viruses were PCR
+screened for the presence of the gpt gene and the absence of the A35R gene
+using primers flanking the A35R locus. Protein expression was analyzed by
+Western blotting.
+vA35-Res virus construction. The A35R gene and flanking sequences were
+PCR amplified using primers CCAGATTGCCTAGACCGGATACTAG and
+TCATTCCTAGAAATATTATCTACG. The PCR product was cloned into the
+TA cloning vector (Invitrogen). Plasmids were sequenced to confirm the correct
+sequence and transfected into vA35A-infected cells. vA35-Res recombinant viruses
+were selected on STO cells in the presence of 6-thioguanine to select
+against viruses containing the gpt gene. Expression of A35R protein was
+confirmed by Western blotting.
+Immunoprecipitation and Western blotting. Immunoprecipitation and Western
+blots were performed essentially as described previously (46). Rabbit anti-
+A35R sera were used at a 1:1,000 dilution in Western blots.
+Triton X-114 partitioning of integral membrane proteins. BS-C-1 cells were
+infected at a multiplicity of infection (MOI) of 10 for 24 h. The medium was
+removed, and cells were extracted in cold buffer containing 10 mM Tris-HCl (pH
+7.4), 150 mM NaCl, and 2% Triton X-114 (Pierce, Rockford, IL). Following a
+15-min incubation, lysates were centrifuged for 7 min at 14,000 X g to remove
+insoluble matter. Supernatants were wmed to 37°C, underlaid twice with 6%
+sucrose, and centrifuged for 10 min at 1,000 X g to separate the upper aqueous
+phase from the lower detergent phase. Samples were analyzed by immunoprecipitation
+and sodium dodecyl sulfate-polyacrylamide gel electrophoresis.
+Immunofluorescence microscopy. Fluorescence microscopy was performed as
+previously described. Infected HeLa cell monolayers on coverslips were
+washed with phosphate-buffered saline (PBS), fixed in 4% paraformaldehyde,
+and permeabilized with 0.1% Triton X-100. Rabbit anti-A35R sera were used at
+a 1:1,000 dilution. The secondary antibody was Alexa 568-labeled goat anti-rabbit
+immunoglobulin G (Molecular Probes, Inc.) diluted 1:400, and DNA was stained
+by 500-ng/ml Hoechst 33258 (Sigma). Samples were viewed and images were
+collected with a Zeiss IIIRS immunofluorescent microscope.
+One-step growth curve. Confluent BS-C-1 cell monolayers in six-well plates
+were infected with VV at an MOI of 10 for 2 h. The inocula were removed, the
+cells were washed, and fresh medium was added. At intervals, the medium from
+an individual well was harvested and centrifuged at 1,800 X g for 5 min to pellet
+detached cells. The resulting cell pellet was combined with infected cells that had
+been scraped from the plate into 1 ml of fresh medium. Cells were frozen, thawed
+three times, and sonicated. Viruses from the media and cells were individually
+titrated in duplicate on BS-C-1 cell monolayers.
+Virus purification. Virus particles were separated and purified based on differential
+buoyant density centrifugation in CsCl, as described previously.
+Briefly, RK-13 cells were infected at a multiplicity of infection of 10 for 48 h. For
+EEV, supernatants were harvested and centrifuged twice at 3,000 rpm in a
+Sorvall RT 6000B to remove cells. Then, supernatants were centrifuged at 22,000
+rpm in a Beckman L8-70 M for 80 min to pellet virus. For IMV, cells were
+scraped into 10 mM Tris (pH 9.0) and Dounce homogenized. After a low-speed
+centrifugation, virus was pelleted through a 36% sucrose cushion. Afterwards,
+both the EEV and IMV were purified on a CsCl gradient (layered densities of
+1.3, 1.25, and 1.2 g/ml) and centrifuged at 32,000 rpm with slow acceleration for
+60 min in a Beckman L8-70 M.
+Syncytium formation. Confluent BS-C-1 cell monolayers were infected at an
+MOI of 10 for 2 h, washed, and incubated in medium for an additional 10 h as
+described previously. Cells were washed and treated with fusion buffer
+[phosphate-buffered saline with 10 mM 2-(N-morpholino)ethanesulfonic acid
+and 10 mM HEPES] at pH 5.5 or 7.4 for 2 min at 37°C. Afterwards, fusion buffer
+was replaced by medium, and the cells were incubated at 37°C and then observed
+by phase-contrast microscopy.
+Determination of virulence in mice. Groups of six female BALB/c 6-week-old
+mice were anesthetized and intranasally challenged with 104 to 106 PFU of
+vA35A, WR, vA35-Res virus, or PBS in 20 	ml 10 mM Tris-HCl (pH 9.0). Virus
+titers were determined on the day of challenge to confirm virus dose.
+
+</text>

@@ -1,0 +1,288 @@
+<text id="J25" category="" words="2018" checkedby="" modifiedby="" Title="School Participation among Immigrant Youths: The Case of Segmented Assimilation in the Early 20th Century" Author="Sharon L. Sassler" PublicationDate="Sociology of Education, Vol. 79, No. 1 (Jan., 2006), pp. 1-24" SampledFrom="Sociology of Education" WebAddress="http://www.jstor.org/stable/pdfplus/25054299.pdf">
+
+Research on the educational enrollment of immigrants has typically asserted that today's immi
+grant children are educationally disadvantaged and that earlier waves of immigrants were
+more readily absorbed into the American educational system. This article addresses these
+assumptions, drawing on traditional assimilationist and status competition approaches to
+racial and ethnic stratification. Data from the 1920 IPUMS census database are used to ana
+lyze the school participation of 15 to 18 year olds who were living in their parents' homes. The
+findings demonstrate that the process of assimilation was not uniform for all groups. Some
+groups achieved parity with the native stock by the third generation, and others took at least
+an additional generation or experienced declines in the proportions who were enrolled in
+school. In general, the results suggest strong parallels between the educational experiences of
+white ethnic youths in 1920 and those of today's immigrant youths.
+
+Throughout its history, the educational
+system in America has shaped the life
+time opportunities of immigrant chil
+dren and youths. However, much of the cur
+rent research on schooling has asserted that
+today's immigrants are disadvantaged com
+pared to foreign-born youths who arrived in
+the United States at the turn of the century
+(Fernandez, Paulson, and Hirano-Nakanishi
+1989; Gans 1992; Portes and Zhou 1993).
+Such studies have generally assumed that
+early 20th-century immigrants accepted the
+importance of schooling within one or two
+generations?demonstrating "the time-hon
+ored portrayal of growing acculturation and
+parallel integration into the white middle
+class" (Portes and Zhou 1993:82). In con
+trast, much of the contemporary literature
+has argued that today's immigrants often
+experience downward mobility, termed "sec
+ond-generation decline" or "segmented
+assimilation" (Gans 1992; Massey 1995;
+Portes and Zhou 1993; Zhou 1997).
+Transformations in the economy may have
+affected educational incorporation and, cor
+respondingly, general levels of success.
+Whereas today's technological society places
+a premium on highly skilled and educated
+workers, the industrializing America of the
+early 20th century provided jobs for numer
+ous unskilled workers. Still, many parallels
+exist between immigrants who arrived in the
+early and concluding years of the 20th centu
+ry. Immigrant and second-generation chil
+dren historically lived in families that experi
+enced economic hardship and poverty
+(Haines 1981; Perlmann 1988; Sassler 1995).
+Schools in large cities were frequently over
+crowded and had few resources (Jacobs and
+Greene 1994; Meyer et al. 1979; Perlmann
+1988). Furthermore, while some immigrant
+groups welcomed schooling as a means of improving their children's life opportunities,
+many parents worried about their children's
+exposure to the negative influences of school
+or expressed concern that school officials
+were impinging on their parental authority
+(Kessner 1977; Zelizer 1985). As a result,
+immigrant children's adaptation to life in
+America may not have encompassed enroll
+ment in school to the extent that contempo
+rary scholars of education have assumed.
+Whether the descendants of immigrants
+who arrived at the early 20th century
+remained disadvantaged in the final years of
+the 20th century and how more recent immigrants have fared in this competition contin
+ue to be widely debated (Alba, Lutz, and
+Vesselinov 2001; Borjas 1999). Immigrant
+youths' experiences in the early years of the
+century demonstrate patterns of ethnic
+group adaptation to life in the United States
+that were far from uniform, whether in terms
+of school enrollment (Jacobs and Greene
+1994; Lieberson 1980; Perlmann 1988) or the
+combination of education and employment
+(Horan and Hargis 1991; Sassier 1995;
+Walters and james 1992). In the interest of
+expanding contemporary studies of segment
+ed assimilation, this article examines the link
+among the generational status, ethnicity, and
+secondary school attendance of working-age
+young adults in 1920. That time is an ideal
+one to situate such a study, since it followed
+several decades of exceedingly high immigra
+tion to the United States, along with the
+expansion of schooling, and preceded the
+restrictions on immigration that were legislat
+ed in the 1920s.
+This analysis differs from prior research in
+several important ways. First, whereas con
+temporary studies have been limited to two
+generations (Hirschman 2001; Rumbaut
+1994) and historical studies have examined
+school enrollment among at most three generations (Jacobs and Greene 1994; Perlmann
+1988), the unique data from the Integrated
+Public Use Microdata Series (IPUMS) census
+database allowed me to construct four generations of white ethnics.1 Second, I explore
+how children of mixed-ancestry fared in the
+educational market. Although intermarriage
+is assumed to be the final stage in the assimilation process (Gordon 1964), historical stud
+?es of the outcomes of the offspring of inter-marriages have been rare. I conclude by dis
+cussing how the results of historical studies of
+school participation may shed light on contemporary immigrant youths' patterns of
+adaptation to life in the United States.
+THE CHANGING CONTEXT OF SCHOOL ENROLLMENT.
+Two important factors helped shaped the
+environment of the American educational sys
+tem in the early decades of the 20th century.
+The first was the large and steady stream of
+foreign-born persons who arrived in the
+United States. As of 1920,13.2 percent of the
+population of the United States was foreign
+born (Gibson and Lennon 1999), and even
+larger shares of Americans had at least one
+foreign-born parent. Immigrant origins shift
+ed in the late 19th century. In the middle of
+the 19th century, western and northern
+Europeans, including more than 5 million
+Irish and Germans, dominated the influx to
+the United States. By 1920, a substantial pro
+portion of these "old" immigrants were second- or third-generation U.S. residents.
+Despite continued immigration from these
+countries, by the end of the 19th century, the
+bulk of immigrants arrived from southern,
+eastern, and central Europe. These "new"
+immigrants differed sharply from the "old"
+immigrants and their descendants in their
+rates of literacy, ability to speak English, and
+familiarity with the skills that were needed in
+an urban environment (Kessner 1977;
+Lieberson 1980).
+Second, in response to the influx of immigrants and the children they brought with
+them or bore in the United States, school
+became one mechanism to encourage immigrant youths to acculturate and eventually
+assimilate. Secondary school enrollment
+expanded rapidly in the early decades of the
+20th century (Walters 1984). Nonetheless,
+high school graduation remained a relatively
+rare event. In most states, school attendance
+was compulsory only through age 15 (Jacobs
+and Greene 1994). As a result, the shares of
+young adults who were enrolled in school declined with age, and less than one-third of
+young adults aged 14-17 (31.2 percent)
+were enrolled in either public or private
+school during the 1919-20 academic year
+(U.S. Department of Education 1999). Of this
+select group, even fewer actually graduated;
+only 231,000 young adults received high
+school diplomas in 1920 (U.S. Department of
+Education 1998). For most young adults, a
+year or two of high school sufficed.
+declined with age, and less than one-third of
+young adults aged 14-17 (31.2 percent)
+were enrolled in either public or private
+school during the 1919-20 academic year
+(U.S. Department of Education 1999). Of this
+select group, even fewer actually graduated;
+only 231,000 young adults received high
+school diplomas in 1920 (U.S. Department of
+Education 1998). For most young adults, a
+year or two of high school sufficed. 
+Immigrants, Educational Prospects, and Mobility.
+A sharp disconnect exists between research
+on the educational participation of immigrant
+youths and historical studies of the expansion
+of school enrollment, partly because of differences in areas of specialization, with sociolo
+gists of education and scholars of immigration drawing from distinct theoretical tradi
+tions (Hallinan 2000). Indeed, historical
+research on the expansion of school enrollment, particularly that dealing with ethnic
+variation in primary and secondary school
+education, has tended to rely on functionalist,
+class-conflict, or status-competition perspectives (e.g., Bowles and Gintis 1976; Collins
+1971; Fuller 1983; Meyer et al. 1979; Walters
+1984). In contrast, immigration scholars have
+drawn on the assimilation paradigm when
+examining ethnic-group adaptation, in general, and educational participation, in particu
+lar (Hirschman 2001; Jacobs and Greene
+1994; Kao and Tienda 1995).
+The assimilation perspective is concerned
+primarily with how the foreign born shed
+their distinctive behaviors and come to
+resemble the native-stock population in terms
+of educational and occupational attainment,
+to name but two key outcomes of interest.
+The central premise is that with increasing
+duration in the United States and familiarity
+with behaviors that are common among
+long-term residents, the foreign born and
+their descendants will eventually come to
+resemble this population and shed the distinguishing traits of ethnicity (Gordon 1964;
+Park and Burgess 1969). Numerous studies of
+early 20th-century immigrants have asserted
+that ethnic differences declined with each
+succeeding generation in the United States (Alba 1985; Jacobs and Greene 1994;
+Lieberson and Waters 1988). According to
+this "straight-line" conceptualization, the
+pursuits of first-generation immigrants differ
+in important ways from those of longer-term
+U.S. residents. Such distinctions should narrow by the second generation. The process of
+assimilation is assumed to be complete by the
+third generation. It should come as no surprise, then, that the key focus of immigration
+scholars has been on the duration of native
+ethnic distinctions.
+Contemporary scholars of immigration
+have challenged the standard assimilation paradigm and its unilinear conception of adapta
+tion. Although straight-line assimilation may
+have been theoretically appropriate for
+explaining the adaptation process of newcomers who arrived in America in the early 20th
+century, they have suggested, American society offers vastly different prospects for mobility
+to today's immigrants (Gans 1992; Portes and
+Zhou 1993; Rumbaut 1994; Zhou 1997). The
+American landscape now consists of various
+separate, segregated, and unequal sectors
+(Massey 1995; Massey and Dent?n 1993;
+Portes and MacLeod 1996). There is a wider
+array of possible avenues for acculturation and
+assimilation. The educational prospects of
+young adults in disadvantaged central cities,
+for example, should hypothetical^ differ from
+those of young adults in affluent suburbs. In
+addition to the traditional monotonie progres
+sion of the classic straight-line assimilation
+framework, then, today's immigrants also face
+the distinct possibility of experiencing down
+ward mobility (Gans 1992). In such an
+instance, the second generation does not sur
+pass the achievements of their foreign-born
+counterparts.2 Contemporary scholars who
+have explored why different patterns of adaptation emerged among late-20th-century
+immigrants have labeled this theoretical
+approach "segmented assimilation" (Portes
+and Zhou 1993; Zhou 1997).
+It is not surprising that the segmented
+assimilation perspective focuses more heavily
+on those who fail to achieve mobility or those
+who experience downward mobility, rather
+than on the usual success stories. Immigrants
+who fail to achieve status mobility, it appears,
+have fewer familial and individual resources and lower levels of human capital and are res
+idential^ concentrated in poor areas where
+youths have low educational and mobility
+aspirations (Hirschman 2001; McKeever and
+Klineberg 1999; Neckerman, Carter, and Lee
+1999; Portes and Zhou 1993). Evidence of
+downward mobility is reflected in the lack of
+educational progression of today's racial
+minorities (Hirschman 2001; Portes and
+MacLeod 1996; Waters 1999), although support for segmented assimilation has been
+mixed, at best (Glick and White 2003;
+Hirschman 2001).
+Less well appreciated is that educational
+mobility is also a function of the structure of
+educational opportunity and educational
+access - a point that immigration researchers
+have tended to overlook, despite its centrality
+to educational scholars (Hallinan 2000).
+Educational historians, in particular, have
+focused on whether school enrollment
+expanded because industrial elites sought to
+inculcate working-class children with the values that were needed for success as factory
+workers (Bowles and Gintis 1976), as a
+response to technological innovation that
+required increasingly skilled workers (Fuller
+1983; Meyer et al. 1979), or as particular
+groups sought to maintain their status advantage over others (Collins 1971). Even though
+the connection between schooling and
+assimilation has been a central concern of
+educational historians (Bowles and Gintis
+1976; Ralph and Rubinson 1980; Rubinson
+1986), these studies have overlooked how the
+impact of ethnicity may change across the
+generations.
+The historical literature contains abundant
+testimony to the sacrifices that immigrant
+families made to send their children to
+school, suggesting that education was seen
+as a way to improve employment opportunities.  
+Nonetheless, empirical support for a
+functionalist explanation of school expansion
+has been scant. Furthermore, the data at
+hand have allowed researchers only to infer
+reasons for changes in immigrant youths'
+school enrollment.
+
+</text>

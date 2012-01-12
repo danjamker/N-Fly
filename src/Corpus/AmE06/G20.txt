@@ -1,0 +1,184 @@
+<text id="G20" category="" words="1998" checkedby="" modifiedby="" Title="Ideology and the Affective Structure of Whites' Racial Perceptions' Public Opinion Quarterly 70(3) 2006" Author="Christopher M. Federico" PublicationDate="2006" SampledFrom="Beginning" WebAddress="http://www.swetswise.com/eAccess/viewToc.do?titleID=168440&yevoID=1813084">
+
+The study of racial perceptions has developed into one of the most fruitful
+areas of social science research on racial and ethnic attitudes. Among other
+things, research on stereotypical perceptions of various racial and ethnic
+groups has documented their content (Devine and Elliott 1995; Schuman et al.
+1997; Sniderman and Carmines 1997), their origins (Fiske 1998), and their
+impact on information processing (for reviews see Blair 2001; and Fiske
+1998). More recently, researchers have also begun to take an interest in the
+relationship between the positive and negative dimensions of whites' stereotypical
+perceptions of blacks. Although positive and negative stereotypical
+perceptions are perhaps most easily thought of as "bipolar" or "reciprocally
+related" - with the acceptance of positive perceptions implying the rejection
+of negative perceptions and vice versa - research differs as to whether this is always the case (Cacioppo and Berntson 1994; Levine, Carmines, and
+Sniderman 1999). In many cases, whites appear to endorse both positive and
+negative perceptions of blacks at the same time, suggesting a pattern of
+ambivalence (Katz and Hass 1988). The purpose of the present study is to
+examine the hypothesis that these deviations from bipolarity in the organization
+of whites' perceptions of blacks may vary as a function of ideology, with
+deviations from bipolarity being more likely as one moves to the political
+right.
+The Structure of Whites' Racial Perceptions
+In general, what does research on racial and ethnic attitudes have to say
+about the affective structure of whites' stereotypical perceptions of blacks?
+Like research in a number of other attitude domains, research on stereotypes
+typically assumes that stereotypical perceptions can be conceptualized
+in terms of a single bipolar affective dimension, with positive
+perceptions (e.g., blacks are hardworking) at one end and negative perceptions
+(e.g., blacks are lazy) at the other (see Schuman et al. 1997; see also
+Cacioppo and Berntson 1994; Green and Citrin 1994). As noted earlier, this
+assumption implies that the endorsement of positive and negative perceptions
+should be reciprocally related, with the acceptance of positive stereotypical
+perceptions necessarily leading to the rejection of negative ones. In
+many ways, this conceptual assumption is a product of the instruments typically
+used to measure racial attitudes and perceptions. Most of these
+instruments have taken the form of Likert scales or semantic-differential
+items, both of which force the respondent to indicate their attitudes or perceptions
+on a single positive-versus-negative dimension (see Schuman
+et al. 1997). While these bipolar measures have provided numerous benefits
+in terms of economy and simplicity, their use may have discouraged
+researchers from considering the possibility that positive and negative stereotypical
+perceptions of blacks may not always be reciprocally related: in
+and of themselves, measures that force respondents to make an either-or
+choice between the endorsement of positive or negative perceptions minimize
+attention to situations where the two may coexist (Cacioppo and Berntson
+1994; Cacioppo, Gardner, and Berntson 1999; Levine, Carmines, and
+Sniderman 1999).
+Despite these assumptions, a growing body of work suggests that the organization
+of positive and negative racial perceptions may frequently deviate
+from a pattern of strict bipolarity. At the most basic level, studies have shown
+that positive and negative responses to blacks are both empirically distinguishable
+and statistically independent of one another. For example, in a study
+of over 4,000 high school students, Patchen, Hofmann, and Davidson (1976)
+found that positive and negative attitudes toward blacks and whites fell on separate dimensions in a factor analysis and that these dimensions were
+relatively orthogonal to one another. Similarly, Katz and Hass and their colleagues
+(Hass et al. 1992; Katz and Hass 1988) found that measures of "pro-black"
+and "anti-black" attitudes tend to load on different factors, with the
+correlation between the measures again being minimal. For a sizable number
+of the whites studied by the Katz and Hass group, this deviation from bipolarity
+manifested itself as racial "ambivalence," or a tendency to have both positive
+and negative attitudes toward blacks at the same time (see especially Katz
+and Hass 1988).
+At a somewhat deeper level, studies have also suggested that positive and
+negative responses toward blacks and other racial outgroups may have different
+antecedents. In this vein, Patchen and colleagues (1977) found that positive
+behaviors toward blacks were best predicted by prior opportunities for
+racial contact, while negative behaviors were best predicted by personal
+aggressiveness and the racial attitudes of one's family and peers. From a
+slightly different perspective, both Lipset and Schneider (1978) and Katz,
+Wackenhut, and Hass (1986) have argued that positive and negative attitudes
+toward blacks may have different antecedents, with positive attitudes being
+rooted in humanitarianism and negative attitudes being rooted in individualism.
+According to this account, humanitarian concern for disadvantaged social
+groups leads to positive affect in the form of sympathetic perceptions, while
+an individualistic concern for self-reliance and other tenets of the Protestant
+ethic leads to negative affect in the form of disapproval. Several studies have
+now provided evidence for this account (e.g., Hass et al. 1992; Katz and Hass
+1988).
+Interestingly, these sets of results dovetail nicely with the conclusions of a
+broader line of theory and research in the psychological literature on affect,
+which increasingly points toward the existence of distinguishable positive and
+negative evaluative processes (Cacioppo and Berntson 1994; Cacioppo, Gardner,
+and Berntson 1999). More precisely, this line of work suggests that separate
+"channels" may be responsible for positive and negative responses to
+various stimuli, and that these two channels may not always operate in a bipolar
+or reciprocal fashion. According to this "bivariate" model, positive and
+negative evaluative processes may have evolved in response to separate prerogatives
+related to approach and avoidance: positive affect may encourage
+the exploration of novel objects and the pursuit of survival-enhancing goals,
+while negative affect may alert the individual to the presence of dangers to be
+avoided (Cacioppo, Gardner, and Berntson 1999; Gray 1991; see also Marcus, Neuman, and MacKuen 2000). Additional evidence suggests that positive and
+negative evaluative processes may have different neuropsychological substrates,
+with positive and negative stimuli leading to higher levels of activation
+in different neural circuits (see Davidson 1993; and Gray 1991; for a
+review see Cacioppo, Gardner, and Berntson 1999). As such, deviations from
+bipolarity in the affective structure of whites' racial perceptions may be part
+of a more general tendency in the appraisal of social stimuli.
+But Whose Racial Perceptions Deviate from Affective
+Bipolarity? The Role of Ideology
+While a variety of studies suggest that whites' stereotypical perceptions of
+blacks may not always be bipolar or reciprocally related, researchers have
+devoted less attention to question of whose racial perceptions are more likely
+to deviate from bipolarity. In this vein, studies have repeatedly shown that
+there are reliable individual differences in the degree to which whites' racial
+attitudes actually do so. For example, Katz and Hass and their colleagues
+(Hass et al. 1992) and Monteith (1996) have found that individuals differ in
+the extent to which they endorse both positive and negative opinions of
+blacks. More generally, Cacioppo, Gardner, and Berntson (1999) have argued
+that a two-channel affective system may permit a variety of overall response
+patterns, depending on the circumstances: some situations may encourage a
+bipolar response pattern, while others may lead to a shift away from it, resulting
+in phenomena like ambivalence.
+So, given the potential for variability in the relationship between positive
+and negative racial perceptions, how might we explain individual differences
+in the structure of this relationship? One factor that may be relevant is ideology.
+While this variable has not received a great deal of attention in the literature
+on the affective structure of whites' racial perceptions, studies have
+more generally suggested that ideology may intersect with racial attitudes in
+a number of ways (Sidanius, Singh, Hetts, and Federico 2000; see also Sniderman
+and Carmines 1997; and Sniderman, Crosby, and Howell 2000). Interestingly,
+one of the chief conclusions of this broader line of research is that political
+conservatism is reliably associated with more negative perceptions of African-
+Americans (Federico and Sidanius 2002a, 2002b; Sidanius, Pratto, and Bobo
+1996; Sidanius et al. 2000). While this finding appears to be relatively robust
+(Federico and Sidanius 2002b), there are a number of reasons to suspect that
+this emphasis on the relationship between conservatism and negative perceptions
+of blacks may actually obscure a more subtle relationship between conservatism
+and deviations from affective bipolarity that result in conflicting
+perceptions of blacks. Among other things, this tendency may have something
+to do with the racial-attitude measures used in most studies of the relationship
+between ideology and racial perceptions: almost all of these measures have been bipolar in nature, forcing respondents to express either a positive or a
+negative attitude toward blacks (e.g., Federico and Sidanius 2002a, 2002b;
+Sidanius, Pratto, and Bobo 1996). As noted above, measures of this sort leave
+little or no room for the assessment of deviations from bipolarity.
+Assuming that this is true, why might the probability of having both positive
+and negative perceptions of blacks at the same time increase as one moves
+to the political right? Importantly, existing work on racial ambivalence and
+other deviations from affective bipolarity in the racial domain suggests that
+conflicting perceptions of blacks themselves may stem from deeper forms of
+attitudinal conflict. As noted earlier, both Lipset and Schneider (1978) and
+Katz, Wackenhut, and Hass (1986) argue that positive and negative attitudes
+toward blacks may have different sources - i.e., humanitarianism and individualism,
+respectively. In turn, this suggests that individuals who tend to
+endorse both humanitarian and individualistic sentiments may be more conflicted
+about blacks themselves: while humanitarian concerns lead them to
+endorse positive perceptions of blacks, individualistic concerns lead them to
+endorse negative perceptions of blacks as well (Hass et al. 1992; Katz and
+Hass 1988).
+In this vein, there are a number of reasons to believe that conservatives may
+be more likely to approach racial matters with this critical combination of both
+humanitarian and individualistic concerns. These reasons - and the implication
+that they may result in more value conflict on the right - have received
+some attention in race and politics literature (Sears 1988; Sears et al. 2000;
+Sniderman and Carmines 1997). On one hand, the success of the civil rights
+movement has made basic humanitarian concern for blacks a consensual political
+norm: for the most part, both liberals and conservatives agree that unequal
+treatment is a violation of basic liberal-democratic values central to American
+life (McClosky and Zaller 1984; Sniderman and Carmines 1997; Sniderman
+and Piazza 1993), although some studies reveal slight ideological differences
+in this regard (Sidanius, Pratto, and Bobo 1996). As such, there is little reason
+to believe that conservatives should be much less bothered than anyone else
+by the inhumane treatment of minorities. On the other hand, public opinion
+research clearly suggests that conservatives are more troubled than liberals or
+moderates by the perception that African-Americans may not be doing enough
+to help themselves and by black demands for what they perceive to be "special"
+treatment (Sears 1988; Sniderman and Carmines 1997). So, individualistic
+concerns do seem to be in stronger evidence on the right.
+Taken together, these two considerations suggest that the chronic coactivation
+of humanitarian and individualistic concerns needed for the emergence of
+racial ambivalence may increase as one moves to the political right, leading
+conservatives' perceptions of blacks to deviate more strongly from affective
+bipolarity. In operational terms, this hypothesis leads to a number of specific
+predictions. First of all, political conservatism should be positively associated
+with various measures of the degree to which respondents' racial perceptions deviate from affective bipolarity. Second, the relationship between conservatism
+and the degree to which respondents' perceptions deviate from bipolarity
+should be mediated by a tendency to endorse both humanitarian and individualistic
+concerns at the same time.
+Although prior work thus suggests that conflict between humanitarian and
+individualistic concerns is likely to mediate the relationship between conservatism
+and deviations from affective bipolarity in whites' racial perceptions, it
+is somewhat less clear whether conflict between these two sets of concerns
+will be most influential at a general level or a specifically racial level.
+
+</text>

@@ -1,0 +1,228 @@
+Defra’s Executive Agencies
+This chapter reports on Defra’s six Executive Agencies. It
+outlines their aims and objectives, their funding for 2004-05,
+their performance against their service standards and targets,
+their key developments and a forward look to 2005-06.
+In 2004-05, Defra had six Executive Agencies:
+• Rural Payments Agency;
+• Veterinary Laboratories Agency;
+• Central Science Laboratory;
+• Centre for Environment, Fisheries and Aquaculture Science;
+• Pesticides Safety Directorate; and
+• Veterinary Medicines Directorate.
+On 1 April 2005 the State Veterinary Service was also launched as a Defra Executive Agency.
+Ministers have also announced the intention to create two additional agencies: the Sea
+Fisheries Inspectorate and the Decontamination Service.
+Each of these provides its own unique contribution to achieving Defra’s aim and objectives
+and is therefore integral to the work that Defra does. This chapter provides only a very broad
+overview of the work of its Executive Agencies, and each will publish its own Annual Report
+and Accounts in the summer.
+185
+
+Rural Payments Agency
+Aims and objectives
+The Rural Payments Agency (RPA) is Defra’s largest executive agency and a major customer
+facing delivery arm which provides services in making payments, carrying out inspections and
+recording animal movements.
+The aim of RPA is to operate Common Agricultural Policy (CAP) measures that are delegated
+to it within England and, as appropriate, the UK, and to provide high-quality and accessible
+data on animal traceability within Great Britain. It will deliver a high-quality service that is
+responsive to the needs of its customers and operate as economically, efficiently and
+effectively as possible, in accordance with EU accreditation requirements and the policies laid
+down by the Secretary of State and, as appropriate, those of the devolved administrations.
+RPA is also a source of delivery experience and advice to policy divisions within Defra.
+RPA is the accredited Paying Agency responsible for all CAP schemes in England and for
+certain CAP schemes throughout the UK. In addition to making the payments the Agency
+carries out related inspections and scrutiny to ensure EU accreditation requirements are met.
+It is also the funding body for receiving and accounting for all UK CAP Guarantee funds. RPA
+delivers payments for other farming support such as the Over Thirty Months Scheme (OTMS)
+and administers the National Fallen Stock Scheme (NFSS) on behalf of the National Fallen
+Stock Company.
+RPA includes the British Cattle Movement Service (BCMS) which is Defra’s centre of expertise
+and service delivery on animal and identification. BCMS operates as a GB-wide organisation,
+and must meet the requirements of the Scottish Executive, the National Assembly of Wales,
+as well as Defra.
+Following the decisions on implementation of CAP Reform, RPA has focused strongly on the
+successful delivery of the new Single Payment Scheme (SPS) to be introduced for the 2005
+scheme year. RPA will continue with its Change Programme that will see greater use made of
+technology and innovation to deliver services efficiently and effectively.
+RPA’s objectives are to:
+• administer those CAP schemes, in support of the Department’s policy and
+objectives, and other services that are delegated to it in full conformity with EU and
+domestic law and accreditation requirements;
+• provide operational advice in the support of policy formation;
+• comply with UK Corporate Governance principles;
+• provide fair, responsive, and high-quality services to its customers, minimising
+administrative burdens placed on the industries it serves;
+
+• operate within spending review agreements using resources economically, efficiently
+and effectively, while delivering all agreed schemes, services and targets;
+• provide high-quality and accessible data on animal traceability to support public
+health, animal health and welfare requirements; and
+• maintain and continue to develop core capability and flexibility to meet changing
+requirements.
+Funding in 2004-05
+Figure 30 sets out the Rural Payments Agency’s main funding for 2004-05. This funding
+comes within Defra’s Departmental Expenditure Limit (DEL).
+Figure 30: Rural Payments Agency Departmental Expenditure Limit resource funding
+2004-05
+
+Figure 31: Rural Payments Agency Annually Managed Expenditure (AME)
+funding 2004-05
+
+The bulk of this expenditure is for CAP payments and is reimbursed to the UK Treasury by
+the EU.
+Performance in 2004-05 against targets
+The 2004-05 RPA Business Plan included a number of key business plan targets. Progress
+against these targets is monitored throughout the year. The business plan targets are
+presented under the balanced scorecard headings of business process, customer, finance
+and people.
+
+Figure 32: Rural Payments Agency performance in 2004-05 against targets
+
+Public Service Agreement target 10: Achieve a reduction of 10 per cent of the unit
+cost of administering Common Agricultural Policy payments by 2004-05 and an
+increase to 95 per cent electronic service delivery capability for such payments by
+31 March 2005.
+
+RPA has met the efficiency element of the target, but will not now meet the other element
+until 2006. In view of this a final assessment of partly met will be given for this target.
+The Public Service Agreement target relates to efficiency and service improvements that will
+be delivered by the Rural Payments Agency (RPA), an Executive Agency of Defra.
+The present CAP information systems operated by the RPA are made up of discrete and
+dated systems with few common business process components or shared IT systems and
+databases. Under the RPA Change Programme the existing business processes and
+supporting IT systems will be replaced/upgraded to enable significant efficiency and customer
+service improvements.
+On 31 January 2003 a contract was signed with Accenture to deliver RPA IT Applications
+(RITA). RITA scope includes a generic systems platform for processing both farm and trader
+schemes, land and customer registers and a customer call centre. The contract covered farm
+and trader based schemes, current at the time, although it anticipated the potential for
+change the mid-term review might bring.
+
+The proposed new systems will:
+• provide customer focus by simplifying the collection of data from traders and
+farmers, reduce duplication of effort and focus on the needs of the farmers and
+traders rather than on administrative convenience;
+• provide a new flexible co-ordinated IT system designed to support the new business
+processes and electronic service delivery, and to react to change and enable the
+introduction of new schemes quickly and efficiently;
+• be user friendly and developed in a way that minimises need for training; and
+• minimise manual intervention in processing payments and hence reduce costs.
+Performance
+The RPA Change Programme supports the delivery of the RPA Mission Statement of a
+customer focused organisation delivering high quality services, including processing payments
+and receipts, conducting inspections and recording animal identification, to Government and
+the rural community.
+Significant progress has been made including:
+• the merger of the Intervention Board and Ministry of Agriculture, Fisheries and
+Food’s (MAFF) regional offices to create RPA;
+• closure of four of the six sites targeted for closure;
+• agreement of the new organisational design (incorporating a planned reduction of
+over 1,500 staff);
+• merger of RPA and the British Cattle Movement Service;
+• first tranche of voluntary redundancies (400 staff) have been identified and leaving
+dates agreed;
+• second exit strategy has been instigated;
+• implementation of the new finance system (Oregon);
+• implementation of a Human Resources Self Service System (HRSS) integrated with
+Oregon;
+• deployment of a new corporate intranet (IRIS);
+• digitisation of 1.7 million parcels of land and the design, development and
+deployment of the Rural Land Register database to maintain them;
+• RPA business case updated; and
+• implementation of Customer Service Centre and Customer Register.
+
+Given these factors, and the importance of making timely SPS payments to claimants, a
+conscious decision was taken to re-plan the programme schedule in order to reduce risks to
+SPS in 2005 by deferring non-essential elements to later in the programme schedule.
+This rescheduling of the programme delays the delivery of the on-line (e-capability)
+functionality which means the target of having 95 per cent e-capability by 31 March 2005
+will not be achieved but will be delivered in 2006.
+Despite this rescheduling, RPA has met the Public Service Agreement target of a 10 per cent
+unit cost reduction in 2004-05.
+The Change Programme incorporating CAP Reform not only remains on track for delivering
+the annual benefits in the original business case (£35.9 million), albeit the date that these
+benefits will be realised from has been delayed as a result of re-planning the
+programme schedule.
+Factors Affecting Performance
+Rescheduling of the programme resulting from delays in the design and build of the new
+system caused by:
+• supplier performance issues;
+• resource/skills constraints;
+• incorporating CAP Reform within the programme; and
+• delays in finalising EC Regulations and SPS policy decisions.
+Key developments
+Some key developments in 2004-05 have been:
+• entitlement register for the SPS established;
+• new Customer and Land registers went live;
+• new Customer Service Centre and Document Management Unit established
+at Newcastle;
+• significant improvements to the cattle tracing database in terms of reliability and
+accessibility delivered; and
+• the Agency is co-ordinating the new cross compliance inspections.
+
+Looking forward to 2005-06
+Some key challenges in 2005-06 are:
+• the Agency will receive the first SPS claims and make the first payments under
+the SPS;
+• the Agency will develop a web-based service allowing customers to submit CAP
+scheme forms electronically; and
+• the Cattle Tracing System e-take up project for 2005 is set to deliver 50 per cent
+of transactions to the cattle tracing system through electronic channels by the end
+of 2005.
+Veterinary Laboratories Agency
+Aims and objectives
+The Veterinary Laboratories Agency (VLA) provides Defra and other government customers
+with specialist veterinary research, consultancy, surveillance and laboratory services in the
+areas of:
+• transmissible spongiform encephalopathies (TSE);
+• statutory and exotic bacterial and viral diseases;
+• food and environmental safety;
+• emerging diseases and welfare; and
+• international trade.
+VLA’s aim is to:
+• provide its customers with the highest-quality scientific data and advice to support
+evidence-based policymaking while providing best value for money;
+• work collaboratively to deliver leading edge veterinary research, surveillance,
+consultancy and laboratory testing services through a series of integrated science
+programmes;
+• maintain an emergency response capability for animal health and public health
+threats; and
+• develop colleagues to their full potential and recognise their individual and
+collective contribution.
+
+Funding in 2004-05
+Forecast income for 2004-05 is approximately £95 million. Discussions about income for
+2005-06 are in progress with Defra customers, who provide about 90 per cent of VLA’s
+income. Fully calculated results will be made available in VLA’s 2004-05 Annual Report and
+Accounts.
+Performance in 2004-05 against targets
+The performance set out in Figure 33 is correct up to December 2004, the date at which the
+latest performance data was available prior to publication.
+Figure 33: Veterinary Laboratories Agency performance in 2004-05 against targets
+• Implement
+
+Key developments
+Some key developments include:
+• VLA was formally designated as the World Organisation for Animal Health (Office
+International des Epizootes – OIE) first reference laboratory for antimicrobial
+resistance. VLA is now the OIE reference laboratory for 13 diseases or topics;
+• MedVetNet (in which VLA plays a key role) was launched in September 2004. This is
+an international network for the prevention and control of zoonoses funded by the
+EU Framework 6 Programme. It is made up of 5 veterinary and 5 public health
+institutes from 8 countries, including VLA. Their overall objective is to develop a
+network of excellence for the integration of veterinary, medical and food sciences,
+to improve research on the prevention and control of zoonoses;
+• this year alone the mycobacterial research team has published 25 peer-reviewed
+papers, including a number in prestigious journals;
+• significant progress has been made in TSE experimental challenge studies,
+investigations into rendering practices and modeling in support of the National
+Scrapie Plan;
+• the Rabies Team, through extensive worldwide links, has worked to develop a new
+understanding of the epidemiology and pathogenesis of rabies, particularly of
+European bat lyssaviruses;
+• VLA’s unique veterinary surveillance network, working in partnership with private
+veterinary practices, was expanded to include new surveillance centres at the Royal
+Veterinary College in Hertfordshire and the Liverpool Veterinary School;
+

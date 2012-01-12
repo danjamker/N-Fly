@@ -1,0 +1,340 @@
+<text id="H06" category="" words="1992" checkedby="" modifiedby="" Title="2006 Annual Report" Author="Transportation Research Board" PublicationDate="2006" SampledFrom="End" WebAddress="http://onlinepubs.trb.org/onlinepubs/general/2006_TRB_Annual_Report.pdf">
+
+The total available in FY
+2006 is about $880,000. The HMCRP Oversight
+Panel, appointed by TRB, held its first meeting
+late this year to establish operating procedures
+and to prioritize research needs.
+COMMERCIAL TRUCK
+AND BUS SAFETY
+SYNTHESIS PROGRAM
+CTBSSP is a cooperative research program sponsored
+by FMCSA and administered by TRB. The
+program was authorized in late 2001 to support
+FMCSA's safety research programs.
+The annual level of funding provided by
+FMCSA - typically $100,000 to $400,000 - 
+determines the number of synthesis studies the
+program will initiate. The reports summarize
+current practice in a specific technical area in
+commercial truck and bus safety, usually through
+a literature search and a survey of organizations
+such as state DOTs, enforcement agencies, commercial
+truck and bus companies, or other
+appropriate groups. The program is modeled
+after the successful synthesis programs of
+NCHRP and TCRP. The primary users of the
+syntheses are practitioners who are facing the
+issues or problems with diverse approaches in a
+variety of settings.
+A program oversight panel monitors CTBSSP
+and program procedures; selects synthesis topics
+annually, after periodic industrywide solicitations;
+refines synthesis scopes; selects researchers
+to prepare each synthesis; reviews products; and
+makes publication recommendations.
+The program oversight panel has authorized
+15 synthesis topics. Five syntheses were completed
+this year and are expected to be published in
+early 2007:
+• Commercial Motor Vehicle Driver Training
+Curricula and Delivery Methods and Their
+Effectiveness;
+• Commercial Motor Vehicle Carrier Safety Management
+Certification;
+• The Role of Safety Culture in Preventing Commercial
+Motor Vehicle Crashes;
+• The Impact of Behavior-Based Safety Techniques
+on Commercial Motor Vehicle Drivers;
+and
+• Health and Wellness Programs for Commercial
+Vehicle Drivers.
+Strategic Highway Research Program II
+The U.S. Congress authorized the second
+Strategic Highway Research Program
+(SHRP II) in August 2005 to address complex
+goals that require integrated and atypical
+approaches to reducing crashes, renewing the
+transportation infrastructure, increasing highway
+capacity, and providing reliable travel
+times. The first SHRP was conducted between
+1987 and 1993; SHRP II was originally proposed
+as a 9-year, $450 million program. As
+authorized, the program is funded at approximately
+$150 million over 7 years and expects to
+award approximately $110 million or more in
+research contracts.
+SHRP II is being conducted under a memorandum
+of understanding among the American
+Association of State Highway and Transportation
+Officials (AASHTO), the Federal Highway
+Administration (FHWA), and the National
+Research Council, TRB's parent organization. In
+late March 2006, first-year funding for SHRP II
+became available through an agreement with
+FHWA, initiating an ambitious schedule of
+activities to staff the program, establish committees,
+and refine research plans. The scope of the
+original research plans has been adjusted to
+reflect the reduction in funding and will continue
+to evolve in response to research findings,
+emerging opportunities, and potential funding
+fluctuations.
+FOCUS AREAS
+Safety
+Estimated funding: $44 million;
+11 planned projects
+SHRP II safety research will take advantage of
+unprecedented opportunities to improve highway
+safety through advanced technologies. Most
+highway safety research has focused on crashes
+and on how changes in vehicles and roads could
+improve safety. SHRP II safety research will focus
+on driver behavior and will collect data on precrash
+and noncrash circumstances.
+The research will quantify the interactions of
+drivers, roads, vehicles, and environmental conditions
+and will develop objective measures of
+crash risk. An ambitious effort will use on-board
+recorders to capture data on 2,000 to 3,000 volunteer
+drivers, their vehicles, the environment,
+and the roadways. Site-based technologies and
+instrumented vans also will be deployed. Analysis
+of the data will have implications for effective
+countermeasures to reduce the number and
+severity of crashes.
+Renewal
+Estimated funding: $29 million;
+28 planned projects
+The U.S. highway system is aging and must be
+rebuilt while in service. Research in the renewal
+focus area therefore addresses the need to complete
+highway projects quickly, with minimal disruption
+to the community, and to produce facilities
+that are long-lasting.
+Identifying new technologies for locating
+underground utilities; developing procedures to
+speed the evaluation of designs and the inspection
+of construction; and applying new methods
+and materials for preserving, rehabilitating, and
+reconstructing roadways and bridges are among
+the goals for this focus area. Alternative strategies
+for contracting, financing and managing projects,
+and mitigating institutional barriers also are
+part of the emphasis on rapid renewal.
+Reliability
+Estimated funding: $18 million;
+12 planned projects
+Improving the reliability of travel time predictions
+can reduce the costs and frustrations of
+traffic delays and can help address the problems
+of roadway congestion. Research in the reliability
+focus area will identify and analyze congestion
+mitigation measures and practices at agencies
+that have improved travel time reliability; develop
+analytical procedures for estimating the benefits
+and effectiveness of countermeasures; assess
+the institutional architectures necessary for successful
+operations programs; and develop local
+and national programs to monitor reliability.
+Capacity
+Estimated funding: $18 million;
+8 planned projects
+The objective of the capacity focus area is to
+develop a consistent framework for balanced,
+collaborative decisions on enhancing transportation
+capacity and to provide the tools for applying
+the framework. The research will develop a
+project evaluation process that will help stakeholders
+balance the need to reduce delays caused
+by conflicting demands with the need to produce
+transportation solutions that support community,
+economic, and environmental goals.
+The research also will develop a structure
+for a project's many contributors to share data
+and knowledge. This will require identifying critical
+points for decision making in various
+processes, the data and knowledge essential for
+these decisions, and successful methods of sharing
+information.
+MANAGEMENT
+AND OVERSIGHT
+TRB manages SHRP II in close cooperation with
+FHWA and AASHTO. The SHRP II Oversight
+Committee, appointed by the National Research
+Council, has responsibility for all aspects of the
+program's research activities. A technical coordinating
+committee in each of the four focus areas is responsible for recommending the research plan
+and for monitoring the conduct of the research.
+Small groups of technical experts are convened
+as necessary to draft research project
+statements to inform requests for proposals
+(RFPs). Members of these committees and
+groups are knowledgeable and experienced professionals
+in transportation and related fields,
+are recruited from around the nation, and serve
+without compensation.
+SCHEDULE OF ACTIVITIES
+The first RFPs for each focus area were released
+in September. The initial projects either will produce
+analytic methods and study designs for
+follow-on research or will identify specific needs
+in technology, data, and knowledge for the projects
+that follow.
+Starting in 2007, RFPs will be issued twice
+each year, in June and December, with notices
+posted in the TRB e-newsletter and website.
+Contract awards will go out in August and February.
+SHRP II will publicize its annual research
+program in January of each year.
+
+PROGRAM STAFFING
+Start-up activities and the work of the program's
+first year have been accomplished by a core team
+of experienced staff members. New expertise will
+be added as the SHRP II staff reaches its full
+complement. Currently, the staff includes:
+• Neil Hawks, a manager in the first SHRP and
+recently director of TRB's Special Programs
+Division, serves as director of SHRP II.
+• Ann Brach, Senior Program Officer and
+director of the study that defined the need
+and proposed the goals for SHRP II, is deputy
+director.
+• Stephen Andrle, recently director of the Center
+for Transportation Research and Education
+at Iowa State University, heads the SHRP
+II capacity focus area.
+• Kenneth Campbell, formerly with the Oak
+Ridge National Laboratory and the University
+of Michigan Transportation Research Institute,
+staffs the safety focus area.
+• Walter Diewald, Senior Program Officer and
+recently study director in the TRB Division of
+Studies and Information Services, is staff officer
+for the reliability focus area.
+• Robert Raab, Senior Program Officer, is heading
+up the renewal focus area while the
+staffing process continues.
+• Monica Starnes, Senior Program Officer, is
+working primarily in the renewal focus area.
+She previously worked for the Applied
+Physics Lab at Johns Hopkins University and
+for the National Institute of Standards and
+Technology.
+• Linda Mason serves as the SHRP II Communications
+Officer.
+• Jo Ann Coleman and Makeeya Hazelton are
+Senior Program Assistants. Coleman has
+worked as an analyst for the U.S. Department
+of Transportation and as transaction specialist
+at Remax Allegiance,Woodridge, Virginia.
+Hazelton was supervisor of customer service
+for TRB's Publications Sales and Affiliates Services
+department.
+• Connie Woldu is the program's Administrative
+Coordinator.
+Administration and Finance
+The TRB Administration and Finance Division
+provides financial, technological, and
+administrative support for TRB staff; financial
+oversight of the contracts and grants that support
+the work of TRB; expenditure controls;
+administration of publications sales and distribution;
+maintenance of the benefits and services
+for sponsor and affiliate organizations; and liaison
+to the administrative and financial offices of
+the National Academies.
+FINANCIAL MANAGEMENT
+The division manages the contracts and grants
+that support TRB's work, prepares budgets for
+continuing operations and individual projects,
+and controls expenditures. TRB's total income
+and expenditures have increased consistently
+each year to more than $60 million (see graph,
+page 51). A statement of income and expenditures
+appears on pages 52 - 53.
+AFFILIATE AND SPONSOR
+SERVICES
+TRB's core technical activities have five levels of
+support: student affiliates, individual affiliates,
+organizational affiliates, sustaining affiliates, and
+sponsors. All affiliates and sponsors contribute to
+the support of TRB activities through annual fees
+determined by the level of services selected.
+Individual and student affiliates' benefits
+include reduced registration fees for the TRB
+Annual Meeting, complimentary subscription to
+TR News, discounts on most TRB books and
+reports, use of the TRB library, and assistance
+with the use of TRB computer-based information
+services. Individual and student affiliates
+also may subscribe to publications at a substantially
+reduced rate through a selective distribution
+program.
+Organizational affiliates include government
+agencies, academic organizations, private organizations,
+and consultants committed to the
+advancement of knowledge about the nature and
+performance of transportation systems and system
+components. In addition to the range of
+benefits that individual affiliates receive, organizational
+affiliates receive most publications at no
+cost, as well as complimentary registrations for
+the TRB Annual Meeting. Organizational affiliate
+contributions range from $2,850 to $7,100,
+depending on the level of benefits selected.
+Sustaining affiliates are agencies and organizations - 
+including individual corporations and
+businesses - that support TRB at a level considerably
+higher than the direct cost of all the services
+and publications received. The minimum
+annual contribution is $15,000.
+Sponsors are the major source of financial
+support for TRB's core technical activities. Federal,
+state, and local government agencies and professional
+societies and organizations that represent
+industry groups are eligible to be TRB
+sponsors. Fees and services are negotiated to
+serve the sponsor's needs and to provide funda mental support for the Board's programs and
+activities of interest to the entire transportation
+community. The minimum annual sponsor fee is
+$60,000. Sponsors are also represented on the
+TRB Executive Committee. (See pages 58 - 59 for
+a list of TRB sponsors and sustaining affiliates.)
+PUBLICATIONS SALES
+AND DISTRIBUTION
+TRB's timely distribution of publications disseminates
+transportation research and technology
+results worldwide. TRB also releases selected
+publications - some exclusively - in electronic
+format.
+A list of TRB publications issued from January
+1 through December 31, 2006, appears on
+pages 55 - 57.
+WEB AND STRATEGIC
+APPLICATIONS
+The TRB Information Technology unit develops
+and supports many of the applications used by
+TRB's divisions and serves as the liaison for computer
+network infrastructure to the National
+Academies' Information Technology Services
+office. The unit's major activities in 2006 involved
+the planning and updating of TRB's website for
+transfer to a new server environment.At the same
+time, the National Academies relocated its operations
+center - including the TRB servers - to a
+new remote facility.
+The unit implemented a new version of Web-
+Board, TRB's online forum for discussions, information
+sharing, and data storage.1 The package now consolidates access to web boards, conferences,
+and messages on a single web page for
+easy navigation and can be tailored for user preferences
+and needs.
+Activities planned for 2007 include updates
+to the electronic bookstore, enhancements to
+TRB affiliate and participant data management
+systems, and implementation of a new content
+management system.
+
+</text>

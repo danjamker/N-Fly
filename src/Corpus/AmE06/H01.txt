@@ -1,0 +1,140 @@
+<text id="H01" category="" words="1996" checkedby="" modifiedby="" Title="The Role of Hedonic Methods in Measuring Real GDP in the United States" Author="Dave WASSHAUSEN and Brent R. MOULTON Bureau of Economic Analysis U.S. Department of Commerce" PublicationDate="2006" SampledFrom="Middle" WebAddress="http://www.bea.gov/papers/pdf/hedonicGDP.pdf">
+
+BLS has other alternatives to using hedonic functions for dealing with changes in quality, however
+these methods rely on, perhaps, more subjective analysis. For example, one alternative used by BLS
+is to ask the respondent to provide a dollar estimate of the change in quality embedded in the new
+product.
+There is an additional fundamental difference between these two hedonic techniques which lies in
+the weighting of the observations. In the 'regression price index,' the individual observations are
+essentially unweighted while the 'composite price index' reflects a weighted average of observations.
+Aizcorbe and Pho (2005) examined this issue of aggregating detailed observations for over 60 classes
+of consumer electronic and IT goods and found that differences in the weights do matter.
+4. Impact of Hedonic Price Indexes on Measuring Real GDP
+Hedonic price indexes are used to deflate a number of GDP final demand components, accounting
+for about 20 percent of nominal GDP in recent years. (See appendix A for a table presenting the
+components of GDP that are deflated with hedonic-type price indexes.) It should be noted that not
+all of these price indexes reflect hedonic methods for all years. In many cases, source data used
+to construct the hedonic function are not available for all years and a bias-adjustment is used to
+account for quality changes that may not be reflected in a traditional matched model price index. For
+example, the price index for prepackaged software reflects hedonic methods for years 1985-93; years
+1994-present reflect a matched model price index with a bias-adjustment.
+For many of the 'hedonic components' the difference between the matched model price and the
+hedonic price index is small and somewhat offsetting. For example, the introduction of hedonic price
+indexes by BLS slightly raised the rate of price increase for VCR's and for rent but slightly lowered
+it for televisions.
+The main component in which hedonic methods have had a significant impact is computers and peripheral equipment. Focusing on private fixed investment in computers and peripheral equipment,
+the average annual price decline from 1990-2005 is 16.0 percent, although the rates of decline appear
+to be slowing down in more recent years (average annual decline for years 2001-2005 is 11.1 percent).
+Several previous papers and articles have examined the robustness and validity of hedonic computer
+price indexes, including a comprehensive literature review by Berndt and Rappaport (2000). Berndt
+and Rappaport's review compared rates of decline for PC's and Mainframes estimated by a dozen or
+so hedonic price index experts. Naturally there was some variation in reported declines over varying
+time periods, however, when detailed components are compared over similar periods the results are
+consistent, including BEA's computer price index.
+There is evidence that a 'well constructed' matched model index for rapidly changing high-tech goods
+could yield a price index that adequately controls for quality differences and that this price index is
+consistent with a quality-adjusted price index constructed using hedonic methods. Aizcorbe, Corrado,
+and Doms (2003) constructed price indexes for microprocessors using high frequency disaggregated
+data on models whose characteristics were constant over time and found that their matched model
+price indexes were remarkably close to those constructed using hedonic methods (table 2). Similar
+results were reported in Aizcorbe, Corrado, and Doms (2000) for personal computers. Silver and
+Heravi (2001, 2002) report similar findings using scanner data for washing machines and televisions.
+However, given that we often do not have the abundant data necessary to construct such a matched
+model price index, then the hedonic price index is the practical approach for measuring prices of
+rapidly changing goods or goods that by nature are heterogeneous (e.g. custom software or homes).
+Ideally, in order to measure the impact of hedonic price indexes on real GDP, we would have a second
+set of traditional matched model price indexes for all goods that are deflated using hedonic price
+indexes and we would re-compute real GDP using this second set of price indexes and then compare
+growth rates. Unfortunately this approach is not possible due to resource constraints. Borrowing
+from an analysis presented by Landefeld and Grimm (2000) we have prepared a shortcut one can
+take to estimate the affect that the hedonic quality-adjustment process for computers and peripheral
+has on measuring real GDP. Table 3 below shows that the average annual change in unit value
+for single-user computers over the years 2001-2005 is -4.9 percent. This estimate, which does not
+take any changes in quality into account, is derived from shipments data published in the 'Current
+Industrial Reports' by the U.S. Census Bureau (http://www.census.gov/cir/www/alpha.html). The
+NIPA private fixed investment quality-adjusted price index for single-user computers (a.k.a. PC's)
+shows an average rate of decline 16.4 percent over the same years. The difference in the two declines is 11.5 percent, which can be characterized as the affect of quality-adjusting the PC price index.
+Assuming this estimated 'quality adjustment' difference for PC's is representative of all types of
+computers and peripheral equipment (or provides an upper bound estimate which is reasonable given
+that the price index for PC's declines on average more rapidly than any of the other component) we
+can approximate the impact that hedonic quality adjustment has for all computers and peripheral
+equipment by multiplying the 11.5 percent 'quality-adjustment' difference by the average nominal
+share of final sales of computers to GDP (about 0.8 percent). The results of this exercise shows that
+the estimated impact of the hedonic quality adjustment is less than 0.1 percentage point of average
+annual real GDP growth over the period. This exercise is not intended to mitigate the role that
+hedonic methods have in constructing high quality price indexes; rather it is intended to illustrate that
+one should not attribute periods of robust real GDP growth, at least for the United States, to the use
+of hedonic methods to estimate quality-adjusted price indexes.
+5. Misconceptions about Hedonic Price Indexes
+The experience of the U.S. statistical agencies may help dispel several misconceptions about the
+application of hedonic methods. We list a few misconceptions below, in each case following with a
+brief discussion of the actual experience of applied hedonic methods.
+5.1. Quality-adjusted Price Indexes Are Synonymous with Hedonic Indexes
+Virtually all methods used to construct price indexes are designed to measure price change holding
+quality constant (an exception being unit-value indexes, which are not designed to hold quality
+constant). Hedonic methods hold quality constant by conditioning on characteristics in a regression
+analysis. There are other techniques, in addition to hedonic methods, for adjusting for changes in
+quality. For example, BLS may ask the respondent to provide a dollar estimate of the change in quality
+embedded in the new product and adjust the reported price for that new product accordingly so that it
+'matches' the product reported in the previous period. A potential drawback to this technique is that
+an increase in price may be wholly attributed to the increase in quality. Alternatively, the reported
+value of the quality change may be based solely on the cost of incorporating that change, without
+reflecting the value perceived by the customer.) Another quality-adjustment technique, recently
+adopted by BLS to construct the CPI for computers, is referred to as 'attribute cost adjustment.' In
+this technique, monetary values for the attributes that affect price (e.g. processor speed, amount of
+RAM, storage capacity, etc.) are obtained from original equipment manufacturers (OEM), websites
+and price compiler sites on the Internet and these values are used as the basis to determine appropriate quality adjustment amounts. There is evidence that this technique yields results similar to those
+obtained using hedonic methods. A third technique is to impute a price change for the product that
+has experienced a change in quality. For this technique to be valid, the statistical agency must develop
+an imputation strategy that is consistent with the price-setting behavior of the seller. An example of
+such a strategy is the class-mean imputation method. The class-mean imputation strategy is often
+used for products where price change is closely associated with periodic introduction of new lines
+or models (e.g. motor vehicles) and direct quality adjustment is not feasible. With this method,
+price change is estimated from the price changes of other observations that are going through similar
+item replacement at the same time and were either quality adjusted directly or were judged directly
+comparable.
+Traditional matched model methods hold quality constant by carefully specifying each variety in the
+sample and ensuring that exactly the same variety is resampled each period. There can be problems
+with matched model methods - the samples may be unrepresentative or out of date, the methods
+used to handle new or disappearing items may be sensitive to unusual price changes that sometimes
+occur when an item first appears or disappears, or the decisions made by the statistical agency analyst
+about how to treat the replacement of items in the sample may be faulty. These problems may lead to
+either upward or downward biases and hedonic methods are important because they can help address
+some of these problems. Several researchers - for example, Aizcorbe, Corrado and Doms (2003) &amp;
+(2000) - have observed that matched model methods using good samples with up-to-date weights
+may give results similar to, or perhaps better than, hedonic methods.
+5.2. Hedonic Methods Are Opposed to Traditional (Matched Model) Methods
+In fact, most hedonic research at U.S. statistical agencies has led to the opposite conclusion - hedonic
+research has often led to improvements in sampling methods that have led to better samples, sample
+replacement strategies, or other improvements in the matched model indexes. The U.S. statistical
+agencies have found that hedonic analysis is a useful tool, whether used in the background as a guide
+to application of the matched model methods, or used directly in making quality adjustments for
+sample items that are being replaced. The articles by Liegey (1993) and Fixler et al. (1999) on the
+use of hedonics in the CPI for apparel include a number of examples of how hedonic methods can be
+used in both ways.
+5.3. Hedonic Methods Always Result in a Lower Rate of Price Change
+Many people think of the rapid decline of the BEA and BLS computer price indexes as representative
+of hedonic methods. The recently developed hedonic index for LAN equipment of Doms and Furman
+is another example of an item for which application of hedonic methods led to a much lower rate of
+price growth. On the other hand, several of the BLS hedonic CPI's have resulted in higher rates of
+price change - as described above, the hedonic rent indexes were specifically designed to correct for
+a downward bias. Also, the apparel indexes and, perhaps more surprisingly, videocassette recorders
+are examples of items for which hedonic methods led to higher rates of price growth. 
+5.4. Hedonic Methods 'Solve' the Quality Adjustment Problem
+Hedonic regressions are only as good as the data and modeling efforts that go into them. If an important
+new characteristic has appeared on the market, but is not included in the hedonic regression equation,
+there is no hope of using the hedonic function to adjust for the improvement in quality. Similarly,
+just as matched model methods may be biased if samples are out of date or unrepresentative, so
+also hedonic methods may be biased if estimated using unrepresentative samples. For both hedonic
+methods and more traditional methods, the statistical agencies must depend on knowledgeable staff
+who proactively keep track of new products and other market developments.
+5.5. Hedonic Methods Are Prohibitively Expensive
+Our experience has been that hedonic methods do require time and effort. Probably the most
+significant issue is collecting prices and detailed characteristics for a representative sample of models
+or varieties. We found that for a number of items - for example, televisions and rental housing - the
+data already collected by the statistical agency were perfectly adequate for hedonic analysis. For
+other items, special data collection or purchases of secondary data may be required; as Fixler et al.
+(1999) describe, the BLS CPI program is now employing both of these approaches specifically for use
+in the estimation of hedonic regressions.
+
+</text>

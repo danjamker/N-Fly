@@ -1,0 +1,269 @@
+<text id="H15" category="" words="1996" checkedby="" modifiedby="" Title="Occupational Radiation Exposure 2006 Report" Author="U.S. Department of Commerce" PublicationDate="2006" SampledFrom="Middle" WebAddress="http://www.hss.energy.gov/CSA/Analysis/rems/annual/2006_Occupational_Radiation_Exposure_Report.pdf">
+
+One of DOE's primary objectives is to provide a safe and
+healthy workplace for all employees and contractors.
+To meet this objective, DOE's Office of Health, Safety
+and Security establishes comprehensive and integrated
+programs for the protection of workers from hazards in
+the workplace, including ionizing radiation. The basic
+DOE standards are radiation dose limits, which establish
+maximum permissible doses to workers and members
+of the public. In addition to the requirement that
+radiation doses not exceed the limits, contractors and
+subcontractors are required to maintain exposures as low
+as reasonably achievable (ALARA).
+This section discusses the radiation protection standards
+and requirements in effect for 2006. For more information
+on past requirements, visit DOE's Web site for DOE
+Directives, Regulations, and Standards at
+http://www.hss.energy.gov.
+
+2.1 Radiation Protection
+Requirements
+Current DOE radiation protection standards are
+based on federal guidance for protection against
+occupational radiation exposure promulgated
+by the U.S. Environmental Protection Agency
+(EPA) in 1987.[1] This guidance, initially
+implemented by DOE in 1989, is based on the
+1977 recommendations of the International
+Commission on Radiological Protection
+(ICRP)[2] and the 1987 recommendations of
+the National Council on Radiation Protection
+and Measurements (NCRP).[3] This guidance
+recommends that internal organ dose be added
+to the external whole-body dose to determine
+the total effective dose equivalent (TEDE). Prior
+to this, the whole-body dose and internal organ
+dose were each limited separately.
+In summary, the current laws and requirements
+for occupational radiation protection pertaining
+to the information collected and presented in
+this report are shown in Exhibit 2-1.
+
+2.2 Radiation Dose Limits
+Radiation dose limits are codified in 10 CFR 835.202, 206,
+207, and 208 [4] and are summarized in Exhibit 2-2.
+Under 10 CFR 835.204, planned special exposures (PSEs)
+may be authorized under certain conditions, allowing
+an individual to receive exposures in excess of the dose
+limits shown in Exhibit 2-2. With the appropriate prior
+authorization, the annual dose limit for an individual
+may be increased by an additional 5 rem (50 mSv) TEDE
+above the routine dose limit, as long as the individual
+does not exceed a cumulative lifetime TEDE of 25 rem
+(250 mSv) from other PSEs and doses above the limits.
+PSE doses are required to be recorded separately and are
+only intended to be used in exceptional situations where
+dose reduction alternatives are unavailable or impractical.
+No PSEs have occurred since the requirement became
+effective.
+
+2.3 Reporting Requirements
+On August 19, 2003, DOE approved and issued the
+revised DOE Order 231.1A. [5] The DOE Manual 231.1-1A,
+[6] which details the format and content of reporting
+radiation exposure records to DOE, was approved on
+March 19, 2004. The revisions affected the content and
+reporting of radiation exposure records, beginning with
+the 2005 monitoring year. This report is the second
+report in the series to include data from the new DOE
+Manual 231.1-1A. However, it should be noted that several
+DOE sites are not required to report under the revised
+requirements since they are exempted due to imminent
+closure or an undue impact on the dosimetry program
+at sites with relatively small numbers of monitored
+individuals. Ninety-two out of the 95 organizations
+reported under the revised Manual 231.1-1A, while
+the remaining three organizations reported under the
+previous DOE Manual 231.1-1. These three organizations
+accounted for only 0.3% of the total monitored
+individuals.
+
+3.1 Analysis of the Data
+Several indicators were identified from the data submitted
+to the central data repository that can be used to evaluate
+the occupational radiation exposures received at DOE
+facilities. In addition, the key indicators are analyzed to
+identify and correlate parameters having an impact on
+radiation dose at DOE.
+Key indicators for the analysis of aggregate data are
+number of records for monitored individuals and
+individuals with measurable dose, collective dose, average
+measurable dose, and dose distribution. Analysis of
+individual dose data includes an examination of doses
+exceeding DOE regulatory limits and doses exceeding
+the 2 rem (20 mSv) DOE administrative control level
+(ACL). Additional information is provided in this report
+concerning activities at sites contributing to the majority
+of the collective dose.
+
+3.2 Analysis of Aggregate Data
+3.2.1 Number of Records for Monitored Individuals
+The number of records for monitored individuals
+represents the size of the DOE worker population
+provided with radiation dose monitoring. The number
+represents the sum of all records for monitored
+individuals, including all DOE employees, contractors,
+and subcontractors, as well as members of the public.
+The number of monitored individuals is determined
+from the number of monitoring records submitted by
+each site. Because individuals may have more than one
+monitoring record, they may be counted more than once.
+Although an individual may be counted more than once,
+the overall effect on the numbers and analysis is minimal.
+The number of records for monitored individuals is an
+indication of the size of a dosimetry program, but it is
+not necessarily an indicator of the size of the exposed
+workforce. This is because of the conservative practice
+at some DOE facilities of providing radiation dose
+monitoring to individuals for reasons other than the
+potential for exposure to radiation and/or radioactive
+materials exceeding the monitoring thresholds. Many
+individuals are monitored for reasons such as security,
+administrative convenience, and legal liability. Some sites
+offer monitoring for any individual who requests
+monitoring, independent of the potential for
+exposure. For this reason, the number of records
+for workers who receive a measurable dose best
+represents the exposed workforce.
+3.2.2 Number of Records for Individuals
+with Measurable Dose
+DOE uses the number of individuals receiving
+measurable dose to represent the exposed
+workforce size. The number of individuals with
+measurable dose includes any individuals with
+reported TEDE greater than zero.
+Exhibits 3-1a and 3-1b show the number of
+DOE and contractor workers, the total number
+of workers monitored for radiation dose, the
+number of individuals with measurable dose, and
+the relative percentages for the past five years.
+
+For 2006, 74% of the DOE workforce was monitored
+for radiation exposure. Fourteen percent of
+monitored individuals received a measurable
+dose, and 86% of the monitored individuals did
+not receive any measurable radiation dose. Over
+the past five years, the percentage of individuals
+monitored for radiation exposure has remained
+within 2% of the five-year average; the percentage
+of monitored individuals receiving any measurable
+radiation dose each year was within 2% of the fiveyear
+average.
+Twenty-six of the 34 reporting sites experienced
+decreases in the number of workers with
+measurable dose from 2005 to 2006. The largest
+decrease in total number of workers with
+measurable dose occurred at Rocky Flats, which
+ceased operations in 2005 and therefore had no
+workers with measurable dose in 2006. The largest
+increase in the number of workers receiving
+measurable dose occurred at Fermilab, where a
+number of repairs and improvements were made
+during an extended shutdown period. A discussion
+of activities at the highest-dose facilities is included
+in Section 3.4.3.
+3.2.3 Collective Dose
+The collective dose is the sum of the dose received
+by all individuals with measurable dose and is
+measured in units of person-rem (person-Sv).
+The collective dose is an indicator of the overall radiation exposure at DOE facilities and includes the dose
+to all DOE employees, contractors, and subcontractors, as
+well as members of the public. DOE monitors the collective
+dose as one measure of the overall performance of radiation
+protection programs to keep individual exposures and
+collective exposures ALARA.
+As shown in Exhibit 3-2, the collective TEDE decreased at DOE
+by 18% from 989 person-rem (9.89 person-Sv) in 2005 to 813
+person-rem (8.13 person-Sv) in 2006. Only 26% of the DOE
+sites (9 out of 34 sites) reported increases in the collective
+TEDE from the 2005 values. Four out of five of the sites that
+contributed to the majority of the DOE collective TEDE in
+2006 reported decreases in the collective TEDE. The sites are
+(in descending order of collective dose for 2006) Los Alamos,
+Idaho, Hanford, Savannah River, and Oak Ridge.
+These highest-dose sites attributed decreases in the collective
+dose to the following:
+u Deactivation of facilities and a removal of radioactive
+and ALARA controls to reduce direct handling of
+transuranic drums at the Savannah River Site
+u A reduction in the amount of work performed
+associated with the Tennessee Valley Authority offspecification
+fuel repackaging and other special
+projects at the Oak Ridge Y-12 National Security
+Complex (Y-12 NSC).
+u A decrease in the isotope production work that took
+place at the Oak Ridge National Laboratory during
+2006 due to an outage at the High Flux Isotope Reactor
+(HFIR) for the installation of the Cold Neutron Source
+u A 41% reduction in the collective dose at the
+Advanced Mixed Waste Treatment Project
+(AMWTP) as a result of ALARA initiatives at Idaho
+It is important to note that the collective TEDE includes
+the components of external dose and internal dose.
+Exhibit 3-2 shows the types of radiation and their
+contribution to the collective TEDE. Internal dose, photon,
+and neutron components are shown.
+It should be noted that the internal dose shown in
+Exhibit 3-2 for 2002 through 2006 is based on the 50-
+year CEDE methodology. The internal dose component
+decreased by 26% from 63 person-rem (630 person-mSv)
+in 2005 to 47 person-rem (470 person-mSv) in 2006. The
+collective internal dose can vary from year to year due
+to the relatively small number of intakes of radioactive
+material and the fact that the intakes often involve
+long-lived radionuclides, such as plutonium, which can
+result in relatively large committed doses. Due to the
+infrequent nature of these intakes, care should be taken
+when attempting to identify trends from the internal dose
+records.
+The external deep dose (comprised of photon, energetic
+beta, and neutron dose) is shown in Exhibit 3-2 in order
+to see the contribution of external dose to the collective
+TEDE. The collective photon dose decreased by 17% from
+772 person-rem (7.72 person-Sv) in 2005 to 642 personrem
+(6.42 person-Sv) in 2006.
+The neutron component of the TEDE decreased by 20%
+from 154 person-rem (1.54 person-Sv) in 2005 to 123
+person-rem (1.23 person-Sv) in 2006. This is due primarily
+to decreases in the neutron dose at the Savannah River
+Site (SRS) and Hanford. Hanford and SRS process
+plutonium, which can result in a neutron dose from the
+alpha/neutron reaction and from spontaneous fission
+of the plutonium. The neutron dose at the Hanford site
+decreased 46%. The majority of the site's neutron dose
+is from work activities at the Plutonium Finishing Plant
+(PFP). Overall dose at the PFP decreased as a result of
+the slowdown of decontamination and decommissioning
+of PFP facilities as priorities were shifted to the K Basins
+Closure Project.
+3.2.4 Average Measurable Dose
+The average measurable dose to DOE workers presented
+in this report for TEDE and CEDE is determined by
+dividing the collective dose for each dose type by the
+number of individuals with measurable dose for each
+dose type. This is one of the key indicators of the overall
+level of radiation dose received by DOE workers.
+The average measurable TEDE is shown in Exhibit 3-3.
+The average measurable TEDE increased by 3% from
+0.061 rem (0.61 mSv) in 2005 to 0.063 rem (0.63 mSv) in
+2006. While the collective dose and average measurable
+dose serve as measures of the magnitude of the dose
+accrued by DOE workers, they do not indicate the
+distribution of doses among the worker population.
+3.2.5 Dose Distribution
+Exposure data are commonly analyzed in terms of
+dose intervals to depict the dose distribution among
+the worker population. Exhibit 3-4 shows the number
+of individuals in each of 18 different dose ranges. The
+number of individuals receiving doses above 0.1 rem
+(1 mSv) is included to show the number of individuals
+with doses above the monitoring threshold specified in
+10 CFR 835.402(a) and (c). [4]
+Exhibit 3-4 shows a reduction in the number of individuals
+in all dose ranges except for the 1 - 2 rem (10 - 20 mSv)
+range. Ninety-five percent of the individuals with
+measurable dose had doses less than 0.25 rem (2.5 mSv).
+
+</text>

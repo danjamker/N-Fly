@@ -1,0 +1,195 @@
+<text id="G17" category="" words="2013" checkedby="" modifiedby="" Title="Toni Morrison's Paradise: Black Cultural Citizenship in the American Empire.' American Literature, Sep2006, Vol. 78 Issue 3, p585-612" Author="Holly Flint" PublicationDate="September 2006" SampledFrom="Beginning" WebAddress="http://web.ebscohost.com/ehost/results?vid=2&hid=119&sid=3e8eb01e-302a-4c89-97fa-5d25e0a3ba6d%40sessionmgr111&bquery=%28JN+%22American+Literature%22+AND+DT+20060901%29&bdata=JmRiPWE5aCZ0eXBlPTEmc2l0ZT1laG9zdC1saXZl">
+
+In 1980 historian William Appleman Williams warned that the only way to create viable American identities, communities,
+and cultures would be to understand and acknowledge
+our imperial past so that we can become ''citizens - not imperial
+overlords - of the world.''1 In the years since Williams's politically
+charged statement, scholars have taken the first steps toward examining
+American literature as part of what Amy Kaplan and Donald
+Pease refer to as the ''cultures of United States imperialism.''2 Moreover,
+the broader field of American studies has seen a renewed interest
+in issues involving contemporary citizenship, particularly as they
+relate to minority rights. Most recently, the term cultural citizenship
+has begun to circulate in reference to the relationship between one's
+identity (race, class, gender, language, nationality) and the nonlegal
+aspects of one's citizenship (access to resources, involvement in the
+labor force, participation in public discourse, relationship to the environment,
+education).3 These developments in the fields of American
+literature and American studies are extremely useful for reading Toni
+Morrison's Paradise because they give the novel renewed exigency at
+the same time that they alter how we understand the novel's black
+characters and their relationship to (white) America.
+Like many others, I read Paradise as both a history and a critique of
+history; however, I situate the novel specifically within the context of
+westward expansion and the subsequent establishment of an American
+empire.4 As a critic, I understand homesteading to be a euphemism
+for settler colonialism. Like many other instances of colonialism
+throughout the nineteenth and twentieth centuries, American settler colonialism was shaped by both federal imperial policies (at
+home and abroad) and by race, class, and gender ideologies generated
+within domestic culture. My essay works from these assumptions
+to analyze how Morrison's residents of Ruby, Oklahoma, as cultural
+citizens, participate in their local, national, and global communities.
+U.S. imperial culture affects the viability of their participation, which
+the novel calls into question with its framework of murder and self-destruction.
+Furthermore, the much-debated final chapter, in which
+Morrison depicts the afterlives of the murdered women in the convent,
+provides a glimpse of the alternative, magical forms of cultural
+citizenship that Paradise offers for consideration. My reading of the
+novel answers two large questions: What forms of cultural citizenship
+does Paradise imagine when it retells the story of American settler
+colonialism from a black perspective? And what happens when we
+read Paradise as a text that envisions an American landscape in which
+an individual's cultural citizenship is tied to his or her ability to recognize
+the effects of U.S. imperialism?
+More Than a New Western History
+Almost all of Ruby's black residents, some more so than others, descend
+from the novel's original ex-slave families who, in 1890, set out
+from Louisiana in search of a land where they might begin their own
+reconstruction. As a community, these families moved west in search
+of new cultural, legal, and economic identities. Although most of the
+novel's events occur between 1965 and 1976, they are shaped by the
+original exodus - its motives, accomplishments, and failures. Thus,
+the families' participation in the homestead movement of the late nineteenth
+century figures as a horizon against which one reads the novel's
+twentieth-century story line, much in the same way that the frontier
+has been a backdrop to standard twentieth-century American history.
+Morrison's characters, however, are by no means the standard
+(white) settlers. Modeled after black Americans who participated in
+the Exoduster movement (1877 - 79), the residents of Ruby descend
+from a group of black homesteaders who, in the wake of Reconstruction's
+failure, moved west in search of the sort of social freedoms and
+opportunities promised them by the Emancipation Proclamation. The
+actual Exoduster movement, so named because emancipated slaves
+left the South in a manner similar to the great Exodus from Egypt, began in Tennessee. Its leader was Benjamin ''Pap'' Singleton, an
+ex-slave from Nashville who founded the Edgefield Real Estate and
+Homestead Association in an attempt to facilitate black homesteading
+in Kansas. As a result of the Exoduster movement, approximately
+twenty-thousand black Americans settled in Kansas during the second
+half of the 1870s.5 Even though several differences set the characters
+of Morrison's novel apart from their historical referents (for
+example, Morrison's exodus happens more than a decade after the
+actual Exoduster movement, and her characters settle in Oklahoma
+instead of the more popular Kansas), one major similarity beyond
+the obvious connects the two. Morrison's homesteaders are led by
+Zechariah ''Coffee'' Morgan, also known as Big Papa, who seems to
+be modeled directly after Benjamin ''Pap'' Singleton and his leadership
+of the historical Exodusters. (Singleton later called himself the
+''father'' of the Exoduster movement.) Given that much of Paradise
+imagines the problems inherent in such a patriarchal leadership, it
+seems reasonable to assume that Morrison fictionally represents an
+often overlooked chapter of African American history so that she may
+reexamine the issue of black patriarchy and its relationship to (white)
+American society through its most influential imperial narrative to
+date: the ongoing story of America's manifest destiny.
+Before exploring this larger ideological framework and its impact on
+Morrison's characters, I begin by examining the novel's participation
+in a much more regional debate. By grounding Paradise in the history
+of the Exoduster movement, Morrison challenges both the method
+and content of the standard history of the West, thus making the
+novel a participant in a current academic debate between old and new
+Western American history. Since the 1980s, scholars who dub themselves
+''New Western Historians'' have questioned the late-nineteenth century's
+narrative of the West, especially Frederick Jackson Turner's
+analysis of the frontier. These historians have argued for ''New Western''
+histories that pull aside Turner's vision of the noble frontiersman
+setting forth to civilize the wilderness to reveal instead a West already
+peopled by Native Americans, African Americans, Mexicans, French
+and Spanish colonial traders, and Chinese immigrants. In order to
+make room for these histories, New Western historians have worked
+to expose Turner's narrative for what it is: not a history of the American West
+but a history written by and for the (white) American public.
+Standard Western American history produced in the wake of Turner's foundational narrative tends to figure the West as a vast, empty
+landscape. Not insignificant is the fact that this emptiness was commonly
+viewed as bordered by white settlements in the Midwest and
+California, threatened by tribes of purportedly violent Native Americans,
+yet ''destined'' to become part of the sovereign United States.
+With some reflection, one comes to realize that in this standard American
+history the West functions all at once as a geographic utopia, a
+battleground for the American way of life, and an imperial dreamscape.
+Deborah Popper, Frank Popper, and Robert Lang have traced
+these functions of the West as they pertain to Turner's thesis, which
+successfully supported ''old'' Western American history throughout
+most of the twentieth century. Their essay ''From Maps to Myth''
+unveils the fact that Turner's thesis stemmed from neither his archival
+research nor his field work but from his ability to write a narrative
+about the West's political and cultural significance to the American
+way of life, without his audience suspecting that he had conflated two
+previously distinct definitions of the term frontier. In its first sense,
+frontier, as defined by U.S. Census officials, describes a region as being
+only partially settled. In this definition, frontier participates in a three-part
+population scale, including ''[1] wilderness or vacant land - that
+is, unsettled land - with less than two people per square mile . . . ;
+[2] frontier or partial settlement, with between two and six people
+per square mile; and [3] fully settled places, with six or more people
+per square mile.''6 Unfortunately, as the authors point out, until 1890
+(only three years before Turner first presented his frontier thesis), the
+category people, which determines this first meaning of frontier, only
+included U.S. citizens and tax-paying Native Americans (''MM,'' 93).
+Already, forms of legal and cultural citizenship were shaping narratives
+of the American West.
+The second definition of the frontier offered by Census officials
+refers to the ''line [that] delimited the western edge of all continuous
+east-to-west settlements; it split frontier from wilderness by dividing
+places with more than two people per square mile from those with
+fewer'' (''MM,'' 92 - 93). To Turner's great benefit, in 1890 the Census
+declared this term obsolete. Once the official frontier line west
+of the Mississippi had been superseded by white American settlements
+in California, and the frontier dotted with a handful of small
+towns throughout Kansas and other territories, the Census officials
+declared that ''at present the unsettled land has been so broken into by isolated bodies of settlement that there can hardly be said to be
+a frontier line.''7 As the frontier line became fragmented, it seemed
+only a matter of time until the West would be ''fully settled,'' a prospect
+that delighted Census officials who felt that the cultural status
+of the United States abroad depended upon its ability to claim urban
+development at home (''MM,'' 94). Popper, Lang, and Popper argue
+that Turner similarly looked forward to an urban American landscape
+although he sought to subdue fears that rural culture would be out
+of place in this new America. By joining the first definition of frontier
+to the Census's claim that the frontier line had vanished, Turner
+conflated the two terms, declared the frontier a moot point, and transformed
+it into a bildungsroman, which, he argued, the American character
+would pass through to come out fully formed and exceptional.
+In short, ''Turner invoked the Census's profane land category to preserve
+a sacred metaphor; geographic logic gave way to national symbolism''
+(''MM,'' 96).
+And so in 1893, when Turner first presented his findings to the
+American Historical Association in Chicago and then later in 1896
+when he published the essay ''The Problems of the West'' in the Atlantic
+Monthly, he declared to (white) America that as homesteaders
+fulfilled the U.S. destiny to settle the American West, the American
+character would be forever marked by such qualities as hard work,
+perseverance, determination, and a capitalist drive, all of which helped
+quiet urban America's fears regarding the socialist politics that some
+leaders of the Populist and Farmers Alliance movements were promoting
+at the time (''MM,'' 96).8 For the most part, Turner's brand
+of Western American history reigned for the next one hundred years,
+despite its dated political motivations. In 1987, however, Patricia Nelson
+Limerick opened fire on Turner's methodology, if not his view
+of the American character, when she argued that the word frontier
+should be replaced by the more accurate term conquest. Instead of
+viewing the land as once unpeopled and therefore properly used by
+white men (and women) to its fullest potential - an argument similar
+to the one that helped rationalize the first British empire in North
+America - Limerick argued that American historians should view the
+West as a land of conquest.9
+It might appear that Limerick kicked off the debate over old and
+new Western history; however, scholars of African American, Native
+American, Chinese American, and Mexican American history began the first campaigns against Turner's legacy in the 1960s. Their efforts
+to uncover, retrieve, and retell narratives about minorities in the West
+implicitly challenged the cultural assumption that the frontier was
+unpopulated and thus a region without a history, an aim made explicit
+by later New Western historians. Upon closer inspection, however, it
+becomes apparent that what marked Limerick's argument as new was
+not that it challenged Turner's content but that it directly questioned,
+if not rejected, his overall methodology and assumptions. The project
+of New Western historians is not simply to insert nonwhites into Western
+American history and culture but to shift the grounds of the discourse
+itself: to understand the West not as Turner's process of settlement - 
+now over but with far-reaching cultural effects - but as a place,
+a geographic region with its own histories, populations, and cultures.10
+By dissecting the American West from Turner's unilateral view of U.S.
+culture, New Western historians have been able to contextualize their
+research within both the specifics of the West and the generalities of
+the American cultural landscape.
+
+</text>

@@ -1,0 +1,139 @@
+<text id="J20" category="" words="2005" checkedby="" modifiedby="" Title="The Yang-Mills heat flow on the moduli space of framed bundles on a surface" Author="Woodward, Christopher T." PublicationDate="April 2006 pp. 311-359" SampledFrom="American Journal of Mathematics, Volume 128, Number 2" WebAddress="http://muse.jhu.edu/journals/american_journal_of_mathematics/v128/128.2woodward.pdf">
+
+Introduction. Let K be a compact, 1-connected Lie group with complexification
+G and Lie algebra k, and X a compact, connected Riemann surface. The
+moduli spaceM(X) of isomorphism classes of flat K-bundles on X is homeomorphic
+to the moduli space of grade-equivalence classes of semistable G-bundles,
+by the theorems of Narasimhan-Seshadri and Ramanathan.
+M(X) has two presentations as an infinite dimensional quotient which can
+be used to study its cohomology. The first presentation was introduced by Atiyah
+and Bott and is rather well understood. Let A(X) denote the affine space of
+connections on the trivial K-bundle over X, with symplectic structure induced by
+a choice of metric on k. The group K(X) of gauge transformations acts symplectically
+on A(X) with moment map given by the curvature, and the symplectic
+quotient is M(X).
+Atiyah and Bott used the stratification of A(X) into Harder-Narasimhan types to compute the
+Betti numbers of M(X); they conjectured that the stratification is identical to the
+stratification into stable manifolds for the gradient flow of minus the Yang-Mills
+functional. This was proved by Donaldson and Daskalopolous, who
+also proved convergence of the gradient flow up to gauge transformation. R°ade proved that the gradient flow itself converges, and gave estimates for the
+rate of convergence.
+The second presentation has origins in Weil's double coset construction,
+[3, p. 595]; here the related analysis has been less studied. Let S ⊂ X be an embedded
+circle, and X the Riemann surface with boundary obtained by cutting X along S. The Yang-Mills heat flow on the space A(X) was studied by Donaldson, who obtained an analog of the Narasimhan-Seshadri theorem: The moduli
+space M(X) of flat K-bundles with framings on the boundary is diffeomorphic
+to G(∂X)/Ghol(X), where G(∂X) = Map (∂X,G) and Ghol(X) denotes the subgroup
+of G(∂X) consisting of loops that extend holomorphically over the interior.
+The loop group K(S) acts symplectically on M(X) with moment map given by
+the difference of the restriction to the two boundary components, and M(X) is
+homeomorphic to the symplectic quotient.
+In recent years, this presentation has become more popular because of its connection
+with conformal field theory and the Verlinde formulas. Here the circle S is assumed to bound a disk, so that X (in its algebraic
+manifestation) becomes a punctured curve union a formal disk. Surfaces with
+boundary do not fit into the algebraic framework.
+In this paper we consider the analog of the Yang-Mills heat flow in the second
+presentation, namely the gradient flow of minus the square of the moment map for
+the loop group for an arbitrary embedded circle S in X. We show that the analog
+of R°ade's result holds: The gradient flow exists for all times and converges to a
+critical point. Although the evolution equation itself is not pseudo-differential, its
+restriction to the boundary is a (nonlinear) heat equation involving the Dirichletto-
+Neumann operator associated to the connection. Calder´on observed that this
+is an elliptic pseudodifferential operator. Because pull-back to the boundary is
+Fredholm on the space of harmonic forms, we are "up to finite dimensions" in
+the same situation as for the first presentation, except that the moduli space of
+framed bundles is not affine.
+This analysis implies that M(X) admits a stratification into stable manifolds
+for minus the gradient flow, which can be viewed as a generalization of the
+Birkhoff decomposition to surfaces of higher genus. By definition, the stable
+manifold for the zero locus of the moment map is the semistable locus. The other
+strata are complex submanifolds of finite codimension, and the number of strata
+of each codimension is finite. Using the stratification, we obtain several cohomological
+applications which extend known results beyond the case that S bounds a
+disk. The first, which was the motivation for the paper, is a K¨ahler "quantization
+commutes with reduction" theorem, similar to that of Guillemin-Sternberg in
+the finite dimensional case. This is an instance of Segal's composition axiom for
+the Wess-Zumino-Witten conformal field theory. In the case S bounds
+a disk, the algebraic version is due to Beauville-Laszlo, Kumar-Narasimhan-
+Ramanathan, and Laszlo-Sorger; see also Teleman. The second
+application is a surjectivity result for the equivariant cohomology with rational
+coefficients, similar to that of Kirwan. In the case that S bounds a disk an
+essentially equivalent result was proved by Bott, Tolman, and Weitsman. An
+appendix contains a review of the relevant Sobolev spaces.
+Background on connections on a circle. The following is contained in
+Pressley-Segal in the context of smooth maps. Let S be a circle, that is, a
+connected one-manifold.
+For any s &gt; 0, the group K(S)s+12:= Map (S,K)s+12 of free loops of Sobolev class s + 12
+acts on the space A(S)s−12 of connections on the trivial bundle S ×K. Any connection differs from the trivial connection by a k-valued one-form; using the trivial connection as a base point we identify A(S)s−12 → Ω1(S; k)s−12.
+For any s &gt; r &gt; 0 inclusion defines a bijection K(S)r−12\A(S)r+12→ K(S)s−12\A(S)s+12.
+For s &gt; 2, there is a smooth holonomy map Hol: A(S)s−12→ K depending on the choice of base point x0 in S; the assumption s &gt; 2 implies that A is C1 which guarantees existence of a solution to the parallel transport equation.
+For s &gt; 0 and A ∈ A(S)s−12 the stabilizer K(S)s+12, A is a compact, connected Lie
+group. For s &gt; 2, K(S)s+12,A is isomorphic to the centralizer of the holonomy
+Hol (A) via the map K(S)s+12 → K, k → k(x0).
+Let Kx0 (S)s+12 denote the space of k ∈ K(S)s+12 such that k(x0) is the identity. For
+s &gt; 0 there are bijections Kx0 (S)s+12\A(S)s−12 → K, K(S)s+12\A(S)s−12 → Ad (K)\K,
+which for s &gt; 2 are given by taking the holonomy, resp. conjugacy class of the
+holonomy of the connection.
+The orbits of K(S)s+12 on A(S)s−12 can be parametrized by the Weyl alcove
+as follows. Let Λ denote the coweight lattice of T and Waff := W  Λ
+the affine Weyl group. The action of Waff on the Cartan subalgebra t has fundamental domain.
+Background on connections on a surface. Let X be a compact, connected,
+oriented surface. Since K is simply-connected, any principal K-bundle
+is isomorphic to the trivial bundle X × K. Let A(X)s denote the affine space of
+connections on X × K of Sobolev class s &gt; 0. Using the trivial connection as
+base point we may identify A(X)s → Ω1(X; k)s.
+For any A ∈ A(X)s and K-representation V, we have by the Sobolev multiplication
+theorem a covariant derivative dA(V): Ω0(X; V)s+1 → Ω1(X; V)s → Ω2(X; V)s−1.
+Let dA := dA(k) denote the covariant derivative for the adjoint representation. A
+is flat if and only if d2 A = 0. Choose a Riemannian metric on X and invariant
+metric ( , ) on k and let ∗X: Ω•(X; k) → Ω2−•(X; k) denote the resulting Hodge star operator. The operator dA|Ω0(X, ∂X; k)s+1 has L2 adjoint d∗A: Ω1(X; k)−s → Ω0(X; k)−s−1, α 	→ ∗X dA ∗ Xα
+which restricts to a map Ω1(X; k)s → Ω0(X; k)s−1.
+LEMMA 3.0.1. Suppose ∂X is nonempty. For A ∈ A(X)s, s &gt; 0, (a) The generalized Laplacian
+d∗A dA: Ω0(X, ∂X; k)s+1 → Ω0(X; k)s−1 is an isomorphism.
+Proof. (a) Let A ∈ A(X) be smooth. By elliptic regularity Ker ( d∗
+A dA)
+consists of smooth solutions, see [16, Chapter 20], and we have a Hodge decomposition
+Ω0(X; k)s−1 = Im(d∗A dA) ⊕ Ker ( d∗A dA). By the Aronszajn-Cordes
+uniqueness theorem [1], Ker ( d∗A dA) = 0 and so d∗A dA is an isomorphism. Since
+A(X) is dense in A(X)s and dA depends continuously on A ∈ A(X)s, d∗
+A dA is an isomorphism for any A ∈ A(X)s. (b) By part (a), the subspaces are disjoint.
+For a ∈ Ω0(X; k)s, we may find ξ ∈ Ω0(X, ∂X; k)s+1 such that d∗Aa = d∗
+A dAξ. Then a − dAξ ∈ ker d∗A which shows the first splitting; the second is similar. (c)
+follows immediately from d2A = (d∗A)2 = 0.
+For s &gt; 0 the gauge group K(X)s+1 := Map (X,K)s+1 is a Banach Lie group and acts on A(X)s by the formula k · A = Ad(k)A + k d(k−1) = Ad (k)A − dk k−1 in any faithful matrix representation of K. It has Lie algebra k(X)s+1 := Ω0(X; k)s+1.
+The generating vector fields for the action of K(X)s+1 on A(X)s are
+ξA(X)(A) := ddt ( exp ( − tξ) · A)|t=0 = dAξ, ξ ∈ k(X)s+1. 
+In particular, the Lie algebra k(X)A of the stabilizer K(X)A of A is
+k(X)A = ker ( dA | Ω0(X; k)).
+Suppose X is equipped with a complex structure. The map d + ad(A) → ∂α := ∂ + ad(α) where α is the (0, 1)-form corresponding to a, defines a one-to-one correspondence
+between covariant derivatives and holomorphic covariant derivatives
+∂α: Ω0(X; g) 	→ Ω0,1(X; g)
+satisfying the holomorphic Leibniz rule ∂α( fs) = (∂f )s + f ∂αs. G(X) acts on the
+space of holomorphic covariant derivatives by conjugation, and therefore on the
+space of g-valued (0, 1)-forms by
+g · α = Ad(g)α − (∂g)g−1.
+This formula extends to a holomorphic action of G(X)s+1 on A(X)s. The invariant
+metric on k defines a weakly symplectic form (that is, a closed 2-form that defines
+an injection TA(X)s → T∗A(X)s) on A(X)s for s &gt; 0 by
+ωA(X): (a1, a2) 	→ X (a1 ∧ a2), where (a1 ∧ a2) is the real-valued L1 two-form on X defined by the wedge and inner products. In the case that the boundary of X is empty, the action of K(X)s+1
+is Hamiltonian with moment map given by the curvature [3]
+M(X)s → Ω2(X; k)s−1, A 	→ FA.
+Let A (X)s denote the subspace of flat connections, A (X)s := {A ∈ A(X)s, FA = 0}.
+The symplectic quotient M(X)s = K(X)s+1\\A(X)s := K(X)s+1\A (X)s is the moduli space of flat bundles on X. For s &gt; 2, we have a holonomy map Hol: A (2)(X)s → Hom(π1(X, x0),K).
+Evaluation at the base point x0 defines a homomorphism K(X)s+1 → K such that
+k · A = k(x0) · Hol (A).
+It follows that the stabilizer subgroup K(X)s,A is isomorphic to KHol (A) and so
+K(X)s,A is compact. The holonomy map induces a homeomorphism M(X)s → Hom (π1(X, x0),K)/K.
+In the case X has nonempty boundary, the moment map picks up an additional
+term A(X)s → Ω2(X; k)s−1 ⊕ Ω1(∂X; k)(3) s−1/2, A → (FA,−r∂XA)where r∂X is restriction to the boundary. That is, for all ξ ∈ k(X)s+1(ξA(X))ωA(X) = −d X (FA ∧ ξ) + d ∂X (r∂XA ∧ ξ).
+Let K∂(X)s+1 be the subgroup fixing a framing on the boundary, K∂(X)s+1 = {k ∈ K(X)s+1, k|∂X = 1}.
+For s &gt; 0 there is an exact sequence of Banach Lie groups 1 → K∂(X)s+1 → K(X)s+1 → K(∂X)s+12 → 1.
+Surjectivity of the third map follows from triviality of π1(K) and the properties of the extension operator A.0.2 (e). The moment map for K∂(X)s+1 is the curvature and the symplectic quotient
+M(X)s = K∂(X)s+1\\A(X)s := K∂(X)s+1\A (X)s is the moduli space of framed flat bundles on X. Note that the stabilizer K∂(X)s, A is trivial, since we can choose the base point to lie on the boundary. For s &gt; 2 this gives another proof that the operator dA | Ω0(X, ∂X; k)s+1 is injective.
+Charts for M(X)s, s &gt; 0 are constructed from local slices for the gauge action
+as follows. Using Lemma 3.0.1 and the implicit function theorem one sees that
+for a ∈ Ω1(X; k)s sufficiently small there exists a unique gauge transformation
+k ∈ K∂(X)s+1 in a neighborhood of the identity such that k · (A+ a) is in Coulomb
+gauge with respect to A: d∗A(k · (A + a) − A) = 0.
+Suppose that A is flat. By the implicit function theorem again, there exists a constant 	 depending only on  d−1 A , open neighborhoods of A, resp. 0.
+
+</text>

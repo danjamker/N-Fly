@@ -1,0 +1,113 @@
+<text id="J13" category="" words="2017" checkedby="" modifiedby="" Title="The genomics age : how DNA technology is transforming the way we live and who we are " Author="Smith, Gina." PublicationDate="2005" SampledFrom="New York, NY : AMACOM--American Management Association p. 10-17" WebAddress="http://www.netlibrary.com/Reader/">
+
+CHAPTER ONE.
+IT'S WHO YOU ARE.
+RIGHT AROUND the time Washington crossed the Delaware River, the French chemist Antoine-Laurent Lavoisier wrote this in his notebook: "La vie est une fonction chimique."
+Life is a chemical process.
+Lavoisier was either lucky or prescient. (If he was lucky, it didn't last. French revolutionaries jailed and beheaded him in 1794.) But it was two centuries before scientists figured out the basic principles of heredity and came to widely accept that we inherit traits from our parents through a process that can only be called "chemical."
+Heredity is carried in our genes - genes that are made of DNA. In the year 2000, scientists announced that they had launched what they said was a scientific revolution, that they had opened the book on human life. Three years later, in April 2003, they delivered the final version of that book.
+They claimed they had figured out - chemical by chemical - what the DNA in human genes is made of.
+"Essentially, we are now able to read our own instruction books," explains Francis Collins, director of the National Human Genome Research Institute in Bethesda, Maryland. And the term "instruction book," he says, hardly begins to define what the effort has uncovered. It is also a history book explaining how humans have evolved over time. It's a shop manual that describes with incredible precision how to build every cell in the human body. And most
+important, Collins says, it's a medical textbook containing insights that will help doctors predict and, eventually, cure disease. 
+It is humbling for me and awe inspiring to realize that we have caught the first glimpse of our own instruction book, previously known only to God - Dr. Francis Collins, Human Genome Project leader.
+"We are the first generation in history to turn the pages of this book, an awesome and humbling experience for anyone to contemplate. In considering epic moments in human history, this has
+to be very high on the list. History will decide," he adds, "but I would place the Human Genome Project alongside splitting the atom or going to the moon."
+Introducing Your DNA.
+As most everyone knows by now, DNA is short for deoxyribonucleic acid. But do you know where your DNA is? Can you tell a gene from a chromosome? Did you know that your genes are located on your chromosomes and not the other way around? Do you know how cloning might be used to fight diabetes, which companies are using worm DNA to figure out how to slow human aging, or how doctors are employing DNA knowledge to finally win the fight against cancer? Most people don't.
+The DNA sciences will dominate in the twenty-first century, and you need to understand the terms and the concepts if you're going to stay on top of and benefit from the huge DNA-related advances
+in medicine and other sciences. 
+At first, the science seems intimidating, but once you get a grasp of a few terms and concepts, you'll see it is all actually quite simple. 
+A View from the Top.
+You hear a lot about DNA "carrying" information - and I'll get to that in a minute. But first, let's talk about DNA as an object, an actual molecule that takes up physical space. To give you some perspective, let's start big and get smaller. Take a human body, any body. It consists, you may know, of ten systems: nervous, muscular, skeletal, endocrine, digestive, respiratory, circulatory, immune, reproductive, excretory. 
+I think we will view this period as a very historic time, a new starting point - Craig Venter, founder of Celera Genomics. Each of those systems has organs. For instance, the stomach is
+an organ of the digestive system. 
+Every organ - like every living thing - is made up of cells. The stomach is made of stomach cells.
+Almost every cell, stomach or otherwise, has a nucleus at its center.
+And this is, for me, where things get interesting.
+Every nucleus includes chromosomes, rod-like structures that,
+under a microscope, most resemble bundles of thread. Every cell's
+nucleus contains exactly twenty-three pairs of these chromosomes.
+(The exception to this is reproductive cells, which contain half the
+normal amount of chromosomes. That makes sense considering
+that reproduction is the result of the fusing of two cells - a sperm
+and an egg.)
+Look closer at any particular chromosome - let's choose chromosome
+19 inside the particular nucleus of a stomach cell we're
+examining - and you'll find that chromosome's DNA tightly coiled
+up inside. If you unraveled that DNA and straightened it, you would
+find that it is shaped very much like a ladder. Sugars and phosphates
+form the sides of each ladder, and the four so-called "bases" pair up
+to form the rungs.
+This is the outstanding achievement not only of our lifetime,
+but in terms of human history. I say this because the
+Human Genome Project does have the potential to impact
+the life of every person on this planet.
+Dr. Michael Dexter, director of The Wellcome Trust
+The bases are guanine, adenosine, thymine, and cytosine - G, A,
+T, and C for short. You may also hear them called letters or
+nucleotides. If you think of DNA as a language, and I do, then this is
+the alphabet.
+A given gene (made of DNA) is simply a given group of base
+pairs on a DNA molecule. For instance, here on chromosome 19
+you can find a long string of bases that together form the so-called
+APOE gene. If you were unlucky, you may have inherited a dangerous
+variety of this gene (there are three varieties) on your chromosome
+19. This could affect your ability to break down cholesterol
+and fat - leading to coronary heart disease, Alzheimer's, or other
+fat-related ailments.
+However, and this is where the gene sequence could come in
+handy, if you were able to discover this risk factor early, through a genetic test, you might choose to go easy on the bacon double
+cheeseburgers, a choice that could extend your life.
+WHY YOU AREN'T A BLUE BLOOD.
+For centuries, presumably all the way back to Aristotle, folklore
+had it that heredity passed through our blood. Think
+of the terms "bad blood," "mixed blood," "royal blood,"
+"blue blood," or "bloodline" and you get the idea.
+The irony is that there is no heredity coded in your red
+blood whatsoever. The red blood cells are the only kind of
+cells in your body that don't have DNA - because they're
+the only cells in your body that don't have nuclei.
+Go figure.
+To summarize, you have about 30,000 genes located throughout your twenty-three pairs of chromosomes, which are found in the nucleus of almost every one of your cells. These genes describe, in the alphabet of Gs, As, Ts, and Cs, everything about you - from how tall you are, to how curly your hair is, to how likely you are to suffer from bad breath or cancer.
+Your personal DNA sequence is the language in which everything about you is written. Interestingly, almost every cell in your body has all the information required to build an entirely new you. Visualizing Your DNA. A single DNA molecule is incredibly long and skinny. Uncoiled from a microscopic chromosome, a single strand would stretch about two inches. String out all the DNA from all twenty-three chromosomes from a human egg just about as big as the comma at
+the end of this clause, and its length would add up to about six feet. Line up all the threads of DNA from every cell in your body end to end, and the entire length would be long enough to reach to the sun and back 500 times. But the same strand would be many thousands of times skinnier than a human hair. In the deepest sense, DNA's structure and function have become as much a part of our cultural heritage as Shakespeare, the sweep of history, or any of the things we expect an educated person to know - Microbiologist Ross L. Coppel, from his book with G.J.V. Nossal, Reshaping Life: Key Issues in Genetic Engineering (Melbourne, Australia: Melbourne University Publishing, 2002).
+Now consider how compact your DNA is. Almost every cell in your body contains more than six feet worth of DNA coiled up inside. Even so, the standout feature of DNA is the way it stores information  -  information that precisely instructs the cell how to replicate
+itself and what functions to perform.
+But What Does DNA Do, Exactly?
+DNA's job is simple. Its code tells your body how to build protein. Protein is at the foundation of all living things. All living cells depend upon proteins for virtually all their products and processes. Cells - whether they're bacteria, plant, or animal cells - use proteins for a variety of processes, from fighting infection, to sending and receiving messages, to rebuilding damaged parts.
+You, as a human being, contain at least 50,000 different kinds of protein. And each kind of protein has a specific job to do. There are structural proteins for building your hair (collagen), your skin (keratin), and your ligaments (elastin). Hormonal proteins like insulin
+carry messages and regulate body processes. The hemoglobin in your blood is one example of a transport protein. There are antibody proteins to protect your cells against invaders and protein
+enzymes for digesting and otherwise breaking things down. The list goes on and on.
+The primary job of DNA is to tell the body what proteins to build and how to build them. The order of the chemical bases A, T, C, and G on a gene gives the cell the recipe for that particular protein. Scientists used to think that one gene always directed the body to create one protein, but now they know that a single gene can potentially create more than one kind of protein.
+We share 51 percent of our genes with yeast and 98 percent with chimpanzees - it is not genetics that makes us human - Ethicist Dr. Tom Shakespeare, University of Newcastle.
+The idea of DNA creating proteins is a critical one. Proteins are the workhorses of the human body; they do all the work in a cell. They carry out chemical reactions, form new tissue, send signals between bodily systems, regulate body chemistry, you name it. The simplest way to think of DNA is that it is, at its most basic, just a huge, long file in which all the instructions for creating the proteins in your body are written down.
+We have to focus on the possibilities, develop them, and then
+face up to the hard ethical and moral questions that are
+inevitably posed by such an extraordinary scientific discovery - United Kingdom Prime Minister Tony Blair.
+Eric Lander of the Massachusetts Institute of Technology has
+called this the fundamental secret of life. "The secret of life is this
+huge diversity of components; fifty thousand [proteins] that are all
+specified in the same simple description of the DNA language."2
+When you hear that scientists "have mapped" the human
+genome, this is what they are talking about. They have figured out
+the exact order in which A, T, C, and G appear on human genes.
+Quite obviously, there are areas of variation that explain why one
+human has blue eyes, for instance, and another brown. But the
+DNA of any two humans is well over 99 percent identical.
+DON'T IT MAKE MY BROWN EYES BLUE (OR NOT).
+People have been wondering for thousands of years why it
+was that their baby had hazel eyes, when the parents had
+blue and brown.
+A gene, recall, is a given stretch of DNA located on one of
+your twenty-three chromosomes. That gene codes for a specific
+protein, which in turn performs a specific function or
+helps build a certain structure.
+The gene for brown eyes, for instance, codes for a protein (an
+enzyme, actually) that selectively deposits pigment on the
+irises of your eyes. If you have blue eyes, you lack that protein.
+Now scientists are in the process of figuring out which proteins are
+coded for by various sequences of bases (genomics), what those proteins
+do (a field called proteomics), and what happens when the
+sequence goes awry (functional genomics).
+
+</text>

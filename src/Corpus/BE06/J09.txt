@@ -1,0 +1,185 @@
+The paper begins by outlining MacIntyre's conceptual framework of
+virtues, goods, practices and institutions, characterizes the virtuous business
+organization and describes the levels notions of the agent, institution and
+environment. It draws some tentative conclusions as to relationships between
+the features of the levels and the likelihood of institutional protection of
+virtue-embodying practices, and concludes by considering and drawing out
+implications from the case of Traidcraft plc.
+Before commencing, however, there are two points we should note. The
+first is that MacIntyre's concerns are with bureaucratic organizations in
+general "whether in the form of private corporations or of government
+agencies' (MacIntyre 1985: 25), and his characterization of bureaucratic
+managers is similarly generic rather than specific to corporations. Our focus
+in this paper, however, is specifically with business organizations and, as
+such, while many of the issues that MacIntyre's framework addresses might
+equally be applicable to bureaucratic organizations in general, we do not
+directly address this issue.
+The second point is that MacIntyre's understanding of capitalist organizations
+draws heavily on what has been termed "managerial capitalism',
+although elements of "investor capitalism' (see Nielsen 2002) or "stock market
+capitalism' (Handy 2002) are also readily observable in his work. MacIntyre
+himself accepts that different capitalisms exist, and in the 1995 preface to the
+republication of his Marxism and Christianity (1953), he argues that the social
+democratic form (which we may take as being close to the "stakeholder' form
+— see Hutton 1995, but also Hampden-Turner and Trompenaars 1993) is
+inevitably vulnerable to the incorporation and destruction of trade unions and
+a consequent return to a form in which "[w]orkers would so far as possible
+be returned to the condition of mere instruments of capital formation'
+(MacIntyre 1995: xv). The extent, then, to which different forms of capitalism
+are more or less conducive to organizational virtue is an important question,
+but one which we can address only indirectly here. We will, however, return
+to both these points briefly in our conclusions.
+MacIntyre's Virtues–Goods–Practice–Institution Schema
+Goods, Practices and Institutions
+The significance of MacIntyre's work in general and its application to
+contemporary organizations was addressed in the first paper of this special
+issue (Beadle and Moore 2006). From this, it is clear that MacIntyre's arguments
+for and developments of virtue ethics, and their application specifically
+to the area of business, are already well documented and have received critical
+review (see Beadle 2002; Moore 2002, 2005a, 2005b, for example). In order
+to explore this further here, however, we begin by returning to MacIntyre's
+oft-quoted definition of a practice:
+"Any coherent and complex form of socially established cooperative human activity
+through which goods internal to that form of activity are realized in the course of
+
+trying to achieve those standards of excellence which are appropriate to, and partially
+definitive of, that form of activity, with the result that human powers to achieve
+excellence, and human conceptions of the ends and goods involved, are systematically
+extended.' (MacIntyre 1985: 187)
+Internal goods derived from practices, both the excellence of products and
+the perfection of the individual in the process (MacIntyre 1985: 189–190, and
+see also MacIntyre 1994: 284 and below), can be contrasted with external
+goods such as fame, power, profit or, more generally, success. When achieved,
+MacIntyre argues, these external goods are "always some individual's
+property and possession. [They are] characteristically objects of competition
+in which there must be losers as well as winners' (MacIntyre 1985: 190). With
+internal goods, however, although there is competition in one sense, this is
+competition to excel, and so benefits all members of the community engaged
+in the practice (MacIntyre 1985: 190–191).
+In order for practices to flourish, however, institutions are required to
+provide for their sustenance:
+"Institutions are characteristically and necessarily concerned with ... external goods.
+They are involved in acquiring money and other material goods; they are structured
+in terms of power and status, and they distribute money, power and status as rewards.
+Nor could they do otherwise if they are to sustain not only themselves, but also the
+practices of which they are the bearers. For no practices can survive for any length
+of time unsustained by institutions. Indeed so intimate is the relationship of practices
+to institutions — and consequently of the goods external to the goods internal to the
+practices in question — that institutions and practices characteristically form a single
+causal order in which the ideals and the creativity of the practice are always vulnerable
+to the acquisitiveness of the institution, in which the cooperative care for common
+goods of the practice is always vulnerable to the competitiveness of the institution.
+In this context the essential feature of the virtues is clear. Without them, without
+justice, courage and truthfulness, practices could not resist the corrupting power of
+institutions.' (MacIntyre 1985: 194)
+MacIntyre's description of institutions and their relationship with practices
+can be applied in almost any context. MacIntyre himself indicates that, "the
+range of practices is wide: arts, sciences, games, politics in the Aristotelian
+sense, the making and sustaining of family life, all fall under the concept'
+(MacIntyre 1985: 188). Our argument here is that this can be extended to
+include organizational life in general and business organizations in particular.
+But the essential association and tension between practices and institutions, and
+between internal and external goods, gives the texture of organizational life a
+central dilemma, which we depict here (see Figure 1) and explore further below.
+MacIntyre acknowledged that, in After Virtue, he did not pay particular
+attention to what he termed "productive practices'. He later made good that
+lack of attention by referring specifically to productive crafts such as "farming
+and fishing, architecture and construction':
+"The aim internal to such productive crafts, when they are in good order, is never
+only to catch fish, or to produce beef or milk, or to build houses. It is to do so in a
+manner consonant with the excellences of the craft, so that there is not only a good
+product, but the craftsperson is perfected through and in her or his activity.'
+(MacIntyre 1994: 284)
+
+But what is it that enables the craftsperson to seek and realize such
+perfection? To answer this question requires commentary on MacIntyre's
+notion of virtue and its relationship to goods, practices and institutions.
+Virtues and Institutional Governance
+MacIntyre initially defines the virtues as:
+"dispositions not only to act in particular ways but also to feel in particular ways. To
+act virtuously … is to act from inclination formed by the cultivation of the virtues.'
+(MacIntyre 1985: 149)
+But he later links virtues, goods and practices more specifically:
+"A virtue is an acquired human quality the possession and exercise of which tends to
+enable us to achieve those goods which are internal to practices and the lack of which
+effectively prevents us from achieving any such goods.' (MacIntyre 1985: 191)
+Virtues, therefore, are enduring character traits (as, of course, are vices),
+not practice-specific, but spanning and necessary to the flourishing of any
+practice. The virtues, however, receive their full warrant in the context of the
+notion of a narrative quest towards one's telos – the good as such: "[t]he
+virtues are precisely those qualities the possession of which will enable an
+individual to achieve eudaimonia and the lack of which will frustrate his
+movement toward that telos' (MacIntyre 1985: 148). The telos, or purpose or
+good, of human life is given the name eudaimonia by Aristotle. MacIntyre
+translates this as something like, "blessedness, happiness, prosperity. It is the
+state of being well and doing well, of a man's being well-favoured himself
+and in relation to the divine' (MacIntyre 1985: 148).
+The virtues enable the individual to achieve the goods internal to practices,
+and the achievement of those goods across a variety of practices and over MacIntyre, in drawing attention to the central dilemma of his schema, notes
+that, "practices are often distorted by their modes of institutionalization, when
+irrelevant considerations relating to money, power and status are allowed to
+invade the practice' (MacIntyre 1994: 289). Thus, an important part of the
+whole virtues–goods–practice–institution schema is to focus on the level of
+the institution in order to assess what features of the institution will better
+enable it not to distort the practice that it houses. Equally, there is a need to
+focus on the virtues necessary to sustain what we might call such virtuous
+institutional forms. Following from this, we can ask: what would characterize
+an institution in good order, one that protects and perhaps extends the excellences
+of the practice that it houses?
+The Character of the Virtuous Institution
+Evidence from a variety of studies (Akaah and Riordan 1989; Baumhart 1961;
+Brenner and Molander 1977, for example) highlights the importance of peer
+and superior influence on the ethical behaviour of managers. It has been argued
+(Klein 1988 and Moore 2005b) that an appropriate way of conceptualizing this
+is to think not just in terms of particular individuals and their exercise (or not)
+of the virtues at the institutional level, as MacIntyre does, but also in terms of
+institutional -level virtues (and vices), and hence of institutional character.
+Just as MacIntyre talks of the concern for external goods and the acquisitiveness
+and competitiveness of the institution, it seems perfectly possible, by way
+of analogy or projection (Goodpaster and Matthews 1982: 135), or by way of
+metaphor (Morgan 1997: 4–8 and passim), to speak of the institution as having
+a virtuous or vicious character, or a character that is somewhere between these
+two extremes. Klein comments that, "formal organizations can function like a
+moral person … they potentially have something analogous to character, which
+can be evaluated as virtuous or vicious' (Klein 1988: 56).
+A virtuous institutional character, then, might be defined as the seat of the
+virtues necessary for an institution to engage in practices with excellence,
+focusing on those internal goods thereby obtainable, while warding off threats
+from its own inordinate pursuit of external goods and from the corrupting
+power of other institutions in its environment with which it engages (see
+Moore 2005b).
+Taking business organizations as a particular form of institution (one
+housing what MacIntyre, as we have seen, calls "productive crafts') and
+drawing from the definition of virtuous institutional character given above, the
+concept of the virtuous business organization can be explored. A business
+organization with a virtuous character would, first, be aware that it is founded
+on, and has as its most important function, the sustenance of the particular
+business practice that it houses. Second, and following from this, the organization
+would encourage the pursuit of excellence in that practice. Third, it
+would focus on external goods (such as profit and reputation) as both a
+necessary and worthwhile function of the organization (they are goods, not
+bads), but only to the extent necessary to the sustenance and development of the practice. Finally, the organization would be such as to be able to resist the
+corrupting power of institutions in its environment with which it, in turn,
+relates, such as competitors, suppliers or those that represent the financial
+market, where these encourage a single-minded concentration on external
+goods.
+Which particular virtues would characterize virtuous business organizations?
+Although we might consider a wider list (Moore 2005b includes the
+cardinal virtues, for example), it is clear that justice, courage and truthfulness
+(MacIntyre 1985: 194, cited above) are the sine qua non of MacIntyre's
+schema, together with the virtues of integrity and constancy (MacIntyre 1999:
+317–318), which refer to their consistent application across practices and
+over time.
+The virtuous business organization would require courage in order to resist
+the corrupting power of institutions with which it relates, and to minimize the
+effects of the environment on its character where these might be damaging.
+It would require justice in order to distribute external goods appropriately; to
+weigh its own advantage with that of the wider community; to foster its own
+excellence through, for example, an allocation of roles that ensures that those
+who are truly best at particular tasks are appointed to do them; and to generate
+internal harmony through ensuring that subordinates accept the justice of their
+place (Klein 1988: 60). Solomon's (1992) emphasis on trust (by which we
+should infer the virtue of both offering trust to others and being trustworthy
+oneself) contains within its definition the necessity of truthfulness for the
+conduct of business.
+

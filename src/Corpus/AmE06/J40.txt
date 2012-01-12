@@ -1,0 +1,187 @@
+<text id="J40" category="" words="2011" checkedby="" modifiedby="" Title="Portfolio selection using hierarchical Bayesian analysis and MCMC methods  " Author="Alex Greyserman, Douglas H. Jones, and William E. Strawderman" PublicationDate="February 2006 p. 669-678" SampledFrom="Journal of Banking & Finance Volume 30, Issue 2" WebAddress="http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6VCY-4GTW8T9-1-14&_cdi=5967&_user=196517&_pii=S0378426605000889&_origin=browse&_zone=rslt_list_item&_coverDate=02%2F28%2F2006&_sk=999699997&wchp=dGLbVlb-zSkWb&md5=2dc7f528f49ff596a487bd2e2afd906b&ie">
+
+Abstract.
+This paper contributes to portfolio selection methodology using a Bayesian forecast of the
+distribution of returns by stochastic approximation. New hierarchical priors on the mean vector
+and covariance matrix of returns are derived and implemented. Comparisons between this
+approach and other Bayesian methods are studied with simulations on 25 years of historical
+data on global stock indices. It is demonstrated that a fully hierarchical Bayes procedure produces
+promising results warranting more study. We carried out a numerical optimization procedure
+to maximize expected utility using the MCMC (Monte Carlo Markov Chain) samples
+from the posterior predictive distribution. This model resulted in an extra 1.5 percentage points
+per year in additional portfolio performance (on top of the Hierarchical Bayes model to estimate
+l and R and use the Markowitz model), which is quite a significant empirical result. This
+approach applies to a large class of utility functions and models for market returns.
+Introduction.
+Portfolio theory is concerned with the allocation of an individuals wealth among
+various available assets. The basic Markowitz version of the portfolio selection problem
+is (Markowitz, 1952).
+W = (w1,w2, . . .,wm)Rm is a column vector of proportions representing a
+portfolio of assets, R and l are the covariance matrix and mean column vector of
+asset returns y = (y1,y2, . . .,ym)0, k is the investors risk-aversion parameter, and e
+is a column unit vector. For no short sales restrictions, an additional constraint,
+wi&gt;0, can be added. This portfolio selection approach is termed the Mean - Variance
+(MV) method because it ranks portfolio weights by their mean - variance pairs.
+The set of optimal portfolios obtained as the level of risk-aversion, k, varies is termed
+the Markowitz efficient frontier.
+The Markowitz MV method can be viewed as maximizing expected utility. For
+example, if the investors current wealth is W0, his terminal wealth is
+W = (1 + wy)W0.
+According to Von Neumann and Morgenstern axioms, the investor determines w
+by considering the expected value of a non-decreasing utility function of W. Using
+the exponential utility function,
+U(W)=-exp(W) and assuming y is distributed multivariate normal N(l,R), the maximization of
+expected utility reduces to ranking MV portfolios using (l,R;k) in model (1).
+Classical portfolio selection uses least-squares estimates of (l,R) in model (1).
+However, MV portfolio selection based on estimates of population moments leads
+to a problem of estimation risk that arises from the difference between the estimates
+and the true parameter values. It has been well documented that the problem of estimation
+risk is significant (Dickinson, 1974; Putnam and Quintana, 1991; Pari and
+Chen, 1985; Frankfurter et al., 1971; Jobson and Korkie, 1980). Empirical studies
+of estimation risk associated with least-squares estimates appear in Levy and Sarnat
+(1970), Solnik (1982), Board and Sutcliffe (1992), Chopra et al. (1993), Chopra and
+Ziemba (1993). All of these studies conclude that resulting portfolios involve either
+extreme volatility or lack of diversification.
+The use of Bayes and empirical Bayes estimators to estimate (l,R) have been
+advocated by several researchers (Brown, 1976; Bawa et al., 1979; Jorion, 1986;
+Frost and Savarino, 1986). Jorion (1986, 1991) employs Bayes modifications of
+James - Stein shrinking formulas (James and Stein, 1960) to estimate l, while Frost
+and Savarino (1986) employ empirical Bayes estimators of l, assuming R has intraclass
+structure. They show through simulated and historical data that MV portfolios
+using their respective Bayes estimates in model (1) dominate MV portfolios using
+] classical least squares estimates. See also Kadiyala and Karlsson (1997), Kandel
+et al. (1995), and Shaken (1987).
+This paper examines a fully hierarchical Bayes model for (l,R). These models are
+multivariate and thus can capture more complete information on the interdependence
+between assets than previous models. Although these models are dependence
+between assets than previous models. Although these models are cross-sectional,
+one-step forward forecasts based on the posterior predictive distribution of returns
+are available for ranking portfolios. The posterior predictive distribution has been
+proposed for forecasting univariate ARMA models since Zellner (1971); also see
+West and Harrison (1989). This paper will empirically demonstrate that Bayesian
+forecasts are superior to moment estimates in portfolio ranking. Moreover, this approach
+applies to any utility function.
+Marriott et al. (1993) show how to obtain the predictive distribution for a vector
+of future values via the Gibbs sampler and Monte Carlo integration. Kim et al.
+(1998) exploit MCMC sampling methods to provide a practical likelihood based
+framework for the analysis of stochastic volatility models. These methods are used
+to compare the fit of stochastic volatility and GARCH models. Nakatsuma and Tsurumi
+(1996) compare small-sample properties of Bayes estimation and maximum
+likelihood estimation (MLE) of ARMA-GARCH models using MCMC sampling.
+McCulloch and Tsay (1994) use the Gibbs sampler for Bayesian analysis of AR models.
+This paper also exploits MCMC sampling methods to obtain a practical stochastic
+approximation to the posterior predictive distribution and its moments.
+This paper is structured as follows. The definition of posterior predictive distributions
+is given in Section 2. Maximum expected utility is defined in Section 3. In Section
+4, we describe data on eleven country-stock index funds provided by Morgan
+Stanley Capital International. In addition, designs for comparing the different Bayesian
+models are described. Bayesian data models including the fully hierarchical prior
+are explained in Section 5. Sections 6 and 7 describe the results and conclusion,
+respectively.
+Bayes posterior predictive distributions.
+Denote observed returns on m assets by y and future, or unobserved, returns by ~y.
+Let 0Rp and 0Rq denote p parameters and q hyperparameters, respectively. The
+parametric family of the joint likelihood of y and ~y will be denoted by
+f(y;~y0)=f(y;y)and depends on the joint parameters only through the lowlevel
+parameter h. Denote the prior distribution of (/,h) by p(/,h) = p(/)p(hj/).
+Non-hierarchical models fix / and compute posterior distributions using the prior
+p(hj/), while hierarchical models compute posterior distributions using the joint
+prior p(/,h).
+In the portfolio selection problem, h = (l,R) and / will represent a vector of
+hyperparameters in the prior for (l,R). Portfolio selection using posterior predictive
+distributions addresses two unknown quantities, ~y and (/,h), with the primary
+goal being to gain information about ~y with (/,h) as nuisance parameters. The advantage of the hierarchical model, with priors instead of point estimates of
+hyperparameters, is that the posterior distributions will reflect the appropriate
+uncertainty in the hyperparameters. The disadvantage is that the posterior predictive
+distribution will not be analytically tractable usually; however, the method
+based on the MCMC sampler provides a stochastic approximation of the posterior
+predictive distribution.
+According to the likelihood principal all evidence about (~y; /; hÞ is contained in
+the joint likelihood function f ðy; ~yj/; hÞ (for an overview see Bjørnstad, 1990). Based
+on this likelihood, we wish to develop a posterior predictive distribution for ~y,
+pð~yjyÞ, by eliminating (/,h) from the joint likelihood. The Bayes approach for this
+problem is to integrate out (/,h) using the joint prior. The resulting predictive distribution
+for ~y given the data, y, is the following.
+A stochastic approximation of the posterior predictive distribution is generated by
+simulation, using the MCMC sampler if necessary, using (h,/)  p(h,/jy) to generate
+~y distributed with density f(yjh,/), and repeating these steps to obtain more simulated
+observations.
+Maximum expected utility.
+For the readers convenience, we repeat the basic notation. Let w 2 Rm denote
+portfolio weights satisfying wiP 0, i =1,. . .,m; P
+i¼1;...;mwi ¼ 1. The inner product
+w0~y is the portfolio-return on future investment performance. An investor will choose
+a utility for wealth. This utility is denoted by a monotonically increasing, concave
+function U(W;k):W ! R, where k P 0 is a fixed parameter denoting risk-aversion.
+The posterior expected utility of W ¼ ð1 þ w0~yÞW 0, where W0 is initial wealth, given
+the data y is:
+E(U(1+wy)W0)y)=fU(1+wy)W0)(yy)dy
+This expectation exists under standard regularity conditions.
+The direct utility (DU) optimal portfolio model is a solution to the following
+model:
+Maximize E(U(1+wy)W0y);
+subject to we=1;
+where wRm. Typically, model (6) must be solved with a non-linear optimization
+algorithm. Many standard algorithms exist, such as sequential quadratic programming
+(see Gill et al., 1981, p. 237; Schittowski, 1980, 1985) as implemented in MATLAB,
+enabling solutions for any utility function that is twice-continuously
+differentiable. In case the expected utility is not analytically tractable, it is necessary to contemplate samples from the posterior predictive distribution that can be used to
+approximate the expected utility. This is an advantage since portfolio selection can
+be carried out with a general utility function. Given a sample, ~y1; . . . ; ~yK, from the
+predictive posterior distribution, the direct utility portfolio selection problem (6) is
+approximated by the model:
+Maximize K-1(U(1+wy)W0)
+subject to we=1.
+For the empirical study we the use exponential utility, U(W;k) = exp[kW].
+Empirical data analysis.
+The daily stock market indices for 11 different countries over the period 1975 - 
+2002 are used in this comparison of DU and MV using different data models. The
+countries include US, UK, Canada, Belgium, Australia, France, Japan, Austria,
+Spain, Germany, and Hong Kong. The indices are compiled and provided by Morgan
+Stanley Capital International. Monthly returns were computed as the percentage
+changes in the index between consecutive last days of the month. Morgan Stanley
+Capital International provided two indices per country, one in local currency and
+one in $US. Our study is based on the returns in $US.
+The data are partitioned into five periods of five consecutive years. This allows a
+comparison of the means, standard deviations, within-country serial correlations and
+between-country correlations.
+Comparison design.
+To examine the performance of different models, 276 out-of-sample periods of
+one months each, covering the period January 1980 - December 2002, are used. That
+is, the first data set is from January 1975 - December 1979 (60 monthly observations)
+and the first out of sample observation is for January 1980. Our last out-of-sample
+portfolio is for December 2002. For a given model, we run the MCMC sampler independently
+on 276 data sets, and use the individual posterior distributions to form the
+portfolio. Our procedure can be summarized as follows:
+1. Use 60 observations (initially those for months 1 - 60) to generate the joint posterior
+distributions of the means and covariances (via the MCMC sampler) and, in
+accordance with the decision theory rules, compute the posterior means of these
+distributions.
+2. For a given k, the risk-aversion parameter, find the investment proportions w.
+3. Apply these proportions to the actual returns observed in the next month to
+obtain the actual portfolio return for each model and value of k.
+4. Roll the sample forward by one month, e.g. months 2 - 61, and repeat steps (1) - (3).
+This resulted in 276 sample periods being used. A common value, k = 0.02, of the
+risk-aversion parameter was used. Computational time prevented expanding the procedure
+to a range of ks in this study. This is planned for future research.
+Bayesian data models.
+We will examine two hierarchical data models, and apply MCMC sampling to obtain
+estimates of the posterior distribution of (l,R) and ~y. These estimates will then
+be used to solve models (1) and (6) for MV and DU portfolios respectively.
+All models, even non-Bayesian, can be specified within a hierarchical Bayesian
+structure. In addition, the MCMC sampler can be used to solve even the simplest
+model (while a closed-form analytical solution may exist, it may still be easier to
+run the MCMC sampler to generate the posterior distributions). The following three
+data models will be tested empirically.
+The degrees of freedom parameter, v0, is unrestricted other than m0 P m, where m
+is the number of asset, equal to 11 in this application. The values of e1 and e2 are
+equal to 0.0001 allowing for a proper, diffuse hyperprior; and j0 is equal to 0.10 n
+where n represents the sample size. In addition, P0 is a known correlation matrix
+with structure.
+In this application, the estimate of the correlation parameter q0 is 0.5.
+Results.
+We will employ a method of comparison based on portfolio performance. We use
+the posterior means of lt and Rt as inputs to the MV framework (1); or the posterior
+marginal predictive distribution as inputs to the direct utility framework (6).
+
+</text>

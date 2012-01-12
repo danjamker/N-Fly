@@ -1,0 +1,177 @@
+<text id="H22" category="" words="1984" checkedby="" modifiedby="" Title="Report of the Sixteenth Meeting of the NAFTA Advisory Committee on Private Commercial Disputes in Morelia, Mexico, June 22 and June 23, 2006." Author="NAFTA Advisory Committee " PublicationDate="2006" SampledFrom="Middle" WebAddress="http://www.nafta-sec-alena.org/NAFTA/CMFILES/Meeting%20Minutes/Minutes-16th%20meeting-Morelia.pdf">
+
+On October 17, 2005 Claimant filed its memorial in the Talsud &amp; Gemplus case.
+Mexico filed its counter memorial on May 31, 2006. Claimant's reply is due on
+September 18, 2006 and Mexico's rejoinder on January 29, 2007.
+3. WTO Developments.
+Sylvie Tabet informed that in the last WTO Ministerial Meeting in Hong Kong
+(13-18 December 2005) the WTO Members agreed to complete "full modalities" in
+agriculture and non-agricultural market access by the new deadline they have set
+themselves: 30 April 2006. Unfortunately this deadline was missed. Despite this, some
+of the WTO Members like United States have been more receptive to some issues such
+as market access. India and Brazil show more flexibility too. With regard to the GATS
+negotiations, the deadline to submit revised offers is July 2006.
+4. Bilateral Trade Negotiations.
+A) Canada
+Sylvie Tabet informed about Canada's trade negotiations:
+3
+Free Trade Agreements (FTA) Negotiations: Canada is negotiating FTA with
+Peru, Singapore, Ecuador, Dominican Republic and South Korea. Negotiations with
+South Korea are in an advanced stage.
+Bilateral Investment Treaties (BIT) Negotiations: Canada maintains negotiations
+with South Korea, China and India in order to sign a BIT. The Investment Treaty
+negotiations with China and India possibly will finish at the end of this summer.
+All the Canada's dispute settlement negotiations are running on the basis of the
+NAFTA model.
+B) United States
+David Stewart informed about US trade negotiations:
+FTA Negotiations: United States is carrying out talks to negotiate a FTA with
+the United Arab Emirates. Negotiations with South Korea as well as with Malaysia
+started this month. With respect to Ecuador, future rounds of negotiations for a FTA
+have not been scheduled. At the moment there is nothing to report with regard to the
+negotiations with Panama.
+BIT Negotiations: United States is negotiating with Pakistan.
+Concluded Agreements: On April 12, 2005, the United States signed a FTA with
+Peru. In February a FTA with Colombia was concluded and currently it is under legal
+review. In November 2005, the United States signed a BIT with Uruguay. In January
+19, 2005 a FTA was signed with Oman. Finally, regarding the status of the CAFTADR,
+it entered into force between the United States and El Salvador on March 1, 2006
+and with regard to Nicaragua and Honduras on April 1, 2006 but no yet with respect to
+Costa Rica, the Dominican Republic and Guatemala.
+C) Mexico
+Linda Pasquel and Hugo Perezcano informed about Mexico's trade negotiations:
+FTA Negotiations: Mexico is currently negotiating a FTA with South Korea and
+another with Peru. With respect to Argentina negotiations have just concluded.
+BIT Negotiations: Mexico is currently negotiating with India and China. The
+BIT with Spain is about to expire, so it is currently under review and the next round of
+negotiations will take place in about two weeks.
+Concluded Agreements: México concluded BIT negotiations with United
+Kingdom
+III. Report on UNCITRAL Working Group.
+José María Abascal presented a report on the UNCITRAL Working Group. With
+regard to the UNCITRAL Model Law on International Commercial Arbitration, he
+4
+informed that in its last meeting in January, the Working Group finished a draft on
+interim measures and written form, which will be discussed by the Commission next
+week in New York. With regard to interim measures, the final draft contains a new
+Chapter 4 bis titled "Interim measures and preliminary orders". This new Chapter has
+eleven provisions. Section I, is related to the power of arbitral tribunals to order interim
+measures and conditions for granting interim measures. Section II relates to preliminary
+orders and its specific regime. Section III contains provisions applicable to interim
+measures and preliminary orders, such as modification, suspension, termination,
+provisional security, disclosure, costs and damages. Section IV relates to the recognition
+and enforcement of interim measures. Finally, Articles related with court-ordered
+interim measures are contained in Section V. There is a minor proposal to modify
+Article 1 in order to include one of the provisions related to the territoriality of court
+enforcement.
+The draft also includes a controversial proposal to modify Article 7 with regard
+to the form of arbitration agreements because it includes a wide definition of what
+"writing" means. In contrast to this wide definition, and as a result of a Mexico's
+proposal, the draft includes an alternative text that offers a definition that makes no
+reference to the term "writing". A modification to Article 35 is also proposed, it mainly
+refers to the elimination of the requirement to supply the arbitration agreement when a
+party is applying for the enforcement of an award.
+With regard the Convention on the Recognition and Enforcement of Foreign
+Arbitral Awards (New York Convention), the Working Group proposed a declaration
+regarding the interpretation of Article II, paragraph 2, and Article VII, paragraph 1. It
+basically recommends courts to take into consideration the Model Law, its amendments,
+and the case law. It also recommends that Article II, paragraph 2 be applied recognizing
+that the circumstances described therein are not exhaustive, and that Article VII,
+paragraph 1, should be applied to allow any interested party to avail itself of rights it
+may have, under the law or treaties of the country where an arbitration agreement is
+sought to be relied upon, to seek recognition of the validity of such an arbitration
+agreement.
+Some of the relevant issues that will be subject to discussion in the next
+UNCITRAL Meeting on June 25-June 29, are: the review and update of the
+UNCITRAL Arbitration Rules, arbitrability of intellectual property rights, investment
+disputes, unfair competition, and online dispute resolution.
+IV. Legal Developments in each country.
+1. Developments in the United States of America.
+Robert Lutz reported on the recent legal developments in the United States. He
+focused in some trends regarding recent developments in the United States practice in
+the last year: (1) partiality in US arbitrators; (2) the use by US court of sanctions with
+respect to parties who make "frivolous challenges" to the enforcement of arbitral
+awards; and (3) efforts to make the arbitral process more transparent.
+Regarding the first issue, there is a particular case that highlights this trend; this
+is the Positive Software vs. New Century Mortgage case, where the arbitrator failed to
+5
+disclose that seven years before becoming an arbitrator, he and his former law firm were
+co-counseling in a case with one of the law firm which was counseling one of the
+parties in the quoted case. So, the arbitrator ruled in favor of the party that was
+represented by that law firm. The Court of Appeals, determined that the arbitrator did
+not make a proper disclosure. So, regardless of whether there was actual bias, it
+determined that this situation raises an appearance of bias that satisfies the standard of
+evident partiality foresee in section 10 of the US Arbitration Act, which provide that a
+court may vacate an arbitral award where there was evident partiality in the arbitration.
+The second trend raises the question of whether challenging arbitral awards can
+be risky. Challenges and efforts to vacate arbitral awards are in fact proliferating,
+whether they are meritorious or not, and there is a draft Article, written by Susan Franck
+from the University of Nebraska, which identifies this trend.
+Finally, there is a trend towards transparency in arbitration, particularly with
+respect to investor arbitration under ICSID. Many cases highlight the fact that the
+ICSID is more receptive to the "amicus curiae" figure, in particular a recent case called
+"Aguas Provinciales" against Argentina, where the "amicus curiae" issue was brought
+by a public group interested in the environmental impact of the decision. This group
+requested to the tribunal three things, which were considered by the tribunal: (1) to
+allow the petitioners to submit oral arguments at the hearings in the case as a non-party;
+(2) the ability to file an "amicus curiae" brief; and (3) to have access to documents and
+other information of the case. The tribunal denied the first and third petitions, however,
+the tribunal granted an opportunity to the petitioners to submit an "amicus curiae" brief.
+This decision was based on a criteria that essentially indicates that if the petitioner, a
+third party or a non-party, shows good reason and sufficient independence of any of the
+parties to bring new issues to the tribunal, such "amicus curiae" will be allow, but other
+participation will be limited.
+David Stewart spoke about the US "manifest disregard of the law" doctrine,
+which is essentially a creation of the US judiciary interpretation of the Federal
+Arbitration Act, and has been a matter of some controversy in terms of courts ability to
+set aside or refuse to enforce domestic awards rendered by arbitrators in "manifest
+disregard of the law" ever since its adoption in 1953 by the Supreme Court in Wilko v.
+Swan. Nonetheless, this non-statutory doctrine has been applied to domestic awards, but
+not to arbitral awards under the New York Convention, and based on recent cases, it
+seems to be a trend to narrow and restrict this doctrine, mainly due to the many
+frivolous arbitration appeals that rely without justification on the "manifest disregard of
+the law" doctrine.
+2. Developments in Canada.
+Frédéric Bachand reported that there can be found in a number of recent
+Canadian cases, issues that may be considered as troubling statements. Most of the time
+they are dicta that can be found in Canadian courts decisions, dealing with motions
+seeking to annul international awards made in Canada. All these statements suggest that
+defenses such as "manifest disregard of the law", "manifest disregard of the facts" even,
+"manifest injustice" or "unreasonableness" could arguably be available to parties who
+6
+launch proceedings in Canada. Those are decisions interpreting the Model Law or
+interpreting the New York Convention.
+Another issue reported was the binding of the clause of arbitration in the context
+of the class action. The core of this issue is the opposition between the class action and
+the autonomy of the parties. Courts in Canada have issued opposite criteria. In one
+hand, some courts have upheld the prevalence of the parties' autonomy over the class
+action; meanwhile others have considered that the class action is a public policy
+prevailing over the arbitration clause that is under the parties' autonomy.
+Professor Bachand referred to the Dell Computers Company v. Union des
+consommateurs, et al. case before the Supreme Court of Canada (hearing will take place
+in October, 2006). The Supreme Court decision will rule about the validity of the
+arbitration clause on contracts celebrated trough the internet and regarding the
+arbitrability of consumer disputes.
+Finally, William Horton focused on the following courts decisions related to
+arbitration:
+a) According to a decision from an Ontario's court, in consumer cases the
+arbitration clause is not enforceable unless the consumers agree otherwise after
+the dispute has arisen.
+b) Relating to the "competence-competence" principle, a Canadian appeal court
+ruled that the courts, but not only the arbitral tribunals, may decide whether the
+assignee, with respect to an agreement which foresees an arbitration clause, is
+bound to it.
+c) In a case before a Court of Appeal in Canada related to the compulsory of an
+arbitral agreement for third parties, the parties in the arbitration agreement
+agreed to be bound by the Alberta Rules of Court. These rules provide that
+parties may request for discovery of non parties. One of the parties on the
+arbitration requested to the competent court (in accordance to Article 27 of the
+International Arbitrations Model Law) its assistance in taking evidence, but the
+Court ruled that it was not permissible to compel non parties under an arbitral
+procedure. But the Appeals Court ruled that the examination for discovery
+oppositions was a valid and perfectly permissible kind of evidence in arbitral
+procedures, due to the fact that from the point of view of a non party, being
+required for examination in a jurisdictional process represents the same burden
+than in an arbitral procedure.
+
+</text>

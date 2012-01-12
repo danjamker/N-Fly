@@ -1,0 +1,176 @@
+<text id="J35" category="" words="2007" checkedby="" modifiedby="" Title="Updated" Author="Updated" PublicationDate="Updated" SampledFrom="Updated" WebAddress="Updated">
+
+The syntax of Moses-Columbia Salish has so far escaped description in the literature leaving a gap in the comparative Salishan studies that have begun to emerge. This paper describes a small fragment of Moses-Columbia syntax, the basic patterns and behaviors within the Moses-Columbia determiner phrase (DP). One of a small number of articles usually occupies the determiner position of the DP. These articles are similar in function and distribution to the demonstratives of the language, but this may reflect their shared historical origins rather than common class membership. Articles may be absent from DPs and no rules for their absence have been identified. The typical complement in DP is a noun phrase; clausal complements may also be possible. Like its three sister lan- guages - Okanagan, Coeur d'Alene, and Kalispel - Moses-Columbia does not encode a referentiality distinction through article choice, although other languages of the Interior Salishan branch appear to do so. Despite differences in detail, the main properties of Moses-Columbia DPs are similar to those in other Interior Salishan languages. Intra- group variation in the properties of articles and the role they play in the interpretation of DPs suggest a complex group history that warrants closer study.
+
+Introduction. Since the earliest modern work on Salishan languages,
+describing even the basic grammatical distinction between noun and verb has
+proved difficult. All lexical w ords in Salishan can function as predicates and
+inflect for person and number in apparently category-neutral ways. In the following
+examples from Moses-Columbia Salish, a Southern Interior Salishan
+language also known as Nxa?amxcín, all the words are inflected for intransitive
+subject person.
+The same set of markers used to indicate possessor person and number on
+putative nouns marks intransitive person and number on putative verbs. In
+the Moses-Columbia examples that illustrate this (2 and 3), the first and second
+singular possessive prefix /in-/ is [i-] before [s], [in-] elsewhere.
+In (4), we see a noun, inflected for possessor person, inflected as an intransitive
+predicate.
+Despite these readily observable data, support for the noun/verb distinction
+on other grounds has burgeoned in the recent literature (e.g., van Eijk
+and Hess 1986, Beck 1995, Matthewson and Davis 1995, Mattina 1996, and
+Jelinek and Demers 2002) and the debate now centers on which syntactic
+categories to recognize in Salishan grammar. One point of consensus in syntactic descriptions is that a division exists between "predicate" and "referring
+expression." In many, perhaps most, Salishan languages, referring expressions
+begin with articles or "complement particles" that, in the words of one
+analyst, "precede the noun they determine" (Vogt 1940). It has become increasingly
+common to refer to such expressions as determiner phrases, with
+the assumption that an article heads the determiner phrase and precedes an
+obligatory complement phrase.
+Not all Salishan languages have had their syntax closely studied, and
+those that have not stand to test the comparative generalizations to which
+we have become accustomed. One such language is Moses-Columbia. Today,
+this language is spoken by a small number of elders on the Colville
+Reservation in north-central Washington. There being little published material
+on Moses-Columbia syntax, the language has acquired a word-of-mouth
+reputation for exceptional behaviors. Moses-Columbia is in fact typical of
+its close relatives but differs in ways that may raise questions about some
+current characterizations of Salishan languages generally. This paper presents
+a preliminary description of the basic patterns and behaviors within
+the Moses-Columbia determiner phrase (DP) so that additional comparative
+work might be encouraged. A case can be made that Moses-Columbia
+has a class of elements that function as articles in DP, for example. But, as
+with so much else in Salishan, this case is fraught with puzzling overlaps
+and indeterminacies, not resolved here. The data and analysis are not exhaustive.
+They are drawn primarily from my 1994 - 2002 fieldwork with
+Moses-Columbia speakers living on the Colville Reservation, published and
+unpublished papers written by others, and notes and texts given me by the
+late M. Dale Kinkade, distinguished scholar of Moses-Columbia and other
+Salishan languages.
+Paul Kroeber, in The Salish Language Family: Reconstructing Syntax
+(1999), provides succinct characterizations of DPs in Salishan that inform
+this paper. Of the Southern Interior Salishan languages Kroeber (1999:68)
+writes:
+The article systems of the Southern Interior languages are difficult to characterize,
+in part because none of them has been very fully described. All of them
+allow DPs without an overt article. DPs without an article often are found in
+contexts suggesting nonreferentiality, but there also seems to be a tendency to
+omit articles in the presence of a preposition. Conversely, nonreferential DPs
+are often marked with a preposition, since they are likely to function syntactically
+as obliques of one sort or another, for example as oblique objects of
+antipassives. . . .
+These statements raise a number of questions that a description of Moses-
+Columbia determiner phrases ought to answer: Does Moses-Columbia have
+articles? Do all determiner phrases require an article? Is article choice influenced
+by the syntactic status or referentiality of the DP? I consider each of
+these questions in the sections that follow.
+Does Moses-Columbia have articles? 
+Most Salishan languages are
+described as having articles, with the caveat that they are not much like English
+articles. Kroeber (1999) defines articles in Salishan as those elements
+that can occupy the determiner position in DP. This definition, importantly,
+does not preclude the appearance of articles in other syntactic positions, with
+other functions. It acknowledges tacitly that when an article appears in the
+determiner position, it is said to function as a determiner; in other positions,
+an article may have other functions. Assuming that articles in determiner
+function require a complement (here labeled XP, for any complement type),
+we can depict DPs as having this basic structure:
+[DP art [XP]]
+Those sources on Salishan languages that do identify a class of articles in
+a particular language do not use the term "article" in the narrow sense of
+Trask's definition (1993): an element "which lacks independent meaning but
+serves to indicate the degree of definiteness or specificity of the noun phrase
+[with] which it occurs." Rather, they adopt a broader definition of the class,
+one which includes elements that contribute deictic, pragmatic, or semantic
+information to the noun phrases that follow them. In Interior Salishan, the
+branch of the Salishan family to which Moses-Columbia belongs, articles include
+what in English are referred to as "demonstrative adjectives" (e.g., this
+and that) since they share the same syntactic position, do not co-occur with
+one another, and indicate the reference of a DP. Formally, articles in Interior
+Salishan are particles or clitics. Particles may bear stress if bisyllabic; clitics
+are unstressed elements that require a phonological host.
+Drawing on these general observations about Interior Salishan articles, I
+identify a set of five articles in Moses-Columbia. These articles differ perceptibly - 
+if not consistently - in form, function, and distribution from the
+larger class to which they are historically linked, the demonstratives. Four of
+the articles are particles; the fifth is a proclitic. The forms appear in (5).
+Their syntactic position is illustrated in (6).
+The four particles consist of the increment ?a- added to a demonstrative
+root; for convenience these are referred to as the ?a- articles. The demonstrative
+roots are reconstructible as Proto-Interior-Salishan *xa?, *ci, *¬u?,
+and *ni. The first three are found in dozens of lexical items, including demonstrative
+pronouns, adverbials, and verb stems (Kinkade 1967). The root
+*ni, though not productive in Moses-Columbia, occurs in deictic words in
+other Interior Salishan languages. Three of the ?a- articles distinguish three
+degrees of proximity relative to the speaker: ?axá? 'close to the speaker';
+?ací 'away from the speaker'; ?a¬ú? 'further away from the speaker'. The
+fourth article, ?aní, makes no observable proximity distinction. Table 1 shows
+the article forms in all the Southern Interior Salishan languages. Kinkade
+(personal communication) notes that the Moses-Columbia ?a- increment is
+likely cognate with Ok i?, since Proto-Salish *a is fronted to i in Okanagan
+but retained in Moses-Columbia. Forms in parentheses are demonstratives cognate with Moses-Columbia articles. The sound correspondences are
+transparent, with the exception of unexpected xw in Coeur d'Alene for
+Moses-Columbia x and some reinterpretations of the vowels.
+The clitic t has the distribution and function of an article but corresponds
+to Southern Interior Salish forms usually referred to as prepositions. Each of
+the Northern Interior Salishan languages has an article that is cognate with
+t, as can be seen in table 2. Where it occurs in Interior Salishan, t is referred
+to as the oblique marker because it often introduces adjunct phrases. This
+case-like function has been noted by many. However, in some languages t
+co-occurs with articles and in some it does not. In those languages where t
+does not co-occur with articles, i.e., Kalispel and Moses-Columbia, it is held
+to occur in the determiner position in DP.
+Interior Salishan article inventories range from two to ten forms, descended
+from perhaps a dozen demonstrative roots. Although the Moses-Columbia articles are strikingly different in form from other Interior Salishan articles,
+each bears a resemblance to articles in the Southern or Northern languages.
+Here, as elsewhere, some of Moses-Columbia's strangeness retreats when it
+is seen against the backdrop of the entire Interior Salishan subgroup.
+In an early working paper, Kinkade (1967:2) was reluctant to classify the
+?a- articles as articles, preferring to call them "the weakest demonstrative
+forms." He notes that the ?a- forms are not always translated as demonstratives,
+"indicating a use approximating a definite article - the closest [Moses-
+Columbia] comes to having an article." Yet the formal differences between
+articles and demonstratives suggest that a sharper distinction should be
+drawn in Moses-Columbia, as it is in all other Interior Salishan languages.
+In Interior Salishan, demonstratives are typically more complex than articles,
+consisting of a CV(C) formative extended by additional material, as
+in Kalispel yé-?e 'this one, this here' (Speck 1980:128) or Thompson xé-
+?e 'right here' (Thompson and Thompson 1992:142). They may also be reduplicated
+forms, as in Shuswap Py-Pi? 'this one' (Kuipers 1974:57) and
+Coeur d'Alene xw-xwi? 'this here' (Reichard 1938:656). The typical Southern
+Interior Salishan article appears to be phonologically reduced from a CV(C)
+demonstrative root to a C(V) clitic; demonstratives are always longer than
+articles.
+The contrast between article and demonstrative form suggests a pattern of
+historical development that has been observed in many other languages.
+Speaking of the history of articles generally, Seiler (1978:323) concludes
+that "quite often the fixation potential of demonstratives gets weakened, so
+[demonstratives] turn into articles." As a result, Seiler notes, "new and still
+stronger demonstratives (or local expressions) have to be added." If this
+observation is applied to Southern Interior Salishan, the difference between
+the article and demonstrative forms might reveal that the old demonstrative
+roots "weakened" - semantically and phonologically - into articles in one
+historical development while new, longer demonstratives arose in another. In
+this scenario, the modern bisyllabic demonstratives filled the gap created as
+the old demonstratives began to shorten and function as articles.
+In Moses-Columbia, this two-pronged development from common demonstrative
+roots, if it occurred, did not involve phonological reduction of
+the original demonstrative roots. Instead, Moses-Columbia articles and demonstratives
+are all of the shape CVCV(C). The formal distinction between
+the two sets is made by contrasting segments and stress rather than through
+length. Demonstratives have the increment ?í- in place of the ?a- found in
+articles. Concomitant regularization of the root vowel in demonstratives
+results in the forms in (7). Articles are stressed on the second vowel, demonstratives
+on the first. 
+Determining whether modern articles and demonstratives developed
+from common roots, as frequently occurs in languages, is beyond the scope
+of this paper. However, Seiler's cross-linguistic observations reflect the assumption
+that differences of form correspond to differences in function. That
+is, a patterned difference of form between articles and demonstratives in
+Moses-Columbia raises the possibility that articles and demonstratives perform
+separate functions, as they do in closely related languages. Yet, if a
+clear formal distinction between articles and demonstratives suggests distinct
+functions, we would expect to find distributional and positional evidence
+to support the case for a class of articles. Such evidence exists in
+Moses-Columbia.
+
+</text>

@@ -1,0 +1,136 @@
+<text id="H10" category="" words="1996" checkedby="" modifiedby="" Title="State Planning Project For the Uninsured" Author="Michigan Focus Group Report Center for Collaborative Research in Health Outcomes and Policy Michigan Public Health Institute" PublicationDate="2006" SampledFrom="Middle" WebAddress="http://www.michigan.gov/mdch/0,1607,7-132-2943_37434-151452--,00.html">
+
+Approximately fifteen employers for each group were identified, with the hope that at least eight to ten individuals
+would attend. Some of the regions, as previously mentioned, had very limited lists that prohibited reaching this
+goal. Additional recruitment methods were used to increase the number of participants. State Planning Project
+Workgroup members were asked to provide contact information for potential participants. Flyers were distributed
+to Workgroup members via email. Contact information for project staff was given out and Workgroup members
+were encouraged to forward contact information for employers to them, and to distribute information about the
+focus groups to interested individuals. Please refer to Appendix V for all marketing materials related to
+recruitment.
+During recruitment telephone calls, interested individuals were asked if they knew other local employers who might
+be interested in participating. Flyers were provided to employers for distribution to fellow employers. Project staff
+also contacted local and regional Chambers of Commerce for their assistance.
+Workgroup members and their contacts helped to recruit participants for both the uninsured focus groups and the
+insurance agent focus groups. Directors of free health clinics and community health centers helped project staff to
+recruit participants for the uninsured focus groups. Insurance agent focus group participants were sought by
+sending informational letters and maps to members of professional associations and insurance companies via email,
+and by making announcements at association meetings.
+Focus Group Locations
+The locations for the employer focus groups were determined by using the regions from the survey strata utilized
+for the surveys conducted in the first two waves of data collection, the Michigan Household Health Insurance
+Survey and the Michigan Employer Health Insurance Survey. The survey strata are a variation on the regions used
+by the Michigan State University State of the State Survey (SOSS). This was done so data collected in the surveys
+for this project will be comparable to future SOSS surveys. For the Michigan Household and Employer Health
+Insurance Surveys strata, the state was divided into seven regions. Those regions are: Upper Peninsula, Northern
+Lower Peninsula, West Central, East Central, Southwest, Southeast, and the city of Detroit (refer to diagram A-1).
+Although Detroit is within the Southeast region, because it is a unique urban city with a large population, for this
+project Detroit was considered a separate region. For a complete listing of counties included in each region, see
+Appendix I.
+Within each region, the recruitment list from the Michigan Employer Health Insurance Survey was analyzed to
+determine the most convenient location for participants, based on driving distance and accessibility. Initially, one
+focus group was to be run in each of the seven regions in Michigan. In the Southeast region, two focus groups were
+planned due to the large concentration of employers. The list of possible locations was submitted to MDCH and
+project workgroups for their review.
+Once the most appropriate city for the focus groups was identified for each region, contact with local businesses
+was made to finalize a location. Most employer focus groups were held in the conference room of a hotel or
+community college. The locations for the uninsured focus groups and insurance agent focus groups were provided
+without charge by the agencies that assisted with recruiting. Uninsured individual focus groups were held in a
+conference room or community room at local Federally Qualified Health Centers and free clinics for ease of
+transportation and familiarity. The insurance agent focus groups were held in the conference room of an insurance
+company and a health insurance association. The locations of all focus groups are presented in diagram A-2.
+Schedule
+Weather and geography were used to determine the focus group schedule. The employer focus groups in the Upper
+Peninsula and Northern Lower Peninsula took place at the beginning of the project timeline to reduce the likelihood
+of inclement weather. Focus groups were scheduled according to the project timeline and approved by MDCH.
+Refer to chart A-3 for the full schedule of focus groups.
+Data Collection
+Two research team members staffed each focus group. One person functioned as the moderator of the group and
+the other was the recorder. Team members alternated roles for the morning and afternoon sessions of the employer
+focus groups. The moderator followed a script with introduction, background information, informed consent and
+questions to provide a consistent structure. The moderator was responsible for timekeeping and keeping the
+discussion on track. The moderator also took short handwritten notes during the discussion. The recorder took
+detailed notes of the discussion using a laptop computer, and operated the audio-recording devices. Research staff
+transcribed the tapes from the focus groups shortly after completion of each group.
+Supplemental Telephone Interviews
+Telephone interviews were conducted to supplement the information collected in the employer and insurance agent
+focus groups. Many employers indicated during recruitment calls that they were interested in participating, but the
+time commitment required to participate in the groups was prohibitive. Using the recruitment list for the focus
+groups, contact information was loaded into Sawtooth's Ci3 Computer Assisted Telephone Interviewing (CATI)
+software and a sample was generated for the calls. New sample records were added when contact information from
+workgroup members was forwarded to project staff.
+Employers were contacted after the focus group had been conducted in their region to see if they would participate
+in a short telephone interview. Employers who indicated during the initial recruitment calls that they were
+interested in participating, but did not attend, were prioritized for being contacted. The sample size for the
+telephone interviews was 289 employers; 196 employers were attempted with a maximum of five attempts per
+employer. On average, it took two attempts to complete the telephone interview. Only 12 employers that were
+reached by phone refused to complete the interview. The goal for the telephone interviews was to have a total of
+eight to ten employers offering insurance, and the same number of employers not offering insurance responds to the
+interview in each region.
+Interviewers used CATI software to manage the sample and the data. Two scripts were developed for the phone
+interviews: one for employers offering health insurance and another for employers not offering health insurance.
+The interviews were programmed into CATI and the instrument was tested. Both versions of the interview had the
+same short introduction. The questions were open-ended, and interviewers used additional follow-up probes when
+needed to gather specific information. All interviews were audio-recorded for quality control purposes. Data was
+recorded by the interviewer into the CATI interviewing software. The data were then exported from CATI into
+Excel and SPSS to analyze the themes.
+Telephone interviews were also conducted with insurance agents in the West Central Region due to low attendance
+at this focus group. Those interviews were conducted using the moderator script from the focus group. Interviews
+were audio-recorded for quality control purposes and the tapes were transcribed.
+Limitations
+Like all research studies, this study's results must be considered in light of the limitations of the research
+methodology. Focus groups are a way to gather the opinions and experiences of the individuals in the group.
+When the results of multiple groups are compared, themes that are common to all groups may emerge. The results
+may not represent the entire state or be generalized to a larger group. Focus group data cannot be quantified with
+absolute measures or analyzed with statistical significance. The results must be reviewed from a qualitative frame
+of reference only. Some of the information presented may appear to be inaccurate or inconsistent with fact. The
+information presented is valid from the point of view of each participant, but is limited by each participant's
+knowledge base and the accuracy of his or her perceptions. Even the inaccurate information can be seen as useful
+to the reader as it reflects the participant's level of understanding on the issue and suggests areas where further
+education on the topic may be needed.
+Low levels of participation are also a limitation. With less than eight participants, a focus group discussion may be
+more limited and less informative than would occur with the addition of more opinions into the dialogue. Through
+conversations with employers and insurance agents, we learned that the time of year during which the focus groups
+were held was a barrier to achieving goals for recruitment and attendance. For many insurance agents and
+employers who offer benefits, the last two months of the year often comprise the open enrollment period for
+benefits. There were other seasonal factors given as reasons for not attending, such as the holiday season for
+employers in the retail industry, and the start of deer hunting season for employers in the more rural areas of the
+state. When possible, focus groups were rescheduled. However, due to the project timeline, the focus groups had
+to be completed by the end of 2005. The time commitment to participate was also viewed as a deterrent, especially
+for owners of small businesses. In addition, employers who did not offer insurance were much less likely to attend
+the focus group after signing-up than employers who did offer insurance.
+The telephone interview method of collecting data was added to the protocol to ensure that enough information was
+collected to generate themes for each group. Although the interview questions were open-ended and additional
+probing was done, the telephone interview format is likely to produce less information than would be generated
+through group discussion. The results presented in this report are a compilation of the information collected
+through focus groups and telephone interviews.
+Analysis
+Focus group data were analyzed using notes and audio-tape recording. Team members created a document for the
+insurance agent, uninsured consumers and employer focus groups. Each comment made by focus group
+participants was reviewed by two team members, and placed into a document of overall themes. The team then
+discussed the themes as a way to insure a sufficient degree of inter-rater reliability. Quotes from the respondents
+were placed with the corresponding questions.
+Upon completion of all telephone surveys, raw data were directly exported from CATI to Excel and SPSS where it
+could be reviewed for common themes. Once the themes from the telephone interviews were developed, quotes
+from the respondents were retrieved from the data output and through a review of the audiotapes. These comments
+and quotes were then added to the overall document of themes created from the actual focus group sessions. The
+major findings from insurance agents, uninsured consumers, and employers are reported separately.
+Michigan's Health Insurance Market
+Health insurance in Michigan has traditionally been provided through employer-sponsored benefits programs.
+Because of the manner in which insurance rates are determined, large companies and those with younger employees
+have an advantage because their workers represent less risk to insurance companies, and may therefore receive
+lower rates through Health Maintenance Organizations (HMOs) and commercial insurance carriers. Blue Cross
+Blue Shield of Michigan (BCBSM), as the insurer of last resort, must provide coverage to all individuals who can
+afford to pay the premiums, regardless of their health status. According to the Office of Finance and Insurance
+Services, in 2000 approximately 71% of the small group market was covered by BCBSM.
+In the last decade, the health insurance market has been impacted by state and federal legislation, which regulates
+the manner in which insurance rates can be determined, and provides for consumer protections. The passage of the
+Federal Health Insurance Portability and Accountability Act (HIPAA) in 1996 created a market in which
+commercial carriers must renew policies at the insured's request, except under certain conditions. Because of the
+way in which rates are determined, insurance carriers and HMOs were able to raise their rates to high-risk groups to
+encourage non-renewal. However, BCBSM could not use age, medical condition, or other case characteristics to
+determine their rates. Reportedly, this led to a trend in the market where younger, healthier employees were
+leaving the BCBSM pool to get lower rates with commercial carriers or chose to discontinue coverage, while older,
+less healthy individuals were enrolling in BCBSM policies because they could not afford the alternatives.
+
+</text>

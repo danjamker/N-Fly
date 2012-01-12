@@ -1,0 +1,183 @@
+1 Introduction
+Immigrants contribute signi¯cantly to the overall economic performance of their host
+economies. It is therefore not surprising that a large literature is concerned with
+the earnings mobility of the foreign born population, both in isolation, as well as
+in comparison with those who are native born.1 But immigrants have not only an
+immediate e®ect on wealth accumulation and earnings and skill composition. They
+transmit their earnings status, as well as socio-economic and cultural characteristics
+to the next generation. The economic adjustment process within the immigrant's
+own generation has long been recognised as an important step in understanding the
+economic e®ects of immigration. For understanding the long term consequences of
+immigration, assessment of intergenerational mobility in immigrant communities is
+perhaps equally important.
+While the process of intergenerational economic mobility has been intensively stud-
+ied for majority populations (see Solon 1999, 2002 for reviews), less is known about
+intergenerational transmission in immigrant communities. For the U.S., early studies
+by Chiswick (1977) and Carliner (1980) compare earnings of immigrants with their
+descendants and their children. More recently, Borjas (1992, 1994) emphasises that
+intergenerational economic mobility among immigrants may be more complex, and
+estimating the usual models of intergenerational income mobility may miss out an im-
+portant aspect of this process. Borjas emphasises that the skills of the next generation
+may not only depend on parental inputs, but also on the quality of the ethnic environ-
+ment of the parent generation. Borjas terms this ethnic capital. In later work Borjas
+(1995) shows that one reason for the external e®ects of ethnicity is segregation into
+1See the early papers by Chiswick (1978) and Borjas (1985), and Borjas (1994b) for a survey.
+1
+particular neighbourhoods - a point that has been re-emphasised in work by Nielsen,
+Rosholm, Smith and Husted (2001).
+This paper focusses on another important characteristic of immigrant communities
+that may a®ect the process of intergenerational mobility: the probability the immigrant
+family attaches to a permanent migration as opposed to a future return to the home
+country. There are a number of papers that show that return migration may a®ect dif-
+ferent aspects of immigrants' behaviour. Work by Galor and Stark (1990) suggest that
+positive return probabilities may a®ect savings behaviour. Dustmann (1997) provides
+evidence that married immigrant women whose husbands plan to return to their home
+countries have a higher labour force participation rate. Dustmann (1999) develops a
+model that suggests that immigrants who have higher probabilities of returning are less
+likely to acquire human capital speci¯c to the host country economy. He ¯nds evidence
+for this by investigating their investment into language skills. In a recent paper, Cortes
+(2004) explains the higher rate of human capital accumulation by refugee immigrants
+in the US with lower probabilities in their return migration.
+Similar considerations may hold in an intergenerational context. In this paper,
+we investigate how parental probabilities of a permanent as opposed to a temporary
+migration a®ect investment into their children. Our empirical analysis is for Germany,
+and based on detailed data from a long panel that oversamples immigrants. The data
+includes unique information on parental return intentions which we use to construct our
+measure for a permanent migration probability. To motivate our analysis, we develop a
+simple model, following previous work by Becker and Tomes (1979) and Solon (2004),
+which suggests that parental investment into the child increases with the probability
+of a permanent migration.
+A second contribution of the paper is estimation of intergenerational mobility coef-
+2
+¯cients. Our analysis therefore extends some previous work on Germany by Couch and
+Dunn (1997) and Wiegand (1997) for the native born, but provides more robust esti-
+mates based on a longer panel. The panel nature of our data allows us to address the
+problem of measurement error in permanent parental earnings which bedevils studies
+of intergenerational transmission (see Solon 1989). In addition, we distinguish be-
+tween immigrant and native father-son pairs. To understand the precise nature of
+how parental background may a®ect earnings in the next generation, we also estimate
+investment equations, and equations of educational mobility.
+Our results suggest that intergenerational earnings mobility from native born fa-
+thers to their sons is larger than from foreign born fathers to their sons. This di®erence
+may be due to di®erences in direct investments, or di®erences in unobserved external-
+ities across the two communities, conditional on ethnic capital. Estimates that relate
+educational achievements to permanent parental earnings show similar relationships for
+immigrants and natives, which suggests that di®erences in intergenerational earnings
+mobility are due to di®erences in unobserved endowments.
+We also ¯nd that educational achievements of immigrant parents are not correlated
+with educational achievements of their children. This is in contrast with previous
+work by Card, DiNardo and Estes (1998) for the U.S., who show that much of the
+intergenerational link between the economic status of immigrant fathers and their sons
+and daughters works through education.2 Our ¯ndings are in line with similar results
+reported by Gang and Zimmermann (2000). One explanation for this weak link in
+educational outcomes for immigrants is that it is the permanent earnings position of
+the father that matters for son's educational attainment; father's education is then
+2Similar results are reported by Riphahn (2001), Bauer and Riphahn (2004) and van Ours and
+Veenman (2003).
+3
+only correlated with son's education if education is a good predictor for earnings. We
+show that in our sample, this is not the case for immigrants.
+We ¯nd consistent evidence that higher probabilities of permanent migration of the
+father increase permanent earnings as well as educational achievements of the sons of
+immigrants. This is an important results, in particular in light of the renewed interest
+in temporary or guest-worker type migration schemes in both Europe and the US. It
+suggests that such schemes may have possibly detrimental e®ect on the children of
+those immigrants who do not return.
+The paper is structured as follows. In the next section we develop a simple theo-
+retical model, and discuss its empirical implications. In section 3 we describe the data
+and the sample. Section 4 presents the results, and section 5 concludes.
+2 Theory
+Our model is a permanent income model of intergenerational mobility with parental
+investments into child's earnings potential, following early work by Becker and Tomes
+(1979) and Solon (2004). It extends Solon (2004) by taking account of the way the
+probability of a permanent migration as opposed to a future return may a®ect the
+decision of the parent to invest into the o®spring's human capital.
+We consider a one-person household with one child. There are two periods. In the
+¯rst period (period 0) both parent and child live in the host country. In the second
+period (period 1), the parent returns to the home country with probability 1 ¡ p, and
+remains in the host country with probability p. The parent retires in period 1, and has
+earnings in period 0 equal to y0. The child is in full time education in period 0, and
+participates in the labour market in period 1, either in the parent's home country, or
+4
+in the host country.
+The parent is altruistic and maximises an intertemporal utility function, by choosing
+¯rst period savings s0, and investment into the child's human capital in the ¯rst period,
+I0. When making these choices, the parent attaches the same probability p to his child's
+location choice in the second period than to his own. This assumption simpli¯es the
+algebra, but can be relaxed without a®ecting the key implications of our model, as
+long as the parent perceives the child's probability to remain in the host country to
+increase in his probability of remaining.
+The parent's inter-temporal utility function is given by
+V = u(c0) + p [u(cI
+1) + ° v(yI
+1 )] + (1 ¡ p) [u(cE
+1 ; b) + ° v(yE
+1 )] ; (1)
+where u(:) and v(:) are the the parent's and the child's utility functions, de¯ned over
+parental consumption in period 0, c0, and parental consumption and child's earnings
+in period 1, cJ
+1 and yJ
+1 . Here J = E; I stands for Emigration or Immigration country
+respectively. The parameter ° is an altruistic weight. If ° = 0, the parent does not
+consider the child's welfare in period 1. The parameter b is a preference parameter,
+re°ecting a taste for consuming at home over consuming abroad. If b > 1, more utility
+is obtained from consuming in the home country as compared to the host country.
+We assume that parental investments translate into human capital of the child (h1)
+according to the following production technology:
+h1 = µ log I0 + e0 : (2)
+The parameter µ is a technology parameter measuring the productivity of invest-
+ments. The term e0 is the human capital the child receives without any direct parental
+investments (see Becker and Tomes, 1979 and Solon, 2004 for a similar formulation).
+5
+This term represents the child's endowed attributes, depending on characteristics of
+the parent, the child's upbringing, genetic factors, environment, and luck. It may also
+depend on existing networks, as well as the lack of opportunity to move out of social
+and economic structures from one generation to the next. This latter factor may be
+particularly important for immigrants, and we will discuss its implications later. It
+includes what Borjas (1992) calls "ethnic capital" - the quality of the environment in
+which parental investments are made.
+Human capital translates into earnings according to the following relationship:
+log yj
+1 = ¹j + rj h1 ; (3)
+where j = I;E. Our formulation allows for di®erent base wages ¹ as well as di®erent
+returns to the child's human capital rj in the two countries. It follows from (2) and (3)
+that the child's earnings in the second period are related to parental investments as
+log yj
+1 = ¹j + rj µ log I0 + rj e0 : (4)
+The parent's consumption in period 0 equals c0 = Y0 ¡ I0 ¡ s0, where Y0 is ¯rst
+period earnings. As the parent retires in period 1, period 1 consumption is equal to
+period 0 savings.
+Choosing a simple logarithmic utility function, and substituting (4) for child's earn-
+ings into (1), the optimisation problem of the parent can be expressed as
+max
+s;I
+V = log Y0 ¡ I0 ¡ s0 + p [log s0 + ° (¹I + rIµ log I0 + rI e0)] + (5)
+(1 ¡ p)[b log s0 + °(¹E + rEµ log I0 + rE e0)] :
+6
+Maximising (5) w.r.t. savings and investment, and solving the ¯rst order conditions
+for the optimal investment I0 yields:
+I0 =
+°µ(p rI + (1 ¡ p)rE)
+°µ (p rI + (1 ¡ p) rE)) + (1 + p + b(1 ¡ p))
+Y0 = ¡(p; rE; rI ; b; °; µ) Y0 : (6)
+The term in the numerator, which is equal to the ¯rst term in the denominator,
+is the expected utility gain to one unit of parental investment into the child's human
+capital. The second term in the denominator is the expected lifetime utility from one
+log unit of additional consumption.
+Simple comparative statics show that investment into the child's human capital
+increases in p, the probability of a permanent migration, as long as the return to
+human capital investments is higher in the host country (rI > rE). Furthermore, a
+lower probability of a permanent migration increases the expected gain in utility by
+consuming in the home country, as long as b > 1: the parent prefers to save more
+resources for future own consumption, thus reducing investment into the child. The
+combined e®ect leads to an increase in investment with the probability of a permanent
+migration. Finally, investment increases with altruism ° and productivity of investment
+µ.
+Now consider the relationship between child's earnings and parent's earnings for
+children who are observed in the host country in period 2. Substituting (6) into (4)
+and re-arranging terms yields
+log yI
+1 = ¹I + rI µ log ¡ + rI µ log Y0 + rI e1 : (7)
+Equation (7) is similar to the relationship between son's earnings and father's earn-
+ings, as derived in Solon (1999, 2004), except for the term ¡.
+

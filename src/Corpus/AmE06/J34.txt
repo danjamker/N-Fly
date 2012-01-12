@@ -1,0 +1,150 @@
+<text id="J34" category="" words="2004" checkedby="" modifiedby="" Title="ENHANCEMENT AND OVERLAP IN THE SPEECH CHAIN" Author="SAMUEL JAY KEYSER and KENNETH NOBLE STEVENS" PublicationDate="March 2006 p. 33-63" SampledFrom="LANGUAGE, VOLUME 82, NUMBER 1 (2006)" WebAddress="http://muse.jhu.edu/journals/language/v082/82.1keyser.pdf">
+
+A model of speech production is proposed in which the input is a planning stage at which
+lexical items are arrayed, accompanied by the full panoply of phonological representations from
+distinctive features to their attendant tree structures. A set of instructions for control of the vocal tract is calculated leading to a sound output. Two parallel processes are involved in the calculation of these instructions, both of which replace the planning-stage representation by the appropriate motoric instructions. One of these processes is universal and involves replacing each distinctive feature with an appropriate set of motoric instructions, either unmodified or modified by the process of overlap. We postulate a parallel language-specific process that is sensitive to those features in danger of losing their perceptual saliency as a consequence of the environment in
+which they appear. This process, referred to as ENHANCEMENT, adds additional motoric instructions
+to enhance the saliency of the jeopardized features. We provide a number of examples to illustrate
+how enhancement works. We conclude from these examples that whereas defining gestures related
+to distinctive features are, in many instances, weakened or even absented from the speech stream,
+enhancement gestures, once added to the set of motoric instructions, appear never to be subject
+to obliteration by overlap.
+INTRODUCTION: GENERAL CONSIDERATIONS. 
+We assume as a starting point the correctness
+of distinctive feature theory. This statement may to many seem on a par with
+a theoretical physicist claiming to have made his/her peace with, say, quantum mechanics.
+That said, there are many working in the field of phonetics for whom distinctive
+feature theory is by no means so firmly entrenched. Such researchers are not swayed
+by results of phonology such as accounts that distinctive feature theory makes possible
+for omnipresent phenomena such as diachronic sound change, or the morphological
+variation one finds in such systems as the English plural. Rather they are swayed by
+the tremendous amount of variation in the instantiation of phonemes in a given language,
+for example, the multitude of realizations of English /t/.
+This skepticism is discounted in phonological circles because of the tremendous
+gains in explanation offered by distinctive feature theory. But that in and of itself does
+not make the reasons for the skepticism disappear. There is, indeed, substantial variation
+in the realization of distinctive feature configurations, and it is an important question
+for those working at the interface of phonology and phonetics to try to come to grips
+with it. The purpose of this article is to address the question of variability head-on
+while maintaining the integrity of distinctive features as a cornerstone advance in our
+understanding of human language.
+In what follows we develop the theory of enhancement presented in earlier manifestations
+(e.g. Stevens et al. 1986, Stevens &amp; Keyser 1989, Keyser &amp; Stevens 2001).
+Our strategy involves preserving the character of a given segment's distinctive feature
+representation as suggested by phonological considerations in the face of phonetic
+properties that seem completely unrelated. A paradigm example is the rounding that
+accompanies the production of /f/ in English as opposed to the lack of rounding in
+English /s/. There is no reason to suppose that rounding is a distinctive part of the
+representation of the segment /f/. But this is true only from a phonological point of view. There is no contrast between a rounded and an unrounded /f/ or a rounded and an
+unrounded /s/. For the phonologist, then, rounding is extraneous. But to the phonetician
+it is important. In English no description of /f/ that does not include rounding can be said
+to be complete.
+In the face of this, some phoneticians might take the position, not unreasonably, that
+however one describes the segment, rounding must be a part of that description. From
+our perspective we are forced to ask the question: if rounding is not distinctive for /+/
+and /s/ in English, why is it there at all? This question makes sense only if one is
+willing to honor the intentions of both phonologists and phoneticians. In what follows
+this is what we try to do.
+THE PLANNING STAGE. 
+There is widespread agreement (e.g. Ladefoged &amp; Maddieson
+1996, Johnson 2003) that speech production begins in discrete representation and
+ends in continuous sound. This shift takes place in the vocal tract and its attendant
+musculature, the arena where representation becomes sound-producing gesture. Underlying
+this view is the assumption that representation and sound are fundamentally
+different in character. The former is digital in that it is composed of a variety of discrete
+entities: for example, features, syllables, feet. The latter, however, is primarily - though
+not exclusively - a continuous sound stream generated by a flow of gestures in the
+vocal apparatus from one intention to the next. This dichotomy between a discrete
+representation and an analogue output device is represented schematically in Figure 1
+with the box labeled GESTURE CALCULATIONS mediating between the two.
+The existence of a gestural stage has led some researchers to conclude that lexical
+and gestural representation should be collapsed into a single stage. Were it true, this
+conclusion would greatly simplify the system. That is, instead of going from a distinctive
+feature representation and its attendant representations (foot structure, syllable structure,
+etc.) to gestures to sound, one would go directly from gesture instructions to sound
+(see Browman &amp; Goldstein 1986).
+Phonologists have, in general, rejected the view that gestures are lexical, the main
+reason being that phonological representation in the form of distinctive features allows for the expression of a vast number of what appear to be true generalizations about
+language, for example, phenomena of vowel harmony, vowel lengthening and shortening
+in specific phonological environments, the Great Vowel Shift in English, stress
+placement, and so forth.
+While there is some truth in the gestural notion of representation, it can be argued
+that gestural representations should not be localized in the lexicon, but must occur at
+a later stage in the speech process. One type of evidence for this view comes from a
+consideration of speech-error phenomena. These phenomena argue for the existence
+of something called a PLANNING STAGE in the production of speech utterances. We
+suggest that gestures must occur after this stage (see §4.2 below). Here we focus on
+arguments for the existence of the planning stage itself.
+Consider two typical speech errors drawn from Fromkin (1973:245 - 46). Suppose a
+speaker wants to produce a form like wind mill but, in fact, produces the utterance [mìnd
+wìl] by transposing the onsets of each member of the compound. The erroneous [mìnd
+wìl] does not occur as a separate entry in the lexicon nor is it the result of phonological
+rules. Similarly, Fromkin reports the phrase hash or grass becoming the erroneous hass
+or grash as a result of final consonant transposition. Here, too, the resultant utterance
+contains nonsense words which could not possibly have been drawn from the lexicon.
+Speech-error theorists have postulated that these errors must occur outside the lexicon
+and the phonology but prior to articulation. They propose a level that we call the planning
+stage. Errors occur here (see Shattuck-Hufnagel 1986, Levelt et al. 1999).
+We assume the planning stage is a level at which discrete items drawn from the
+lexicon and modified by the phonological component are arrayed in a serial fashion.
+In Figure 2 we expand on Fig. 1 by inserting the planning stage after phonological representations. Representations in the planning stage are fully articulated. That is to
+say, at this stage we find the full panoply of phonological representation.
+GESTURE CALCULATIONS.
+THE BASIC FUNCTION. 
+In the simplest case, representations in the planning stage
+are read off by a component whose function it is to replace representations by gestures.
+We suppose that the component that the planning-stage string feeds into is one that
+calculates how the various articulators in the vocal apparatus should be controlled,
+including the relative timing of the movements of these articulators.
+To see how this component works, let us imagine that the planning stage contains
+the sequence the tag (see the spectrogram in Figure 3a). We focus on the gestures that are
+needed to produce the consonant /t/, which has the features [anterior, consonantal,
+continuant, sonorant, stiff vocal folds]. We note also that this segment is in
+syllable-initial position, which coincides with word-initial position, and that the entire
+word is dominated by a single syllable. The gesture-calculations component needs to
+turn this representation into a series of instructions to the musculature of the vocal
+apparatus which produces the relevant acoustic event. Thus, this component encounters
+the feature [anterior] and translates it into an instruction to position the tongue blade
+anterior to the alveolar ridge. The features [consonantal, continuant] require that
+this articulator make a complete closure in the midsagittal region of the vocal tract,
+followed by a release. An acoustic consequence is a noise burst with spectrum energy
+at high frequencies, as the spectrogram shows. During the time that this closure is
+made, the pressure should build up behind the constriction, as specified by the feature
+[sonorant]. The feature [stiff vocal folds] requires that the tension in the vocal
+folds be increased during the closure interval and be relaxed following the release of
+the consonant. As a consequence of these instructions, the vocal apparatus produces
+an acoustic pattern that reflects the set of features for this segment. This acoustic pattern
+extends from the closure through the release of the alveolar consonant. We see later
+that these instructions are modified by additional calculations that are not derived directly
+from the planning stage.
+Note that while the input to the gesture-calculations component is a phonological
+representation, the output is not. Rather, the output is a series of instructions to the
+musculature. This entails that the phonological representation disappears at this point,
+being replaced by motor instructions. Hence, if the birthplace of lexical representation
+is in the lexicon, its demise is in the gesture-calculations component.
+VARIABILITY IN GESTURE SEQUENCES. 
+Consider now the difference in the tag and
+top tag, focusing on the gestures relevant to /t/ in tag. While the gestures for /t/ in both
+expressions are identical, the output is not. In particular, the tongue-blade closure for
+the second occurrence of /t/ in top tag usually occurs during the time when the lips
+are closed for the preceding /p/. Thus, unlike the tag, the time of closure for /t/ is not
+registered in the sound. The absence of evidence for the /t/ closure is illustrated in the
+spectogram in Figure 3b. Likewise, the release for /p/ occurs while the tongue blade
+is in the closed position, and consequently this release is either not registered or only
+weakly registered in the sound. However, acoustic evidence for the tongue-blade feature
+is still present in the release of the /t/, just as acoustic evidence for the labial is still
+present in the closure of the /p/. This masking of acoustic evidence is the result of
+overlap of gestures for two different articulators (Browman &amp; Goldstein 1990). In the
+case of top tag the closure of the /p/ masks the closing gesture of the /t/ and the closure
+for the /t/ masks the release of the /p/. Of course, in careful speech there can be an acoustic record of the /p/ release and the /t/ closure. Such an utterance is illustrated in
+the spectrogram in Figure 3c. Such overlap is a universal phenomenon and reflects a
+universal tendency to conserve time and, presumably, energy (see Lindblom 1990).
+Overlap pervades the speech stream. Consider the /nt/ sequence in teen tag. For both
+segments the instruction from the planning stage is to make a closure of the tongue
+blade and then to release it. In this case, however, the closure is retained through both
+segments and there is, in effect, no separate release for /n/ and no separate closure for
+/t/. In the phrase teen bag (see the spectrogram in Figure 3d) the closure for the labial
+/b/ would normally occur during the alveolar closure for /n/. Soon after this labial
+closure the soft palate is raised and pressure is built up in the oral cavity.
+
+</text>

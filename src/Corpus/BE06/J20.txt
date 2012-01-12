@@ -1,0 +1,62 @@
+
+5. Development of the model
+In order to assess the potential resource of alluvial river flow in other rivers, a water balance model was developed. The model represents the channel upstream of a site (including tributary channels) by a tank containing sand. Water flows out of the tank at the downstream boundary. The results shown in Table 4 indicate that the velocity tends to decrease with time, i.e. in proportion to the depth of the water surface. The model therefore assumed that the velocity was inversely proportional to the depth of the water surface below the sand. The other flows into and out of the tank are due to evaporation from the surface of the sand, seepage and abstraction from wells, etc. There is also periodic recharge from precipitation falling on the surface of the sand as well as from precipitation falling outside the channel and percolating through the banks (Fig. 3). 
+Table 4. 
+Dilution velocities (m/day) 
+Fig. 3. Idealisation of flow in a sand river. 
+The loss of water due to evaporation depends on the depth of the water surface below the sand and the properties of the sand contributing to the suction pressure which causes the water to migrate to the surface, as well as the environmental conditions, such as wind speed and radiation, etc. which promote evaporation from the surface. The evaporation losses were estimated using the work of Hellwig (1973) in which the evaporation from three types of sand was measured for water levels of 0, 0.3 and 0.6 m below the surface and expressed as a proportion of the evaporation from an open tank of water. The results are summarised in Table 5 and plotted in Fig. 4. Polynomial functions were fitted to the data to allow for the estimation of evaporation at intermediate depths (subject to a limiting depth when the function became negative). 
+Table 5. 
+Evaporation from sand (Hellwig, 1973) 
+Fig. 4. Representation of data by polynomials. 
+The recharge from rainfall depends on the flow through the unsaturated soil profile, which depends on the rainfall intensity, the depth to the water surface and the moisture content of the soil (McDougall and Pyrah, 1998). At one extreme, for high rainfall intensity and high moisture content, the hydraulic conductivity is relatively high and a high proportion of the water passes directly to the saturated zone. At the other extreme, where the suction hydraulic gradient is high, a large proportion of the moisture is retained in the unsaturated zone, especially for relatively deep water tables. 
+It was decided to adopt a simplified conceptual model for groundwater recharge proposed by Beverly et al. (1999). The recharge flux can be expressed as
+
+where i is the rainfall less any evaporation loss and A? is the effective catchment area, which is the catchment area contributing to the flow. In principle, the catchment area should be the area of the river channel above the point of interest (including the tributary channels); however, as discussed below, it was found that the area contributing to flow was often significantly greater than this. It is assumed that there are limiting depths, dwts and dwtd which are, respectively, the depth above which infiltration recharges directly to the groundwater and the depth beyond which infiltration recharges only to the unsaturated zone (i.e. there is no recharge to the water table). The normalised depth to the water table (d*) is then given by
+
+where dwt is the observed depth below the surface to the water table. 
+Likewise, for a given moisture content of the sand (?), the normalised moisture content, ?*, is defined as
+
+where ?dry and ?sat are the volumetric moisture contents in the air-dry and saturated states, respectively. The recharge exponent m in Eq. (3) controls the recharge response to varying soil moisture content and is determined through calibration. A typical value is around 2. 
+For specific conditions of moisture content and water level depth, the calculation of qrech can be summarised as shown in Table 6, where qin=iA?. It was noted that in many cases, the water level in the sand increased by an amount significantly greater than the depth of rainfall. This indicated that there was a contribution from rain falling outside the area of the channel, i.e. on adjacent banks. Therefore, the actual channel area was multiplied by a factor which reflected this. 
+Table 6. 
+Summary of recharge calculation 
+The various flows were combined in a mass balance equation. The flow balance over a period ?t, during which the water level falls by an amount ?h, is therefore
+
+where q, qa, and qrech are the outflow, abstraction and recharge flows, respectively, and E is the evaporation depth. A is the surface area of the channel and n is the porosity of the sand. 
+Altogether, the model incorporated 15 parameters of which 10 were assumed or estimated from the site investigation (Table 7a). The remaining parameters were estimated by calibration over 2 years of data for each site and verified for a further year of data. Table 7b shows the optimum values of these parameters for the sites. 
+Table 7a. 
+Assumed or estimated parameter values 
+Table 7b. 
+Parameter values from calibrating model 
+The notional channel length is the channel area divided by the width of the channel at the research site and indicates the length of channel contributing to flow. It can be seen that this length is significantly less than the total channel length upstream of the site. This suggests that when surface flow ceases, the channel is made up of hydraulically isolated sections of channel separated either by rock sills where most of the flow is lost through evaporation or by areas of seepage into the surrounding aquifer. Since no data were available for seepage, it was combined with abstraction and a nominal rate of 1 m3/day per km of notional channel length was adopted, partly based on surveys of local water users adjacent to the river. In any event, this figure had little impact on the water level recession. As has been mentioned above, calibration of the model also suggested that some of the flow in the alluvium originated from rainfall falling outside the channel and the catchment ratio is the ratio of the estimated actual catchment area to the area of the river channel. The observed and modelled time histories of water level for 2001 and 2002 are shown in Fig. 5. 
+Fig. 5. Predicted and observed water levels. 
+It can be seen that although the model reproduced the trends in the water level recessions, there were some differences, especially during the wet season recharge. It is likely that these differences are due to local variations in rainfall occurring on the catchment. 
+The relative contributions of the downstream flow, evaporation and abstraction are demonstrated in Fig. 6. These show the daily change in water level due to the above processes for Huwana and Dongamuzi for the same time period as Fig. 5. In the former, most of the decrease in water level is due to the downstream drainage with intermittent losses due to evaporation when the water level is near the surface. In the case of Dongamuzi, the water level remains close to the surface for much of the time and the losses due evaporation are much greater. In both cases, abstraction is relatively insignificant. 
+Fig. 6. Contribution of flow, evaporation and abstraction to change in water level. 
+6. Sensitivity of model parameters
+In order to assess the sensitivity of certain parameters, the parameters were varied in turn and the output of the model compared in terms of the depth of water after 200 days (D200) as a percentage of the original depth. The basic values of the parameters used are given in Table 8. 
+Table 8. 
+Model parameters for sensitivity analysis 
+Of the above parameters it was found that the water velocity and the channel plan area had the greatest direct impact on the model output (Fig. 7). This suggests that there should be more research devoted to investigate the distribution of flows within alluvial channels and, in particular, to determine if the assumption that channels become divided into hydraulically separate units is correct. 
+Fig. 7. The effect of velocity, sediment depth, abstraction rate and channel area on water level decrease. 
+Where there was significant rainfall recharge, then the depth of soil for zero recharge became important. For example, a rainfall of 10 mm/day over 3 days was simulated occurring at the start of the record and at 50, 100 and 150 days from the start of the record. Table 9 summarises the results in terms of the percentage water level after 200 days (D200). 
+Table 9. 
+The effect of rainfall on water levels 
+Water level depth after 200 days as a percentage of original depth.
+Where the depth for zero recharge is 2 m, it can be seen that there is no recharge from the rainfall events at 100 and 150 days. This is because the water level has fallen below the depth for zero recharge and the recharge is absorbed by the unsaturated layer. On the other hand, where the depth of zero recharge is 3 m, there is significant recharge from all the storms with the later storms having a greater impact on the D200. 
+The effect of evaporation from the surface of the sediment only becomes important if the water level remains close to the surface for a considerable time, i.e. where there is a low velocity. For example, Table 10 compares the percentage water level after 200 days for various pan evaporation rates for two different water velocities (Fig. 8). 
+Table 10. 
+The effect of evaporation on water levels 
+Water level depth after 200 days as a percentage of original depth.
+Fig. 8. Principle of salt dilution method. 
+7. Conclusions
+The flow in the alluvium of ephemeral rivers was investigated using field measurements and a numerical model. 
+The velocity of flow within the alluvium was measured using the water surface slope and the results of a dilution test. The latter gave results considerably greater than those using the water surface slope, possibly due to variations in the bedrock topography and sand properties. 
+The main factors affecting the flow recession in the aquifer were found to be the water velocity, which is largely controlled by the sand properties and the area of the channel contributing to the flow. The latter was found to be significantly less than the total upstream channel area, which is understandable when one considers that the channel with no surface flow is likely to be made up of sections of channel separated by rock sills where there will be considerable losses due to evaporation. 
+The effect of short periods of rainfall during the dry season depends on the water level at the time of rainfall and the sand properties. If the depth is below the depth of zero recharge, all the rainfall will be absorbed by the non-saturated zone. 
+The volume flow rates observed in the alluvium were of the order of 100 m3/day, which, although far less than the surface flow in the wet season, could provide a significant source of relatively clean water during the prolonged dry season. If, as has been postulated above, a river channel can be considered to consist of separate "cells', significant abstraction could take place without affecting the flow downstream. 
+The availability of alluvial flows in rivers depends obviously on the presence of a significant depth of suitable alluvial material. If the alluvium consists of fine silt or clay, it would be difficult to extract much water. On the other hand, in steeper channels with gravel-sized sediment, the water levels may fall too rapidly for any practical abstraction. It is suggested that further work should be carried out to assess the extent of suitable alluvial channels in Africa and other areas. 
+
+Acknowledgements
+The authors are grateful to the Carnegie Trust for the Universities of Scotland for its financial support of this research and to the staff of the Dabane Workshops in Zimbabwe who assisted in the field work. 
+

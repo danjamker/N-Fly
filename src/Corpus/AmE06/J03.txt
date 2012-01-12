@@ -1,0 +1,160 @@
+<text id="J03" category="" words="2028" checkedby="" modifiedby="" Title="Oscillatory shear of suspensions of noncolloidal particles" Author="Jonathan M. Bricker and Jason E. Butler" PublicationDate="September 1, 2006 " SampledFrom="Journal of Rheology " WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=4&hid=106&sid=0d30257b-ecf0-4194-bf65-162fc401885c%40sessionmgr115">
+
+INTRODUCTION
+Studies on suspensions of noncolloidal particles have primarily concentrated on the
+response when exposed to steady shear flow [Gadala-Maria and Acrivos (1980); Chan
+and Powell (1984); Tsai et al. (1992), thus the rheology of these suspensions is fairly
+well-defined as recently reviewed by Stickell and Powell (2005). In steady flow, noncolloidal
+suspensions at vanishing Reynolds numbers undergo a diffusive-like motion which
+is due solely to hydrodynamic interactions. Whereas the trajectories of particles undergoing
+simple pairwise interactions are symmetric and reversible [Batchelor and Green
+(1972)], inhomogeneities in the particle surface can cause permanent displacements of
+particles from their original streamlines, resulting in irreversible interactions [Davis
+(1992); Rampall et al. (1997)].
+Shear-induced diffusion of particles in steady shear flow has been observed in both
+experiments [Eckstein et al. (1977); Leighton and Acrivos (1987a); Breedveld et al.
+(2001) and simulations [Dratler and Schowalter (1996); Drazer et al. (2002)]. The shear-induced diffusion explains the apparently random trajectories that particles undergo in
+concentrated suspensions exposed to steady shear and has been used to explain such
+phenomena as shear-induced particle migration [Leighton and Acrivos (1987b); Phillips
+et al. (1992)]. This chaotic motion is intimately related to the time and spatial configuration
+of the particles, closely linking the rheology to the microstructure.
+Whereas the rheology of suspensions in steady shear is well-understood, the behavior
+of noncolloidal suspensions in oscillatory flow is less understood. This is due in part to
+few experiments investigating unsteady flows. Gadala-Maria (1979) studied suspensions
+exposed to oscillatory shear, finding that above a certain strain amplitude, the stress
+response became nonlinear. The rheology was found to be independent of the frequency
+and the amplitude of the stress response drifted lower in time until a steady state was
+achieved after approximately 100 cycles [Gadala-Maria and Acrivos (1980)]. Gondret
+and Petit (1996) found a similar drift for a strain amplitude of 0.1, however, a steady state
+was achieved after a much larger number of cycles. Gondret and Petit (1996) explained
+the observed decrease in viscosity with time as being caused by microstructural changes
+due to a regular ordering of particles into layers parallel to the flow direction, as evidenced
+by optical microscopy experiments. Breedveld et al. (2001) performed a comprehensive
+set of oscillatory shear experiments on noncolloidal suspensions in a Couette
+geometry and found that the rheology was both frequency and amplitude dependent and
+that plateaus existed at both small and large amplitudes which were separated by a
+transient period in which the response signals were nonlinear. In contrast to Gondret and
+Petit (1996), Breedveld et al. (2001) found that at small strain amplitudes, the particle
+positions remained unchanged with no evidence of a shear-induced microstructure. Similar
+to Breedveld et al. (2001), Pine et al. (2005) reported results on hydrodynamic
+diffusivities from simulations and experiments indicating that at small strain amplitudes
+the particle diffusivity became increasingly small such that particles returned to their
+initial positions after each oscillation. Pine et al. (2005) also found a transition at high
+strain amplitudes above which the flow becomes irreversible. Narumi et al. (2005) report
+on the rheology of suspensions undergoing high amplitude oscillatory shear and explain
+the unusual output wave forms in terms of the transient responses observed in shear
+reversal experiments [Kolli et al. (2002); Narumi et al. (2002)].
+Significant gaps therefore exist in understanding the characteristic behavior of noncolloidal
+suspensions in oscillatory shear flow. In this study, suspensions of noncolloidal
+particles are exposed to oscillatory shear to investigate the response as a function of the
+applied strain amplitude. The goal is to gain some understanding of the dynamics within
+unsteady flows. In the following sections, we present results from experiments of noncolloidal
+suspensions exposed to both steady and oscillatory shear flow. The results are
+presented for five different systems in both Couette and parallel-plate geometries using
+the same instrument. In Sec. II, a detailed description of the experiment is provided along
+with details concerning the characterization of each suspension system. Results are presented
+in Sec. III for the cases of steady shear flow and oscillatory flow. The results are
+discussed in Sec. IV and conclusions of the work are presented in the last section.
+EXPERIMENT
+Three sets of particles were used to determine the effect of size distribution and
+particle type on the suspension rheology. Figure 1 shows scanning electron microscopy
+SEM images of two sets of the particles with size distributions for all three sets. The
+distributions were measured using a Coulter counter and were verified using scanning
+electron microscopy. The polystyrene and poly (methylmethacrylate) (PMMA) particles 
+obtained from Sapidyne Industries were found to be monodisperse with similarly shaped
+size distributions and mean diameters of 99±6 m and 100±8 m, respectively. The
+PMMA particles obtained from Bangs Laboratories had a much broader size distribution
+and a mean diameter of 61±16 m as measured in the laboratory, though the manufacturer
+reported a mean diameter of 83 m. The surface roughness was evaluated using
+scanning electron microscopy, and for all of the spheres used, the size of the surface
+roughness features never exceeded 1 m. The sphericity was also evaluated using scanning
+electron microscopy. A form factor was evaluated according to the equation F
+=4Ap /P2, where Ap is the particle area and P is the perimeter. For each set of particles,
+a similar form factor of F 0.91 was measured, whereas a factor of 1 corresponds to a
+perfect sphere.
+Three different suspending liquids were investigated and are listed in Table I. For the
+polystyrene spheres, a polyalkylene glycol oil Aldrich was used and found to be Newtonian
+with a viscosity of 1.87 Pa s and a measured density of 1.052 g/cm3. Two different
+suspending liquids were prepared for the PMMA spheres. The first consisted of a
+mixture of equal amounts by volume water and 75-H-90000 UCON oil (Dow Chemical).
+To effectively match the densities of the PMMA and suspending liquid, sodium iodide
+25% by weight was added to the water prior to mixing. The composition of the suspending
+liquid is comparable to previous experiments [Sinton and Chow (1991); Butler
+and Bonnecaze (1999); Butler et al. (1999)]. Although the UCON oil/water suspending
+liquid was found to have a constant short-time viscosity of 0.97 Pa s, a significant drift in
+the viscosity with time was observed in the parallel-plate geometry due to a slow evaporation of the suspending liquid. This drift was found to be minimized by using the
+Couette geometry since the fluid in a Couette gap is not directly exposed to the environment.
+Due to the presence of evaporation in this system, an additional suspending liquid
+identical to the one used in the experiments of Han et al. (1999) was used. In this system,
+a mixture of approximately equal amounts by mass of ethylene glycol and glycerol were
+mixed based on the measured density of the particles. The short-time viscosity of the
+suspending liquid was found to be 0.0924 Pa s and although the suspending liquid has
+been reported to be Newtonian in previous studies [Han et al. (1999)], a 30% decrease in
+the viscosity was observed over 24 h when sheared in the parallel-plate geometry at a
+constant shear rate of 24 s−1. A smaller decrease of 5% was observed in the Couette
+geometry over the same time period and shear rate. The decrease probably results from
+absorption of moisture from the surrounding air, which is minimized in the Couette
+geometry since the exposed surface area to volume ratio is smaller.
+A summary of the suspension systems studied is provided in Table I. To confirm close
+matching of densities between the suspending liquid and particulate phases, suspensions
+at a volume fraction of 0.10 were set out for a period of 24 h. In all systems, no
+apparent sedimentation or buoyancy was observed during this period. The volume fraction
+of particles henceforth was set at 0.40 for all experiments. All suspensions were
+prepared by gently hand mixing the particles in small increments until a homogeneous
+state was reached. The suspensions were placed under vacuum prior to testing to eliminate
+any air bubbles entrained within the suspension.
+The maximum particle-based Reynolds number for the systems used is 10−7, so the
+effects of inertia are expected to be minimal. Likewise, thermal diffusion is negligible for
+the relatively large particle sizes since the minimum particle-based Peclet number is 107.
+Other colloidal interactions, such as electrostatic interactions, should also be of no importance.
+The rheometer used in all experiments was an ARES LS-1 strain controlled rheometer
+(TA Instruments). Experiments were performed using both parallel plate and Couette
+geometries. The Couette geometry consisted of a rotating 34 mm diameter cup and a
+stationary 32 mm diameter bob, resulting in a gap of 1 mm. The bob height was 33 mm
+and to ensure consistent measurement, the reservoir gap was set to 10 mm in all experiments.
+A 50 mm diameter parallel plate was also used and the plate separation was set at
+1.0 mm in all cases reported in Sec. III. Note, however, some experiments were performed
+for different plate separations of 0.5, 1.5, and 2.0 mm. Results for plate separations of 1.0 mm and larger matched within experimental error, indicating that boundary
+layer effects near the walls negligibly impact the reported results despite the relatively
+small ratio of gap to particle diameter.
+Since the rheology of noncolloidal suspensions is sensitive to the microstructural
+arrangement of particles and thus to the initial configuration, the suspensions were presheared
+in each geometry before starting the oscillatory experiments. A steady preshear of
+24 s−1 was employed for a period of 120 s to reduce any effects caused by loading the
+sample and to ensure that the oscillatory experiments began from a fairly consistent
+configuration. This total strain of 2880 was sufficient to reach a short-time steady state in
+the Couette geometry (Fig. 2 inset), but not long enough to result in any significant
+shear-induced migration in the vertical direction [Leighton and Acrivos (1987b)]. In the
+case of the Couette geometry, a nonuniform concentration profile develops within the gap
+during sample loading. To achieve a homogeneous state, a preshear is required to induce
+a redistribution of particles in the radial direction [Leighton and Acrivos (1987b)]. Following
+the preshear, the oscillatory shear experiments were performed. In each oscillatory
+shear experiment, the shear rate was set by specifying the strain amplitude A and
+frequency f. Based on the applied strain amplitude, a total strain can be calculated by
+4An, where n is the number of cycles. Unless noted otherwise, all experiments were
+performed at the same frequency of f =1.59 cycles/s. The temperature was maintained at
+25°C using an external temperature bath. During a typical experiment the temperature
+fluctuated less than 0.05°C.
+RESULTS
+In this section, steady shear results are first given as a reference to the oscillatory shear
+results. The oscillatory shear results are then provided in detail for a monodisperse suspension
+system. Comparison of these results are made with other suspension systems to
+evaluate the effects of particle size distribution and choice of particle type and suspending
+fluid.
+Steady shear
+The time evolution of the relative viscosity r (defined in this work as the suspension
+viscosity normalized by the short-time viscosity of the suspending liquid) of both monodisperse
+and polydisperse suspension systems sheared in the Couette geometry at a steady
+rate of 24 s−1 is shown in Fig. 2. At short times the systems show a small decrease in
+the viscosity followed by a short-time steady state (shown as an inset in Fig. 2). This
+short-time steady state corresponds to a microstructural rearrangement of particles across
+the Couette gap [Leighton and Acrivos (1987b)]. From this short-time steady state, the
+viscosity of the suspensions decreases continuously in time. For the suspension of monodisperse
+polystyrene spheres in polyalkylene glycol, a long-time steady state occurs after
+15 h and was found to be sustainable for at least 10 h more. The transient long-time
+decrease in the viscosity of suspensions of spheres in the Couette geometry has been
+previously observed in experiments [Gadala-Maria and Acrivos (1980); Phillips et al.
+(1992); Chow et al. (1994)] and is the result of shear-induced migration of particles out
+of the Couette gap into the stagnant reservoir [Leighton and Acrivos (1987b)].
+
+</text>

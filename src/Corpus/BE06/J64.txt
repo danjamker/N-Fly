@@ -1,0 +1,68 @@
+
+
+Results from Natsal 2000 were compared with those from respondents aged 16–44 years in Natsal 1990. Natsal 1990 used face to face interview and pen and paper self completion. Comparisons are based on questions with identical wording in the two surveys. All behavioural variables were collected by self completion (pen and paper in Natsal 1990, CASI, in Natsal 2000). Natsal 1990 data were weighted for differential selection probabilities and post-stratified to the 1991 census estimates, following the procedures outlined for Natsal 2000.14,15 
+In both surveys respondents were asked questions about their sexual lifestyles and attitudes including questions for men about their experience of paying women for sex. Men were asked: "Have you ever paid money for sex with a woman"? If respondents reported "yes," then they were asked "When was the last time you paid money for sex with a woman?" Response options were: in the last 7 days, between 7 days and 4 weeks ago, between 4 weeks and 1 year ago, between 1 year and 5 years ago, longer than 5 years ago. Men were then asked "In your lifetime, to about how many different women, altogether, have you paid money for sex?" In Natsal 2000 these questions were asked as part of a CASI component; in the previous survey there were asked in a self completed pen and paper questionnaire. The denominator population for this study is all men in Natsal 2000 (4672), and all men aged 16–44 years from Natsal 1990 (6000). 
+All analyses were performed using Stata version 7.0 to account for stratification, clustering, and weighting of the sample.16 The data were weighted to correct for unequal selection probabilities and to match the age/sex population profile as previously described.11,13 
+We used logistic regression to examine the association between paying for sex and a number of sociodemographic, sexual, and health behaviour factors. The crude and adjusted odds ratios (OR) are given with the corresponding 95% confidence interval (CI). The adjusted OR considers the association after controlling for age, marital status, area of residence, and partner numbers. Statistical significance is considered at p&lt;0.05 for all analyses. We obtained ethical approval from University College Hospital, North Thames Multicentre, and all local research ethics committees in Britain. The funders of this study did not have any role in the design of this study, the collection, analysis or interpretation of data, or in the drafting of this paper. 
+
+
+
+   RESULTS 
+ 
+In Natsal 2000, 1.3% of men reported paying for sex in the previous 12 months, 4.2% in the previous 5 years, and 8.8% in their lifetime (table 1). These proportions had all increased significantly between 1990 and 2000. There was also a small increase in the mean number of different women who had ever been paid for sex. 
+
+
+Table 1  Prevalence of reporting paying for heterosexual sex 
+
+ 
+In Natsal 2000, men who reported paying women for sex in the previous 5 years were more likely to be aged 25–34, to be previously or never married, and to be resident in London (table 2). There was no association with ethnicity, social class, or education. 
+
+
+Table 2  Variations of the prevalence of reporting paying for heterosexual sex in the past 5 years by sociodemographic characteristics 
+
+ 
+Paying women for sex in the previous 5 years was associated with increased numbers of sexual partners: 36.5% of men who had paid for sex in the past 5 years reported 10 or more sexual partners in the past 5 years, and 54% had new sexual partners while abroad in that time (table 3). There was no association with having male sexual partners. Of 70 954 heterosexual partnerships (ever) reported by 5567 men in Natsal 2000, 2.5% (1744) were with commercial sex workers. Among men paying for sex, 19.3% of all reported heterosexual partnerships were with commercial sex workers. 
+
+
+
+
+  
+Table 3  Variations in the prevalence of reported sexual behaviours and sexual health indicators in the past 5 years by whether or not men reported paying for heterosexual sex in the past 5 years 
+
+ 
+Table 3 also shows that less than one in five of the men who had paid for sex in the past 5 years had attended a sexually transmitted disease (STD) clinic in that time. Only 15.1% had been screened for HIV, although 9.1% reported an STI in the past 5 years. 
+We did not obtain specific information on the most recent commercial sexual contact, and therefore have limited data on condom use. However, taking only those men who had paid for sex in the previous 12 months, 35% had never used a condom in that time. 
+Men who paid for sex in the past 5 years were more likely to meet new sexual partners while abroad and from abroad, as shown in table 3. Table 4 shows the regions of origin of new sex partners reported by men who had paid for sex, although not all of these would have been commercial partners. This table also shows the potential for geographically widespread sexual mixing, including regions with much higher rates of HIV and STI than the United Kingdom. 
+
+
+  
+Table 4  Country/region of origin of new sexual partners while abroad (commercial and non-commercial) in the past 5 years 
+
+ 
+
+
+
+   DISCUSSION 
+ 
+This population based study shows that a significant proportion of men in Britain pay women for sex, and that this proportion is increasing. This behaviour is more common in men who live in London, who are in their late twenties and early thirties, and who are currently single, with the highest proportion in men who have been previously married. We have shown that men who pay for sex have other risks for STI, including higher numbers of partners and being more likely to meet new partners abroad. It is possible that some of the change between 1990 and 2000 is the result of increased reporting, with a greater acceptability of commercial sexual contact, but we think this is unlikely to account for the whole increase.17 
+The rate of divorce has increased, as has the proportion of men who are never or previously married, and this may explain some of the increased "demand" for commercial sex.8 Further evidence for the growth in commercial sex can be found from studies of sex workers. While there are no precise estimates on the numbers of sex workers in the United Kingdom or elsewhere, all reports suggest an increasingly large and diverse sex industry, with more opportunities for the sale and purchase of sex via sex clubs, escort agencies, the internet, and sex tourism.18 
+There are few other studies of the prevalence of commercial sexual contact by men, particularly from developed countries. A recent telephone population survey in Australia found that one in six men (15.6%) had ever paid for sex, with 1.9% in the past year, an estimate similar to our own. The majority (97%) of these contacts were with women, 3% with men.19 Mikl20 reported that 6% of men attending an STD clinic in Prague were clients of sex workers, but no time frame was given. 
+There are more data from developing countries where health surveys include a relevant indicator—namely, the percentage of male respondents reporting sex with a sex worker in the past 12 months. Estimates range from less than 2% in Nepal (2001), Kazakhstan (1999), Uganda (2000/1), Rwanda (2000), and Namibia (2000), to 10% or more in the Central African Republic (1994–5), Dominican Republic (1996), Mozambique (2003), Benin (1996), Cameroon (1998), and Zambia (1996). With the exception of Cameroon (20%) and Mozambique (13%), those with the higher figures used a broader definition (the number of male respondents reporting that they had given or received money, gifts, or favours in return for sex in the last 12 months).21 
+
+
+What this paper adds 
+* A significant and growing proportion of men in the United Kingdom have paid women for sex
+* Paying women for sex is most likely to be reported by single men, men living in London, and men aged between 25 years and 34 years, but there was no association with ethnicity or social class
+* Men who pay for sex also have higher rates of sexual partner change with non-commercial contacts, and report higher rates of STI than other men. Few have been tested for HIV
+ 
+
+
+Policy implications 
+* We need health promotion campaigns to outline the need for safer sex in commercial contacts, and the need for regular screening for clients as well as sex workers. These will have to be aimed at a broad audience given the wide range of men who pay for sex. Policies towards prostitution should be based on an understanding of the widespread nature of commercial sexual contact, and focus on harm minimisation
+ 
+It is of concern that only a minority of the men who paid for sex had been to an STD clinic or been screened for HIV, suggesting that they do not see themselves as being at risk. These men may be assuming that the women will take responsibility for safety and screening, which may be valid in some areas since sex workers have been shown to be very good consumers of safer sex advice. 
+We have demonstrated an increase in the proportion of men paying for female sex contacts. We have also demonstrated that men who pay for sex have a higher incidence of reported STI than men who do not. It is not clear however whether this increased risk is related to commercial sexual contacts per se or related to the much higher rate of sex partner change (commercial and non-commercial) in this group. For men who paid for sex, less than one in five (19%) of all partners were commercial, and we know from other studies that condom use is relatively high in commercial sex, probably higher than in non-commercial casual partnerships. 
+It is clear that some of these men could be linking otherwise separate sexual networks. They are meeting new partners abroad, some of whom are likely to be sex workers. The distribution of regions where new partners were met is consistent with sex tourism: western Europe (where the Netherlands and Germany have large, visible sex industries) and Asia (where, for example, Thailand and India have large numbers of sex workers). Cheap air travel has led to an increase in the number of people travelling to these destinations, and many will have sex with sex workers and with other people they meet.22 
+In conclusion, men who pay for sex are a substantial group who are at increased risk of acquiring and potentially transmitting STI and HIV. However, their increased risk of STI is likely to be linked as much to their high rates of sexual partner change with non-commercial as with commercial contacts. To understand the risks better we should be improving surveillance, through routinely asking men attending clinics whether they have paid for sex, and monitoring how many STIs may have been acquired or transmitted during commercial sex. 
+Men who pay for sex should be the target of health promotion campaigns and screening initiatives as a result of their increased risk and high rate of partner change. However, as this study shows, it is very difficult to identify clients as a distinct group—the behaviour occurs across ages, social classes and ethnic groups, and is increasing. Health promotion therefore needs to address men in general, starting with school based sex education and mass media campaigns. Groups that warrant special attention are single and previously married men and tourists. While men generally do not discuss commercial sexual contacts with each other, there are situations where this does occur including holidays and "stag party" trips where commercial sex may be a collective experience. Targeting these groups could lead to peer interventions to improve safety. Any campaigns need to take into account the stigma of sex work; women who sell sex are vulnerable to violence and other abuse, and any campaign targeting them as the "source" of infections would be both misleading, since they have low levels of infection in the United Kingdom, and could rebound through increased violence. Greater understanding of the changing nature of commercial sex, and the engagement of men who pay for sex in both descriptive research and the design of interventions, is an essential next step. 
+

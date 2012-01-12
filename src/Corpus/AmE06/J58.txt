@@ -1,0 +1,185 @@
+<text id="J58" category="" words="2004" checkedby="" modifiedby="" Title="MAKING SOMETHING OF IT: QUESTIONS OF VALUE IN THE EARLY ENGLISH TRAVEL COLLECTION" Author="MARY C. FULLER" PublicationDate="February 1, 2006 " SampledFrom="Journal of Early Modern History Vol. 10 Issue 1/2, p11-38 " WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=112&sid=7e52d6e7-c27e-493a-85fa-e778928239cd%40sessionmgr114&vid=3">
+
+In the second half of the sixteenth century, experiences and narratives of English travel
+to distant places first began to matter enough to be collected and published. Tracing
+early accounts of West Africa and Muscovy through the several collections of Richard
+Eden (1553, 1555) and Richard Hakluyt (1589, 1600) allows for comparison of how
+different editors handled the same materials at different moments. The evidence suggests
+that both editors differentiated between the African and Russian materials according
+to perceptions of these materials' value, or meaning, for their own collecting and
+publishing projects. Looking at how this was so, and considering why it was so, provides
+a closer and more detailed look at how travel writing acquired value in the context of
+print; it also offers an an approach to the larger question of how Englishmen "read"
+the places and cultures they encountered, actually or virtually, outside of Europe.
+I begin with a massive material object: the second edition of Richard
+Hakluyt's great collection of travel documents, commonly known as The
+Principal Navigations of the English Nation. Roughly 2000 closely-printed folio
+pages, it was issued as two or three large volumes in the successive
+years 1598-1600. In imagination, set next to this book its earliest English
+predecessor. Richard Eden's collection, A Treatyse of the newe India (1553),
+was a poorly printed octavo of 204 pages. These are books which take
+up quite different amounts of space, and have enjoyed quite different
+reputations. Eden's has remained relatively obscure; Hakluyt's has become
+known as the "great prose epic of the English nation". Apart from their
+contents, the sheer difference in size has surely played some role in the
+physical survival of both books, and consequently in their present value - 
+as distinct from their reputation. Hakluyt's three volumes are a common
+possession of rare book libraries: a recent census has located some two
+hundred and forty sets. As this article was being written, a copy priced
+at $20,000 was for sale online: hardly a casual purchase, but still not
+outside the reach of a generous research budget, not to mention a reasonably
+well endowed library. Eden's Treatyse of the newe India survives
+in only six copies; were one to come on the market, it would be almost
+beyond price.
+What changed between 1553 and 1598? While the pace of English
+travel and exploration certainly increased during these 50-odd years,
+Eden and others were simply not interested in many of the existing
+materials which Hakluyt sought out for his larger collection. Many of
+Hakluyt's documents had never been printed before, and some of the
+voyages they recorded were forgotten by the time Hakluyt began his
+work; in some cases, the records themselves had already vanished, and
+testimony was solicited from elderly survivors. The idea of getting voyage
+narratives into print and disseminating them was evidently not as
+obvious in the middle of the sixteenth century as it may now seem in
+the wake of Hakluyt, Purchas, and the last century or so of publications
+by the Hakluyt Society and others. During the 45 years which separated
+Eden's first book and the second edition of Principal Navigations, the materials
+which Hakluyt collected had acquired a value which they did not
+seem to have earlier.
+In this essay, I will examine how value is assigned both to, and in,
+two particular sets of materials present in both Eden's and Hakluyt's
+collections: English accounts of West Africa and Muscovy from the
+1550's. As compared to other parts of the Hakluyt anthology, these
+materials have received relatively little attention from modern scholars;
+yet they have a particular importance for a history of the travel book.
+Documents on both regions appeared in Eden's second collection (1555),
+were reprinted by Richard Willes in his 1577 revision of Eden, and again reprinted with changes and additions by Hakluyt in 1589 and
+1599. They represent an early stage in the collection of first-person narratives,
+while also allowing us to compare the treatment given them by
+editors and editions over several decades; Eden's and Hakluyt's framing
+comments and organizational schemes give some sense of the ways these
+two editors understood both the documents and the places the documents
+described.
+What kinds of enterprises led the English to the coast of West Africa
+and to Muscovy? In the early years of the decade, overlapping groups
+of English investors set in motion a series of voyages in two directions.
+The first trading voyage to West Africa took place in 1553, the same
+year that a newly constituted company sent three ships to the northeast
+in search of a passage to Cathay. Both voyages combined a kind of
+disaster with a kind of success.
+From the West African coast, two of three ships returned, but with
+only forty out of the initial complement of one hundred and forty men;
+the rest died of disease or were abandoned in Benin, and more died
+soon after the return to England (PN VI, 151). Nonetheless, the voyage
+turned a considerable profit, and in 1554 a second voyage was captained
+by John Lok - whose brother Michael would become London
+Agent for the Muscovy Company. Two of the three ships which sailed
+northeast likewise came to grief, delayed and finally wintering in Lapland,
+where the crews froze to death. The remaining ship, the Edward Bonaventure,
+managed to round the Kola Peninsula and anchor in the White Sea,
+at the mouth of the Dvina River (roughly, present day Arkhangel'sk).
+From there, its captain - Richard Chancellor - proceeded south to Moscow
+at the Tsar's invitation and delivered a letter from Edward IV intended
+for "the Kynges, Princes, &amp; other potentates inhabytynge the Northeast
+partes of the worlde towarde the myghtye Empire of Cathay" (Eden
+1555, 308). Chancellor returned with information about the country
+and its goods which encouraged the promoters to seek a charter from
+the crown, which they received from Philip and Mary in 1555. Later
+that year, Chancellor returned to Muscovy with two ships, bringing 
+agents of the newly incorporated Muscovy company who were duly
+granted privileges by the Tsar. Goods traded included cordage and
+hemp, flax, train-oil (oil made from the rendered fat of whales or seals),
+furs, hides, tallows (candles made from animal fat), and wax. The
+Muscovy Company retained a monopoly of the White Sea trade into
+the 1570s, as well as an exclusive right to trade in the interior without
+duties or tolls.
+This northern route to Muscovy was not unknown, and had been
+described in print by the Hapsburg emissary Sigismund von Herberstein,
+whose account both Eden and Hakluyt made use of in their collections.
+The White Sea route was "not commonly frequented" before 1555,
+much less was it a corridor for regular trade, and Muscovy itself remained
+poorly known to western Europeans. More broadly, the English shared
+with some other Europeans both intense interest in the northern parts
+of Asia and a general ignorance about them. When members of what
+would become the Muscovy company met to consider setting forth a
+voyage in this direction, they could do no better than to interview two
+Tartar grooms:
+. . . two Tartarians, which were then of the king's Stable, were sent for, &amp; an interpreter
+was gotten to be present, by whom they were demaunded touching their
+Countrey and the maners of their nation. But they were able to answere nothing
+to the purpose: being in deede more acquainted (as one there merily and openly
+said) to tosse pottes, then to learne the states and dispositions of people.
+The scene suggests both the cosmopolitan nature of London's population,
+and the paucity of its geographical knowledge.
+So if the "discovery" of a trade to Muscovy was new more in regard
+to English trading patterns than in respect of actual knowledge, it was
+nonetheless undertaken within the context of very long-distance exploration,
+and the company would continue (albeit sporadically) to pursue
+the grail of a Northern passage to Cathay and the Indies even as it
+undertook regular and settled trade along the route Chancellor pioneered.
+The voyages to West Africa, by contrast, were not a discovery
+at all, since Portugal had an established trade along the coast dating 
+from the 1440's; by the mid-sixteenth century, there were permanent
+trading bases and a significant Afro-Portuguese population, some settled
+on the previously uninhabited Cape Verde Islands off present-day
+Senegal. The French had preceded the English as interlopers in this
+trade, which at the time primarily exchanged cloth and metal goods
+for ivory, gold, and malaguetta pepper ("grains of paradise"). As the
+results of the first voyage and others made clear, the coast was not without
+its dangers, but these came primarily from the disease environment
+rather than from a population which, generally speaking, had been
+involved in long-distance, cross-cultural commerce well before the advent
+of Europeans and saw certain advantages in adding new trading partners
+to compete with the old.
+For Hakluyt, both sets of materials - like many other documents in
+the collection - were valuable in general terms because they described
+the extension of English presence, and commerce, into areas that were
+at least new to them. Hakluyt wrote in the preface to the first edition
+of Principal Navigations (1589) that
+during my five years abroad [in Paris, 1583-88] . . ., I both heard in speech, and
+read in books other nations miraculously extolled for their discoveries and notable
+enterprises by sea, but the English of all others for their sluggish security, and continual
+neglect of the like attempts . . . either ignominiously reported, or exceedingly
+condemned.
+His collection sought to remedy the sense that, outside Europe, most
+areas were still new to the English. For Eden in the 1550's, the situation
+was quite different, both rhetorically and historically: there, the secondary,
+imitative, or dependent quality of English endeavor was simply
+a fact, with consequences visible both in the work of the editor, and in
+the experiences which his collection records.
+A well-connected translator and sometime employee of the treasury,
+Eden assembled his Treatise of the New India in the last year of Edward
+VI's reign. It was followed in 1555 by a second collection, Decades of
+the new world. Eden's collections both ostensibly translated other books.
+The first both translated parts of Sebastian Münster's cosmography, and
+followed it in dividing its material between Spanish voyages to the West,
+and Portuguese ones to the East. Eden's prefatory matter mentions two
+English initiatives - both the Cabot discoveries of the late 1400's and
+the voyage then under way to find a Northeast passage to China - but
+neither was documented in the collection. The second Eden anthology
+translated part of Pietro Martire de Anghiera's De orbe novo (1516-30).
+Eden added to this translation not only additional Spanish material but
+two accounts of English voyages to West Africa, and a rather larger
+assortment of items related (somewhat loosely) to English voyages in the
+North.
+Decades opens with an encomium to the almost divine achievements
+of the Spanish in discovering and conquering America and an effusive
+description of marriage celebrations between Philip of Spain and Mary
+Tudor, proceeding to an insistent demand that England acknowledge
+the authority of Spain. The contrast between this moment and the patriotic
+prefaces of Hakluyt's Elizabethan collections is nothing short of
+breathtaking: "stoop, England, stoop and learne to know thy lord and
+master, as horses and other brute beasts are taught to do" (Eden 1555,
+bi verso). Nonetheless, the deference of Decades was complicated. John
+Parker suggests that England's northern voyages (begun in the reign of
+Edward VI, continued after the accession of Mary) lay behind the
+appearance of Eden's collections, devoted even as they were largely to
+the accomplishments of other nations.
+The first of Eden's two original narratives of travel to West Africa
+was thematically concerned precisely with the issue of how to place oneself
+in relation to a foreign expertise which had to be acknowledged,
+because it could not be duplicated at home. It is a story with a moral,
+and a surprisingly pointed one: the disastrous consequences of an English
+captain's bad behavior towards his Portuguese second-in-command.
+
+</text>

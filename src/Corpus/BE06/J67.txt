@@ -1,0 +1,184 @@
+Introduction and background
+Innovative methods to provide effective learning and teaching are under
+investigation in most universities in the UK. Some have focused upon the
+potential benefits of virtual learning environments (for example, Crawford
+et al., 2001; Morris and Rippin, 2003; Ramsey, 2003; Broad et al., 2004)
+and new "technology-led' computer-assisted learning packages (for
+example, Lane and Porch, 2002). This article examines the use of the
+Personal Response System (PRS) to improve the level of classroom participation.
+The necessity for involving and encouraging participation of
+students from the Far East is an important issue for many universities in
+Anglo-Saxon countries that have been taking an increasing number of
+students from the Far East in recent years (Ottewill and Macfarlane, 2003).
+Cultural differences between students from the Far East and the West, and
+the impact on student interaction and participation have been documented
+(for example, Cortazzi and Jin, 1997; Cortazzi, 2002; Turner, 2003). In an
+attempt to stimulate discussion and encourage greater class participation, I
+wanted to test the use of the PRS. Specifically, I wanted to find out whether
+using the PRS technology in my classes would overcome their inhibition
+towards making a contribution to class discussions. I also hoped that using
+the PRS would enhance the learning process for all of the students on my
+course.
+The PRS technology offers the lecturer the opportunity to ask a group of
+students a series of Multiple Choice Questions (MCQs). Students reply individually
+to each question posed by selecting a button on a hand-held
+wireless transmitter. This is similar to "Ask the Audience' on the television
+game show "Who Wants to be a Millionaire?' (Seenan, 2000). At present,
+only a few companies manufacture the PRS, and to my knowledge, there is
+not widespread use of this technology in UK universities. However, some
+studies have found clear benefits of using the PRS in large undergraduate
+classes in the UK (see for example, Elliott, 2002, 2003; Williams, 2002;
+Madill, 2003).
+On an accounting postgraduate level course at Lancaster University, I
+tested out the use of the PRS and examined students' reactions to the technology.
+In particular, I was interested in the reaction of students from the
+Far East to the PRS as compared to other teaching methods.
+This article describes the rationale for using such technology before a
+discussion of how the PRS works. There will then be consideration of both
+my own and the students' reactions to using the PRS. The article concludes
+with a discussion of the advantages and disadvantages of using the PRS and
+suggestions for future wider use of PRS technology.
+Background and rationale for using the PRS
+The idea of using MCQs in lectures is not new: before the PRS was
+developed, lecturers used MCQs in lectures, asking students to respond by
+raising different coloured cards to vote (see for example, Harden et al.,
+1968; Dunn, 1969) or raising their hands. Harden et al. (1968) suggests
+that although lecture preparation time is increased if MCQs are used, more
+effective teaching and learning during class time takes place. Draper et al.
+(2002) detail the many pedagogic uses of the PRS, which include formal
+assessment and the provision of formative feedback to students and lecturers
+on a real-time basis. Prior evidence suggests that the PRS is useful in
+many subject areas at the undergraduate level. For example, Hake (1998)
+concluded that the PRS improved students' problem-solving skills and as a
+consequence students performed better in subsequent testing. Cue (1998)
+found that the PRS stimulated student interest for the subject and increased
+the depth of student learning. Elliott (2002, 2003) found that the PRS is
+useful for generating and maintaining student interest and checking
+students' understanding. Therefore a body of literature exists that suggests
+there are many potential benefits of the PRS at the undergraduate level.
+
+However, to the author's knowledge, there is little evidence of postgraduate
+students' reaction to the PRS.
+I experimented with the PRS on a course which is a compulsory
+component for students registered on the MSc in Accounting and Financial
+Management. In recent years students from the Far East have dominated the
+student cohort. For example in academic year 2002/03, just over half of
+the class cohort had Chinese nationality, with the remainder of students
+originating from the UK and mainland Europe, Brazil, India, Malaysia and
+Taiwan. There can be up to 60 students in this class, although I have also
+used the PRS successfully in much larger undergraduate classes.
+The act of "making sense' of course material and reconstructing knowledge
+is an important part of the learning process for students (Jonassen,
+1992). There are two extreme learning approaches highlighted by the
+literature: surface and deep learning strategies. The surface approach involves
+the student skimming over the material and tending to learn things by "rote'
+without understanding, rather than considering the linkages between
+concepts. The deep approach is where the student engages fully with the subject
+matter. A deep learning approach enables the student to make various
+linkages between topics and see the course as a whole, rather than a series
+of independent topics (Lucas, 2001). Biggs (1999) suggests that students
+taking a deep approach will be less likely to have "knowledge boxes' and
+fragmented understanding. Such students will therefore be more likely to
+integrate knowledge and understanding. I particularly wanted to encourage
+students to make a more active contribution to discussion during class
+time, to promote linkage between various topics and encourage deep
+learning to take place.
+The PRS encourages students to engage in active learning, maintaining
+their concentration and attention span in lectures. The course does not have
+any formal tutorials or seminars for discussion of problems/issues,
+although I used a number of formats in the sessions including traditional
+lectures, debate of controversial issues and problem classes. The course
+sessions were one-and-a-half hours long, thus creating the need for small
+tasks and short breaks during the lecture to maintain concentration. Maintaining
+interest and attention is important and MacManaway (1970) and
+Gibbs et al. (1987) suggest that the average student has an attention span
+of only around 20 minutes. The PRS was very effective for breaking up the
+sessions and maintaining student interest. Following the use of the PRS,
+some time was allocated for discussion. This provided an opportunity for
+questions of clarification, which is another important component in the
+learning process (Bligh, 1998). Where a majority of students provided the
+incorrect answer to a question, there was a period of class discussion/
+debate used for clarification purposes.
+
+Interaction is an important element because it encourages students to
+express an opinion on the issues for discussion. These sessions give the
+opportunity for students to practise their communication skills in a group
+setting. The PRS is a stimulus for discussion and interaction. It does not per
+se encourage this unless the lecturer stimulates discussion of material after
+the votes have been cast. I found that the PRS's graphical representation of
+student responses was a "talking-point' and I used this to engage students
+with course material to promote deep learning approaches.
+Students of Far Eastern origin, like all others, have perceptions of what
+makes good teaching. Xiao and Dyson (1999) suggest that, for Chinese
+students, these include an in-depth knowledge of the subject, the use of
+effective and interesting teaching methods, an organized and clear presentation
+of material and an aptitude for encouraging further self-study. Thus
+it emerges from Chinese students' perspective that good teachers should be
+able to encourage and motivate self-study rather than participation in the
+classroom per se. However, there is some change emergent in Chinese
+universities. There has been an attempt to incorporate wider skills development
+and encouragement of greater participation in class discussion in
+Chinese universities, although there is inertia and traditional approaches
+still dominate (Lin and Deng, 1992; Cooper et al., 1994).
+The learning preferences of students from the Far East contrast with the
+typical learning and teaching style used in UK universities. For example,
+Cortazzi (2002) suggests students from Chinese universities are used to
+"learner-trained' teaching. Students typically recite, memorize and learn
+material and much of students' learning takes place during self-study. This
+approach to study is often misconstrued as "rote memorizing' and taking a
+surface approach to the material (Watkins and Biggs, 1996; Prosser and
+Trigwell, 1999). However, this is clearly not the case as such students can
+be deeply engaged in the subject and they often complete vast amounts of
+self-study (Cooper, 2004). These students are simply not used to responding
+instantaneously and are often therefore reluctant to contribute to class
+discussions for fear of giving the wrong answer and "losing face'. It is
+probably true to say that such students believe they can learn more from
+the teacher than from their peers (Cortazzi, 2002). This may lead them to
+believe there is little that can be achieved and gained through class
+discussion, despite our emphasis on the importance of debating key issues.
+The PRS enables students to answer questions anonymously. The lecturer
+reveals how many students have voted for each option and then there can
+be a debate about which is the correct answer. Students from the Far East
+are not used to this type of class discussion. Hence, the students' lack of
+responsiveness to the prompts for class discussion that I, and doubtless
+others who teach such students, have experienced in the past is not entirely
+surprising. It is also important to acknowledge that not all students "learn
+in the same way'; each student has their own preference and this may
+change over time (Marriott, 2002; Marriott and Marriot, 2003).
+What is the Personal Response System and how
+does it work?
+The PRS is used to test students' understanding through a series of Multiple
+Choice Questions (MCQs). Each student is provided with a handset with
+buttons for use with MCQs to register their vote. The format of MCQs is
+flexible and it is possible to use MCQs with up to 10 possible answers.
+When I used the system, I limited MCQs to five possible answers to ensure
+questions did not take too long to read and attempt, allowing sufficient time
+for discussion and debate of student responses.
+Following voting there is a wireless transmission of responses to portable
+receivers placed at the front of the lecture theatre. The receivers are
+connected to a computer with specific software that collates responses and
+displays results in the form of a bar chart. I displayed the MCQs on an
+overhead projector and projected the PRS visual display on to another
+screen at the same time. Prior to voting a screen of empty cells is shown
+on the visual display. As each student votes for a particular alternative, a cell
+is highlighted on the PRS display. It is possible to allow students to vote
+with "high' or "low' confidence, which provides the lecturer some idea of
+a student's certainty of their answer being correct. When the student inputs
+a confidence rating before voting this will be indicated by a different colour
+in the cell on the visual display. This confidence rating is also reflected in
+the graphical display of results.
+There is a time limit for voting during which students have the opportunity
+to change their vote. (It is possible for the lecturer to vary the amount
+of time given per question and the number of changes students can make
+to their vote, depending on the difficulty of the question.) The lecturer asks
+the question and starts the clock on the programme. The time remaining
+to answer the question is shown on the visual display. A record of the
+number of handsets used to vote and the number of attempts made by each
+handset for each question is kept by the system. The lecturer may retrieve
+this at a later date. When the voting time is over, a bar chart summarizing
+the voting for that particular question is shown on the screen. This provides
+feedback to students and enables the lecturer to see what is well understood
+and the certainty of students' responses.
+It is possible to use the system in either a named or an anonymous mode. In
+the anonymous mode, as students vote the cell is highlighted and the number
+of their handset is displayed within this cell.

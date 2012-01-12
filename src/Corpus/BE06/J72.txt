@@ -1,0 +1,204 @@
+Increasing concern has been expressed about mortality, morbidity and the
+behavioural determinants of health among people with intellectual disabilities
+(Prasher and Janicki, 2002; Sutherland et al., 2002; Walsh and
+Heller, 2002). Smoking and the abuse of alcohol have been identified as
+two of the most significant behavioural risks to health (World Health
+Organization, 2002). To date, however, relatively little is known about
+either the prevalence of smoking or alcohol use or the personal and
+environmental risk factors associated with these behaviours among people
+with intellectual disabilities.
+
+Much of the available evidence suggests that the prevalence of
+smoking among adults with intellectual disability is lower than in the
+general population (Beange et al., 1995; Cooper, 1997; Minihan, 1999; Pack
+et al., 1998; Patja et al., 2001; Rimmer et al., 1994; 1995; Robertson et al.,
+2000; Wells et al., 1997; Whitaker and Hughes, 2003). There is evidence
+that increased prevalence is associated with less severe intellectual disability
+(O'Brien et al., 1991; Robertson et al., 2000), male gender (Rimmer et
+al., 1994; 1995; Robertson et al., 2000), living with someone who smokes
+(Whitaker and Hughes, 2003) and less restrictive residential setting
+(Minihan, 1999; Rimmer et al., 1994; 1995; Robertson et al., 2000),
+although the last finding may reflect between-setting differences in severity
+of intellectual disability. In this context, it is interesting to note that the one
+study that reported elevated prevalence rates of smoking among people
+with intellectual disability was conducted among a community-based
+sample of people with mild intellectual disabilities (Tracy and Hosken,
+1997).
+Alcohol use among people with intellectual disabilities has attracted
+slightly greater attention (Burgard et al., 2000; Delaney and Poling, 1990).
+Again, the available evidence suggests that the prevalence of alcohol use
+among adults with intellectual disability is lower than that reported in the
+general population (Beange et al., 1995; Edgerton, 1986; Lawrenson et al.,
+1995; McGillicuddy and Blane, 1999; Pack et al., 1998; Rimmer et al., 1995;
+Robertson et al., 2000; Wells et al., 1997). However, one of these studies
+did report elevated prevalence rates of binge drinking among a community-
+based sample of African American adolescents with mild intellectual
+disabilities (Pack et al., 1998). There is also some tentative evidence to
+suggest that the rate of alcohol abuse among users may be higher among
+adults with intellectual disabilities than in the general population
+(McGillicuddy and Blane, 1999). Risk factors reported to be associated with
+alcohol use are male gender (Krishef and DiNitto, 1981) and nature of
+living arrangememnts (Rimmer et al., 1995; Robertson et al., 2000).
+While overall rates of exposure to these behavioural risk factors may be
+less among people with intellectual disabilities, the reported levels of
+substance use do still represent a source for concern, particularly among
+adults with less severe intellectual disability. Thus, for example, rates of
+lung cancer among adults with mild intellectual disability are similar to
+those reported in the general population (Patja et al., 2001) and there is
+some evidence to suggest a link between alcohol use and offending among
+people with intellectual disability (McGillivray and Moore, 2001).
+However, the majority of these studies may be criticized on the grounds
+of small and/or unrepresentative samples (for exception see Beange et al.,
+1995; Patja et al., 2001). This issue is particularly relevant given the apparent
+association between severity of intellectual disability and substance use. It
+is also notable that very few studies have investigated smoking and alcohol
+use among adolescents with intellectual disability. Reliable information on
+use among this group is required to judge the likely impact of preventive
+public health interventions targeted at children and adolescents with intellectual
+disability or the inclusion of intellectually disabled children in
+generic health promotion activities. As noted by Tracy and Hosken (1997),
+85 percent of smokers with mild intellectual disabilities reported starting
+smoking before 18 years of age.
+In 1999 the Social Survey Division of the UK's Office for National
+Statistics (ONS) undertook a major study of the mental health of children
+and adolescents in Great Britain (Meltzer et al., 2000). It also collected brief
+information on self-reported smoking and alcohol use among participants
+11–15 years old. The aim of the present article is to present data derived
+from this study on smoking and alcohol use among adolescents with and
+without intellectual disabilities.
+Method
+Secondary analysis was undertaken on the 1999 ONS survey of the Mental
+Health of Children and Adolescents in Great Britain (Meltzer et al., 2000). Relevant
+data files (Office for National Statistics Social Survey Division, 1999) were
+obtained from the ESRC Data Archive. Full details of the design, instrumentation
+and sampling procedure are presented in Meltzer et al. (2000).
+Sampling and procedure
+The ONS survey collected information on a multistage random sample,
+stratified by age and sex within 475 postal code sectors in England, Scotland
+and Wales, of 4526 children aged 11–15 years (83 percent of the target
+sample). All participants were living with either natural or substitute
+parents in private households.
+Information was collected by highly structured face-to-face interview
+for all children with the child's primary carer (a natural or substitute
+parent, e.g. foster parent, adoptive parent, grandparent). In 95 percent of
+cases the primary carer was the child's mother. Information was also
+collected by highly structured face-to-face interview with the child themselves
+for 4164 children (92 percent of children). Both carer and child
+interviews were conducted in private in a room in the child's home with
+just the interviewer and interviewee present.
+The interview schedule was programmed onto a laptop computer.
+Information was recorded direct onto the laptop at the time of interview.
+Lay interviewers were recruited to the project and provided with detailed
+instructions and training materials (for full details see Office for National
+Statistics Social Survey Division, 1998).
+Measures
+The interview schedule contained a number of simple self-report items
+concerned with: (1) whether the child had ever smoked or drunk alcohol
+(e.g. "Do you smoke cigarettes at all these days?'); (2) current patterns of
+smoking and alcohol use (e.g. "Have you ever had a proper alcoholic drink
+– a whole drink, not just a sip?'). A number of measures of family functioning
+were also included within the ONS survey. These included: the
+GHQ–12 (Goldberg and Williams, 1988) to estimate psychiatric morbidity
+among parental informants; the general functioning scale of the
+MacMaster Family Activity Device (Byles et al., 1988; Miller et al., 1985) to
+identify "unhealthy' patterns of family functioning; a nine-item scale
+exploring parental reward strategies and punishment regimes (Meltzer et
+al., 2000); and a 10-item measure of potentially stressful life events experienced
+by the child (Meltzer et al., 2000). The complete interview schedule
+is presented in Meltzer et al. (2000).
+Definition of intellectual disabilities
+The ONS survey did not measure whether children had an intellectual disability.
+As a result, it was necessary to combine survey items to operationally
+identify children who were likely to have intellectual disabilities.
+A child was defined as having intellectual disabilities if either (1) their
+parents reported that their child had "learning difficulties' (the UK term
+for intellectual disabilities) and that they had been seriously concerned
+about their child's language development during the first 3 years of their
+life; or (2) the child attended a school for children with "learning difficulties'.
+Children were subsequently excluded from this group if information
+collected from teachers indicated that any of the following three
+conditions were met: (1) the child was attending a mainstream school
+and their class teacher reported them to be of average ability in any one
+of the three areas of reading, mathematics or spelling; (2) their developmental
+age (as estimated by their class teacher) was greater than 80
+percent of their chronological age; (3) they were at least 7 years of age and
+had not progressed beyond stage 2 in the process of the identification of
+special educational needs (Department for Education, 1994).
+The operational definition employed in the study led to the identification
+of 124 children aged 11–15 as having intellectual disabilities. This is
+equivalent to an overall prevalence of intellectual disabilities in the 11- to
+15-year-old sample of 2.8 percent. Of these children, 97 (78 percent) were
+attending schools or units for children with intellectual disabilities. The
+prevalence of intellectual disabilities in the sample varied as a function of
+gender, age and social deprivation in a manner consistent with that
+reported by epidemiological studies of the prevalence of intellectual
+disabilities (Emerson, 2003).
+Participants
+Face-to-face interviews on smoking and alcohol use were conducted with
+95 children with intellectual disabilities (77 percent of the target sample).
+The sample of interviewed children with intellectual disability (ID)
+differed from the non-intellectually disabled sample (n-ID) in two
+potentially relevant aspects. First, the sample of children with intellectual
+disability contained a greater proportion of boys (ID 79 percent, n-ID 50
+percent; OR = 3.79, 95 percent CL 2.30–6.22). Second, the sample of
+children with intellectual disability contained a greater proportion of
+children living in poverty (defined as living in a household with equivalized
+household income less than 60 percent of sample median: ID 47
+percent, n-ID 28 percent; OR = 2.27, 95 percent CL 1.49–3.45).
+Data analysis
+Data analysis proceeded in three stages. First, simple measures of effect size
+were used to explore associations between membership of the intellectual
+disability and non-intellectual disability subsamples and self-reported
+smoking and alcohol use. Second, when evidence of an association between
+subsample membership and a dependent variable was observed, multivariate
+analyses (logistic regression) were used to explore whether this
+difference may be due to the between-subsample differences in gender and
+poverty. Finally, multivariate analyses were employed to identify variables
+associated with smoking and alcohol use within the intellectual disability
+subsample. In general, the results of analyses are presented in terms of
+effect size rather than null hypothesis significance testing (Wilkinson and
+Task Force on Statistical Inference, 1999).
+Results
+Smoking
+Self-report of current and past smoking behaviour is presented in Table 1.
+The results suggest that self-reported rates of being a current smoker are
+elevated among children with intellectual disabilities (95 percent CL for
+OR &gt; 1.0). However, self-reported rates of smoking seven or more
+cigarettes a day or having ever smoked more than once are similar for the
+two groups (95 percent CL for OR includes 1.0).
+Due to the potentially salient between-sample differences (see above)
+the elevated rates of self-report of being a current smoker were further
+examined controlling for the effects of poverty and gender in a series of
+logistic regression analyses. Controlling for the effects of between-sample
+differences in poverty reduced the OR for intellectual disability from 1.80
+to 1.65 (95 percent CL 0.88–3.08). Controlling for the effects of betweensample
+differences in gender increased the OR for intellectual disability
+from 1.80 to 2.03 (95 percent CL 1.11–3.68).
+Predictors of being a current smoker were examined for the subsample
+of children with intellectual disability. In order to control for the effects of
+confounds, between-variables analyses were undertaken using multivariate
+analysis (binary logistic regression, conditional variable entry, entry
+p &lt; 0.05, exit p &lt; 0.1). Candidate predictor variables were: child gender,
+child physical disability, child mental health, poverty, being brought up by
+a lone parent, being brought up by a parent with mental health problems,
+patterns of unhealthy family functioning, the educational attainments of
+the child's primary carer, home ownership, housing type, punitive and
+rewarding child management practices, exposure to potentially stressful life
+events or the number of children living in the household. The results of
+these analyses are presented in Table 2. As can be seen, among the subsample
+of children with intellectual disability, being a current smoker was
+EMERSON &amp; TURNBULL: SELF-REPORTED SMOKING AND ALCOHOL USE
+63
+Table 1 Self-reported smoking
+Item Children with Children without Odds 95% CL for
+intellectual disabilities intellectual disabilities ratio odds ratio
+the cutoff point on the GHQ–12 (indicating possible psychiatric
+disorder).
+Discussion
+The present study is the first undertaken in this field to employ a rigorous
+approach to population-based sampling at a national level. As such, it
+avoids the significant problems associated with previous studies that have
+primarily relied on local administratively defined samples of people with
+intellectual disabilities. Such samples are likely to significantly underrepresent
+people with less severe intellectual disabilities.
+

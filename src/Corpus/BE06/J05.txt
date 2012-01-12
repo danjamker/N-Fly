@@ -1,0 +1,226 @@
+Introduction
+The social stigma of intellectual inferiority ascribed to some
+groups within society, such as African Americans and women, has
+been hypothesized to be a significant contributor to their poor performance
+on tests, and this in turn may reinforce this perception of
+intellectual inferiority (Aronson et al., 2002). As it is believed that
+these individuals are under extra pressure to succeed due to their
+fears that they will confirm the stereotypes held about them, this
+phenomenon is called stereotype threat (Steele and Aronson,
+1995). Reducing the salience of these stereotypes reduces individuals'
+concerns that they might confirm the stereotype and
+improves performance. For example, Steele and Aronson (1995)
+found that African American students performed significantly
+worse than white students on a (standardized) test when the test
+was presented as a diagnosis of their intellectual abilities but not
+when it was presented in a neutral way. Similarly, women who
+were led to believe that a test had been biased against them performed
+worse than women who believed it was a gender neutral
+test (Spencer et al., 1999). Stereotype threat has also been
+demonstrated in other ethnic groups (e.g. Gonzales et al., 2002),
+the economically disadvantaged (Croizet and Claire, 1998), homosexual
+men (Bosson et al., 2004), clinical populations with head
+injury (Suhr and Gunstad, 2002), the elderly (Levy, 1996), and
+even psychology students (Croizet et al., 2004).
+These studies suggest that stereotype threat creates an additional
+burden that interferes with cognitive ability. Increased
+anxiety has been observed in some, but not all, studies of stereotype
+threat and reducing anxiety reduces the impact of stereotype
+threat (Spencer et al., 1999). Stereotype threat also reduces
+working memory capacity, which suggests a cognitive mechanism
+by which an individual's performance on a complex cognitive
+task may be impaired (Schmader and Johns, 2003). Taken
+together, these findings suggest that individuals experiencing
+stereotype threat have a higher mental workload. Croizet and colleagues
+(2004) demonstrated that heart rate variability was
+decreased in psychology students experiencing stereotype threat,
+suggesting that this threat had a psychophysiological effect. As
+heart rate variability is a useful measure of mental workload that
+is independent of performance outcomes, this demonstrates that
+individuals under stereotype threat have a higher mental workload.
+Many studies of ecstasy users have demonstrated that they
+have poorer performance on a variety of cognitive tests relative to
+non-ecstasy using controls (e.g. Morgan, 1999; Thomasius et al.,
+2003), though this is not always found to be the case (e.g. Simon
+and Mattick, 2002; Dafters et al. 2004). The hypothesized cause of
+these cognitive deficits is MDMA-induced serotonergic neurotoxicity
+(e.g. Parrott, 2001), a phenomenon detected after MDMA is
+repeatedly administered to non-human animals (e.g. Miller and
+O'Callaghan 1994; O'Loinsigh et al. 2000; Morley et al. 2004).
+The relationship between ecstasy use and cognitive function is
+widely reported in the media (e.g. "Ecstasy leaves gaps in the
+memory', Guardian, UK 15/1/2004), and by government
+sponsored drugs education campaigns (e.g. Talk to Frank
+(www.talktofrank.co.uk) in the UK and NIDA Club Drugs in the
+USA (www.clubdrugs.org)), and therefore disseminated throughout
+the general population (Cole et al., 2002a; Green, 2004). It is
+conceivable that this dissemination of information about brain
+damage and memory deficits may be creating stereotypes about
+intellectual inferiority in the minds of ecstasy users. If this is the
+case, then it is possible that ecstasy users may be experiencing
+stereotype threat when they participate in experiments that they
+believe to be testing their memory. A direct test of this hypothesis
+would be to replicate previous stereotype threat experiments
+where the stereotype (such as intellectual inferiority in African
+Americans (Steele and Aronson, 1995)) is primed prior to the test
+in order to produce performance decrements. To do this, experimental
+participants would need to be primed with information that
+ecstasy use causes brain damage that leads to permanent memory
+deficits in users. This priming should have no effect on the performance
+of non-ecstasy users (relative to those who are not
+primed). However, ecstasy users should show poorer memory
+scores after being primed than ecstasy users who are not primed,
+as they are experiencing stereotype threat.
+The purpose of this study was to investigate the possible contribution
+of stereotype threat to ecstasy users' performance on measures
+of verbal memory, working memory and executive function
+that have frequently been employed in studies of ecstasy users, by
+comparing test performance in ecstasy users and controls primed
+with information supportive of the link between ecstasy use and
+brain damage and ecstasy users and controls given information that
+does not support this link. It was hypothesized that ecstasy users
+would perform worse than controls in the prime condition while
+the two groups would perform similarly when not primed.
+Methods
+Subjects
+Sixty-eight unpaid volunteers (aged 18–36) were recruited by
+means of posters across the University campus and city centre,
+Internet advertisements, the "snowball' technique and the key
+informant access method, which are all standard methods of
+recruitment for this type of research. People were excluded from
+study participation if they reported their first language was not
+English, current or past use of prescribed psychiatric medication,
+lifetime diagnosis of a psychological or affective disorder and lifetime
+diagnosis of a psychological or affective disorder in an
+immediate family member. Current users of heroin or crack
+cocaine would also have been excluded but none were recruited.
+Subjects were allocated to one of four sex matched groups
+(n_17/group), according to self-reported drug history and experimental
+condition (see below). Polysubstance misusers who
+reported lifetime use of ecstasy were classed as ecstasy users,
+which is standard for this type of experiment. Both controls and
+ecstasy using groups had abstained from using any substance for a
+mean of 10.3_5.9 and 7.1_0.9 days respectively. All control
+subjects were alcohol users with experiences of illicit substances,
+but who did not report a lifetime use of ecstasy. All participants
+self-reported being drug free on the day of testing but this was not
+objectively verified due to lack of funds. Written informed consent
+was obtained from all volunteers and the study proceeded with the
+approval of the Research Ethics Committee of the University of
+Liverpool.
+Questionnaire design
+Substance use assessment A questionnaire, similar to that used
+in our previous work (e.g. Sumnall et al., 2004) collected a variety
+of substance use related information, including lifetime and last
+month prevalence and frequency, and simultaneous polysubstance
+misuse. Additional questions relating to the previous month were
+included as indicators of current substance use. Whilst use of a
+wide variety of substances was assessed, more detailed information
+was requested for alcohol (number of units drunk/week;
+number of episodes/week), cannabis (number of joints
+smoked/week; number of episodes/week) and ecstasy (number of
+tablets taken/episode). The questionnaire also included items
+regarding volunteer's beliefs about the effects of drug use on
+memory and psychopathology, and whether they believed media
+reports about drugs. These measures were included to act as attitudinal
+covariates in other analyses. Naloxone was included to
+identify subjects who falsely reported their drug use. Participants
+who reported the use of naloxone would be removed from the
+study as their self-reported drug use would be deemed unreliable.
+Substance use disorder and psychopathology Problematic substance
+misuse and self-reported levels of anxious and depressive
+symptomatology were measured with the Alcohol Use Disorders
+Identification Test (AUDIT; Babor et al., 2001), the Severity of
+Dependence Scale for cannabis (SDS-Cannabis; Swift et al.,
+1998), the Drug Abuse Screening test (DAST; Skinner 1982) and
+the Hospital Anxiety and Depression Scale (HADS; Johnston et
+al., 2000).
+The AUDIT is a ten item screening and research questionnaire
+for early detection of harmful alcohol use, with subscales assessing
+patterns of alcohol consumption, drinking behaviour, adverse
+reactions and problem drinking. The AUDIT assesses current
+drinking behaviour and discriminates between hazardous and nonhazardous
+drinking. The SDS-Cannabis was derived from the original
+SDS (Gossop et al., 1995) by Swift and colleagues (1998)
+and has excellent psychometric properties. There is a strong
+association between SDS score and those behavioural patterns of
+substance use indicative of drug dependence (Gossop et al., 1995).
+The DAST is a quantitative indicator of problematic use for
+substances other than alcohol and tobacco for non-medical
+purposes.
+
+Cognitive tests
+Volunteers were required to complete the prose recall task from
+the Rivermead Behavioural Memory Test battery (RBMT; Wilson
+et al., 1985), Digit Span (Weschler, 1981), and the Controlled
+Oral Word Association (COWA) task (Troyer et al., 1998).
+The RBMT prose recall test is a short and reliable measure of
+everyday memory, used to measure immediate and delayed recall.
+A brief news story is played from an audio CD, and the subject is
+required to recall words and ideas immediately after presentation,
+and then after a 20 minute delay. Forward and backward digit span
+was taken from the revised Weschler Adult Intelligence Scale
+(WAIS-R). In this task, subjects are required to repeat progressively
+longer sequences of numbers in both forwards and backwards
+directions. The COWA task assessed verbal fluency and
+required the generation of words beginning with the letters F, A
+and S in individual 1 min periods. Three scores were generated:
+the total number of words; clusters, which are words beginning
+with the same first two letters, words differing by only a vowel
+sound, rhymed or were homonyms; and switches, which are the
+number of shifts between clusters. Frequent switching between
+clusters reflects optimal verbal fluency performance (Troyer et al.,
+1998).
+Procedure
+Before completing the questionnaire and cognitive tests, volunteers
+were provided with a study information sheet, which served
+as the stereotype threat manipulation. Half of the participants (17
+ecstasy users and 17 controls) received the prime version, which
+stated that there was strong evidence linking ecstasy use and
+mnemonic dysfunction. The remaining participants (17 ecstasy
+users and 17 controls) received the no prime information, which
+asserted that there was no conclusive evidence supporting a link.
+The manipulations were also verbally reinforced by the experimenter
+(KM) after the subject had read the information sheet. Volunteers
+then completed the questionnaire and the cognitive
+assessments. Heart rate was recorded with a commercially available
+monitor before and after the experimental sessions in order to
+assess physiological responses to task performance (Boots Plc,
+UK). After completing all of the tasks, participants were
+debriefed, the purpose of the experiment was explained to them,
+and they were informed that they had been misled as part of the
+procedure and given accurate information about the long-term
+effects of controlled drug use.
+Statistical analysis
+Differences in drug use parameters were examined with one-way
+ANOVA and chi square tests. Two-way ANOVA with planned
+comparisons was used to examine the effects and interactions of
+ecstasy use, priming status and gender on test scores. Change in
+heart rate was examined with repeated measures ANOVA. Backwards
+stepwise linear and logistic regression was used to explore
+demographic, drug use, attitudinal, test and scale variables. Relationships
+between self-reported drug use parameters were further
+analysed by Spearman's correlation with a modified Bonferroni
+correction applied to significant results to control for type I statistical
+errors (Jaccard and Wan, 1996). A significance level of p_0.05
+was set for all tests and data were analysed using SPSS v 12.
+Results
+It was found that 83.8% of all participants believed that drug use
+caused memory loss and 76.5% that drug use caused psychiatric
+problems, like depression. Table 1 displays substance use parameters
+reported by the four groups. A higher proportion of ecstasy
+users reported a lifetime use of amphetamine, cannabis, cocaine,
+ecstasy and LSD than control subjects, although there were no differences
+in drug use between primed and unprimed ecstasy users
+(see Table 1 for _??. Furthermore, both groups of ecstasy users
+reported more frequent use of cannabis and a greater number of
+episodes and joints smoked in the previous week; more frequent
+use of, and fewer days of abstinence from, cocaine; and more frequent
+use of LSD (although only the primed ecstasy group
+reported use in the last month) (see Table 1 for F and P values).
+The frequency of ecstasy use per month was found to correlate
+positively with monthly use of amphetamine (r_0.772,
+p_0.001), monthly use of poppers (r_0.801, p_0.001),
+monthly use of cocaine (r_0.403, p_0.05) and the number of
+ecstasy tablets taken per episode (r_0.744, p_0.001).
+Drug use. 

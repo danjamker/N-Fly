@@ -1,0 +1,309 @@
+<text id="H11" category="" words="1991" checkedby="" modifiedby="" Title="Middle Africa Development Indicators 2006 " Author="The World Bank Washington DC" PublicationDate="2006" SampledFrom="Middle" WebAddress="http://siteresources.worldbank.org/INTSTATINAFR/Resources/ADI_2006_text.pdf">
+
+7. Infrastructure
+
+Internal fresh water resources per capita is the
+sum of total renewable resources, which include
+internal fl ows of rivers and groundwater
+from rainfall in the country, and river
+fl ows from other countries.
+Population with sustainable access to an improved
+water source is the percentage of population
+with reasonable access to an adequate
+amount of water from an improved source,
+such as a household connection, public
+standpipe, borehole, protected well or spring,
+or rainwater collection. Unimproved sources
+include vendors, tanker trucks, and unprotected
+wells and springs. Reasonable access is
+defi ned as the availability of at least 20 liters
+a person a day from a source within 1 kilometer
+of the user's dwelling.
+Population with sustainable access to improved
+sanitation is the percentage of the
+population with at least adequate access to
+excreta disposal facilities that can eff ectively
+prevent human, animal, and insect contact
+with excreta. Improved facilities range from
+simple but protected pit latrines to fl ush toilets
+with a sewerage connection. / e excreta
+disposal system is considered adequate if it
+is private or shared (but not public) and if it
+hygienically separates human excreta from
+human contact. To be eff ective, facilities
+must be correctly constructed and properly
+maintained.
+Average nonrevenue water is the diff erence
+between water supplied and water sold (that
+is, the volume of water "lost") expressed as a
+percentage of net water supplied.
+Water supply failure for fi rms receiving water
+is the average number of days per year that
+fi rms experienced insuffi cient water supply
+for production.
+Average household tariff s for water services,
+largest city are the average tariff s for wastewa ter services for household consumers in the
+largest city.
+Committed nominal investment in potable
+water projects with private participation is annual
+committed investment in potable water
+projects with private investment.
+Average annual offi cial development assistance
+(ODA) disbursements for water and sanitation
+are average annual ODA for water and
+sanitation, including bilateral, multilateral,
+and other donors.
+Source: Data on fresh water resources are
+from the World Bank's World Development
+Indicators database. Data on access to water
+and sanitation are from the World Health
+Organization and United Nations Children's
+Fund's Meeting the MDG Drinking Water
+and Sanitation Target (www.unicef.org/wes/
+mdgreport). Data on average nonrevenue
+water and average household tariff s for water
+services in the largest city are from the
+International Benchmarking Network for
+Water and Sanitation Utilities (IBNET). Data
+on water supply failure are from World Bank
+Investment Climate Surveys. Data on committed
+nominal investment in potable water
+projects with private participation are from
+the World Bank's Private Participation in
+Infrastructure database. Data on ODA disbursements
+are from the Organisation for
+Economic Co-operation and Development.
+
+Total length of road network is the length
+of motorways, highways, main or national
+roads, secondary or regional roads, and other
+roads.
+Total length of national road network is the
+length of the interurban classifi ed network
+without the urban and rural network.
+Rail lines are the length of railway route
+available for train service, irrespective of the
+number of parallel tracks.
+Road density, ratio to arable land is the total
+length of national road network per 1,000
+square kilometers of arable land area. / e use
+of arable land area in the denominator focuses
+on inhabited sectors of total land area by
+excluding wilderness areas.
+Road density, ratio to total land is the total
+length of national road network per 1,000
+square kilometers of total land area.
+Energy consumption for transportation is the transportation sector's contribution to total
+fi nal energy consumption.
+Rural access is the percentage of the rural
+population who live within 2 kilometers of
+an all-season passable road as a share of the
+total rural population.
+Commercial vehicles are the number of commercial
+vehicles, which use at least 24 liters
+of diesel fuel per 100 kilometers.
+Passenger cars are the number of passenger
+vehicles, which use at least 9 liters of gasoline
+fuel per 100 kilometers.
+Length of national network in good condition
+is the length of the national road network,
+including the interurban classifi ed network
+without the urban and rural network, that is
+in good condition, as defi ned by each country's
+road agency.
+Ratio of paved to total roads is the length of
+paved roadsówhich are those surfaced with
+crushed stone (macadam) and hydrocarbon
+binder or bituminized agents, with concrete,
+or with cobblestonesóas a percentage of all
+the country's roads.
+Average time to ship 20 ft container from port
+to fi nal destination is the time in days from
+when the ship is available for unloading (be
+it moored at the berth or off shore) until the
+content of the container is made available to
+the fi nal customer at the destination in the
+considered economic center, weighted based
+on container traffi c for each corridor.
+Firms identifying transport as major or very
+severe obstacle to business operation and growth
+is the percentage of fi rms that responded
+"major" or "very severe" obstacle to the following
+question: "Please tell us if any of the
+following issues are a problem for the operation
+and growth of your business. If an issue
+(infrastructure, regulation, and permits)
+poses a problem, please judge its severity as
+an obstacle on a fi ve-point scale that ranges
+from 0 = no obstacle to 5 = very severe
+obstacle."
+Average cost to ship 20 ft container from
+port to fi nal destination is the costs of all operations
+associated with bringing a container
+from onboard a ship to the considered economic
+center, weighted based on container
+traffi c for each corridor.
+Price of diesel fuel and super gasoline is the
+price as posted at fi lling stations in a country's
+capital city. When several fuel prices for
+major cities were available, the unweighted average is used. Since super gasoline (95 octane/
+A95/premium) is not available everywhere,
+it is sometime replaced by regular gasoline
+(92 octane/A92), premium plus gasoline
+(98 octane/A98), or an average of the two.
+Committed nominal investment in transport
+projects with private participation is annual
+committed investment in transport (including
+roads, airport, seaport, toll road, and railroad)
+projects with private investment.
+Average annual offi cial development assistance
+(ODA) disbursements for transportation
+and storage are average annual ODA for transportation
+and storage, including bilateral,
+multilateral, and other donors.
+Existence of road fund includes fi rst generation
+(funded primarily by earmarked taxes)
+and second generation (funded primarily by
+user charges) road funds.
+Source: Data on total length of road network
+are from the International Road Federation's
+World Road Statistics. Data on total length of
+national network, length of national network
+in good condition, average time and cost to
+ship 20 ft container, and existence of a road
+fund are from the World Bank's Sub-Saharan
+Africa Transport Policy Program (SSATP).
+Data on rail lines and ratio of paved to total
+roads are from the World Bank's World Development
+Indicators database. Data on road
+density and rural access to roads are from
+the World Bank's SSATP and World Development
+Indicators database. Data on energy
+consumption for transportation are from the
+International Energy Agency. Data on vehicle
+fl eet and fuel and gasoline prices are from the
+German Society for Technical Cooperation
+(GTZ). Data on fi rms identifying transport
+as a major or very severe constraint to business
+operation and growth are from World
+Bank Investment Climate Surveys. Data on
+committed nominal investment in transport
+projects with private participation are from
+the World Bank's Private Participation in
+Infrastructure database. Data on ODA disbursements
+are from the Organisation for
+Economic Co-operation and Development.
+
+Telephone subscribers are subscribers to a
+main telephone line service, which connects a
+customer's equipment to the public switched telephone network, or to a cellular telephone
+service, which uses cellular technology.
+Unmet demand is unmet applications for
+connection to the public switched telephone
+network that have had to be held over owing
+to a lack of technical facilities (equipment,
+lines, and the like) divided by the number of
+main telephone lines in operation.
+Households with own telephone is the percentage
+of households possessing a telephone.
+Delay for fi rm in obtaining a telephone connection
+is the average actual delay in days that
+fi rms experience when obtaining a telephone
+connection, measured from the day the establishment
+applied to the day it received the
+service or approval.
+Duration of telephone outages is the average
+duration in hours of instances of telephone
+unavailability related to production.
+Reported phone faults is the total number
+of reported faults for the year divided by
+the total number of mainlines in operation
+multiplied by 100. / e defi nition of fault can
+vary. Some countries include faulty customer
+equipment; others distinguish between reported
+and actual found faults. / ere is also
+sometimes a distinction between residential
+and business lines. Another consideration is
+the time period: some countries report this
+indicator on a monthly basis; in these cases
+data are converted to yearly estimates.
+Firms identifying telecommunications as major
+or very severe obstacle to business operation
+and growth is the percentage of fi rms that responded
+"major" or "very severe" obstacle to
+the following question: "Please tell us if any
+of the following issues are a problem for the
+operation and growth of your business. If an
+issue (infrastructure, regulation, and permits)
+poses a problem, please judge its severity as an
+obstacle on a fi ve-point scale that ranges from
+0 = no obstacle to 5 = very severe obstacle."
+Cost of a cellular local call is the cost of a
+three-minute cellular local call during off -
+peak hours.
+Cost of a local phone call is the cost of a threeminute
+local call during peak hours. Local call
+refers to a call within the same exchange area
+using the subscriber's own terminal (that is,
+not from a public telephone).
+Cost of phone call to the United States is
+the cost of a three-minute call to the United
+States during peak hours. Committed nominal investment in fi xed-line
+and long distance projects with private participation
+is annual committed investment in
+fi xed-line and long distance projects with private
+investment.
+Committed nominal investment in mobile
+projects with private participation is annual
+committed investment in mobile projects
+with private investment.
+Average annual offi cial development assistance
+(ODA) disbursements for communications are average
+annual ODA for communications, including
+bilateral, multilateral, and other donors.
+Source: Data on telephone subscribers, reported
+phone faults, and cost of local and cellular
+calls are from the International Telecommunications
+Union. Data on unmet demand
+are from the World Bank's Infrastructure
+Vice Presidency. Data on households with
+own telephone are from Demographic and
+Health Surveys. Data on delays for fi rms in
+obtaining a telephone connection, duration
+of telephone outages, and fi rms identifying
+telecommunications as a major or very severe
+obstacle to business operation and growth
+are from World Bank Investment Climate Assessments.
+Data on cost of a call to the United
+States are from the World Bank's Global
+Development Finance and World Development
+Indicator databases. Data on committed
+nominal investment are from the World
+Bank's Private Participation in Infrastructure
+database. Data on ODA disbursements are
+from the Organisation for Economic Co-operation
+and Development.
+
+Installed capacity is the sum of conventional
+thermal electricity installed capacity; hydroelectricity
+installed capacity; nuclear electricity
+installed capacity; and geothermal, solar,
+wind, wood, and waste electricity installed
+capacity.
+Electric power consumption is the production
+of power plants and combined heat and
+power plants, less distribution losses and
+own use by heat and power plants.
+Energy use per purchasing power parity (PPP)
+gross domestic product (GDP) is apparent consumption,
+which is equal to indigenous production
+plus imports and stock changes minus
+exports and fuels supplied to ships and
+aircraft engaged in international transport, divided by nominal GDP in PPP U.S. dollars.
+Access to electricity is the percentage of the
+population living in households with access
+to electricity. Solid fuels use is the percentage of the
+population using solid fuels as opposed to
+modern fuels.
+
+</text>

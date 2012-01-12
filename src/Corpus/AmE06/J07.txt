@@ -1,0 +1,167 @@
+<text id="J07" category="" words="2013" checkedby="" modifiedby="" Title="Astrophysical Hydrodynamics: An Introduction, 2nd Edition" Author="Steven N. Shore " PublicationDate="2007 p. 1-5" SampledFrom="Book" WebAddress="http://media.wiley.com/product_data/excerpt/97/35274066/3527406697.pdf">
+
+The Equations of Fluid Motion.
+We live in an incredibly dynamical universe. Any chance observation bears
+witness to the enormous diversity of motions and interactions that dominate
+the structure of matter in astrophysical environments. It is the aimof this book
+to put some of this in context. We see that gravitation, the ultimate structuring
+force on the scales typical in astrophysical problems, plays a key role in
+understanding how matter evolves. But we also must reckon with magnetic
+fields, turbulence, and many of the same processes that dominate laboratory
+studies.
+Introductory Remarks.
+When you think of a fluid, the idea of a structureless deformable continuous
+medium comes to mind. Other properties, ingrained in childhood, are also
+likely to occur to you; things like incompressibility, viscosity (if you were really
+precocious), and perhaps even the statement that a fluid will not support
+shear and will yield freely in the presence of an applied force. So what have
+these to do with an astrophysical context? More than these definitions and
+properties might lead you to suspect. Of course, you will likely think, since
+stars are gaseous (something we have known since the 1860s), that we should
+be dealing with kinetic theory and gas dynamics. The processes of rarefied
+media are likely to dominate our understanding of cosmic bodies. This is not
+quite true. Since a star is composed of gas which is homogeneous (in most
+cases) and which acts collectively to create its own gravitational field, it mimics
+rather well the behavior of a fluid moving (or sitting) under gravity. The
+collision times are so short (or, put another way, the mean free paths are so short
+compared with any scale lengths in the medium) in the interior of the star that any
+disturbances can be washed out and the structure can be described as continuous. Naturally, this is, for the moment, only an assertion. We shall prove it
+in due time.
+Themost crucial point is that stars and all other cosmicmatter can be treated
+as an ensemble object or system when we have carefully chosen some scales of
+length and time. In a nutshell, the reason for this book is that we can very
+often, at some magnification of scale or some rate of clock ticking, apply a fluid
+approximation to the problems at hand. This book is meant to provide the
+machinery, both computational and conceptual, with which to begin treating
+dynamical and static problems posed by fluids in a nonterrestrial environment.
+1.2
+Equations of Motion
+1.2.1
+Distribution Functions
+We start with a homogeneous medium of identical particles, forgetting for
+the moment that this may be too restrictive an assumption. Imagine that this
+group of particles is characterized by a global velocity distribution. Also, assume
+that we can know this distribution function and that the positional information
+can eventually be derived for the particles as well. Let us start with
+a gas that consists of a collection of myriads of particles, all of identical mass.
+If we assume that these particles execute collective motions, we will be able to
+take ensemble averages and treat them as if they were a continuous medium.
+This is what we mean by a fluid in an astrophysical context. But before we
+can reach the stage of describing the matter as a classical substance, we need
+to consider the microscale phenomena and how to incorporate them into a
+macroscopic description of the motion and thermal properties. To do this, we
+begin with a statistical mechanics treatment and then generalize from there.
+Let us say that there exists a possibly time-dependent distribution function
+f , which is a function of x, the particle positions, and v, their velocities, and
+which provides a complete description of the chance of any single particle
+having a specific position and velocity at any time. We assume that the particle
+motions are individually governed by any forces imposed externally by the
+medium and also by any mutual interactions (i.e., collisions). By this we mean
+that the particles "see" each another through short-range interactions and also
+collectively through bulk or ensemble interactions. A good example of the
+former is the electrostatic interaction between charged particles in a plasma,
+while the latter is exemplified by the integrated gravitational field resulting
+from the distribution of the whole mass of the material. Both feed back into
+the distribution function, both alter the microscale properties, and therefore both internal and external forces must be considered if we are to calculate the
+physical attributes of the medium in the large.
+Some constraints can be placed on the formof the distribution function right
+from the start. For one thing, it should depend only on the magnitude of the
+velocity (momentum), not on its direction. Another way of saying this is that
+it should be symmetric with respect to the spatial and velocity components,
+that is, f (x, v) = f (−x,−v). Since the distribution function is assumed to be
+a measure of the probability that a particle will have a specific position and
+velocity, f must be integrable and normalizable. It need not be algebraic; for
+example, a delta function, δ(x)δ(v), is allowable. Now the hyperspace we are
+dealingwith is well known. It is the phase space of the ensemble, that collection
+of individual momenta and positions familiar from classical mechanics. We
+can picture this collection as a group of free particles all passing through a
+box in which we have placed an observer. This observer has no idea where
+these came from or where they are headed, but can at least describe them in
+the vicinity. They will arrive in this corner of the world, interact (perhaps),
+and then exit. The overall result is that a complete distribution function can
+be specified and, if this observer is not too egocentric, this function can even
+be generalized to describe all of spacetime containing these particles.
+A few things are then clear. The distribution function must be scalar and
+depend only on scalar quantities. That is, it cannot depend on the placement
+of the observerwithin the ensemble of particles. It must depend only on scalar
+quantities, although these may themselves be combinations of many physical
+properties. If the distribution function is to be global, it must be characterized
+by some global parameter which is a constant for the system under study.
+The assertion that the distribution does not change an inversion suggests that
+it cannot be a pseudoscalar. So f must be positive everywhere. Since the fact
+that the distribution function is defined in terms of a probability, we would not
+know how to interpret negative values for f . But this property of probabilities
+is very important for our considerations that follow.
+If every particle in a gas has a position and a velocity, we might ask what the
+mean value is of any quantity connected with this distribution. For instance,
+wemaywish to knowthe average velocity, orwhat the average distance is that
+a particle may be away from the statistical center of the distribution. These
+are moments of the ensemble. Even though we cannot observe the motion of
+every constituent component of a body, and cannot distinguish the histories of
+the individual particle trajectories, we can still say something about the most
+probable values that any of the measurable quantities will have.
+Let us examine this physical picture in terms of simple probabilities, reducing
+the distribution function to only one independent quantity. We must
+be careful to choose a physically meaningful attribute. For instance, position
+means something in an extended body. But color probably does not. Even if the particles have different colors, masses, or whatever, we can always ignore
+these attributes until some quantity thatwe happen to be interested in requires
+including them. Take, for example, the position of a particle. If the probability
+of being some distance from a fixed point in space, x0 = 0, is P(x), then
+the mean value for the displacement is (x) = xP(x)dx. Now assume that
+we have a one-dimensional distribution, but one that extends over the range
+(−∞,∞). Since the probability of being on the negative side or the positive
+side of the reference point is assumed to be the same, the mean value for the
+position must vanish; that is, on average the particle will be at the reference
+point. Another way of saying this is that the integrand consists of a symmetric
+and an antisymmetric part and therefore vanishes over the whole space.
+But this clearly does not make sense if the ensemble is extended. There must
+be some other way of treating the fact that many of the particles, although
+perhaps equally distributed on the two axes, may not be concentrated at the
+nominal zero point. We require a quantity that does not vanish on integrating
+over the whole ensemble, (x2). This is a measure of the dispersion of the
+particles in space, and unlike (x), (x2) is finite. Now we have both a symmetric
+function and a symmetric interval and the mean value therefore does not
+vanish.This has been a rather long digression. It is, however, prompted by the need
+to place the process of taking moments in context.
+Moments of the Distribution Function.
+Of all the quantities that you can think of as characterizing this gas, the most
+obvious ones are functions of velocity and density. This is just a product of
+our Newtonian bias. We will separate the equations for the velocity into two
+components. One is the mean velocity, which we shall write as Vi, and the
+other is the random motion, which is assumed to have a mean of zero. This
+velocity we shall call ui. All of the moments will be taken assuming that the
+distribution function is taken over the random velocities only. For instance,
+there are quantities around which classical descriptions in physics revolve:
+the number density, n(x), the momentum flux, n(x)V(x), and the energy density,
+1/2n(x)V · V. You will notice that each of these is a function of some power of
+the velocity although each depends only on space and time, not on the internal
+velocity distribution of the particles.
+It is then not hard to see how to generalize this process to create as large a
+collection of moments as we would like. Now you see why that long digression
+was necessary. The principal reason for taking the various moments is to
+remove the individual velocity components from the picture, to average over
+that portion of phase space, and therefore to obtain mean physical quantities that characterize the macroscopic spatial distribution of the matter. To do this
+within the limits of the function f (x, v), we proceed as follows.
+If we integrate over the entire volume of phase space, we must recover the
+total number of particles in the system.
+We now have the prescription for taking moments!
+Assume that we have components vi(x, t) = Vi + ui and that we are
+free to choose any such components for examination. The subscript is then a
+dummy, so that we can multiply these together as f vivj . . . vn, which we can
+then integrate over the normalizable distribution function in velocity space.
+The various moments are averages over the random velocity distribution
+function. Since we cannot measure this in detail, we get rid of it via integration
+(which is equivalent to averaging). Statistically, all of the macroscopic
+properties of themedium are the expectation values of the distribution and its
+moments. Historically, it was an important step forward when it was realized
+that the proper treatment of thermodynamics, namely the statistical approach
+rather than the vaguer mean-value methods of the mid-nineteenth century,
+could also be taken over into dynamics of media composed of individual randomly
+moving particles. It is no accident that the evolving theory of statistics
+closely paralleled  -  and spurred  -  the development of statistical mechanics. It
+provided a natural arena in which to display the ideas.
+It is now time to begin taking the moments of the distribution. For example,
+the density is clearly (from the previous discussion and definition) the
+0th moment.
+
+</text>

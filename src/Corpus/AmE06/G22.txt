@@ -1,0 +1,179 @@
+<text id="G22" category="" words="2021" checkedby="" modifiedby="" Title="Out of Control' Ethics, Jan2006, Vol. 116 Issue 2, p285-301, 17p" Author="George Sher" PublicationDate="January 2006" SampledFrom="Middle" WebAddress="http://web.ebscohost.com/ehost/results?vid=2&hid=113&sid=b1a14277-51bb-4a3e-9ee1-f5820818260f%40sessionmgr114&bquery=%28JN+%22Ethics%22+AND+DT+20060101%29&bdata=JmRiPWE5aCZ0eXBlPTEmc2l0ZT1laG9zdC1saXZl">
+
+Although I shall not belabor the point, I think it is clear that each
+pattern can be instanced in numerous other ways. For example, in addition
+to bad reasoning and insensitivity to morally relevant considerations,
+the factors that prevent agents from recognizing that they are
+acting wrongly can include their inability to envision alternative courses
+of action and the fact that their conceptual schemes are too impoverished
+to support the relevant classifications; in addition to fear and
+panic, the emotions that cloud people's judgment can include anxiety,
+depression, and exhilaration. I also think it is clear that the different
+patterns can themselves interact - that, for example, an unwilled lapse
+in attention may itself be what leads someone to judge poorly or to fail
+to recognize a morally relevant consideration. If all of this does not
+show that clear-eyed decisions to act wrongly are actually rare, it does
+at least suggest that the proportion of unwitting to witting instances of
+wrongdoing within the domain of apparently responsible action is much
+higher than it initially appears.
+IV
+But does it really follow that we must reject either the thesis that responsibility
+presupposes control or the view that the relevant agents are
+responsible for what they do? Can't we somehow square the fact that
+none of the agents in our examples are aware that their acts or omissions
+are wrong with the intuition that each one exercises enough control
+over his act to qualify as responsible for it? In the remainder of this
+article, I will examine two possible strategies for achieving this reconciliation:
+first, to relocate each agent's knowing wrong choice to some
+earlier point in his history, and, second, to deny that the form of control
+that is relevant to responsibility requires that one be aware that one is
+acting wrongly.
+The first suggestion, that what makes an agent responsible for an unwitting wrongful choice is always some previous wrongful choice that
+was not unwitting, is already familiar. We encountered a version of it
+when we asked whether Alessandra had chosen to allow herself to be
+distracted, whether Julian had chosen to daydream, and whether Wren
+had chosen to let herself fall asleep. In this initial version, the suggestion
+was found not to be credible. However, even if we cannot locate the
+fateful choice at the moment immediately before the agent becomes
+incapable of recognizing his act or omission as wrong, we may still be
+able to locate it at some yet earlier moment.
+Interestingly, proposals of this sort can be extracted from two quite
+different bodies of literature. One, predictably, is the literature on culpable
+ignorance. It is often said that a necessary (though not a sufficient)
+condition for culpability for an act that one does not recognize as wrong
+is the prior wrongful performance of what Holly Smith has called a
+"benighting act" - that is, an act in which the agent "fails to improve
+(or positively impairs) his cognitive position" in a way that creates a risk
+of precisely the type of wrongdoing that later occurs.7 Taking our cue
+from this, we might suppose that the wrongful choices that render the
+agents in our examples responsible consist precisely of such benighting
+acts. The other body of literature that might be adapted to provide a
+way of relocating the moment of knowing wrongful choice is the literature
+on character formation. Inspired by Aristotle, many philosophers
+have pointed out that we are at least to some extent able to shape
+our characters - that, among other things, we become good by practicing
+virtue and avoiding vice, bad by doing the reverse.8 This suggests
+that the wrongful choices that render our agents responsible may be
+those through which they solidified the habits that subsequently prevented
+them from realizing that what they were doing was wrong.
+Because there are always innumerable past acts and omissions but
+for which a wrongdoer would not have failed to realize that he was not
+acting as he should, each of these proposals has some initial credibility.
+However, problems emerge as soon as we try to flesh the proposals out.
+One obvious problem is that in the majority of our nine examples, the
+agent's lack of awareness that he is acting wrongly simply does not
+appear to be traceable to any prior wrongful act or omission. A further
+problem is that, even where there has been previous wrongdoing, the
+agent's responsibility does not appear to depend on his previously having known that he was acting wrongly. For ease of exposition, I will
+develop these objections first as they pertain to wrongful benighting
+acts and then as they pertain to wrongful failures to develop good habits
+and traits.
+To see that the majority of our cases involve no previous wrongful
+benighting acts, we need only remind ourselves of how unpredictable
+many of the relevant situations are. For example, when Alessandra arrives
+at the school, the dispute that she encounters is not one that she
+could have anticipated. Because she has no reason to expect to be
+distracted, she also has no reason to take precautions against being
+distracted. Thus, on its most natural reconstruction, there is no point
+in Hot Dog at which Alessandra has negligently failed to do something
+that would have prevented her from forgetting Sheba. Nor, similarly,
+does the most natural reconstruction of Jackknife involve any wrongful
+benighting act on Father Poteet's part, for, because he had no reason
+to mistrust his judgment, he also had no reason to take precautions
+against its failing. And, although I shall not bother to argue the point,
+I think we would be just as hard-pressed to attribute wrongful benighting
+acts to Julian in On the Rocks, to Wren in Caught off Guard, or to amerika
+in Bad Weather.9
+The other four examples are different. It is clear enough that Joliet
+should have investigated before shooting the intruder and that Scout
+should have tried to find out whether babies can tolerate alcohol. It
+may also be true that Ryland should have stopped to think before telling
+her anecdote and that Sylvain should have reflected before agreeing to
+allow his student to earn extra credit. Still, even if all four unwitting
+wrong acts can be traced to previous wrongful benighting acts, it hardly
+follows that any of the agents must have recognized that the relevant
+previous act was either benighting or wrongful. Given Joliet's panic, it
+seems unlikely that she even thought of investigating the identity of the
+intruder, much less realized that she was acting wrongly by not doing so. Nevertheless, even if she never was aware that she was not acting as
+she should, she remains responsible for shooting her son. Mutatis mutandis,
+the same is true of Scout in Colicky Baby, of Ryland in Bad Joke,
+and of Sylvain in Bad Policy. Thus, even if we assume that each agent
+did previously perform a wrongful benighting act, the four cases will
+remain counterexamples to the claim that agents are only responsible
+for their unwitting wrong acts if those acts can be traced to previous
+benighting acts which in their turn were witting as well as wrongful.
+So far, I have argued only that we cannot accommodate our intuitions
+about the nine cases by saying that what the agents are really
+responsible for is their earlier wrongful benighting acts. But neither,
+similarly, can we accommodate those intuitions by saying that what the
+agents are really responsible for is their earlier wrongful failures to
+cultivate habits or traits that subsequently would have prevented them
+from acting wrongly. This suggestion, too, fails partly because most of
+our cases are best interpreted as involving no such failures and partly
+because even the remaining cases do not compel us to assume that the
+failures were witting.
+To see that the majority of our cases involve no previous wrongful
+failures to cultivate good habits and traits, we must note, first, that agents
+are at best obligated to prevent the development of habits and traits
+that are markedly worse than normal - that they do not act wrongly by
+not trying to become moral saints. This is significant because, in the
+majority of our examples, the relevant wrongful acts are not best understood
+as stemming from habits or traits that are markedly worse than
+normal. There is no particular reason to suppose that Alessandra, Wren,
+and Julian are any more irresponsible than the average person or that
+Joliet and Father Poteet are unusually indifferent to the safety of others.
+Because we need not suppose that any of these agents has been remiss
+in not developing his character, we draw a blank when we look for
+wrongfully forgone opportunities for self-improvement in which to locate
+their responsibility for their later wrong acts. Should Alessandra
+have been taking Gingko Biloba to improve her memory? Was Father
+Poteet remiss in not sharpening his reflexes on video games? Should
+Joliet have been on Paxil?
+Here again, the remaining cases are different. As described, Scout
+sounds unusually irresponsible, Ryland sounds unusually insensitive, Sylvain
+sounds like he lacks a basic sense of fairness, and amerika sounds
+like he has lost his moral compass. Hence, in Colicky Baby, Bad Joke, Bad
+Policy, and Bad Weather, there is at least theoretical room for the claim
+that what the agent is really responsible for is wrongfully having allowed
+himself to develop the vice that his unwitting wrong act manifests. Yet
+even if we waive the objection that each incipient vice was itself a barrier
+to the agent's recognition of the need to take steps to prevent its further development - that, for example, the very self-involvement that now
+makes Ryland so insensitive is also likely to have made her unaware of
+the need for sensitivity training - this strategy for relocating what the
+agents are really responsible for will remain far-fetched. The basic problem
+is that the relation between the way a person lives and the character
+he will end up having is transparent only in retrospect. Our characters
+develop slowly and by accretion, and their development is influenced
+not only by the decisions we make and the situations into which we
+enter but also by our innate tendencies and by the innumerable unchosen
+exigencies with which life presents us. Because we lack an unobstructed
+view of either our potentialities or what the future holds, we
+rarely if ever make decisions with the clear understanding that they will
+cause us to end up with traits or habits that are markedly worse than
+normal.10 Thus, even if we grant that Ryland, Scout, Sylvain, and amerika
+have been remiss in not taking steps to prevent the development of
+their bad traits, it will remain implausible to suppose that their wrongful
+failures to take those steps have themselves been witting.
+V
+The gist of the discussion so far is that agents often seem responsible
+for wrong acts that they have neither knowingly chosen to perform nor
+knowingly and wrongfully chosen to risk performing. Thus, if we interpret
+"X's wrong act was within his control" to imply that X either (a)
+chose to perform the act despite his awareness that he should not do
+so or (b) knowingly and wrongfully assumed the risk of performing such
+an act unwittingly, then our examples will show that we often take agents
+to be responsible for wrong acts that were not within their control.
+These judgments are troubling because they appear to conflict with the
+widely held principle that a lack of control excuses an agent from responsibility.
+This is the principle that explains why we would not hold
+Alessandra responsible for abandoning Sheba if she were kidnapped or
+suffered a seizure and why we would not hold Scout responsible if she
+fed the baby orange juice that her sister had laced with vodka without
+telling her. As these examples suggest and many others confirm, some
+version of this principle is itself central to our moral thought.
+How should we react to the tension between our intuitions that the
+agents in our nine examples are responsible for their wrong acts despite
+their lack of control and the principle that agents are responsible only
+for wrong acts over which they have exercised control?
+
+</text>

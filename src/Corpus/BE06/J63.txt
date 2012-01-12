@@ -1,0 +1,163 @@
+Thus, although nominally the 1988 Education Act offers parental choice, the
+reality is one of a market in which there is great competition for popular choices.
+Although the new procedures appear to be designed to minimize the extent of "game
+playing' by well-informed parents, it remains highly likely that the most active
+choosers will be the middle class seeking out high performing schools such as those
+mentioned above. In this rapidly changing field the middle class ability to find
+relevant information will continue to be put to full use: whereas previously it might
+have been more about how to "play' the admissions game and hold multiple
+applications, it is now more likely to be about seeking out appropriate schools and
+preparing the child for the sort of criteria published in the example above.
+To date, in gentrified areas of inner London education concerns featured low on
+initial reasons for moving into an area, but become dominant ones once children
+enter the household (Butler &amp; Robson, 2003a). Generally, but not always, selection
+of a suitable primary school has been seen as relatively non-problematic; concerns
+about education increase as the eldest child approaches the primary/secondary
+transition. At this stage a number of parents either make the move into the private
+sector (assuming they can get a place), move out of London altogether or, in some
+cases, within London; for example an oft-quoted move was to the Muswell Hill catchment
+area of Fortismere School. Not a single respondent in a survey of gentrifiers in
+Islington undertaken in 2000 (Butler &amp; Robson, 2003a) had a child in a state secondary
+school in Islington. Islington has one of the worst performance records in the
+country, with only 45% of the children in its primary schools moving on to a secondary
+school in the borough. Parents in Islington were transferring their children from
+what they agreed were perfectly satisfactory primary schools at the age of seven to
+private preparatory schools in order to obtain an advantage in terms of admission to
+the relatively few private secondary schools in North London (Butler  &amp; Robson,
+2003b). For many parents there is a clear and often desperate trade-off between the
+attractions of remaining in a mixed and vibrant inner city environment near to work
+and cultural activities and concerns about social reproduction which point to a flight
+to the suburbs and beyond. Many of the worst performing inner London boroughs,
+such as Hackney, have in fact made significant progress in improving their achievement
+scores, particularly at primary school level, but nevertheless middle class
+parents normally steer clear of them—largely on achievement grounds but also, it
+would seem, because of fears of an ethnicized social mix. However, it is important to
+recognize that there is a minority of middle class parents who deliberately choose to
+educate their children in such schools because they value the benefits of such a mix
+(Reay, 2005). Anecdotally, there is some evidence that such parents often choose to
+live in London's north eastern quadrant, which includes our study area.
+Understanding school choice in East London
+This paper is written as part of a wider project about gentrification, ethnicity and
+education in East London.1 East London is one of the last parts of London to become
+gentrified and the research investigates the relationship between ethnicity and education
+and the relative late gentrification of this quarter of London—to what extent has
+its ethnic composition and relatively poor reputation for educational attainment
+discouraged the white middle classes from moving to East London, despite the
+attractions of its relatively undervalued housing market? There is an increasing presence
+of middle class professionals from minority groups in East London, and we wish
+to understand the strategies which they have adopted to secure suitably acceptable
+educational provision for their children. There are, therefore, two major, but related,
+research questions here. To what extent are concerns about education inhibiting
+gentrification in East London and how and in what ways are existing middle class
+residents managing the local education markets for the benefits of their children? The
+first question is a broader one which lies outside the scope of this paper and will be
+addressed by fieldwork-based research that we are undertaking. The second question
+also forms a key part of the fieldwork, but we can begin to provide some general
+answers to it through analysis of the PLASC dataset. In this paper, therefore, we
+examine the relationship between school and home in relation to two key variables—
+home background and average school performance at GCSE. In what is generally
+accepted as the most deprived part of London, even in its suburban fringes, we would
+expect to find generally poor education provision and that there would be considerable
+competition for admission to the better schools. This is likely to be met, on the
+one hand, from a series of tightly defined middle class catchment areas and, on the
+other, by competition from the wider sub-regional area for any remaining places. We
+hypothesize that, in turn, some schools will encourage such strategies in order to
+maximize their attainment in the key league tables.
+An initial task of our research is, therefore, to establish how the performance of
+schools in East London compares with those in the rest of the capital. Exploring
+geographical variation in performance and comparing it with the distance between
+pupils' homes and school will allow us to reveal the extent to which parental decisionmaking
+on educational choice differs according to social background. East London
+has a reputation for poor schools, but this is an unfair judgement in terms of overall
+performance. It is the relatively advantaged inner London boroughs such as Islington
+that perform particularly badly. Two of the suburban boroughs (Redbridge and
+Havering) in the East London study area are amongst London's better performing
+boroughs (at positions 6 and 10, respectively). Whilst Newham and Tower Hamlets
+regularly top area deprivation league tables, this is not the case in educational
+performance; Tower Hamlets is ninth from bottom and Newham is thirteenth. The
+association between socio-economic deprivation and poor education performance is
+complex. Whilst Tower Hamlets is the worst performing borough amongst this group
+of boroughs in terms of educational performance, it has the highest proportion of residents
+in NS-SeC class 1 (higher managers and professionals) of the East London
+boroughs; at the same time, it is high up the national deprivation league tables. It also
+has a large minority ethnic population, approaching half of its population (mainly of
+Bangladeshi heritage).
+Figure 1 indicates the geography of educational attainment in East London by
+school, showing those secondary schools with above average GCSE points scores
+(white dots) and those with below average points scores (black dots).2
+Figure 1. Average GCSE points score: secondary schools in study area (source PLASC, 2003) For greater visual clarity the reader can find colour copies of all maps in this paper
+and other supporting material at http://www.kcl.ac.uk/geography/staff/mir.html.
+Contrary to what might be expected, there is no distinct geography of achievement
+and failure—a reasonable assumption might be that educational attainment would
+rise as distance from inner London increases, but this is not the case. In the next
+section we describe how we investigated patterns of school recruitment (or parental
+choice) in relation to where pupils lived, the backgrounds they came from and how
+these factors related to school performance in the six inner and outer London
+boroughs that make up East London. We have defined East London as comprising
+six boroughs fanning out from the city eastwards north of the river Thames to the
+M25 motorway. They are Tower Hamlets, Newham, Waltham Forest, Redbridge,
+Barking &amp; Dagenham and Havering.
+The Pupil Level Annual School Census (PLASC) is constructed from data gathered
+from every English state school in February on each pupil registered at the school
+on the census date. The data are very comprehensive and include students' education
+performance, their home postcode, ethnicity and whether they qualify for free school
+meals. This last variable is the only indicator of social background and is generally
+accepted to be only indicative of a high level of deprivation. In other words, although
+the indicator identifies schools with a high proportion of pupils from highly disadvantaged
+neighbourhoods, it can provide little help in distinguishing pupils from highly
+Figure 1. Average GCSE points score: secondary schools in study area (source PLASC, 2003)
+privileged neighbourhoods as against those of lower but not of exceptionally low
+incomes. In order to compensate for this, at least partially, and to allow us to make
+some broad categorizations about pupils' social background, we have been able to
+attach "Mosaic' codes to the data. These geodemographic codes, designed by Experian,
+allow individual pupils to be allocated to one of 61 different types and 11 groups
+on the basis of their home postcode. Unlike bands on a composite deprivation ranking,
+this classification is multivariate in nature, classifying home neighbourhoods
+according to approximately 300 attributes. This enables us to examine patterns of
+school choice and performance in relation to students' Mosaic classification.
+Although this study focused on six boroughs in East London, it paralleled similar
+work undertaken at a national level which looked at such issues as ethnic segregation,
+school performance and peer group effects (Burgess &amp; Wilson, 2005; Johnston et al.,
+2005). In this paper we concentrate on investigating the recruitment patterns of the
+best and worst performing schools in terms of the home background of their pupils
+and where they live in relation to the school.
+In the next section of the paper we discuss Mosaic as a method for analysing the
+social backgrounds of pupils in the PLASC database and the level of confidence we
+can place in this as an indicator of social stratification. Following this discussion we
+present our analysis of the PLASC data for secondary age children living in the six
+East London boroughs which form our study area. Finally, we draw some conclusions
+from this analysis.
+Mosaic and geodemographic data
+Geodemographics, as a way of typifying residential areas in social terms, has been
+used for several decades, but has become increasingly popular in recent years, not just
+with those involved in marketing but also those concerned with monitoring public
+service provision. It was originally designed to enable better targeting of aid to
+deprived neighbourhoods. The best known and longest established geodemographic
+classification systems are Acorn and Mosaic,3 both of which are based around postcode
+clusters. In both systems these groups of households are then allocated to a
+particular "type', which is then fully and often fulsomely described in terms largely of
+the consumption habits of its members (holidays, preferences for alcoholic drinks,
+newspapers, food and cars). These classifications are usually given appropriately
+descriptive names, as for example:
+"partially gentrified multi-ethnic areas' and are found … almost exclusively in inner
+London. These highly cosmopolitan neighbourhoods contain a mix of rich and poor and
+people from different ethnic backgrounds living side by side … . (www.upyourstreet.co.uk/
+inf/msc/det/?location1=SE14+5LX; accessed 17 April 2002)
+Mosaic is the most developed example of this approach:
+When considering this application it is important to realise that the granularity of the
+geographical areas which they classify are often substantially lower than the granularity of
+neighbourhoods as would normally be described by most sociologists. In the UK for
+example the residential areas classified by Mosaic extend to the level of the unit postcode,
+an average of 17 addresses. (Webber, forthcoming 2007)
+This is a somewhat different approach to social classification from that used in
+academic analysis, which broadly takes social position as an outcome of position in
+the occupational hierarchy and allocates individuals to broad social classes, notably
+the working and middle classes. The means by which these classifications are derived
+is based on a set of principals set out by Webber (2004). There have been two major
+concerns about the use of geodemographic analysis in academic and policy-related
+research: firstly, that the codes are based on clusters of households and there is thus
+a danger that individual characteristics are imputed from those of the group (the
+ecological fallacy); secondly, that the groups themselves are statistically as opposed to
+theoretically derived (using techniques such as cluster or principle components
+analysis). 
+

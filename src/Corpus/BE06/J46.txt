@@ -1,0 +1,153 @@
+To test whether
+rate of change in pleasantness over time for the caffeine- and placebo-paired flavours differed
+between choosers and nonchoosers, the slope of the individual regressions relating changes in
+pleasantness for the two drinks as a function of exposure was contrasted using a two-way
+ANOVA, with condition (caffeine or placebo) and group (chooser or nonchooser) as factors.
+This analysis revealed an overall effect of condition, F(1, 18)_5.71, p_.05, but no effect of
+group or Group_Condition interaction. Thus the pleasantness of the drink paired with caffeine
+increased at similar rates with exposure in both groups (3.8_1.3 in choosers, 4.3_2.0
+in nonchoosers), contrasted with a tendency for pleasantness of the placebo-paired flavour
+to decrease (_2.1_2.1 in choosers, _0.3_3.3 in nonchoosers). Why then did some participants
+show an overall preference for the placebo-paired flavour after exposure? Although overall
+pleasantness of the flavour of the two drinks did not differ between conditions at pretest
+(mean pleasantness of the caffeine-paired flavour was 52.0_5.0 compared with 49.5_6.6,
+F(1, 18)_0.25, ns), there was a tendency for higher pleasantness ratings for the juice than
+for the tea (juice at baseline, 53.2_6.2 relative to 48.3_5.4 for tea), F(1, 18)_2.47, ns, which
+Figure 2. Mean (_SE) rated pleasantness of caffeine-paired (shaded) and placebo-paired (unshaded) drinks on the
+four conditioning trials depending on whether the consumer went on to select the caffeine-paired drink (choosers:
+n_14) or placebo-paired drink (nonchoosers: n_6) at the subsequent drink choice test.
+did not interact with condition F(1, 18)_1.87, ns. However, although this tendency for a baseline
+preference for the juice had no systematic effect on the overall outcome (i.e., including
+drink flavour as a variable in any of the analyses above had no effect on the overall significance
+of either the overall Condition_Time interaction or the linear contrast of pleasantness as a
+function of time), chance differences in pleasantness of the two drinks at baseline meant that
+for some participants the increase in pleasantness of the caffeine-paired flavour was never sufficient
+to reverse the initial preference for the flavour paired with placebo, especially when tea
+was paired with caffeine. This effect is easiest to understand with some specific examples. Thus
+for one nonchooser (P5), pleasantness of the caffeine-paired flavour (tea) increased from 28 to
+52 units on the rating scale, while ratings for the placebo-paired flavour (juice) remained relatively
+constant (74 on Day 1, 76 on Day 4). Thus this person's large initial preference for the
+juice masked the increase in pleasantness of the caffeine-paired drink (tea). In contrast, in
+chooser P4 the increase in rated pleasantness for the caffeine-paired flavour (tea) from 42 to 50
+was accompanied by a decrease in pleasantness of the placebo-paired flavour (juice) from 60 to
+42 rating units, thereby reversing the initial preference for juice. Thus there is no difference in
+the response to exposure in choosers and nonchoosers, but baseline differences in some individuals
+prevented the changes in pleasantness that resulted from conditioning from reversing
+initial drink preferences.
+Debriefing
+During the debriefing subjects were asked what they thought the experiment was about,
+and no participant mentioned caffeine in their response to this question. Of those who made
+any comment, the majority responded in terms of effects of drink on mood (n_10), in line
+with what they were informed prior to participation. When caffeine was specifically mentioned
+in the question “Did you think the experiment involved caffeine?” only 4 out of 20 subjects
+responded positively, of which only 1 subject believed caffeine had been added to the drinks
+they received and thought it was in both drinks. In response to the questions “Did you think
+there was caffeine in the tea?” and “Did you think there was caffeine in the juice?” 17 participants
+said no, or were unable to give an answer, for both drinks, while two subjects thought
+there might have been caffeine, but were noncommittal and said “Maybe” to both questions.
+One participant correctly identified the presence of caffeine in the CS_ but not in the CS_
+drink. These data confirm that the attempts to disguise both caffeine administration and the
+purpose of the study was successful.
+Discussion
+The outcome of the present study further confirms the ability of caffeine to reinforce
+increases in flavour pleasantness and the absence of any ability of caffeine to act as an aversive
+reinforcer, in caffeine-deprived moderate caffeine consumers. Importantly, this is the
+first study to report these effects using a differential conditioning paradigm with both a
+CS_ and a CS_ tested in the same participant. Thus, concerns that the results of previous
+studies that contrasted CS_ and CS_ conditions in different participants may have
+resulted from a form of pseudoconditioning, whereby the flavour was evaluated in the context
+of a more or less enjoyable experience across the study, are not supported. Thus it is more
+plausible to suppose that the changes in the rated pleasantness of the flavours reported here
+is a consequence of conditioned associations between the flavour and either the effects of
+caffeine (where flavour acted as CS_) or absence of caffeine effects (where flavour acted as
+CS_) in the period following ingestion of the drink.
+One potential problem in studies using the differential conditioning paradigm to assess
+the effects of contingent pairings of two flavours with either the presence (CS_) or absence
+(CS_) of a US with postingestive consequences is that there is much greater opportunity
+for stimulus generalization to interfere with the rates of learning than is the case in studies
+that can use CSs with different sensory modalities. Thus, although the present study (where
+sensory differences were maximized by using a flavour/temperature/colour combination)
+found evidence of differential changes in liking for CS_ relative to CS_, other studies in
+our laboratory that have attempted to use two distinct flavours (e.g., two forms of fruit juice,
+two forms of herb tea) have not dissociated CS_ from CS_. Thus generalization between
+the flavours is likely to restrict the ability to detect differential conditioning in studies of
+human flavour–consequence learning. Future studies of flavour–consequence learning in
+humans need to maximize sensory differences between CS_ and CS_ to minimize interference
+from generalization.
+As well as confirming that changes in liking can be measured for caffeine-paired flavours in
+a differential conditioning paradigm, the present study also suggests that subjective evaluations
+of liking in the form of pleasantness ratings were more sensitive than a simple choice measure
+postconditioning in assessing changes in liking. Thus, although more participants selected the
+caffeine-paired than placebo-paired flavour, this effect was not significant whereas changes in
+rated pleasantness overall were significant. Further analysis suggested that initial preferences
+for the placebo-paired drink were not overcome by increased liking for the flavour of the
+caffeine-paired drink in those participants who selected placebo postconditioning. Overall the
+present data are better interpreted as a lack of power in the choice test, rather than a fundamental
+distinction between measures of hedonic valence (pleasantness) and preference (drink
+choice).
+One potential confound in the present study was the decision to dissolve the caffeine in
+the drink vehicle. In this context caffeine can be considered to have two properties. First, the
+psychopharmacological postingestive effects of caffeine act as the US, probably by reversing
+the effects of long-term caffeine dependence (Tinley et al., 2003). However, caffeine itself has
+a bitter taste, and the presence of caffeine could, potentially, have modified the flavour of the
+drink acting as the CS. An important issue, and the potential confound, is then whether it was
+the full flavour of the CS with caffeine, or the specific bitter taste of caffeine, that was detected
+as the predictor of the postingestive effects of caffeine in this context. However, the present
+data, along with the outcome of previous studies, all suggest that the presence of caffeine in
+the drink is not important in this context. First, since bitterness is disliked, if the concentration
+of caffeine in the test drink was discernible this should have resulted in an initial dislike
+for the caffeine-containing drink relative to the drink containing maltodextrin (which has a
+neutral taste). However, there was no difference in initial pleasantness of these two drinks.
+Second, the increase in rated pleasantness over the four consumption trials for the drink containing
+caffeine in the present study did not differ from the increase in pleasantness reported
+in a previous study where caffeine was administered in capsule form, rather than in the drink,
+so avoiding any contribution of caffeine bitterness to the drink flavour (Yeomans et al., 2000b).
+The complexity in these studies relates to the nature of the flavour CSs themselves, which
+contain both gustatory and olfactory components, and thus existing tastants (bitter and sweet
+components) along with the predominant olfactory stimuli will both contribute to the flavour
+of the two CS used here. The lack of difference in rated pleasantness or bitterness of the two
+drinks when evaluated with and without the added caffeine suggests that the strength of the
+existing flavour was an adequate mask for the presence of caffeine. However, future studies
+should either use caffeine administered in capsule form or use a pharmacologically inert
+bitter agent as placebo.
+One important issue in studies of human classical conditioning is the degree to which
+participants are aware of the specific contingent relationship between CS and US. Indeed it
+has been suggested that contingency awareness is necessary for human conditioning, based
+primarily on studies using electrodermal conditioning procedures (Lovibond &amp; Shanks,
+2002). As in our previous studies with flavour–caffeine associations, the present study
+attempted to fully disguise the nature of the study to minimize the likelihood of expectancy
+effects interfering with drink evaluations. However, a consequence of this was that participants
+self-reported minimal awareness of the association under test. At face value this
+implies minimal contingency awareness. However, the study was not designed to explicitly
+measure awareness, and self-report data based on retrospective evaluations may be a weak
+measure of contingency awareness (Lovibond &amp; Shanks, 2002). Future studies might evaluate
+in more detail the extent of contingency awareness in human flavour–consequence
+learning, and if the lack of understanding implied in studies to date is confirmed, this
+will challenge the prevailing view that awareness is a prerequisite for all examples of human
+conditioning.
+Changes in liking for flavours can also be achieved by conditioned association of a
+hedonically neutral flavour (CS) with a second, hedonically significant flavour (US) in the
+flavour–flavour evaluative conditioning paradigm. Thus, repeated pairings of a neutral
+flavour CS with an aversive US (Tween) resulted in decreased liking for the CS alone
+(Baeyens, Crombez, De Houwer, &amp; Eelen, 1996; Baeyens, Crombez, Hendrickx, &amp; Eelen,
+1995a; Baeyens, Eelen, Van den Bergh, &amp; Crombez, 1990). Unusually, this decrease in liking
+appeared resistant to extinction (Baeyens, Crombez, Van den Bergh, &amp; Eelen, 1988; Baeyens,
+Eelen, &amp; Crombez, 1995b; Baeyens, Eelen, Van den Bergh, &amp; Crombez, 1989), in contrast
+to our findings using the flavour–caffeine model (Yeomans et al., 2000b). However, although
+repeated pairing of a CS with an aversive US results in reliable decreases in liking, the equivalent
+pairings of a neutral flavour CS with a positive US (sucrose) has not generally produced
+reliable increases in liking for the paired CS (Baeyens et al., 1990; Rozin,
+Wrzesniewski, &amp; Byrnes, 1998), although one older report did find evidence of enhanced
+liking for flavours paired with sucrose (Zellner, Rozin, Aron, &amp; Kulish, 1983). Thus, the
+flavour–flavour model of human evaluative conditioning appears to be most reliable where
+the US is an aversive flavour. This implies two distinct differences between hedonic changes
+arising from flavour–flavour and flavour–caffeine associations: the extent to which these
+changes are resistant to extinction and the extent to which increased hedonic evaluations are
+found with flavour–flavour pairings. Thus, whether flavour–caffeine associations can be
+considered as a different form of evaluative conditioning will depend on greater understanding
+of the underlying associative structure of these two models of learning.
+Overall the present data provide further support for the idea that flavour–consequence
+conditioning underlies the ability of the presence and absence of caffeine to modify the
+perceived pleasantness of novel drink flavours, opening the way for future studies to utilize
+this paradigm to further evaluate the intrinsic nature of learning in this context.
+

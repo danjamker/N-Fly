@@ -1,0 +1,172 @@
+<text id="F25" category="" words="2002" checkedby="" modifiedby="" Title="The ANNALS of the American Academy of Political and Social Science : Democracy and Equality " Author="Robert Post " PublicationDate="2006" SampledFrom="Middle" WebAddress="http://ann.sagepub.com/content/603/1/24.full.pdf+html">
+
+What does it mean for a form of government to be autonomous? Democracy is
+not the same thing as popular sovereignty, a state of affairs in which the people
+exercise ultimate control over their government. Popular sovereignty is compatible
+with forms of popular fascism in which a dictator carries the genuine and spontaneous
+approval of an entire people.1 Nor is democracy identical to
+majoritarianism, in which a majority of the people exercise control over their government.
+2 Although it is frequently said "any distinct restraint on majority power,
+such as a principle of freedom of speech, is by its nature anti-democratic, antimajoritarian"
+(Schauer 1982, 40-41), a majority of the electorate can implement
+rules that are plainly inconsistent with democracy, as for example by voting a monarchy
+into office. These examples suggest that popular sovereignty and
+majoritarianism may be intimately associated with the practice of democracy, but
+they themselves do not define democracy. That is why it is not unintelligible to conclude
+that particular exercises of popular sovereignty or majoritarianism are
+antidemocratic.
+Democracy is distinct from popular sovereignty and majoritarianism because
+democracy is a normative idea that refers to substantive political values
+(Michelman 1998), whereas popular sovereignty and majoritarianism are descriptive
+terms that refer to particular decision-making procedures. Implicit in the idea
+of democracy are the values that allow us to determine whether in specific circumstances
+particular decision-making procedures are actually democratic. Governments,
+for example, do not become democratic merely because they hold elections
+in which majorities govern. Such elections are currently held in North Korea. To
+know whether these elections make North Korea democratic requires an inquiry
+into whether these elections are implemented in a way that serves democratic values.
+It is a grave mistake to confuse democracy with particular decision-making
+procedures and to fail to identify the core values that democracy as a form of
+government seeks to instantiate.
+The values of autonomy are essential to democracy. In the context of government,
+these values are associated with the practice of self-determination (Kelsen 1961, 284-86).We must ask, therefore, what it means for a people to engage in the
+practice of self-determination. This practice is often interpreted to mean that a
+people be made ultimately responsible for governmental decisions, either by making
+such decisions directly or by electing those who do (Meiklejohn 1948). But in
+my view this is an insufficient account of the practice of self-government. For
+reasons that I shall explain, I think it preferable to say that the practice of selfgovernment
+requires that a people have the warranted conviction that they are
+engaged in the process of governing themselves.3 The distinction is crucial, for it
+emphasizes the difference between making particular decisions and recognizing
+particular decisions as one's own. Self-government is about the authorship of decisions,
+not about the making of decisions.
+We can test this distinction by imagining a situation in which the people in their
+collective capacity decide issues but in which individuals within the collectivity feel
+hopelessly alienated from these decisions. Suppose, for example, that in StateXcitizens
+are provided with interactive computer terminals that they are required to
+use in the morning to register their preferences about various issues. Each morning,
+an agenda for decision (composed by an elected assembly) is presented on the
+terminal. The citizens of State X must decide what color clothes should be worn,
+what menu should be served for lunch and dinner, the boundaries of the attendance
+zones for the neighborhood school, whether a stop sign should be placed at a
+local intersection, and so on. Assume that citizens of State X can get from their
+computer whatever information they believe is relevant for their votes, including
+information about the likely views of other citizens.
+Imagine, further, that State X has no public discourse. There are neither newspapers
+nor broadcast media. The state bans political parties and associations. It
+proscribes public demonstrations and prohibits individuals from publishing their
+views to other citizens. Each citizen must make up his or her mind in isolation.
+Decisions in State X, however, are made on the basis of the majority vote of the collectivity,
+and all individuals are henceforth required to comply: to wear blue, or to serve chicken for lunch, or to attend a particular school, or to stop at the local intersection.
+Individuals in StateXfeel completely alienated from these decisions. They
+do not identify with them and instead feel controlled and manipulated by the
+external force of the collectivity.
+Wouldwe deem StateXan example of a society that engages in self-determination?
+Although in State X the people retain their ability, "as a collectivity, to decide their
+own fate" (Fiss 1996, 37-38), which is to say to make decisions by majority rule, I
+very much doubt that we would characterize State X as a democracy.We are much
+more likely to condemn it as a dystopian tyranny. Rousseau long ago diagnosed the
+reason for this condemnation: collective decision making is merely oppressive
+unless there is some internal connection between the particular wills of individual
+citizens and the general will of the collectivity (Rousseau 1968, 58-62).4
+Of course, it is implausible to claim, as Rousseau might be thought to claim, that
+there can exist a complete identity between the particular wills of individual citizens
+and the general will of the democratic state. It is enough that individual citizens
+can recognize in that general will the potentiality of their own authorship
+(Post 1993b). When this occurs, collective decision making is democratic because
+it is experienced as self-determination. But when citizens feel alienated from the
+general will, or from the process by which the general will is created, voting on
+issues is merely a mechanism for decision making, a mechanism that can easily turn
+oppressive and undemocratic.
+It follows that the value of democracy can be fulfilled only if there is a continual
+mediation between collective self-determination and the individual selfdetermination
+of particular citizens.5 If democracy requires that citizens experience
+their government as their own, as representing them, they must experience
+the state as in some way responsive to their own values and ideas. How is this theoretically
+possible under modern conditions of diversity, when the citizens of a state
+are heterogeneous and disagree with each other? The focus of analysis must shift
+from specific state decisions to the process by which these decisions are authorized.
+Citizens must experience that process as responsive to their own values and
+ideas.
+This is the theory of the American First Amendment, which rests on the idea
+that if citizens are free to participate in the formation of public opinion, and if the
+decisions of the state are made responsive to public opinion, citizens will be able to
+experience their government as their own, even if they hold diverse views and otherwise
+disagree. That is why the First Amendment, which is antimajoritarian, is
+nevertheless regarded as "the guardian of our democracy."
+
+The First Amendment protects the communicative processes by which the
+American people work toward an "agreement" that is "uncoerced, and reached by
+citizens in ways consistent with their being viewed as free and equal persons"
+(Rawls 1985, 229-30). Of course, under conditions of modern hetereogeneity,
+actual agreement is impossible, so the notion of agreement functions merely as a
+"regulative idea" (Findlay 1981, 241) for the formation of public opinion. If we use
+the term public discourse to refer to the communicative processes by which public
+opinion is formed, we can say that public discourse continuously but unsuccessfully
+strives to mediate between individual and collective self-determination to
+produce "a common will, communicatively shaped and discursively clarified in the
+political public sphere" (Habermas 1987, 81).
+In a modern democracy, therefore, citizens are free to engage in public discourse
+to make the state responsive to their ideas and values, in the hope that even
+if the state acts in ways inconsistent with those ideas and values, citizens can nevertheless
+maintain their identification with the state. There is much about the constitutional
+law of freedom of expression that follows from this formulation, but for
+present purposes I shall emphasize only that modern democracies on this account
+must regard their citizens, insofar as they engage in public discourse, as equal and
+autonomous persons. That is why Jean Piaget (1965, 362-63) was profoundly correct
+to observe that "the essence of democracy resides in its attitude toward law as a
+product of the collective will, and not as something emanating from a transcendent
+will or from the authority established by divine right. It is therefore the essence of
+democracy to replace the unilateral respect of authority by the mutual respect of
+autonomous wills."
+II
+We are now in a position to deduce our first postulate about the relationship
+between democracy and equality. Democracy requires that persons be
+treated equally insofar as they are autonomous participants in the process of selfgovernment.
+This form of equality is foundational to democracy because it follows
+from the very definition of democracy. Democracy requires an equality of
+democratic agency.
+Democracy continuously strives to reconcile the self-determination of individual
+citizens with the self-government of the state. This means that democracy must
+regard each citizen as an autonomous, self-determining person, at least insofar as is
+relevant to maintaining a live identification with the self-government of the state.
+Every citizen is equal in this regard. To the extent that the state treats citizens
+unequally in a relevant manner, say by allowing some citizens greater freedom of
+participation in public discourse than others, the state becomes heteronomous
+with respect to those citizens who are treated unequally. The state thereby loses its
+claim to democratic legitimacy with respect to those citizens. It follows that every
+citizen in a democracy is entitled to be treated equally in regard to the forms of
+conduct that constitute autonomous democratic participation.
+This definition of democratic equality is of course formal and functional. Its precise
+content must be established by specifying the forms of democratic participation.
+These forms are given to us socially and historically, and different forms will
+imply different forms of democratic equality. For example, equality in the context
+of voting will be different than equality in the context of public discourse. Voting to
+select national or statewide officials is understood to be a method through which
+citizens participate in the choice of their leaders. Because all citizens are affected
+by this choice, we recognize citizens' equality of agency by the principle of "one
+person, one vote." The principle signifies that each citizen is to be regarded as formally
+equal to every other in the influence that their agency can contribute to public
+decisions.
+The purpose of communication within public discourse, by contrast, is not to
+make decisions but to empower citizens to participate in public opinion in ways
+that will permit them to believe that public opinion will become potentially responsive
+to their views. Whereas equality in voting is measured in terms of equality of
+influence on ultimate decisions, equality of participation in public discourse cannot
+be measured in this way. Because influence in public debate is a matter of persuading
+others to one's point of view, the state can equalize influence on public
+debate only if it controls the intimate and independent processes by which citizens
+evaluate the ideas of others. Such efforts are intrinsically undesirable when performed
+by the state, both because ideas are not equal - the very structure of public
+debate rests on the premise of distinguishing good ideas from bad ideas - and
+because any such governmental efforts likely would verge on the tyrannical.
+For these reasons, equality of agency in the context of public discourse is measured
+by guaranteeing each citizen the right to express himself in public discourse
+in a manner that will allow him to believe that public opinion will be responsive to
+his agency. This function cannot be achieved by offering each citizen the identical
+quantity of expression because a citizen may well deem a given quantity of expression
+as inadequate to her communicative needs and hence become alienated from
+public opinion, even if that quantity is equal in amount to that given to every other
+citizen.
+
+</text>

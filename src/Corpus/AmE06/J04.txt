@@ -1,0 +1,221 @@
+<text id="J04" category="" words="2029" checkedby="" modifiedby="" Title="Ideally glassy hydrogen-bonded networks" Author="J. C. Phillips" PublicationDate="30 January 2006" SampledFrom="Physical Review " WebAddress="http://prb.aps.org/pdf/PRB/v73/i2/e024210">
+
+INTRODUCTION
+A few inorganic glasses exhibit extraordinary properties:
+remarkable mechanical stability, densities of order 90% of
+their crystalline counterparts, nearly reversible glass transitions,
+and almost no bonding defects that would create electronic
+traps. These glasses are composed of stress-free (ideal)networks, and these networks can persist metastably at temperatures below their glass transitions for very long times. In
+the last 25 years our knowledge of these networks has grown
+rapidly, both experimentally and theoretically, especially for
+inorganic chalocogenide and oxide glasses (such as window
+glass). At the same time, the idea that H-bonded protein
+networks exhibit many (almost equilibrated, nearly reversible) properties similar to those of inorganic network glasses has become popular.
+Deductive multiparameter approaches to such ideal
+glasses, employing standard polynomial Newtonian methods (such as molecular dynamics), encounter severe difficulties even in supercooled liquids (where the viscosity grows exponentially
+and diverges as T→Tg), and these difficulties
+increase in the glass, where relaxation follows the even
+slower path described by stretched exponentials. In practice
+these difficulties often limit simulation times to ns or even
+10 ps. Some simulations of inorganic glasses have circumvented
+these difficulties by guessing that a good approximation
+to the optimally dense glassy network can be obtained
+by ring disordering an amorphous solid; this guess can be
+tested semiquantitatively (but with only polynomial, not exponential,
+accuracy) by comparison with radial distributions
+observed by diffraction, but this method, like molecular dynamics,
+does not predict phase diagrams or predict chemical
+trends in general.
+An abstract, parameter-free axiomatic method, based on
+the variational concepts of Lagrangian mechanics, has provided
+an excellent guide for experiments on inorganic network
+glasses, and it was indeed helpful in identifying the
+intermediate compositional window where nonreversing and
+aging effects are small, as well as the internal network
+stress. This method is hierarchical in nature, and its application
+involves the general principles of chemical bonding as
+utilized by Huckel and Pauling (resonating valence bonds in mixed ionic-covalent molecules). Interatomic forces are supposed to decrease from
+bond stretching to bond bending to dihedral interactions by
+roughly a factor of 3 - 4 between stages. (There are always
+uncertainties in classical interatomic force fields weaker
+forces tend to be overestimated, but in good glass formers
+these hierarchies are unambiguous). The accuracy of the
+method in predicting optimized compositions (without using
+any adjustable parameters) can be as good as 1%. It is summarized
+in Sec. II, where examples of Lagrangian constraints
+show how the method works in the simplest cases of
+covalent-ionic chalcogenide and oxide network glasses.
+The success of the abstract axiomatic method can be
+tested best by showing that it can be used to identify ideal
+glasses. For the inorganic network glasses the success has
+been confirmed in many ways, but most of these have not
+yet been tested for organic glasses. Some organic glasses,
+such as polymers, are not well described by constraint
+theory, and to broaden constraint theory to include some
+cases of hydrogen bonding (Sec. III) requires careful choices
+of test cases. It turns out that several simple carbohydrates
+(polyalcohols and saccharides) are good candidates for ideal
+glasses; the reasoning that led us to those choices, as opposed,
+for example, to polymers, is discussed in Sec. III,
+where the hierarchy of H-bonding interactions is inserted
+into the covalent hierarchical framework. Some macroscopic
+properties of polyalcohols and saccharides are collected in
+Sec. IV. It is then straightforward to enumerate (Sec. V)
+these interactions for polyalcohols and monosaccharides, but
+when the procedure is extended to sucrose and trehalose, the
+results are surprising. Molecular dynamics models in the
+time range from 10 ps to 1 ns partially explain the remarkable
+biopreservative properties of trehalose, but other factors
+could be important on a time scale of years. The hierarchical
+results for trehalose lead to the tandem array network model
+described in Sec. VI; this model represents a substantial refinement
+of the two-dimensional percolative model of trehalose
+films proposed in recent molecular dynamics models of trehalose performed in the time range from 10 ps to 1 ns.
+This model is used to contrast the structure and properties of
+trehalose with a polyester biopreservative, cutin, in Sec. VI.
+There we note analogies with extensible tandem arrays of the
+elastic protein titin and other extracellular matrix and cell
+adhesion molecules, such as fibronectin, which also contain
+tandem arrays. It appears that the tandem nature of trehalose
+networks corresponds well to novel tandem repeats in the
+cell surface proteins of archaeal and bacterial genomes (Sec.
+VII). In the Appendix there are some general remarks on the
+H-bonding network of water, especially at interfaces with
+proteins, polyalcohols, and saccharides.
+COVALENT BOND HIERARCHIES.
+The simplest case of a covalent glass is a binary one
+A1−xBx in which the covalent radii are nearly equal because A
+and B belong to the same row of the periodic table - for
+example, A=Ge and B=As or Se. Then the B-A-B and A-B
+-A bond angles are nearly equal and the bond-bending constraints
+at the ideal composition are all intact, while there are
+no constraints on dihedral conformations. This situation is
+illustrated in Fig. 1(a). The ideal glass-forming condition is
+(Nc=number of constraints) =Nd=number of degrees of
+freedom=3 (number of atoms Na), all per formula unit according
+to axiomatic mean-field theory. Simulations with
+space-filling models, based on bond-deleted, ring-disordered
+space-filling networks, confirmed this condition and showed
+a crossover from floppy to stiff networks at the ideal composition,
+with a density of soft modes nearly linearly decreasing
+with increasing connectivity.
+What happens when A and B radii are quite different?
+This is the case in g-SiO2, where diffraction data show that
+the width of the O-centered bond angle distribution is much
+greater than that of the Si-centered distribution. Then the
+former bond-bending constraints are broken, while the latter
+bond-bending constraints are intact, as shown in Fig. 1(b). In (Na2O)x(SiO2)1−x alloys with increasing x the Na atoms cut
+(or form "nonbridging") O - Si bonds and there is a crossover
+from broken oxygen bending constraints to intact ones; this
+crossover actually shows up in the phase diagram as a narrow
+low-temperature immiscibility gap (Tc 1000 K), a
+transition that was previously unexplained and which has so
+far been inaccessible to molecular dynamics simulations
+(MDS) confined to T3000 K. More generally, the effects
+of space filling on constraints is subtle and is best determined
+empirically from traditional structural data (diffraction, Raman,
+infrared) or even from the phase diagram and the location
+of the stiffness transition. An important point is that the
+axiomatic rules are discrete (constraints are nearly always
+broken or intact in glasses and are seldom in an intermediate
+case between the two limits) and have been refined systematically
+in ways that are transferable between situations that
+are apparently very different and are conventionally described
+by completely different (and often quite large) sets of
+adjustable parameters.
+The ways in which phase diagrams and structural data can
+be interpreted in terms of intact and broken constraints are
+illustrated in Fig. 2. In underconstrained glasses, Fig. 2(a),
+there are not enough bond-stretching and bond-bending constraints
+to exhaust the 3Na degrees of freedom. Thus some of
+the dihedral angles can be constrained. In the case of g-Se,
+there are one stretching and one bending constraints per
+atom, leaving room for one dihedral angular constraint per
+atom. This makes it possible for g-Se to form long chains
+(300 atoms), yet remain glassy because of entanglement.
+As cross-linking Ge or As atoms are added, the number of
+allowed dihedral constraints decreases and the chain segments
+rapidly shorten.
+In overconstrained glasses (Fig. 2b), the number of
+bond-stretching and bond-bending constraints is too large and some redundancies will occur. A simple way for this to
+happen is for pyramidal or tetrahedral building blocks to
+share edges, but there are other possibilities, such as replacement
+of single bonds by double bonds.
+Nanoscale phase separation is common in binary glasses.
+Percolative backbones can consist of molecular units that
+locally satisfy the ideal glass condition, also describable by
+isostatic, a term borrowed from hydrodynamics to describe
+parts of the network that are strain free. The fraction of the
+network that is isostatic is variable, and this leads to the
+formation of a narrow range of compositions with sharp
+edges that have very favorable properties. The density
+reaches a plateau, and the glass transition is nearly reversible
+and shows little aging. In this reversibility window the network
+is unstressed and Raman vibrational frequencies shift
+linearly with hydrostatic pressure. Outside the window the
+shifts are small until a threshold pressure is reached, which is
+interpreted as an internal network pressure. For underconstrained
+networks, this pressure stiffens soft matrices before
+it affects isostatic backbones, and for overconstrained networks,
+it stiffens the isostatic regions before it affects the
+stiffer overconstrained regions.
+H-BOND HIERARCHIES.
+Hydrogen bonding DuHA energies are small
+(3 kcal/mol) and problematic, partly due to the relative
+weakness of the interaction. Their electronic components
+have been studied for a few small molecules, while in
+larger molecules these energies are subject to large dynamical
+screening corrections, especially those due to the large
+OH dipoles responsible for the dielectric constant e80 of
+water. Thus recent models of H bond interactions in proteins
+are empirical and are based on complex statistical analysis
+designed to differentiate H-bonding interactions with both
+peptide backbones and amino acid side groups. However,
+one may still expect the usual hierarchy of interaction energies,
+with E(OuH-A)E(NuH-A)E(CuH-A)and E (bond stretching)E(bond bending). For the polyalcohols
+considered below, where the complexities produced
+by N lone pairs are avoided, this leads to the simple hierarchy
+shown in Fig. 3(b). It is far from obvious that the
+CuH-A bending energies are larger than the covalent dihedral
+energies; these two could be grouped together without
+changing some of our results.
+Polymers may avoid crystallization because of entanglement,
+and similarly molecular glasses may form because of
+steric hindrance. The polar nature of H bonds suggests that
+dynamical interactions with local electrical fields to form H
+bond networks can compete with steric hindrance in promoting
+the glass-forming tendency and be more easily quantified.
+Thermal expansion at constant pressure [P=V−1(V/T)P] and at constant dielectric relaxation time
+[a=V−1(V/T)T] near the glass transition temperature [T=1s] provides an easy way to gauge quantitatively whether or not H bonding is critically enhancing the glassforming
+tendency. (The results are quantitatively similar for
+T=1000s or when T is replaced by the viscosity n). The
+measured values of the ratio aT/aP are near unity (they range from 0.6 to 2.8) for 15 molecular and polymer glass formers, but are 6 and 17 for the strongly hydrogen-bonded polyalcohols
+sorbitol and glycerol, respectively. H bonding is thus
+less sensitive to pressure, and more sensitive to temperature,
+than covalent bonding and is more dominant, and therefore
+probably more easily quantified, in polyalcohols than in polymers.
+POLYALCOHOLS AND SACCHARIDES.
+Polyalcohols and saccharides have strikingly simple
+bonding patterns: all the covalent bonds are single and all the
+carbons are tetrahedrally coordinated. Many polyalcohols are
+good glass formers, so they are a good starting point for
+broadening constraint theory to include hydrogen bonding.
+The melting points Tm and glass transition temperatures Tg of
+a few polyalcohols and sugars are listed in Table I, together
+with the extrapolated slopes of reduced viscosity fragilities
+m on a reduced temperature scale - that is, m=d ln T/d lnTg/T)T=Tg. Saccharide data are also included,as these also have strong H-bonding interactions. The
+ratios r=Tg/Tm are a simple measure of the extent of clustering
+or medium range order in the glasses. This ratio is r=0.77 for sorbitol, 0.74 for orthoterphenyl, and 0.73 for the monosaccharide glucose; these ratios are typical for many
+glasses. The ratio behavior of the disaccharides sucrose and
+trehalose is unusual: for sucrose r=0.52, while in trehalose
+r=0.81. The asymmetry of the rings in sucrose suppresses
+clustering, but the bisymmetric structure of trehalose produces
+one of the largest values of r known for good glass
+formers. However, the anomalously large value of r in trehalsoe
+does not tell us much about the nature of the cluster
+ordering in the glass.Clustering is a common property of good glass formers;
+another quantitative measure of clustering is the ratio of the
+minimum in Raman scattering intensity before the boson
+peak to the value at the peak, denoted by R1.
+
+</text>

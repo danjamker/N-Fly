@@ -1,0 +1,203 @@
+<text id="J44" category="" words="2016" checkedby="" modifiedby="" Title="Punishment and Revenge" Author="Leo Zaibert" PublicationDate="January, 2006" SampledFrom="Law and Philosophy, Vol. 25, No. 1, pp. 81-118" WebAddress="http://www.jstor.org/stable/pdfplus/27639423.pdf?acceptTC=true">
+
+Philosophers tend to believe that to punish and to take revenge
+are vastly different activities. Consider the ancient view put
+forth by Protagoras, in Plato's Protagoras:
+No one punishes wrongdoers putting his mind on what they did and for the
+sake of this - that they did wrong not unless he is taking mindless vengeance,
+like a savage brute. One who undertakes to punish rationally does not do so
+for the sake of the wrongdoing, which is now in the past
+- but for the sake of the future, that the wrongdoing shall not be repeated, either by him or by
+others who see him or by others who see him punished.
+Nowadays, this continues to be the predominant view amongst
+philosophers of law regarding the relationship between punish
+ment and revenge. It is probably impossible to present an
+exhaustive list of authors who hold that punishment and revenge
+are different, and any partial, non-exhaustive list is prone to be
+helplessly idiosyncratic. Just to get a taste, I will mention a
+handful of influential authors who embrace this view. Joel
+Feinberg puts vengeance in close company with "lust for blood"
+and "Schadenfreude" and claims that whereas retributive
+punishment is "righteous," vengeance is "angry". Likewise, philosophers such as John Elster, Antony Flew, Ted Honderich,
+John Kleinig, Nicola Lacey, and C. L. Ten, amongst many oth
+ers, have held that punishment and revenge are different.
+Arguments which allegedly show that punishment and
+revenge are two different phenomena abound in the literature
+on punishment. Among the most popular of these arguments
+are the views that unlike punishment, revenge can be carried
+out for mere slights, or by unauthorized agents, or by agents
+who display an inappropriate emotional response to what
+they perceive was an instance of wrongdoing, or by agents
+who are unconcerned with the generality of universality of
+the moral principles behind their action, i.e., agents who
+would not treat like cases alike, or by agents unconcerned
+with the proportionality of their response and the perceived
+wrongdoing to which they react. In spite of this argumen
+tative manifoldness, I shall argue that all these arguments
+tend to revolve around one basic idea: revenge is "mindless,"
+or barbaric, irrational, etc., and thus unjustifiable, whereas
+punishment is "rational" or civilized, enlightened, etc., and
+thus justifiable.
+In opposition to this orthodoxy of sorts, I shall argue that
+punishment and revenge are not at all easy to distinguish. I thus
+hope to cast doubt on the plausibility of the above arguments. I
+hope to show as well that the main role this distinction has
+played throughout history is not really analytic but merely
+rhetorical. It is rhetorically powerful to claim that such and
+such action is not punishment but mere revenge, in spite of the
+fact that there may be no good analytic grounds for making
+such a distinction. In most cases 'punishment' and 'revenge' are
+terms used to conveniently describe one single phenomenon.
+A sketch of an account of punishment should suffice here to
+shed light on the sort of phenomenon that I have in mind: A
+punishes B when A inflicts (what she believes to be) suffering upon B as a reaction to (what she believes was) B's
+wrongdoing. This is, in principle, also true of the avenger: the
+avenger also re-acts to what she believes was someone's
+wrongdoing and seeks to inflict suffering upon her. I shall
+discuss below a narrowly circumscribed sort of case in which,
+perhaps, a principled difference between punishment and re
+venge might be recognized. Yet, even if there are cases in which
+some acts of revenge contain elements not found in paradig
+matic acts of punishment, this way of distinguishing between
+punishment and revenge is not only dim, and not only does it
+operate (if it operates at all) in a miniscule number of cases, but
+it is different from any of the standard distinctions found in the
+literature. In any event, rather than seeing acts of revenge as
+wholly different from acts of punishment, I see the conceptual
+connection which might obtain between punishment and re
+venge as follows. Either there is no analytical difference at all
+(true in the vast majority of cases), or, at most, it could be
+conceded that revenge is a form of punishment. Either way,
+there is no vast difference between the "two" phenomena.
+The term 'action' (or activity, or act -
+I do not here distin
+guish between these terms) which I used in the preceding par
+agraph to refer to punishment and to revenge is itself
+important. Punishment can be seen in different ways: as an
+institution, or as a reason supporting the setting up of these or
+those institutions, or as a motive for which actions are done, or
+as an action. Something similar happens with revenge. In what
+follows I shall concern myself with the act of punishing and the
+act of revenging. My interest lies with the alleged differences
+between a case in which a person is said to punish and a case in
+which a person is said to take revenge. Perhaps some of the
+conclusions that I draw regarding the relationship between
+punishment and revenge, understood as activities, might hold
+too if one sees punishment and revenge as motives, or as
+institutions, and even in cases in which one sees punishment
+and revenge as different sorts of phenomena, say, punishment
+as an institution, and revenge as a motive for which an action is 
+done. But I am not interested in extending the scope of the
+present article. Sometimes we punish and sometimes we avenge,
+so goes the official story; philosophers overwhelmingly assert
+that these are two essentially different activities, and I shall
+argue that they are not.
+One obvious way to attempt to refute the thesis that
+punishing and taking revenge are different activities would be
+to point to the numerous fictional examples where the "two
+phenomena" seem perennially intertwined. Does Othello
+punish Desdemona or does he take revenge upon her for what
+he thought was her betrayal? Is the Count of Monte Cristo
+punishing or taking revenge on the malefactors who attempted
+to ruin his life? Does Lazarillo de Tormes really take revenge
+(as he claims) on the blind man who had cruelly abused him for
+so long, or is he in fact punishing him? Does Michael Kohlhaas
+seek to take revenge or to punish as he roamed Saxony in
+pursuit of those who did him wrong? These questions are not
+easy to answer. Sometimes it seems to be the very point of these
+stories to leave these questions unanswered; that they are not
+easy to answer constitutes a reason why these literary works are
+so good and compelling. Most emphatically, however, I am
+not appealing to literature as the ultimate judge in anything.
+Yet, that in literature there are many cases where it is difficult
+to distinguish punishment from revenge surely has some
+significance.
+The view that punishment and revenge are not easily distin
+guishable finds support elsewhere as well. Oft-quoted biblical
+passages, such as Romans 12:19, "Vengeance is mine; I will repay,
+saith the Lord" or Romans 13:1, "[a ruler ordained by God] is the
+minister of God, a revenger to execute wrath upon him that doeth
+evil," seem, too, to be cases in which 'vengeance' and 'punish
+ment' are not easily distinguishable. When God says that ven
+geance is his, surely it is not absurd to assume that he uses
+'vengeance' as a synonym for 'punishment'. For it is otherwise
+hard to accept that what (a benevolent) God has in mind is that he
+is the only one allowed to engage in barbaric, unjust, irrational
+behavior (can God behave in such a way?), and it is precisely
+barbarism, brutality and so on, which are customarily adduced as
+evidence showing that revenge is different from punishment.
+The best dictionary of the English language also seems to assume
+that punishment and revenge are very similar. One of the meanings
+the Oxford English Dictionary gives for "revenge" is "punishment".
+In most of the other meanings of "revenge" listed in the Oxford
+English Dictionary, the element of "being a response to a wrong,"
+clearly something that is also true of punishment, is present. The
+Oxford English Dictionary provides the following as the first defi
+nition of "vengeance": "The act of avenging oneself or another;
+retributive infliction of injury or punishment; hurt or harm done
+from vindictive motives". For the noun form of 'avenge', the Ox
+ford English Dictionary gives one single meaning (though it admits
+is obsolete): "Execution of vengeance; retributive punishment,
+retaliation either upon an offender, or on account of a wrong".
+The view that punishment and revenge are not so easily
+distinguishable is supported in yet further ways. In an inter
+esting article, Gregory Vlastos discusses the complicated rela
+tionship between punishment and revenge in ancient Greece.
+Vlastos points out that early in Greek history, the distinction
+between punishment and vengeance was not clear-cut. The
+linguistic connection between punishment and vengeance, for
+instance, was then so strong that Vlastos dubs it "positively
+tyrannical". As Vlastos points out:
+Down to the last third of the fifth century [BCE], Tifi pia, whose original
+and always primary sense is "vengeance," is the word for "punishment".
+The specialized word for the latter, ko?gc?eiv ("chastening," "disciplining,"
+- with no collateral use for "taking vengeance") does not acquire currency
+until we reach the prose of Thucydides and Antiphon.
+All of this: literature, the Bible, the Oxford English Dictionary,
+ancient Greek philology, is grist for my mill, insofar as it
+supports the main thesis that I wish to defend in this paper,
+namely, that punishment and revenge, qua activities, are not
+that different. But, of course, I am not going to simply present
+literary references and dictionary entries. I present this evidence
+simply to highlight the fact that, unlike the predominant view
+amongst contemporary philosophers, the view that punishment
+and revenge are clearly different is not met with general
+acquiescence in other fields. In what follows I shall dissect the
+specific arguments which those who believe that there is a clear
+distinction between revenge and punishment endorse, and I
+shall argue why I believe that they are unconvincing.
+PUNISHMENT SIMPLICITER AND RETRIBUTIVE PUNISHMENT.
+Vlastos claims that "the distinction of punishment from revenge
+[in Plato's Protagoras] must be regarded as one of the most
+momentous discoveries ever made by humanity". Not surpris
+ingly, what Vlastos considers momentous about this discovery is
+that revenge is a sign of "barbaric tribalism" and that punishment is a sign of a more civilized concern for justice. Vlastos
+bemoans the conflation of punishment and revenge in the archaic
+period of Greek history, as he comments on the fact that
+earlier, as for example in Herodotus, language traps one into using "vengeance", even when "punishment" is exactly what one means.
+But how does Vlastos actually figure out what "exactly" pun
+ishment is and how "exactly" does it differ from revenge?
+When it comes down to articulating the allegedly diaphanous
+difference between punishment and revenge, Vlastos, by and
+large, follows the lead of one contemporary author whose
+distinctions between revenge and retributive punishment have
+become a mainstay of the contemporary discussion: Robert
+Nozick. Vlastos' own contrasts between punishment and re
+venge are admittedly corollaries to Nozick's views.
+Vlastos is by no means alone in following Nozick. The
+influence that Nozick's contrasts exert in the contemporary
+discussion of the relationship between punishment and revenge
+is immense. Such an immense influence is not only the result of
+Nozick's creativity, but also of the fact that Nozick's contrasts
+constitute a sort of compendium, comprising many of the differences which have been intuitively assumed to hold be
+tween punishment and revenge. (It is likely that if we ask
+people who have never read Nozick, or indeed who have never
+studied the philosophy of law, about the differences between
+punishment and revenge, we will get answers of the same tenor
+as Nozick's contrasts.)
+Thus, the general discussion of the al
+leged differences between punishment and revenge overlaps to
+a great extent with the particular discussion of Nozick's own
+arguments.
+
+</text>

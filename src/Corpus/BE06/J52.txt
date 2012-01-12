@@ -1,0 +1,169 @@
+First, that the patterns have been a result of underlying differences in innate
+cognitive ability between males and females (Rudd, 1984; Goodhart, 1988, 1995;
+McCrum, 1994; Lynn, 1996; Holdstock, 1998). Secondly, that they reflect differences
+in respect of broad gender-differentiated dispositions. Whether it is assumed that such
+variations are bestowed by dint of nature or nurture, it has been argued that a greater
+willingness on the part of male students to take risks in relation to their assessments,
+as well as their experiencing lower levels of anxiety about assessment contexts, has
+predisposed them to achieve more Firsts (Goodhart, 1988; Spurling, 1990; Sutherland,
+1996, 1997; Martin, 1997; Spear, 1997; Leman, 1999; Mann, 2001; Pirie, 2001;
+Smithers, 2003). Conversely, it has been suggested that female students' greater levels
+of cautiousness or conscientiousness (Harris, 1940; Rudd, 1984; Clarke, 1988;
+Goodhart, 1988; Spurling, 1990; McCrum, 1996; Sutherland, 1996, 1997; Martin,
+1997; Leman, 1999; Mann, 2001; Pirie, 2001; Woodfield et al., 2005; Woodfield et al.,
+2006) has predisposed them to get more "good' degrees overall.
+Third, and finally, although they often assume broad gender differences in ability
+or disposition as part of their argument, some researchers have placed primary analytical
+emphasis on the academic subject in undergraduate studies when attempting to
+understand the gender gap. In particular, it has been argued that male students
+achieve more First Class degrees than female students largely because of what has
+been called a "compositional effect' (McNabb et al., 2002), whereby they achieve
+more Firsts because they are quantitatively dominant in subjects that award more top
+degrees (Clarke, 1988; Thomas, 1990; Chapman, 1996; Leman, 1999; McCrum,
+1994; McNabb et al., 2002; Richardson &amp; Woodley, 2003; Smith &amp; Naylor, 2001;
+Surtees et al., 2002).
+First Class achievement, discipline variation and gender
+A First Class degree in one subject is generally assumed to carry similar weight to a
+First Class degree elsewhere (Hoskins et al., 1997, p. 321). The award of the top
+degree classification is taken to mark out its recipients as having excelled regardless
+of their discipline. Yet there are very significant variations across areas in terms of the
+proportion of Firsts they award, with the Sciences, and especially the Physical
+Sciences, Mathematics and Engineering, awarding the greatest proportion of top
+degrees (Nevin, 1972; Bee &amp; Dolton, 1985; Clarke, 1988; Johnes &amp; Taylor, 1990;
+McCrum, 1994; Hoskins et al., 1997; Leman, 1999, 2004; Mellanby et al., 2000;
+Richardson, 2000; Smith &amp; Naylor, 2001; Surtees et al., 2002; Richardson &amp;
+Woodley, 2003), to the extent that research conducted at Cambridge concludes that
+science students are over one and a half times more likely to be awarded a First than
+fellow Arts students (Surtees et al., 2002; see also Mellanby et al., 2000).
+It is suggested this pattern is attributable to the material of science disciplines being
+more easily subjected to assessments involving marking regimes based on a "right/
+wrong' dichotomy. This creates greater latitude for students to more frequently gain
+much higher (as well as much lower) grades. By contrast, the subject matter of the
+Arts are taken to be more dependent upon the abilities of students to select key pieces
+of evidence from texts and marshal them in a persuasive manner (Read &amp; Francis,
+2001). As a consequence, marks arrays within the Arts are more likely to be bunched
+between the traditional classification mark parameters of the 30th and 70th percentile
+thresholds (Nevin, 1972; Bligh et al., 1980; Johnes, 1992; McNabb et al., 2002).
+Manifest differences in the proportions of men and women entering different
+degree disciplines persist (Weinreich-Haste, 1981; McCrum, 1994; HESA, 2003a;
+Holdstock, 1998; McNabb et al., 2002). Men elect to undertake a degree within the
+Sciences far more often than women, and they are specifically over-represented
+within the Physical Sciences, Mathematics and Engineering where most Firsts are
+awarded. Women tend to elect to take degrees in the Arts, Humanities and Social
+Sciences, where fewer Firsts are awarded (Bligh et al., 1980; McCrum, 1994;
+Richardson, 2000; McNabb et al., 2002; Richardson &amp; Woodley, 2003). Whether
+this pattern is taken to be a function of serendipity, different socialisation trajectories,
+different types of innate abilities or a combination of factors, it has led to claims
+that the gender gap between men and women with respect to Firsts may be largely,
+if not wholly, explicable in terms of what McNabb et al. (2002) has called a "compositional
+effect' (Bligh, 1980; Clarke, 1988; Goodhart, 1988; McCrum, 1994; Chapman,
+1996; Richardson, 2000; McNabb et al., 2002; Richardson &amp; Woodley,
+2003).
+Clarke argued as early as 1988 that the male tendency to achieve the top degree
+class was being significantly overestimated, as well as misunderstood, because of
+researchers' propensity to ignore the effects of the quantitative domination of men in
+Science in general, and the Physical Sciences in particular, although he also noted
+that women failed to get significantly more Firsts than men in any subject category at
+the time. More recently, Richardson has concluded that:
+Indeed, we DO know one very good reason why women are less likely to get first and third
+class degrees than men. It is well established that proportionately more such degrees are
+awarded in the physical sciences and engineering than in the arts, social sciences and
+humanities … one would expect an apparent gender difference in the distribution of
+degree classes simply because men are more likely to choose the former subjects and
+women more likely to choose the latter. (2000, p. 286)
+By contrast, other researchers, while recognising the importance of subject variation
+in their analyses, conclude that the compositional effect no more than partially
+explains the gender gap. As McNabb et al. themselves concluded, that "differences in
+such things as subject mix … cannot explain the gender gap in achievement to any
+significant degree' (2002, p. 499; see also Goodhart, 1988; Leman, 1999, 2004).
+The current paper aims to provide a comprehensive review of the extent to which
+"compositional' effects from the Sciences in general, and from a Science subset of
+Physical Sciences, Mathematics and Engineering in particular, can explain the
+predominance of male students within the First Class bracket. It will do so via analysis
+of the largest data-set yet to be used to test the hypothesis: complete HESA statistics
+detailing degree outcomes for all UK-domiciled students between 1994/95 and 2001/
+02. As well as allowing us to offer a more comprehensive and definitive test of the
+hypothesis, this analysis permits observation of what, if any, variations exist in relation
+to the gender gap, and its relationship to broad subject differences, over the period
+concerned. Notwithstanding the importance of pointing to inter-institutional
+variations in the First Class performance of men and women, it is also hoped that
+focusing upon a national data-set of this size will clarify the picture with regard to
+overall trends.
+Method
+Participants
+The HESA data-set that formed the basis of the results presented here comprised
+1,707,4083 UK-domiciled students completing an honours degree in UK Higher
+Education institutions between the years 1994/95 and 2001/02. It included information
+on the degree class achieved, discipline of degree and sex per student.
+Students who were unclassified for whatever reason (n = 156,981) were removed
+from the data-set prior to analysis as HESA does not distinguish between those who
+failed to receive a classification within an honours degree programme and those who
+took degrees where no honours classification was available (HESA, 2004).
+Furthermore, also prior to analysis, students who could not be characterised either
+as Science or Arts (including Social Sciences) graduates were excluded. This
+included students taking mixed combinations of Arts and Science subjects, those with
+invalid entries for degree subjects (taken together, n = 254,197) and architecture
+students (n = 45,284) as a decision could not be reached on whether the latter represented
+Science or Arts students.4
+Analytical strategy
+The analyses were conducted using SPSS and comprised calculating frequencies and
+running chi-square tests for independence to determine the relationship between
+gender and First Class attainment, as the data are measured on a categorical/nominal
+level (see Chapman, 1996; Spear, 1997; Farsides &amp; Woodfield, forthcoming).
+The data-set was analysed to determine whether male and female students differed
+in terms of their representation and performance regarding Firsts within the selected
+subject areas of Sciences versus Arts, and a "Core Science' subset of the Physical
+Sciences, Mathematics and Engineering5—often given the most credit for determining
+the size of the gender gap—and non-Core Science (defined as all degrees other
+than Physical Sciences, Mathematics and Engineering).
+Due to the very large size of the data-set, statistically significant results are likely to
+be produced in such analyses despite very weak associations between the variables. In
+order to gain a reliable sense of the strength of the association between variables, an
+appropriate measure of the effect size (Cramer's V)6 was deployed. Cramer's V
+ranges in value from 0 to 1, with values of approximately 0.10, 0.30 and 0.50
+representing small, medium and large effect sizes, respectively (Green et al., 1997).7
+Results
+Table 1 outlines the proportions of degrees taken within each of the broad subject
+areas of the Sciences versus the Arts, and Core Science versus non-Core Science
+degrees, as well as the proportions of Firsts that are awarded within each of these
+subject areas.
+As can be seen, the proportion of students taking Science (around 41%) as opposed
+to Arts degrees has remained remarkably stable over the eight-year period, although
+the proportion taking Core Science has declined from 22.5% in 1994/95 to 17.2% in
+2001/02. In terms of Firsts, of note is the overall steady increase in the proportions of
+top degrees awarded, as well as the fact that a larger proportion is achieved in the
+Sciences in general, and Core Science in particular, which awarded the top degree to
+16.4% of its students in 2001/02. Chi-square analyses on the combined data-set
+reveal that the difference between the proportions of Science Firsts (11.1%) versus
+Arts Firsts (6.7%, ?2(1, 1,707,406) = 10,422.714, p &lt; 0.001, Cramer's V = 0.078)
+is significantly different, although the strength of association is very small. Similarly,
+a significantly greater proportion of Firsts were awarded in Core Science (13%) as
+against other degrees (7.4%, ?2(1, 1,707,406) = 10,632.283, p &lt; 0.001, Cramer's V
+= 0.079), although, again, the strength of association was small.
+Chi-square analyses were then conducted to assess whether male and female
+students differed in terms of their representation within the selected subject areas
+(Table 2).
+As can be seen, over the whole period, the Sciences in general had significantly
+more male (57.7%) than female students (42.3%, ?2(1, 1,707,406) = 55,191.489, p
+&lt; 0.001, Cramer's V = 0.18), although again the strength of the association was relatively
+small. Core Science also had significantly more males (74.7%) than females
+(9.4%, ?2(1, 1,707,406) = 129,783.18, p &lt; 0.001, Cramer's V = 0.276), and the
+strength of the association was approaching medium. Analysis of the data-set revealed
+that this finding obtained for all the individual years between 1994 and 2002,
+although the strength of the association between maleness and Science weakened
+steadily over the period, as it did between maleness and Core Science, albeit to a
+lesser extent.
+A chi-square analysis was conducted on the combined data-set to assess whether
+male and female students differed in terms of general degree outcome (Table 3).
+Most notable in terms of gender and classification over the period is that a higher
+proportion of males (9.3%) than females (7.9%) were awarded Firsts. They were also
+awarded a higher proportion of Thirds/Pass degrees (12.1%) than females (6.7%).
+Female undergraduates obtained a higher proportion of Upper Seconds (49.8%)
+than males (40.5%). These findings were statistically significant (?2(3, 1,707,404)
+22,838.638, p &lt; 0.001, Cramer's V = 0.116), and the strength of the association was
+small to medium. Year on year analysis of the data-set revealed that this pattern
+remained substantially stable.
+As this analysis assesses the association between gender and all classifications,
+however, a further chi-square analysis was conducted to assess the relationship
+between gender and the achievement of First class degrees only. 
+

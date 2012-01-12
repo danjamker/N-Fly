@@ -1,0 +1,82 @@
+
+
+Spirometry in both centres was undertaken in a dedicated lung function laboratory in accordance with American Thoracic Society standards.20 Skin prick testing (SPT) and measurement of total serum IgE were performed on all subjects. For measurement of total serum IgE, serum was separated and stored at –80°C within 4 hours of venepuncture. Total serum IgE was measured using a standard Immulite assay (EuroDPC UK Ltd, Gwynedd, Wales). The between-run coefficient of variation of the IgE assay was 5.1–6.7%. As IgE values in excess of 2000 IU/ml were reported as &gt;2000 IU/ml, these were assigned a value of 2001 IU/ml. Skin prick testing was performed against a panel of seven standardised aeroallergens and a standard histamine positive control supplied from a single source (ALK (UK), Berkshire). The panel of allergens and test protocols were identical at both centres and included: D pteronyssinus; D farinae; Grass mix; Cat hair; Dog hair; Cockroach; and Alternaria. Prior to testing, antihistamines were withheld for 72 hours; no participants were taking oral steroids in excess of 10 mg prednisolone/day. 
+Atopy was defined as a positive response to SPT (at least one wheal 3 mm greater than saline response to a panel of seven aeroallergens) or a total serum IgE 100 IU/ml. Asthma severity was determined based on treatment, lung function, and symptoms (fig 1 and Carroll et al21). Participants from Stoke-on-Trent (145 families) completed a supplementary questionnaire which included data on hospital admissions in the previous 12 months. 
+
+
+
+  
+Figure 1  Algorithm for severity scoring. 
+
+ 
+Statistical analysis
+Relationships between allergy and asthma severity were analysed using successively different markers of allergy: a biological marker (total serum IgE), then the presence of positive SPT to aeroallergens, and finally the degree of sensitisation measured by the wheal sizes of skin prick tests. Total IgE values were log10 transformed and results were expressed as arithmetic (AM) and geometric means (GM). 
+Analysis of the data had to take into account the correlation of measurements of atopy and asthma between individuals within each family. This precluded the use of standard regression techniques but was countered using multilevel models generated with the software MLwiN (Institute of Education, version 1.10.0007).22 The rationale for this type of approach has been discussed and validated previously,23 but briefly allows data to be nested within two levels, namely at the family and individual levels. Multilevel models provided an estimate of the statistical significance between perceived associations. Data were presented as uncorrected and corrected values following inclusion of potential confounders, including age, gender, and birth order within each model (table 3). 
+
+
+Table 3  Significance of associations determined using multilevel models allowing variation at the individual and family levels 
+
+ 
+
+
+
+   RESULTS 
+ 
+Demographics
+The characteristics of the children are summarised in table 1. The mean age was 12.1 years (range 7.0–18.9 years), with more boys than girls. The range of asthma severity was wide, with over one third having mild persistent asthma and with almost equal numbers of children in each of the other four severity categories. 
+
+
+
+  
+Table 1  Descriptive characteristics of asthma and allergy in asthmatic children 
+
+ 
+Relationship between total serum IgE, skin prick tests, and asthma severity
+Total SPT wheal size and log transformed serum IgE values were significantly associated with several phenotypic traits reflecting asthma severity. These relationships are shown in table 2. The logarithm of serum IgE was associated with all our measures of asthma severity. Increasing asthma severity score was associated with incremental changes in total serum IgE. 
+
+
+
+  
+Table 2  Relationship between asthma severity scores and measures of atopy 
+
+ 
+Mean basal forced expiratory volume in 1 second (FEV1) values below 80% predicted were seen in 10% of the children. They had higher total serum IgE values than those with FEV1 values within the normal range (mean 812 IU/ml versus 449 IU/ml). Small differences were seen in total serum IgE levels between children who were prescribed inhaled corticosteroid treatment compared with those who were not (mean 540 IU/ml versus 404 IU/ml). 
+Data for almost half of the children (194/400) were available on hospital admissions within the previous 12 months. Sixty seven had been admitted with an asthma exacerbation. Their total serum IgE levels were higher (mean 726 IU/ml) than levels in those not admitted (mean 392 IU/ml). 
+The significance of these associations was ascertained using multilevel models allowing for variation at the family and individual level. There were significant associations between log transformed IgE values and clinical severity score (p &lt; 0.001), lung function abnormalities (p &lt; 0.001), hospitalisation in the previous year (p &lt; 0.001), and current prescription of an inhaled corticosteroid (p = 0.001). These associations remained highly significant following correction for age, gender, and birth order (summarised in table 3). 
+In contrast, summative SPT wheal size in millimetres was not significantly associated with the clinical severity score (p = 0.109) or &lt;80% mean basal lung function (p = 0.767). The relationship between total SPT score and asthma severity is seen in table 2. Individuals with mild persistent asthma had the highest summative wheal score (9.9 mm). Those with intermittent asthma, moderate asthma, and severe asthma had very similar scores (8.7 mm, 8.5 mm, and 8.5 mm respectively), while those with no current asthma symptoms had the lowest SPT total scores (6.4 mm). However, total wheal size was a highly significant predictor of hospitalisation in the previous year (p &lt; 0.001) and of prescription of an inhaled corticosteroid (p = 0.011) (table 3). The summative SPT score was almost twice as large in individuals admitted to hospital in the previous 12 months compared to those who were not (12.1 mm versus 6.5 mm). 
+Relationships between lung function indices and total serum IgE and skin prick tests
+As continuous variables, mean basal FEV1 and FEV1/FVC ratios but not FVC values were associated with logarithm serum IgE values. SPT wheal size was significantly associated with evidence of basal airway obstruction (FEV1/FVC ratio) (table 3). 
+
+
+
+   DISCUSSION 
+ 
+We have shown that the type and intensity of atopic sensitisation is positively associated with clinical and spirometric measures of asthma severity in children with asthma. This study is larger than previous reports which may have failed to demonstrate associations because of limited statistical power.10 Differences in the statistical methodology are unlikely to account for the differences in results, as a subsequent analysis of our data using the generalised estimating equation,24 produced almost identical levels of significance for each of the reported associations. 
+Few published studies have examined the relationships of atopic markers with asthma severity in children. Of these, some showed greater asthma severity with sensitisation to aeroallergens14,25 but others did not.26,27 In children, there are conflicting results regarding the relationships of asthma severity with serum total IgE.10,25,28 Even when relationships have been established, the statistical significance achieved has often been marginal (p &gt; 0.01). 
+This analysis was performed in a large population of well characterised children with asthma. It included children recruited from hospital and community sources, although due to the stringent nature of the initial recruitment criteria to the genetic study, these children represent a highly atopic and asthmatic population. This sample may therefore not be entirely representative of typical cases of childhood asthma. However, the wide spectrum of disease severity seen in the group as a whole and the relatively normal values achieved for lung function variables are somewhat reassuring that our results are applicable at a broader level. 
+The relationship between total serum IgE and risk of asthma is well established in children and adults.4,5,29 The risk of hospital admission has been linked to total serum IgE in several paediatric studies.10,14,25 Although data on hospital admissions were available for slightly less than half of the subjects in our study, we were still able to see a clear association between hospital admission and total serum IgE. 
+As previous studies have failed to demonstrate associations between asthma symptoms and markers of atopic sensitisation, investigators have concluded that atopy may have a lesser role in determining asthma control than in determining severity.10 This hypothesis is not supported by our data as both the need for hospitalisation and asthma severity scores were significantly associated with total serum IgE. National and international guidelines on asthma clearly define the goals of asthma therapy and identify need for hospital admission and/or persistent symptoms and lung function abnormalities as evidence of poor asthma control.30,31 
+SPT wheal size is another measure of allergic sensitisation and SPTs have been used widely in epidemiological and clinical studies. However, arguments persist about what constitutes an abnormal response. The formation of a wheal is the result of a complex immunological host response culminating in the release of histamine locally within the skin. It is dependent on many factors including season, age, and treatment of individuals with antihistamine medications.32,33 While it was possible to control for factors such as antihistamine and oral steroid use, data on season of testing were not collected in this study. Despite these potential limitations the use of a summative wheal size as a measure of allergic sensitisation appears to be a useful predictor of morbidity in children with asthma. The discordant nature of the results between total serum IgE and summative wheal size suggests a degree of independence between these two measures. Total serum IgE seems to correlate well with asthma severity; the results of SPTs do not. One explanation for this apparent discordant response may lie in the inclusion of treatment in our asthma severity score (fig 1). There are data to suggest that treatment with leukotriene receptor antagonists may reduce SPT wheal sizes in atopic children.34 This could obscure the perceived relationship between severity and SPTs. SPTs may also be less informative than total serum IgE across a population because they represent the reactions to a chosen panel of only a few allergens. In our study we chose seven aeroallergens, two of which are low prevalence allergens in the UK (Alternaria and Cockroach) and only rarely produced a reaction (table 1). However, from our results we can see that SPTs to even a limited panel are informative and correlate positively with hospitalisation, steroid use, and airways obstruction. 
+While our results are highly significant, this must be distinguished from clinical significance. The very small p values generated in this study reflect in part its power and the power of the statistical techniques undertaken. The majority of our results remain highly significant even after correction for multiple hypothesis testing. Nonetheless, the coefficients generated by the generalised estimating equation can give some estimates of the relationships between atopy and the asthma phenotype (table 4). A child with a total serum IgE of 200 (log10 = 2.30) will have, on average, an FEV1 of 4.6% less than an asthmatic child with a total serum IgE of 20 (log10 = 1.30). 
+
+
+
+  
+Table 4  Estimated coefficients and their 95% confidence intervals for significant associations generated using the generalised estimating equation following correction for age, gender, and birth order 
+
+ 
+This study confirms that increasing atopic sensitisation is clearly associated with increasing disease severity in children with asthma. Both total serum IgE and SPTs confer valuable information about the asthma phenotype. These correlate with each other and with other measures of asthma severity including clinical severity, hospital admission, and measures of lung function. Nonetheless, the relationship between different markers of atopic sensitisation and the asthma phenotype is subtly different within our cohort of asthmatic children, and therefore they should probably be considered separately in clinical and epidemiological studies. 
+
+
+What is already known on this topic 
+In children with asthma: 
+* Atopic sensitisation and exposure to specific allergens is associated with increased risk of current asthma
+* A dose-response relationship exists between the number of positive skin prick tests and the prevalence of asthma symptoms
+ 
+
+
+What this study adds 
+In children with asthma: 
+* Increasing total serum IgE is associated with a highly significant increase in asthma severity score, risk of hospital admission, and a reduction in lung function
+* Increasing skin prick test reactivity is associated with risk of hospital admission and airways obstruction but not asthma severity score
+

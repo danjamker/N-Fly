@@ -1,0 +1,71 @@
+ 
+These encouraged a maximum range of movement of all small joints of the fingers, thumb and wrist, as well as radial finger walking (fingers moving towards the radius only thus avoiding exacerbating ulnar deviation), pinch grip exercises, strengthening the intrinsic, and thenar eminence muscles (using a towel) and wrist extensor muscle groups with a "Theratubes' resistive band (Promedics, UK). Group 2 participants received the joint protection leaflet together with a set of eight stretching exercises, without any specific strengthening exercises. Exercises included wrist flexion, extension and circumduction, pronation and supination, radial deviation as well as global flexion and abduction of all finger joints, thumb opposition and interphalangeal flexion to the end of the possible range. Group 3 participants received the joint protection literature alone. 
+All participants had a 30-min appointment with an experienced musculoskeletal therapist who delivered the intervention and discussed relevant issues from the leaflet. All participants were reviewed at a 15-min follow-up appointment 2 weeks later to monitor concordance. Participants were requested to inform the outcome assessors of any treatment changes (including medication or additional out-patient therapy) and were reminded to do so at each follow-up appointment. Any reported changes were documented by the two assessors (CS and KM). Subjects in groups 1 and 2 undertook a graduated programme, increasing repetitions of the exercises from 5 at baseline to 10 at 1 month and 20 repetitions of the exercises from 3 months onwards. All were instructed to perform the exercises slowly, progressing to the end of the available range of movement. These were performed twice daily at home over the 6-month study period. All participants were asked to complete a daily study diary that included any additional treatment changes. 
+Outcome measures
+Outcome assessments were performed by two assessors (CS and KM) who were blind to treatment allocation at baseline, 1, 3 and 6 months. The primary outcome measure was the Arthritis Impact Measurement Scales II (AIMS II; upper limb, and hand and finger function subscales) [18]. Each subscale asks five functional questions relating to the previous month. Subscales range from a potential summated score of 5–25 (25 indicating severe functional difficulties). Each AIMS II subscale was calculated by adding the individual items to form an aggregate score. This score was then normalized so that the potential range of scores was 0–10 where higher scores indicate more problems [18]. 
+Secondary outcome measures included the Jebsen–Taylor hand function test [19], measured in seconds, power grip (in pounds) using the Jamar dynamometer [20] and key pinch (in pounds) using a pinch gauge (B&amp;L Engineering, Tustin, CA, USA) in addition to dominant hand index finger flexion goniometry [21] measured in degrees. The summated flexion score of metacarpophalangeal, proximal and distal interphalangeal joints is reported. Disease activity was additionally measured with swollen and tender joint scores as well as patients' perceptions of their own disease activity. 
+Statistical analysis
+No appropriate data were available on the primary outcome prior to the study. Hence the sample size was based on an interim analysis after 15 participants had completed all three arms of the study. The sample size was based on a 0–6 month change in the primary outcome measure (AIMS II subscales). Using NCSS-Pass v6.0 (1996 NCSS, Kaysville, UT, USA) to carry out a power calculation for analysis of variance (ANOVA), the final sample size of 20 participants per arm was considered sufficient to estimate a large effect size with 80% power and 5% significance. Analysis was performed using SPSS version 10.0 for Windows (SPSS Inc., Chicago, IL, USA). An intention to treat analysis was undertaken. Statistical significance was set at the 5% level (two-tailed). The one-way ANOVA identified differences between the three treatment groups for approximately normally distributed data where mean and standard deviations were stated. Between-group differences in baseline characteristics were calculated using Kruskal–Wallis for the non-normal data where median and interquartile ranges were used to summarize the data. Analysis of covariance was used to generate significance levels adjusted for baseline differences in the three groups for AIMS II upper limb function and hand and finger function scores as well as the index finger flexion range of movement scores. Where statistically significant differences were found, the data were further analysed in paired groups using the t-test or Mann–Whitney U-test with non-normal data and P values were reported using Bonferroni adjustment for multiple testing in the primary outcome measure. 
+
+
+
+   Results 
+ 
+Recruitment
+The multidisciplinary team identified 167 consecutive participants with RA between February 1999 and January 2001. Of these, 125 patients gave permission to be contacted by telephone. Of those contacted, 52 declined to take part and 73 agreed to participate. The mean overall age for participants was 59.6 yr and 69% were female. 
+Figure 1 shows the progress of participants through the study. The follow-up rate of the sample at 6 months was 78% (52/67). There were no statistically significant differences between groups. 
+
+
+
+
+  
+FIG. 1. Trial profile. 
+
+ 
+Baseline characteristics
+Table 1 illustrates the baseline characteristics of the randomized participants. Baseline characteristics were similar between groups; participants in group 1 were older and had longer mean disease duration and higher scores for all disease activity measures compared with participants in groups 2 and 3, although differences were not statistically significant. 
+
+
+TABLE 1. Baseline characteristics of participants according to treatment group 
+
+ 
+Primary outcome measure
+AIMS II upper limb function
+Normalized mean and standard deviation (SD) AIMS II 0–6 month change scores for group 1 reduced by 1.0 point (1.07) indicating an improvement in upper limb function over the 6-month study period. This is in contrast to groups 2 and 3 whose mean change scores increased. For group 2, this was increased by 0.18 (1.54) and by 0.30 (1.22) for group 3, implying deterioration in function. This difference between groups was statistically significant (P = 0.007) (Table 2, Fig. 2). When adjusted for baseline values a statistically significant difference remained between groups for change scores over 6 months (P = 0.012). 
+
+
+TABLE 2. Outcome measures: results of change scores between baseline, 1, 3 and 6 months 
+
+ 
+
+
+FIG. 2. Error bar graph illustrating AIMS II upper limb function change scores (not normalized) between baseline and 6 months (mean ± SD) 
+
+ 
+Further analysis using the independent t-test revealed a statistically significant difference in upper limb function lay between subjects in groups 1 and 3 (P = 0.002). These pairwise differences also revealed statistically significant differences between groups 1 and 2 (P = 0.013). No statistically significant difference was found between groups 2 and 3 (P = 0.806). 
+Secondary outcomes
+Statistically significant differences were also found in dominant hand key grip change scores (P = 0.014) between baseline and 6 months using non-parametric between-group analysis (Table 2). No other statistically significant differences were established when analysing between-group comparisons for any of the outcome measures at any of the time points. Normality testing revealed that the data for key grip were not normally distributed in group 3 subjects (P = 0.001). Figure 3 illustrates the range of values for key grip over baseline and 6-month assessment. Further analysis revealed that a significant difference existed between group 1 and group 3 subjects (P = 0.007), but also between group 2 and group 3 subjects (P = 0.032). No adjustment for multiple testing was undertaken. 
+
+
+FIG. 3. Box plots illustrating dominant hand key grip scores for baseline and 6 months (median scores and interquartile ranges). 
+
+ 
+There were no differences in medication between groups at 6 months (Table 3) or in disease activity scores, although the 6-month scores for both swollen and tender joint counts were lower in both exercising groups (groups 1 and 2) when compared with baseline scores, but had increased in the non-exercising group (group 3). During the course of the trial no participants reported having received any additional therapy. 
+
+
+TABLE 3. Medication and disease activity scores 
+
+ 
+
+
+
+   Discussion 
+ 
+This randomized controlled trial addressed an important clinical question about the effectiveness of hand exercises in the management of patients with RA. This pragmatic study has demonstrated a statistically significant difference between groups undertaking three different types of conservative hand treatments. In summary, we found that participants who undertook hand-strengthening and hand-mobilizing exercises achieved a statistically significant improvement in AIMS II upper limb function (0–6 month change) compared with the other two treatment groups. In addition, change in key grip strength over the 6-month period also showed statistically significantly greater improvement in this group compared with participants who did not undertake any strengthening exercises in the other two groups. Similar trends in other secondary outcomes were noted in the strengthening exercise group, compared with the other two treatment groups, but none reached statistical significance. 
+Although previous studies have demonstrated evidence for the use of joint protection, there has been less evidence to support the use of hand exercises in the management of patients with RA [22–25]. Additionally, the lack of published detail relating to exercise studies in RA has created difficulty with replication [11, 12]. Every attempt has been made to describe clearly the interventions in the present study, the precise subject exercise instructions, frequency of exercising, dosage and timing for progression. 
+We acknowledge that our sample size is small and that random errors may have produced a positive result overestimating the treatment effect. The effects of medication and any other concomitant therapies on the study findings are also unknown. However, the size of this study compares favourably with previous randomized controlled studies involving hand exercises in patients with RA [11, 12, 26]. Disease duration for participants in group 1 was greater than for participants in the other groups, as were the disease activity scores at baseline, but despite this group 1 demonstrated a statistically significant greater improvement than groups 2 and 3. Additionally, disease activity scores all improved in both exercising groups (group 1 and 2), but interestingly deteriorated in the non-exercising group (group 3). 
+Disease duration is not always reported in exercise studies involving RA patients [23, 26, 27], which hampers the evaluation of the generalizability of the findings. Given that the mean age of this cohort and their mean disease duration was very similar to that defined for a UK population [1, 28], the results of this study may be generalizable to a wider RA population. Radiographic scores have not been reported in this study. The impact of hand exercises in RA on joint damage warrants further investigation. 
+Randomized studies with specifically exercise-focused interventions are rare [23, 24]. Studies have opted to use measures of impairment of both grip strength and joint range of movement as outcomes. The current study chose valid and reliable disease-specific measures for use in an RA population with a combination of measures of impairment and activity limitation that are of more relevance to the patient [29]. Measurement of patient-perceived function is not only a high priority for research [11] but also for clinical practice. Using self-administered instruments with minimal time implications for the clinician is also attractive for clinical practice. 
+The Jamar dynamometer is considered to be the "gold standard' in hand-held dynamometers [30–32]. In the present RA study, a "floor' effect was evident in this measurement. The more disabled participants were unable to register any reading from the Jamar. Interestingly, all subjects managed to register a key grip measure using a pinch gauge measurement, albeit a very weak one. An alternative instrument for gross grip may therefore need to be developed in order to be more appropriate and sensitive in this patient population. 
+An unexpected finding in the present study was that 0–6 month change scores in the AIMS II upper limb function consistently improved more than the hand and finger function scores. The important role that the shoulder and elbow joints have in dynamic movement and total performance of the hand has been previously highlighted [33]. Further work to explore additional associations between the joints of the upper limb and hand in RA is needed. The sensitivity to change of the AIMS II hand and finger function subscale in RA may also warrant further investigation. Whilst statistical significance has been demonstrated in this study, the actual clinical significance of such reductions in AIMS II scores is largely unknown. 
+

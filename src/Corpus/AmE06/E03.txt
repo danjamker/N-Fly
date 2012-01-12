@@ -1,0 +1,73 @@
+<text id="E03" category="" words="1984" checkedby="" modifiedby="" Title="Aviation International News: Thales touts TopDeck win on Sikorsky S-76D; A bright light for your helo; FAA changes landing distance rules for commercial operators" Author="Matt Thurber " PublicationDate="2006" SampledFrom="All" WebAddress="http://www.ainonline.com/airshow-convention-news/paris-air-show/single-publication-story/browse/0/article/thales-touts-topdeck-win-on-sikorsky-s-76d-2715/?no_cache=1&tx_ttnews%5Bmode%5D=1 http://www.ainonline.com/airshow-convention-news/paris-air-show/sin">
+
+Thales touts TopDeck win on Sikorsky S-76D 
+
+Thales is in Dallas celebrating the first selection by a U.S. helicopter OEM of its TopDeck integrated avionics system, on the Sikorsky S-76D.
+
+The French avionics house has achieved a significant position on other manufacturers' product lines as well. This week, prominent at its Booth No. 1269 on the Heli-Expo'06 exhibit floor is a dynamic simulation of the latest TopDeck architecture. 
+
+Centered around four 6- by 8-inch flat-panel liquid crystal displays (LCD), the mockup represents the avionics Thales is supplying for the AgustaWestland A109 LUH (light utility helicopter) program. Phil Naybour, v-p for Thales' helicopter business, said yesterday at a press briefing that this display closely resembles how the final S-76D panel is likely to look.
+
+The glass cockpit for the S-76D is derived from the modular avionics developed by Thales for the Airbus A380 airliner, with the 8- by 10-inch A380 EFIS display panels scaled down to fit a helicopter front office. 
+
+As on the A380, track ball technology is the man-machine interface with the TopDeck interactive digital moving map. The suite also includes the first Thales integrated electronic standby instrument dedicated to a helicopter application. The 3-ATI unit is said to be compatible with all new-generation helicopter cockpits as well as being suitable for retrofit to older rotorcraft.
+
+Naybour said the system interfaces for the S-76D TopDeck suite are not yet finalized, but he emphasized that the system's open architecture can accommodate a variety of display formats such as synthetic vision and mission-specific inputs. He added that the final avionics configuration is being developed to coincide with first S-76D deliveries, slated for November 2008.
+A bright light for your helo
+An Australian company has developed a new searchlight that can illuminate a greater area from a longer distance, yet which is claimed to offer significant weight and cost advantages over the current industry standard. It is being launched here at Heli-Expo (Booth 4002).
+
+The TrakkaBeam A800 tactical searchlight from VectorBeam Technologies is also fitted with a filter wheel that allows the crew to switch from ultraviolet, through visible spectrum in several colors to high (covert) infrared light. In practical terms, a law-enforcement helicopter can surreptitiously track a target using IR from a standoff height of, say, 2,000 feet, and then switch to brilliant visible light to flood it in for the capture phase.
+
+VectorBeam executive Peter Muhlrad said the A800, which weighs less than 18 pounds and costs $24,000, also offers a far wider beam than conventional lamps. "TrakkaBeam uses a Xenon lamp and the energy is more evenly dispersed throughout the entire target plane - even at the edges. More usable energy means fewer lost targets." 
+
+TrakkaBeam is mounted on a two-axis stabilized gimbal. It is undergoing DO160 environmental certification and completes trials with Sweden's Stockholm police force this week. Muhlrad said initial feedback about the searchlight has been "very encouraging."
+
+FAA changes landing distance rules for commercial operators
+After a Southwest Airlines Boeing 737-700 ran off a snowy runway while landing at Chicago Midway Airport on December 8 last year, the FAA launched an internal audit of factors related to that accident. One result of that audit is a new FAA policy that imposes mandatory 15-percent landing distance safety margins on Part 91K (fractional), 125, 121 and 135 jet operators. The rule was published in the Federal Register on June 7.
+
+The new requirement is simple: no operator to which the policy applies is allowed to land on any runway without 15 percent more runway available than the actual landing distance. If weather conditions change en route, pilots will have to recalculate the actual landing distance needed, based on runway conditions and use of available equipment such as thrust reversers and spoilers, add 15 percent to that and determine if the destination runway is long enough. If not, they will have to find a suitable runway.
+
+While the NTSB had not posted anything more than a brief preliminary report on the Southwest accident on its Web site, it did address the issue in a safety recommendation dated January 27. The flight crew's calculation of runway needed to land, using the airline's operational performance computer, showed that using the WET-FAIR runway braking condition parameter yielded a margin of 560 feet. In other words, if the condition of the runway actually matched the WET-FAIR parameter, then the pilots should have been able to come to a complete stop with 560 feet of runway remaining.
+
+"During post-accident interviews," the NTSB recommendation letter stated, "the flight crewmembers told Safety Board investigators that they considered 560 feet to be an acceptable safety margin and, therefore, decided to execute the landing."
+
+The NTSB didn't take issue with the remaining runway length but criticized the FAA for allowing Southwest Airlines to consider thrust-reverser credit when determining landing distance in that model 737. 
+
+"The Safety Board is concerned that the landing distance safety margin is significantly reduced on a contaminated runway when the reverse thrust credit is allowed in landing stopping distance calculations. As a result, a single event, the delayed deployment of the thrust reversers [the NTSB said the flight crew waited 18 seconds after touchdown to deploy the reversers], can lead to an unsafe condition, as it did in this accident. The Safety Board concludes that the safety margin must be restored to those airplanes for which the reverse thrust credit is currently allowed in landing performance calculations."
+
+Most business jet operators don't recognize thrust reverser credit when landing on contaminated runways, but the FAA's new policy accepts that a variety of factors and equipment can be considered when calculating landing distance. Once that distance is calculated, the policy also requires adding the 15-percent safety margin, which probably would not have been obtainable in the Southwest Airlines case at Midway. (The runway used, 31C, is 6,522 feet long. Subtract 560 feet [the landing distance for the WET-FAIR wet-fair parameter] and that leaves 5,962 feet or a 9-percent margin. Add 15 percent - 894 feet - and the total runway length with the new margin is 6,856. Would 334 extra feet have made a difference in this accident?)
+
+The FAA requirements in the new policy are as follows: No later than Sept. 1, 2006, jet operators will be required to have procedures in place to ensure that a full-stop landing, with at least a 15-percent safety margin beyond the actual landing distance, can be made on the runway to be used, in the conditions existing at the time of arrival, and with the deceleration means and airplane configuration that will be used.
+
+"This assessment must take into account the meteorological conditions affecting landing performance (airport pressure altitude, wind velocity, wind direction and so on), surface condition of the runway to be used for landing, the approach speed, airplane weight and configuration and planned use of airplane ground deceleration devices. Turbojet operators will be required to ensure that flight crews comply with the operator's approved procedures. In other words, absent an emergency, after the flight crew makes this assessment using the air carrier's FAA-approved procedures, if at least the 15-percent safety margin is not available, the pilot may not land the aircraft."
+
+The formal requirement for this new policy will come in OpSpec/MSpec C082, which will be available July 20. Operators must have procedures in place for complying with the new OpSpec/ MSpec by September 1, and the FAA expects all affected operators will be in compliance by October 1.
+
+Both the National Air Transportation Association (NATA) and NBAA labeled the FAA's release of the safety margin policy a quasi-rulemaking effort, noting that it was not subject to ordinary public comment and rule-drafting procedures.
+
+"This proposal," NBAA stated, "exceeds current regulations in place concerning landing procedures, and NBAA believes that, like all new proposals, this one should be subject to the time-tested federal rulemaking process for aviation regulations."
+
+NBAA also believes the policy is too narrowly focused. "By its nature, the proposal suggests that only one factor -  runway landing distance - matters in aircraft landings. In fact, a whole host of factors are involved, including pilot judgment, aircraft weight and other aspects of landing." Although NBAA didn't comment on the Southwest accident, some of the "host of factors" presumably could include proper use of thrust reversers and correct application of contaminated runway braking information, an issue the NTSB also raised.
+
+"The FAA's notice establishes a new regulatory requirement," NATA explained, "bypassing the required rulemaking process, and is therefore unacceptable. The notice itself states that this is a new requirement, yet the FAA does not adequately explain why formal rulemaking was not conducted."
+
+NATA is more concerned about the FAA's cavalier use of OpSpecs/MSpecs to impose new operational requirements. "The FAA attempts to sell this notice as 'clarification' of Parts 135.77, 125.351, 91.3 and 91.1009, which place responsibility for the safe operation of the flight jointly with the operator, pilot-in-command and dispatcher. The association submits that funneling new requirements through by claiming 'clarification' of these broadly worded regulations is an abusive interpretation of the regulations. The regulations cited by the FAA are general regulations intended to ensure that in all activities the aircraft is operated in a safe manner. They were not created to be used as an excuse for the FAA to impose specific requirements at any time, so that the agency can avoid the rigors of formal rulemaking."
+
+The FAR Part 91K and 135 regulation permitting operators of large transport-category airplanes to fly into airports where landing weight allows a full stop landing within 80 percent of available runway length shouldn't be a factor in the safety-margin policy. If an airplane needs the full 80 percent of the available runway length, this still works out to be less than the amount required by the 15-percent margin policy.
+
+For example, on Chicago Midway's 6,522-foot-long Runway 31C, the 80-percent rule requires a full stop before reaching 5,217 feet. If 5,217 feet is the actual landing distance, adding 15 percent to that brings the required runway length to 6,000 feet, significantly less than the runway's total length.
+
+Why the FAA Believes the Landing Distance Safety Margin is Necessary
+The FAA listed reasons why it believes that the 15-percent landing distance safety margin policy is needed:
+
+• The agency surveyed operators' manuals (not the aircraft flight manual) and found that approximately 50 percent of operators don't have policies for assessing whether there is enough landing distance at the destination at time of arrival, even when conditions (weather, airplane configuration, runway condition) change en route.
+• Not all operators that calculate landing distance have procedures that account for conditions that are worse 
+than anticipated.
+• Not all operators that assess landing distance apply a safety margin; those that do aren't consistent about increasing that margin as conditions worsen. In other words, not all operators calculate the margin using a percentage, which automatically increases the required distance as the needed runway length increases.
+• Some operators use contaminated-runway performance data that is not as conservative as that provided by the airplane manufacturer or is not current.
+• Operators don't always understand the correct application of reverse-thrust credit and don't apply it uniformly.
+• Landing-distance data in aircraft flight manuals is developed by test pilots flying rigorously controlled flight scenarios such as touching down at high sink rates and approach angles of -3.5 degrees "to minimize the airborne portion of the landing distance," the FAA explained. "Therefore, the landing distances determined under section 25.125 [certification rules] are shorter than the landing distances achieved in normal operations."
+• The numbers provided for wet and contaminated landing distance are calculated based on dry runway performance. "Therefore, the wet and contaminated runway data may not represent performance that is achieved in normal operations." Because the regulations don't specify a safety margin, this is left to the judgment of the operator and flight crew.
+• Landing distance information is not provided in a standard format from manufacturer to manufacturer.
+
+</text>

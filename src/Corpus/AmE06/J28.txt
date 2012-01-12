@@ -1,0 +1,179 @@
+<text id="J28" category="" words="2011" checkedby="" modifiedby="" Title="Introduction: New Approaches to the Psychology of Leadership " Author="David M. Messick & Roderick M. Kramer " PublicationDate="2005 p. 1-6" SampledFrom="In The psychology of leadership new perspectives and research  David M. Messick & Roderick M. Kramer (eds)" WebAddress="http://www.netlibrary.com/Reader/">
+
+Most of the chapters in this volume were presented as papers at a small
+research conference held in 2001 at the Kellogg School of Management
+of Northwestern University in Evanston, Illinois. The purpose of this conference
+was to explore new ideas about the psychology of leadership, an
+important and long-enduring research topic within the field of social psychology.
+It was the opinion of the editors of this book and the conveners
+of the conference that the social psychological study of leadership had
+launched off into several new, interesting, and important directions. It
+was also our belief that interest in the topic, within both social and organizational
+psychology as well as within the business community, had
+grown rapidly. It was an ideal time, therefore, to ask some of the world's
+leading scholars to come together to describe their thinking and research.
+This book is the result of those efforts. The contributions span traditional
+social psychological areas as well as organizational theory. They examine
+leadership as a psychological process and leadership as afforded by 
+organizational constraints and opportunities. Our goal has not been to
+focus the chapters on a single approach to the study and conceptualization
+of leadership but rather to display the diversity of issues that surround
+the topic.
+Leadership scholars have identified a host of approaches to the study of
+leadership. What are the personal characteristics of leaders? What is the
+nature of the relation between leaders and followers? Why do we perceive
+some people to be better leaders than others? What are the circumstances
+that evoke leadership qualities in people? Can leadership be taught? And
+so on. The contributions to this book examine these important questions
+and fall into three rather coherent categories. Part I concerns conceptions
+of leadership. How has leadership been defined? What are the social and
+psychological processes that constitute leadership? There are four chapters
+that fall within this category.
+Part II includes contributions dealing with factors that influence the
+effectiveness of leadership. Some conditions make leadership relatively
+unimportant, whereas others make good leadership essential. Some modes
+of relating to other people enhance the effectiveness of leaders, whereas
+others reduce the influence of leaders. This part of the book contains five
+chapters.
+Part III examines a less popular but essentially important topic in leadership
+scholarship, namely the effects of being in a position of leadership
+on the leader himself or herself. If we were to observe that leaders have
+some qualities in common, it could either be that people with these qualities
+ascend to positions of leadership, or that the position of power or influence
+creates these qualities in whomever accepts the role. The arrow of
+causality could point in either or both directions.
+In chapter 2, Michelle Bligh and James Meindl examine the thousands
+of books that are available on the topic of leadership. They ask if there
+are some "natural" categories into which these titles fall. By coding these
+legions of books by their characteristics, and using a "natural learning"
+process for classification, they find that seven distinct categories of leadership
+books emerge. These categories range from books about leading
+change in organizations to books about leadership and religion. This vast
+range of books not only signals the breadth of interests in the topic of
+leadership, it also sets the stage nicely for the variety of approaches to
+leadership that are offered in this book.
+One of those approaches, and a rather modern one, is described by
+Michael Hogg in the chapter 3. Hogg sees leadership as a relational concept,
+as does Messick in chapter 4. However, Hogg's emphasis is on the fact that the leadership relationship often occurs in a group that has assumed
+qualities and characteristics. Hogg's theory notes that many groups can be
+thought of as having a "prototypical" member, someone who most embodies
+the qualities of the group. This member will be perceived to be more
+influential than others, will be liked more than others, and, partly as a
+result, will be seen has having better leadership qualities than the other
+members. This person will also have an edge in maintaining the perception
+of leader over time. One interesting implication of this theory, an implication
+that derives from the social identity theory of group psychology, is
+that a person need not actually be more influential than others to be seen
+as a leader. If one is prototypical, one may be better liked and seen as more
+central than another, and be believed to be influential and charismatic.
+This perception may then become a self-fulfilling prophecy; such a person
+may actually derive more influence because of these perceptions. Hogg
+guides the reader through some of the clever research literature that supports
+these hypotheses.
+Messick's relational theory is of a different sort; it asks why people
+voluntarily become leaders and/or followers. Coming from more of an
+interdependence perspective, Messick asks what the benefits are that are
+afforded to both parts of this relationship. His theory identifies five dimensions
+along which such benefits may be exchanged. Like Hogg's theory,
+this is a relational theory, but it is one in which social identity plays only a
+modest role. Instead, it highlights the important psychological benefits followers
+gain from the relationship. In particular, Messick argues that followers
+are often given vision, protection, and achievement by leaders. These
+are among the task effectiveness dimensions that have been discussed by
+past theorists. They are also given social inclusion and respect, qualities
+that are subsumed by the traditional role of social-emotional leadership.
+Leaders in return, get focus, loyalty, and commitment, respectively, from
+their followers. They also get self-sacrifice and pride in the social domain.
+The proposal by Messick is that the exchange is not a contractual quid pro
+quo but rather an exchange that results from mundane social psychological
+processes. From this view, leadership and followership are social roles
+that emerge from everyday ordinary psychological activities.
+The final chapter in Part I of the book is Goethals' reevaluation of
+Freud's theory of leadership from the perspective of modern social psychological
+theory. Although Freud has been largely dismissed by modern
+psychologists, Goethals notes that aspects of his theory strike a modern
+chord. He seems to predate the concept of charismatic leadership in some
+of his descriptions, for instance. Moreover, his analysis seems to highlight the extent to which the leader exemplifies prototypical traits of the followers,
+as emphasized by social identity theorists like Hogg. Leaders influence
+followers through the stories that they tell, according to Freud, presaging
+the approach to leadership taken by Howard Gardner in his book,
+Leading Minds. Leaders' ideas, the ideas that can motivate and influence
+people, are communicated by stories that delimit and expand the leaders'
+vision, that communicate the "message" to the people who are the followers.
+Finally, Goethals notes the "illusion of equal love," the perception that
+all are the same in the eyes of the leader. This point is made again by Tyler
+in a later chapter, although Tyler would argue that the equal and respectful
+treatment of members of a group or organization should not be a mere
+"illusion," it should be genuine to the extent possible. Goethals thus suggests
+that Freud presaged the idea of charismatic leadership, highlighted
+the role of storytelling as a form of communication, emphasized the common
+social identity of leaders and their followers, and he glimpsed the
+importance of what we now refer to as procedural justice in leadership.
+The second part of this book deals with the conditions under which
+leadership is more or less effective. What are the dimensions of effective
+leadership? What do leaders attempt to promote among team members?
+Are there better or worse ways of achieving these ends? Part II begins
+with a chapter by Richard Hackman that calls into question the standard
+research approach of many social psychologists and leadership researchers.
+Hackman questions the assumption that excellent team performance is the
+product of excellent leadership, an assumption he refers to as the "leader
+attribution error." In chapter 6, Hackman reviews evidence that suggests
+that leaders may provide the conditions under which teams may excel or
+fail, but that these conditions should not be confused with "causes" in the
+traditional social science sense of the word. Hackman then outlines four
+conditions that tend to increase the chances that groups will function well.
+These conditions include creating real (as opposed to bogus) teams, giving
+the teams compelling directions in which to work, giving them an enabling
+design (a structure that does not handicap them from the outset), and providing
+expert coaching to help with the rough patches. Hackman not only
+spells out and illustrates these points, he also discusses the timing of the
+conditions. Perhaps his most original contribution is in noting that some
+types of teams are so constrained that the quality of leadership is immaterial
+to their performance. What difference does it make how well a plane's
+flight crew works together if the plane is being flown on automatic pilot?
+Chapter 7, by Peterson and Behfar, adopts the framework of selfregulation
+to group functioning. These authors identify three conditions for successful group performance to balance the often-conflicting demands of
+getting the problem right while maintaining group cohesion, maintaining
+both group identity as well as recognition for the individuals involved, and
+keeping the right mix of willingness to change and stability. These three
+conditions are a sense of group self-awareness, having clear standards and
+goals, and developing the willingness and the ability to make changes.
+Peterson and Jackson make the intriguing proposal that leadership may
+derive from a person's ability to help groups maintain these three functions.
+Leaders, in other words, function as regulatory mechanisms that
+aid groups in understanding themselves, in maintaining their goals and
+their knowledge of where they are with regard to the achievement of these
+goals (a feature highlighted in chapter 6 by Hackman), and in providing
+the encouragement for and resources to enable change within the group.
+This chapter not only overlaps nicely with the preceding and succeeding
+chapters, it also provides a conceptual framework that allows the authors
+to generate novel hypotheses about the functions of effective leadership.
+Tyler (chapter 8) offers a theory of process based leadership, which
+builds directly from his previous research on the social psychology of procedural
+justice. At the heart of this important chapter is the core idea that
+procedural fairness, more than positive outcomes, is the power that motivates
+people to cooperate in groups, to refrain from disruptive behaviors,
+and to work for a common collective good. To the extent that this characterization
+is true, it has important implications for leadership because it
+suggests that it may be more important for leaders to be fair and just in the
+processes they adopt than it is for them to provide rich rewards and successes
+for their members. This is precisely the picture that Tyler paints in
+his chapter. Summarizing research from several prior studies, he marshals
+evidence that people are more sensitive to the fairness of procedures than
+to the favorability of their outcomes in determining their commitment to
+organizations and in their willingness to follow rules and abide by group
+principles. In places, the story that Tyler tells echoes the theory of Hogg in
+highlighting social identity; in places it resembles Peterson and Jackson's
+thoughts about self-regulation and the mechanisms that maintain it. But
+Tyler probes into the sources of people's concerns with fair process and
+concludes that the major source of this concern has to do with the ability to
+construct and nurture a positive image of oneself. Pride and positive selfregard
+seem to be the drivers of the system, and leaders who understand
+the importance of this psychological need are likely to excel as leaders. 
+One cannot be an effective leader unless one is in a position to exercise
+leadership. This observation leads to the puzzling question raised by Bowles and McGinn, as to why it is, when the bulk of the research evidence
+says that women are at least as good at being leaders as men, that
+women hold proportionally fewer leadership roles in organizations than
+men.
+
+</text>

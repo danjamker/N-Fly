@@ -1,0 +1,255 @@
+<text id="J12" category="" words="2011" checkedby="" modifiedby="" Title="CD8 T Cells Modulate CD4 T-Cell and Eosinophil-Mediated Pulmonary Pathology in Pneumocystis Pneumonia in B-Cell-Deficient Mice" Author="Steve D. Swain, Nicole N. Meissner, and Allen G. Harmsen" PublicationDate="February 2006 p. 466-469" SampledFrom="American Journal of Pathology" WebAddress="http://ajp.amjpathol.org/cgi/reprint/168/2/466">
+
+Pneumocystis spp. pneumonia (PCP) in humans and
+in surrogate animal species typically occurs in the
+absence of CD4 T cells, as takes place during acquired
+immune deficiency syndrome. However, patients
+treated with highly active anti-retroviral therapy
+sometimes exhibit an exacerbation of diseases such
+as PCP that coincides with resurgent CD4 T cells, a
+phenomenon known as immune reconstitution disease.
+We used an animal model of PCP using the
+B-cell-deficient mMT mouse together with antibodymediated
+depletion of various T-cell subsets to examine
+the role of CD4 and CD8 T cells in the development
+of pathology in PCP. Although overt pathology
+occurs in the presence of CD4 T cells only, CD8 T cells
+only, or both, pulmonary injury occurs via different
+paths, depending on the complement of T cells
+present. Surprisingly, profound damage occurred
+when only CD4 T cells were present, and this pathology
+coincided with enhanced recruitment and activation
+of eosinophils and strong type 2 cytokine polarization
+in the alveolar environment. In addition, CD8
+T cells can act to moderate this CD4 T cell-mediated
+pathology, possibly by increasing the ratio of putative
+CD25+ suppressor CD4 T cells to CD25- effector
+CD4 T cells. 
+Because the respiratory system is constantly exposed to
+potentially pathogenic microorganisms, it possesses the
+capability of mounting vigorous innate and acquired immune
+responses. However, it is these same vigorous
+responses that are often the source of pulmonary impairments
+and damage to the respiratory epithelium during
+microbial infections. This type of inflammation-related
+damage is evident in pneumonia caused by the opportunistic
+pathogen Pneumocystis, which typically only occurs
+in individuals with some form of immunosuppression.
+In immunocompetent patients or experimental
+animals, Pneumocystis infection is easily cleared without
+significant ensuing pathology. However, in patients with
+reduced CD4 lymphocyte numbers [such as acquired
+immune deficiency syndrome (AIDS) patients], and in
+mice in which CD4 lymphocytes have been experimentally
+depleted, steady growth of Pneumocystis occurs in
+the lung despite the accumulation of inflammatory cells,
+including macrophages, CD8 lymphocytes, and, in later
+stages, neutrophils. The considerable pathology that
+ensues typically coincides with the accumulation of these
+inflammatory cells; indeed SCID mice that are deficient in
+lymphocytes demonstrate less respiratory impairment
+than mice that are only deficient in CD4 cells, even
+though they have comparable loads of Pneumocystis.
+These observations have led to studies that examined
+the type(s) of inflammatory cells potentially involved in the
+host tissue damage seen in Pneumocystis pneumonia
+(PCP). Although the influx of neutrophils into the alveolar
+space coincides with the onset of severe pathology in
+PCP, we have recently presented evidence that this is
+only correlational and that the neutrophil defense mechanisms
+may not be directly involved in the development
+of lung pathology. In contrast, there is stronger evidence
+that the presence of CD8 lymphocytes is required for the
+full development of respiratory impairment in PCP, although
+the mechanisms by which this damage occurs
+are not yet clear. It is overly simplistic, however, to think
+of pulmonary damage in a disease state occurring because
+of the unmodulated actions of one cell type alone.
+Not only are many types of inflammatory cell types capable
+of producing host tissue damage, but there is also
+abundant evidence of significant interactions between
+inflammatory cell types that can potentially enhance or depress the potential for inflammatory damage by one the of cells in question. These types of interactions
+may be relevant in immune reconstitution disease (IRD),
+which occurs in some AIDS patients in whom highly
+active anti-retroviral therapy results in markedly increased
+levels of CD4 lymphocytes. In some of these
+individuals, intense inflammatory responses can occur in
+the lungs (involving CD4 cells and residual Pneumocystis
+organisms) and requires vigorous therapeutic intervention.
+This clinical syndrome highlights the potential
+interaction of multiple inflammatory cell types and mechanisms
+that may be involved in the pathology of PCP.
+Furthermore, this scenario also points to the need for a
+well-characterized animal model of PCP in which the
+functions of CD4 lymphocytes can be investigated.
+To address these questions we examined the onset of
+Pneumocystis-related pathology in an animal model of PCP
+using the B-cell-deficient MT mouse. Because these mice
+cannot produce functional antibodies, they develop fullblown
+PCP despite the presence of CD4 lymphocytes.By
+depletion of specific lymphocyte subsets using antibodymediated
+depletions, we examined the type and onset of
+pathology during PCP in MT mice that were deficient in
+CD4 lymphocytes, CD8 lymphocytes, or both CD4 and CD8
+lymphocytes, as well as mice that were replete in both CD4
+and CD8 lymphocytes. We report here that significant inflammatory
+damage occurs in both CD4-depleted and
+CD8-depleted MT mice during Pneumocystis infection, although
+it may occur via different mechanisms. We also
+report evidence that there is interaction between CD4 and
+CD8 cells when both are present during Pneumocystis infection,
+which alters the subsets of lymphocytes present,
+the cytokine profile, and the type of pathology present at the
+inflammatory site.
+Materials and Methods.
+Animals.
+Breeder mice (MT; stock number 002249) were obtained
+from Jackson Laboratories (Bar Harbor, ME) and
+bred in our facility at Montana State University. Control
+C57BL/6 mice were obtained from the National Cancer
+Institute (Fredrick, MD). Mice were kept in ventilated
+cages, so that incoming air was HEPA filtered, and given
+autoclaved mouse chow and acidified water.
+Depletion of T-Cell Subsets and Infection with Pneumocystis.
+For depletion of CD4 T lymphocytes, mice were given intraperitoneal
+injections of 300 mg of the anti-CD4 antibody
+GK1.5 (American Type Culture Collection, Manassas, VA)
+twice weekly. Depletion of CD8 T cells was done using
+twice weekly injection of 300 g of the anti-CD8 antibody
+TIB-210 (American Type Culture Collection). Some animals
+received double depletions with twice weekly injections of
+300 g each of both GK1.5 and TIB-210.
+Respiratory Measurements.
+Before tissue sampling, respiratory rates and tidal volumes
+were measured on conscious mice using a wholebody
+plethysmograph (Buxco Electronics, Sharon, CT).
+Arterial blood gases were determined after warming the
+mice for 5 minutes at 39°C, carefully nicking the ventral
+tail artery, and then collecting 150 l of blood into a
+heparinized capillary tube. The blood was mixed using a
+small steel flea and magnet, and the samples were analyzed
+on a clinical blood gas analyzer (Omni AVL; Roche
+Diagnostics, Indianapolis, IN) within 1 hour of sampling.
+Bronchoalveolar Lavage.
+Mice were sacrificed by pentobarbital anesthesia (100
+g/g body weight) followed by exsanguination. The trachea
+of each mouse was nicked with fine scissors, and
+then a tube was inserted. Five 1-ml aliquots of Hanks'
+balanced salt solution with 3 mmol/L ethylenediaminetetraacetic
+acid were then applied to lavage the alveolar
+contents. Samples from each 5-ml pooled lavage were
+spun onto a slide using a cytospin centrifuge and then
+stained with Diff-Quick dye (Dade Behring, Newark, DE).
+Proportions of each cell type were determined microscopically
+using a X100 objective lens. The bronchoalveolar
+lavage fluid (BALF) supernatant was collected by
+centrifugation at 200 X g for 10 minutes, and aliquots
+were used for the following assays. Albumin and lactate
+dehydrogenase (LDH) concentrations were determined
+with commercial kits (631-2; Sigma Diagnostics, St.
+Louis, MO, and CytoTox 96: Promega, Madison, WI).
+Eosinophil peroxidase (EPO) activity in the BALF was
+measured using a modification of the method of Duguet
+and colleagues; briefly, aliquots of BALF were incubated
+either with O-phenylenediamine, H2O2, and the
+specific inhibitor 3-amino-1,2,3-triazole or with O-phenylenediamine
+and H2O2 alone. After 30 minutes of incubation
+at room temperature, absorbance at 405 nm was
+measured. EPO-specific activity was estimated as the
+absorbance measured in wells without the inhibitor
+3-amino-1,2,3-triazole minus the absorbance in wells
+containing the same sample with 3-amino-1,2,3-triazole.
+Flow Cytometry and Cytokine Analysis.
+Bronchoalveolar lavage (BAL) cells were resuspended in
+a minimal volume of phosphate-buffered saline with 2%
+calf serum and an anti-mouse Fc receptor antibody
+(Trudeau Institute, Saranac Lake, NY) to block nonspecific
+binding. These cells were then stained with a cocktail
+of fluorophore-conjugated antibodies against the
+mouse CD antigens CD4, CD8, CD28, and either CD25 or
+CD62L (PharMingen, San Diego, CA) and analyzed on a
+FACSCalibur flow cytometer (Becton Dickinson, Mountain
+View, CA). Lymphocytes obtained from spleens of
+control uninfected mice were used as a basis of comparison.
+Flow cytometry-based bead ELISA kits (mouse Th1-
+Th2 and Mouse Inflammation; Becton Dickinson) were used to measure cytokine concentrations in undiluted samples of BALF.
+Enumeration of Pneumocystis.
+After lavage, the trachea was ligated and two-thirds of the
+lung were removed, placed into 5 ml of sterile Hanks'
+balanced salt solution, and homogenized by pushing
+through a metal mesh screen. An aliquot of this material
+was diluted 1:20 and applied to a glass slide using a
+cytospin centrifuge. After drying, the slides were stained
+for an extended period of time in Diff-Quick dye (40 to 60
+minutes). Pneumocystis nuclei (both cysts and trophozoites)
+were then enumerated in a minimum of five X60
+fields, up to a maximum of 50 (if nuclei were not readily
+apparent). The average counts were then converted to
+log Pneumocystis nuclei per lung. With this technique in
+this laboratory, the limit of detection was (log) 4.43 when
+50 fields were counted. Although the previous lavage
+removes some Pneumocystis organisms from the lung, it
+is a small fraction of what is present in the lung (&lt;10%),
+and this was consistent among different groups of mice.
+Histology.
+One-third of the lung (the large left lobe) was fixed for 24
+hours in phosphate-buffered formalin, embedded in paraffin,
+sectioned at 5 m, and stained with either hematoxylin
+and eosin (H&amp;E) or Alcian Blue with periodic acid-
+Schiff using standard histological techniques.
+Statistical Analysis.
+The software program Graph Pad Prism (San Diego, CA)
+was used for all statistical tests of significance (to P &lt;
+0.05). Where greater than two groups were being compared,
+one-way analysis of variance with Tukey's post
+hoc pairwise comparisons were made. When only two
+groups were compared, we used a two-sided t-test, with
+Welch's correction if the groups had unequal variances.
+In cases in which a deviation from a normal distribution
+was observed, a nonparametric test (Mann-Whitney test)
+was also applied. In those cases, we found that both the
+t-test and Mann-Whitney test indicated the same result
+(ie, both indicated significance or nonsignificance); however,
+typically one test gave a more conservative P value
+(larger, but still 0.05). The P values we report are always
+the conservative values.
+Results.
+Although the common mouse model of Pneumocystis pneumonia
+(PCP) is that of wild-type mice depleted of CD4
+lymphocytes, it has previously been shown that MT mice,
+which are deficient in B-cell and antibody production, also
+develop serious and progressive infections with Pneumocystis,
+even with normal numbers of CD4 lymphocytes.
+We first compared these two models and found that at 28
+days after inoculation MT mice exhibited a burden of
+Pneumocystis that is only slightly lower than that seen in
+CD4+ depleted wild-type mice infected at the same time
+(Figure 1). However, there were some subtle differences in
+the Pneumocystis-related pathology found in these two
+models. Although there were no statistical differences in the
+indicators of BAL albumin, BAL LDH, or respiratory rates,
+arterial blood oxygen was significantly lower in MT mice
+(Table 1). MT mice also recruited considerably more cells
+into the alveolar compartment than did CD4-depleted wildtype
+mice. These included lymphocytes (mostly CD8 lymphocytes)
+and most strikingly, large numbers of eosinophils
+(Figure 1). The CD4-depleted wild-type mice had fewer
+accumulated CD8 lymphocytes in their lungs and, as would
+be expected, had no CD4 lymphocytes and few eosinophils
+in the BAL during Pneumocystis infection (Figure 1). However,
+if CD4 lymphocytes were depleted from MT mice,
+then the Pneumocystis disease took on characteristics very
+similar to that of CD4-depleted wild-type mice. This was true
+with respect to Pneumocystis burden (Figure 1), physiological
+impairments (Table 1), and cellular influx into the lung
+(Figure 1).
+Previous research has implicated CD8 lymphocytes as a
+cause of host tissue damage in Pneumocystis, and this initial
+study would seem to agree, as both B-cell-deficient and Band
+CD4-cell-deficient mice had extensive host tissue damage.
+To examine further the role of the CD8 cells, we infected
+MT mice that were depleted of CD4 lymphocytes,
+CD8 lymphocytes, or both CD4 and CD8 lymphocytes as
+well as undepleted MT mice with Pneumocystis.
+
+</text>

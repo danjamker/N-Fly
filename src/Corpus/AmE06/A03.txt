@@ -1,0 +1,106 @@
+<text id="A03" category="" words="1999" checkedby="" modifiedby="" Title="U.S. plays terror card in hearing on AT&T wiretap lawsuit' THE SAN FRANCISCO CHRONICLE, June 24, 2006, A3; 'Economic confidence tumbles in Bay Area Business leaders worried over real estate, gas prices, Mideast', THE SAN FRANCISCO CHRONICLE, August 31, 20" Author="Bob Egelko; Verne Kopytoff; Edward Epstein;" PublicationDate="June 24, 2006; August 31, 2006; September 27, 2006" SampledFrom="All; All; Beginning;" WebAddress="Nexis UK">
+
+A lawsuit accusing AT&amp;T of illegally collaborating in government electronic surveillance will help terrorists communicate "more securely and more efficiently'' unless it is promptly dismissed, a Bush administration lawyer argued in a packed San Francisco courtroom Friday.
+
+If the privacy-rights case is allowed to proceed, AT&amp;T will have to admit or deny that it gave the National Security Agency access to its telephone and e-mail networks and database so the government could eavesdrop on communications between Americans and suspected terrorists in other countries, said Assistant Attorney General Peter Keisler.
+
+An admission either way by AT&amp;T would betray "a state secret of the highest order,'' he said.
+
+When Chief U.S. District Judge Vaughn Walker pointed out that the alleged cooperation of AT&amp;T and other telecommunications companies has been widely reported in the press, Keisler said public confirmation or denial would allow terrorists to replace suspicion with certainty.
+
+A "reasonable terrorist'' deciding how to contact cohorts weighs the risk that communications on a commercial network will be intercepted against the difficulties of finding other channels, Keisler said. By clarifying AT&amp;T's status, he said, "you are enabling them to communicate more securely and more efficiently.''
+
+Also, he said, a confirmation of AT&amp;T's role in the program would "immediately heighten the risk that the company and its facilities would be subject to attack.''
+
+The suit, the first of more than 30 now pending against major phone companies, was filed in January by the Electronic Frontier Foundation on behalf of AT&amp;T customers. It alleges that the company has allowed the National Security Agency to intercept the phone calls and e-mails of tens of millions of customers for use in its program to monitor contacts with suspected foreign terrorists.
+
+The suit seeks damages, potentially into the billions of dollars, and a ban on AT&amp;T's participation in the program.
+
+President Bush acknowledged in December that the federal agency has eavesdropped on communications between Americans and alleged terrorists abroad without the court warrants required by a 1978 federal law. His claim that he has the constitutional power to authorize the surveillance is being challenged in another lawsuit in Michigan.
+
+Walker, who also heard arguments by AT&amp;T to dismiss the suit, did not issue a ruling and gave no clear indication of which way he was leaning during the three-hour hearing. But he seemed skeptical of the government's broadest claim: that the entire subject of the lawsuit is a state secret, requiring dismissal without further inquiry.
+
+"The state secrets privilege is not unlimited,'' the judge told Keisler.
+
+At another point, Walker questioned the government's reliance on a 1998 ruling by the Ninth U.S. Circuit Court of Appeals in San Francisco dismissing workers' lawsuits against a classified Air Force waste disposal program.
+
+"Isn't this case different?'' he asked. In the 1998 case, "the whole program of disposal was a state secret,'' the judge said.
+
+Walker could also dismiss the case on narrower grounds, by deciding either that AT&amp;T's actions were authorized by the government; that the company does not have to provide proof of federal authorization because its role, if any, is a state secret; or that the individual customers have no right to sue because they can't show that their calls or messages were intercepted.
+
+Electronic Frontier Foundation lawyer Kevin Bankston argued that the plaintiffs don't have to show that the federal agency monitored individual calls, because they have evidence that AT&amp;T, in cooperation with the government, engaged in "wholesale surveillance of its customers.''
+
+That evidence, he said, consists of company documents and a statement by Mark Klein, a former AT&amp;T technician, describing the installation in 2003 of equipment at the company's building on Folsom Street in San Francisco that allowed Internet traffic to be routed to the government. Klein reported that only employees cleared by the National Security Agency were allowed into the room, Bankston said.
+
+But Keisler, the government's lawyer, said Klein's materials and a supporting statement by J. Scott Marcus, an expert on telecommunications networks, were legally worthless.
+
+"With all respect to them, they don't know anything,'' Keisler said. He said Klein's purported information about the federal agency's involvement consisted of secondhand reports, and Marcus' statement was "a mixture of hearsay and speculation.''
+
+AT&amp;T's argument for dismissal was that federal law protects communications companies from being sued for taking part in government intelligence programs.
+
+If the company had a role, which it refuses to confirm or deny, it was merely a "passive instrument of the government,'' said AT&amp;T lawyer Brad Berenson. He also told Walker that the company had no obligation to consider the legality of the program because it was solely the government's concern.
+
+The judge said AT&amp;T appeared to be arguing that "these programs are essentially immune from any kind of review.'' Not quite, Berenson replied, but the review should come from Congress, not the courts.; 
+
+Local business leaders' confidence in the Bay Area economy has soured amid concerns over a slowing real estate market, higher gas prices and unrest in the Middle East, according to a survey released Wednesday.
+
+The quarterly survey by the Bay Area Council, a public policy group, showed that its business confidence index dropped five points, to 55 out of 100, matching its lowest point in three years.
+
+The results highlight an increased caution among local executives. But it doesn't necessarily spell gloom and doom.
+
+Among Bay Area employers, 39 percent said they expect to hire more workers over the next six months. Only 11 percent plan to cut jobs during the same period.
+
+"Executives are taking a sort of pause on the economy," said John Grubb, a spokesman for the Bay Area Council. "They're asking 'Which way is it going to go right now?' "
+
+The survey, based on the responses of 509 business leaders, illustrates yet again the volatility of all things business in the Bay Area, where confidence -- as measured by the survey -- has peaked and plummeted several times since the September 2001 terrorist attacks. The highest point in recent years was 2004, when the index reached 64 out of 100 based on a large majority of business leaders forecasting short-term growth.
+
+Any number over 50 means there were more positive than negative responses to questions about current and future business conditions. The index is on a sliding scale in which zero indicates utter despair and 100 commercial utopia.
+
+Among the most pessimistic executives in the most recent survey were those hailing from the financial services industry, which includes banks, investment companies and mortgage lenders. More than three-quarters said they expect the Bay Area economy to be the same in six months or worse.
+
+Their view is colored by concern about the real estate market reversing course from its impressive run-up over the past several years, and the home and commercial real estate loan business drying up.
+
+Steven Buster, chief executive of the Mechanics Bank in Richmond, which makes commercial real estate loans to developers and investors, cited a slowdown in construction and developers reducing prices as ominous signs.
+
+"Banks are like mirrors of the economy," Buster said. "What ever is happening out there, we feel the results over time."
+
+On the other side of the spectrum in confidence was the information industry, made up largely of Internet companies, which are enjoying a boom in online advertising. Among its managers, 38 percent said they expect the Bay Area economy to be moderately better in six months.
+
+The travel and leisure industries gave an even sunnier response. Nearly two-thirds of those executives foresee a moderately improved or substantially improved local economy.
+
+Mike Depatie, chief executive of Kimpton Hotels &amp; Restaurants Inc. in San Francisco, reflected the optimism, pointing to an increase in tourists in the area and passengers going through San Francisco's airport, plus declining office vacancy. All those factors translate into higher hotel room occupancy -- Kimpton has 11 hotels in San Francisco -- and, as a byproduct, higher room prices.
+
+"I don't see any reason why it's going to change dramatically," Depatie said about the hotel business. "It may temper. But I don't see any falloff in the short term or intermediate term."
+
+Despite the divergence in outlook between the leaders of the Mechanics Bank and Kimpton Hotels, they were in unison on hiring. Both plan to add to their workforces, in keeping with the survey's overall findings that 39 percent of companies plan for more workers in six months.
+
+Buster, the banker, said his company plans to expand its staff by 5 percent this year, to around 650 employees; he now has 630. Depatie said he expects his company to grow by 50 percent from its current nationwide workforce of 6,000 during the next three years. Many of the hires will be outside the Bay Area, where the company expects to focus its expansion, but he nevertheless said staff will be added to the San Francisco headquarters.; 
+
+An intelligence report ordered declassified Tuesday by President Bush offers a sober assessment of the spread of Islamic terrorism, finding that the war in Iraq is "cultivating supporters for the global jihadist movement.''
+
+In ordering the release of sections of a secret national intelligence estimate prepared last April, Bush was reacting to an election-year leak that threatened to undercut his claims about the war in Iraq.
+
+Bush said the leaks this weekend of portions of the document had mischaracterized the report prepared by analysts from 16 intelligence agencies. But critics of the war said the report made their case that the war in Iraq has distracted the United States from the real war against terrorism.
+
+While only a few paragraphs in the released "key judgments'' section of the report entitled "Trends in Global Terrorism: Implications for the United States'' deal directly with Iraq, they do mirror reports in newspapers Sunday.
+
+"We assess that the Iraqi jihad is shaping a new generation of terrorist leaders and operatives; perceived jihadist success there would inspire more fighters to continue the struggle elsewhere," read the declassified section of the intelligence report released Tuesday.
+
+"The Iraq conflict has become the 'cause celebre' for jihadists, breeding a deep resentment of U.S. involvement in the Muslim world and cultivating supporters for the global jihadist movement. Should jihadists leaving Iraq perceive themselves, and be perceived, to have failed, we judge fewer fighters will be inspired to carry on the fight,'' the report read. The declassified portion amounts to just more than three pages of the 30-page document.
+
+The report also noted that U.S. efforts "have seriously damaged the leadership of al Qaeda and disrupted its operations.'' It also said the philosophy of al Qaeda and other extremist groups is anathema to most Muslims, a fact that counter-terrorism efforts should try to exploit.
+
+But the report said the terrorist movement has become more diffuse and "is spreading and adapting to counter-terrorism efforts.''
+
+"Anti-U.S. and anti-globalization sentiment is on the rise and fueling other radical ideologies. This could prompt some leftist, nationalist or separatist groups to adopt terrorist methods to attack U.S. interests.
+
+"The radicalization process is occurring more quickly, more widely and more anonymously, raising the likelihood of surprise attacks,'' the report concluded.
+
+Before the section of the report was released late Tuesday, Bush said earlier in the day during a joint White House press conference with Afghan President Hamid Karzai that he had ordered all of the intelligence estimate released except for cuts needed to protect intelligence "sources and methods.''
+
+Bush's National Security Adviser Frances Townsend said that in deciding what portions to release, the administration had to be careful. "We can't do further damage by declassifying too much,'' she said during a telephone conference.
+
+Democrats anticipated that not all of document would be declassified. On the House floor, Democratic Leader Nancy Pelosi of San Francisco called unsuccessfully for a rare secret House session to make the entire report available to all 435 members so they could see and discuss it behind closed doors.
+She also said the entire report should be given to the public after "sources and methods'' were removed.;
+
+</text>

@@ -1,0 +1,187 @@
+<text id="J15" category="" words="2011" checkedby="" modifiedby="" Title="PRACTICAL METHODS FOR THE CLINICAL ASSESSMENT OF INFORMATION PROCESSING SPEED" Author="SAMUEL T. GONTKOVSKY and WILLIAM W. BEATTY" PublicationDate="November 1, 2006 " SampledFrom="International Journal of Neuroscience " WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=122&sid=ab291ca8-7ec1-4d34-a1b7-535f49e4d60e%40sessionmgr111&vid=3">
+
+The rate at which individuals are capable of processing information is considered a
+sensitive indicator of brain dysfunction, particularly among clinical populations
+whose neurocognitive impairments generally are considered relatively mild in
+nature. Assessment of information processing speed often is confounded, however,
+by comorbid impairments in other constructs of neurocognition, including
+attentional capacity, visuospatial perception, language, immediate memory, and
+motor speed/coordination. This investigation examined the effect of controlling
+for various potential confounders on the strength of associations among several potential measures of information processing speed. Participants were 64 patients
+diagnosed with clinically definite multiple sclerosis. Analysis indicated consistent
+significant and positive associations among measures of processing speed, which
+generally persisted despite simultaneous statistical control of potential confounding
+factors. Results imply that examined confounding variables are similarly related to
+the measures of processing speed. Therefore, any of the measures of information
+processing speed considered in this study may be used as a proxy for the more direct
+measure of this construct derived from the Sternberg Memory Scanning Test. 
+The rate at which individuals are capable of processing information is
+considered a sensitive indicator of brain dysfunction. Impairments on tasks that
+require speeded performance have been observed repeatedly in persons with
+otherwise mild cognitive deficits, including patients with multiple sclerosis
+(MS, Rao et al., 1991), systemic lupus erythematosus (Shucard et al., 2004),
+chronic fatigue syndrome (DeLuca et al., 2004), diseases of the basal ganglia
+(Cummings, 1990), and mild to moderate traumatic brain injury (Levin, 1993).
+Processing speed also declines early in the course of Alzheimer's disease
+(Beatty et al., 2003) as well as in normal aging (Salthouse, 1991).
+Assessment of processing speed is complicated because test scores on
+any measure of speeded performance may be influenced, or confounded, by
+the patient's capacity for attention, visuospatial perception, language, and
+immediate memory as well as by motor speed/coordination and the integrity of
+sensory systems.
+Perhaps the purest measure of processing speed is the Sternberg Memory
+Scanning Test (Sternberg, 1969). On this task, subjects first memorize a set
+of 1, 2, or 4 digits. They are shown single digits on a computer screen and
+must decide by pressing one of two keys whether the digit matches one of
+those held in memory. Plots of reaction time against the size of the memory
+set yield two measures: slope, which is taken as the measure of information
+processing speed (usually expressed as ms/bit of information), and intercept,
+which reflects overall response speed. Factors such as attention, visuospatial
+perception, language, and sensory/motor ability either are irrelevant to the
+task or exert influences unrelated to memory set size. These factors would be
+expected to affect the size of intercept, but not the slope. Impairment in memory
+might affect the slope, but if this was a serious problem for a particular patient,
+an increase in the proportion of errors (normally nearly 0)would be expected. As
+a practical assessment matter, one probably would not be especially concerned
+about obtaining a precise estimate of information processing speed for a patient
+who could not remember four single-digit numbers following rehearsal.
+Rao et al. (1989) tested patients with MS and controls on the Sternberg
+Memory Scanning Test. The patients and controls differed in mean slope (100
+ms/digit vs. 68 ms/digit) and mean intercept (741 ms vs. 541 ms), but error
+rates were low (1.9% vs. 0.9%) for both groups and not significantly different.
+Thus, based on their steeper slopes, the patients exhibited slowed information
+processing of central origin that could not be attributed to sensory or motor
+deficits or to difficulties in attention or immediate memory. They also showed
+overall slowing based on their higher values for the intercept.
+As a relatively uncontaminated measure of processing speed, the Sternberg
+Memory Scanning Test has many virtues, but the length of the task
+(approximately 30 min) probably is too long for most clinical settings. A
+number of shorter alternatives have been used to infer patients' abilities to
+process information rapidly based on the timing element involved in their
+completion. The present study examined the effect of controlling for various
+possible confounders on the strength of associations among several potential
+measures of information processing speed that are sufficiently brief and
+therefore widely used in clinical practice. If the patterns of association among
+the various measures were similar and statistically significant without and with
+adjustment for the confounding variables, the implication would be that the
+confounding variables have minimal to modest influences on the measures of
+processing speed or, at least, that their influences are similar for all of the
+processing speed measures.
+METHOD
+Participants
+Participants were 64 patients who met inclusionary/exclusionary criteria
+and volunteered to participate in a prospective investigation examining the
+sensitivity of three screening measures to the cognitive impairments associated
+with MS (Aupperle et al., 2002). Patients were recruited from the MS Clinic at
+the Oklahoma City Department of Veterans Affairs Medical Center (DVAMC)
+and from the practices of collaborating area neurologists. The sample consisted
+of 27 males and 37 females. Four participants were African American,
+1 participant was Hispanic, and 59 participants were Caucasian. Twenty (31%)
+of the patients were employed full time; the remaining either were retired or
+unemployed. All of the accepted volunteers met criteria for clinically definite
+MS (Poser et al., 1983), were residing at home, and had adequate vision (e.g.,
+ability to read newspapers, magazines, and the consent form without specialized aids) and hand function (e.g., legible signature of normal size on the consent
+form) to complete all measures. Thirty-three patients had been diagnosed
+with a relapsing-remitting disease course, and 31 had been diagnosed with a
+progressive disease course (5 primary progressive, 26 secondary progressive).
+Each potential participant initially was sent a letter describing the study
+and subsequently was contacted by telephone to determine eligibility and
+willingness to participate. Patients with any of the following conditions were
+excluded from participation: history of head injury with loss of consciousness
+for more than one hour or documented chronic cognitive impairment, history
+of alcohol or drug abuse treatment, history of learning disability, myocardial
+infarction during the prior twelve-month period, uncontrolled hypertension or
+metabolic disease (e.g., diabetes, thyroid, or liver disease), chronic lung or
+kidney disease, history of any central nervous system disease other than MS,
+severe psychiatric disease (e.g., Schizophrenia or Bipolar Disorder), Major
+Depressive Disorder or any anxiety disorder that clearly antedated the diagnosis
+of MS. Based on these criteria, 8 volunteers were excluded (4 for poor vision,
+1 for a learning disability, 1 who could not hold a pencil, 1 for a severe traumatic
+brain injury, and 1 who was confined to bed). An additional 12 patients
+(8%) who met the inclusionary/exclusionary criteria refused to participate.
+Patients continued to take medications at optimal doses as prescribed by their
+attending physicians (see Aupperle et al., 2002 for specific details). All other
+patients provided written informed consent; the protocol was approved by the
+University of Oklahoma Health Sciences Center Institutional Review Board
+and the Research Committee of the Oklahoma City DVAMC.
+Procedure
+All testing of participants occurred at least one month following recovery
+from an exacerbation of MS symptomatology. Measures were administered
+and scored according to standardized procedures in the following order:
+(1) Ambulation Index (AI; Hauser et al., 1983), (2) Mini-Mental State Exam
+(Folstein et al., 1975), (3) Fatigue Severity Scale (FSS; Krupp et al., 1989), (4)
+Chicago Multiscale Depression Inventory (CMDI; Nyenhuis et al., 1995), (5)
+State-TraitAnxiety Inventory (STAI; Spielberger, 1983), (6) RepeatableBattery
+for the Assessment of Neuropsychological Status (RBANS; Randolph, 1998),
+Screening Examination for Cognitive Impairment (SEFCI; Beatty et al., 1995),
+and Neuropsychological Screening Battery for Multiple Sclerosis (NPSBMS;
+Rao et al., 1985; Rao et al., 1991) and, (7)Wisconsin Card Sorting Test (Heaton
+et al., 1993). The order of administration for the three neuropsychological screening batteries listed in number six was controlled by between-subjects
+counterbalancing. Additionally, a brief rest period was imposed between these
+three batteries in order to minimize potential interference effects.
+For the purposes of the present investigation, the following timed tests
+from the neuropsychological batteries were selected as measures of information
+processing speed: the Controlled OralWord Association Test with the letters F,
+A, and S from the NPSBMS, the Coding and Semantic Fluency subtests from
+the RBANS, the oral version of the Symbol DigitModalities Test (Smith, 1982)
+from the SEFCI, and the Paced Auditory Serial Addition Test (PASAT) with
+a 3-interstimulus interval (ISI) from the NPSBMS. The 3-second ISI version
+of the PASAT was used because 11 patients were unable to complete the more
+difficult 2-second ISI version. Control factors were the Digit Span Test from
+the RBANS for auditory attention, the Figure Copy test from the RBANS for
+visuospatial function, the Picture Naming test from the RBANS and the Shipley
+Vocabulary Test (SILS-V; Zachary, 1986) from the SEFCI for language, the
+ImmediateMemory Index from the RBANS for immediate memory, the AI for
+motor ability, and the FSS for fatigue.
+The number of patientswho refused to attempt various testswas as follows:
+1-Coding and 3-Figure Copy from the RBANS; 1-oral version of the Symbol
+Digit Modalities Test from the SEFCI; 3-PASAT from the NPSBMS. The
+patient who refused to attempt the Coding subtest and the SDMT suffered from
+ophthalmoplegia. Reasons for the other refusals are unknown. These patients
+were excluded from statistical analyses, which were performed on the data of
+the remaining 60 subjects who completed all measures.
+RESULTS
+Correlational analysis revealed no significant associations between the use
+of any class of medications and performance on the cognitive tests. Likewise,
+cognitive performance was not correlated with scores on any of the scales of the
+CMDI or the STAI (see Aupperle et al., 2002). Table 1 shows the correlations
+among the five measures of processing speed. Zero-order correlations are
+shown in standard font and partial correlations in bold font. The partial
+correlations were computed controlling for auditory attention, visuospatial
+function, naming, vocabulary, immediate memory, motor ability, and fatigue
+simultaneously. All of the zero-order correlations were statistically significant;
+those between Coding or SDMT and other variables were at least moderate in
+size (r ≥ .40). Associations between the verbal fluency and PASAT measures
+were small in magnitude. After adjustment for the seven control factors, all but one of the correlations remained significant, although the strength of all
+associations was reduced.
+DISCUSSION
+The present findings reveal consistent associations among probable measures
+of processing speed, which generally persist despite simultaneous statistical
+control of seven potentially confounding factors. The results imply, at
+minimum, that the confounding variables are related to the measures of
+processing speed in a similar way. Hence, any of the measures presumably
+can be used as a proxy for the more direct measure derived from the Sternberg
+Memory Scanning Test.
+Of these, the oral version of the SDMT, which takes only about twominutes
+to administer (with instructions), appears to be the test of choice for examination
+of information processing speed. The SDMT has adequate norms adjusted for
+various demographic characteristics, including age and gender (Richardson &amp;
+Marottoli, 1996; Uchiyama et al., 1994; Yeudall et al., 1986) and can be scored
+easily with a template. The stimuli are large, so visual acuity rarely is a problem,
+although patients with eye movement disorders may not produce valid scores.
+Elsewhere, Beatty (2002) found that the SDMT, the FAS, and semantic
+fluency are moderately correlated, aswas found in the present study, and each of
+the tests has similar sensitivity and specificity for discriminating patients with
+MS from demographic controls. Fluency tests are brief and adequate norms are
+available (see Spreen &amp; Strauss, 1998).
+Performance on the coding test from the RBANS was highly correlated
+with performance on the SDMT, which was expected because the tasks are the
+same although the symbol keys and the response mode (oral vs. written) differ.
+Because these tests are so highly correlated, they likely provide very similar
+information about processing speed. Hence, the examiner probably can safely
+select the test that uses the patient's least impaired response mode. Most often
+this will be the oral administration of the SDMT.
+Finally, the PASAT is longer than any of the other tests examined in
+this investigation and often requires repetition of the instructions.
+
+</text>

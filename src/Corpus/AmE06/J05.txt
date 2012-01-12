@@ -1,0 +1,155 @@
+<text id="J05" category="" words="2021" checkedby="" modifiedby="" Title="Chemical process safety : learning from case histories " Author="Roy E. Sanders" PublicationDate="2005" SampledFrom="e-book" WebAddress="http://www.netlibrary.com/Reader/">
+
+CHAPTER 1.
+Perspective, Perspective,Perspective.
+Introduction.
+Perspective, perspective, perspective - chemical manufacturing industries are often the targets
+of misperceptions. In this opening chapter, be prepared to see a more accurate representation
+of the U.S. chemical industry, including its value to humanity, its history, and its
+high degree of safety. The first section is a brief review of the countless benefits of the chemical industries that surround us, increase our life span, and enhance our enjoyment of life.
+The second section is a glimpse of the history of the vital chemical manufacturing industry.
+However, the concept of comparative risks is the main emphasis of this chapter. The
+perceived risks of the chemical industry and its occupations are often misunderstood.
+Working in the chemical industry is safer than most individuals realize. We shall provide
+a perspective of the risks of working within this industry by comparing that risk with actual
+statistical dangers encountered with other well-understood occupations, commonplace
+activities, and life-styles. Later chapters will focus on costly errors in the chemical industry
+along with practices and procedures to reduce the occurrence and severity of such incidents.
+Viewed in isolation, case histories alone could easily lead to the inaccurate picture that the
+chemical industry is dangerous. In fact, the chemical industry has an impressive safety record
+that is considerably better than most occupations. The news media does not often speak of
+the safety of the chemical plants because these passive truths lack news-selling sizzle.
+The Media Rarely Focuses on the Benefits of the Chemical Industry.
+Chemical manufacturing and petroleum refining have enriched our lives. Few individuals
+in the developed world stop to realize how the chemical industry has improved every
+minute of their day. The benefits of the industries are apparent from the time our plastic
+alarm clock tells us to wake up from a pleasant sleep on our polyester sheets and our
+polyurethane foam mattresses. As our feet touch the nylon carpet, we walk a few steps to
+turn on a phenolic light switch that allows electrical current to safely pass through
+polyvinyl chloride insulated wires. At the bathroom sink, we wash our face in chemically
+sanitized water using a chemically produced soap.
+We enter the kitchen and open the plastic-lined refrigerator cooled by fluorochlorohydrocarbon
+chemicals and reach for the orange juice, which came from chemically fertilized
+orange groves. Many of us bring in the morning newspaper and take a quick look at the
+news without thinking that the printing inks and the paper itself are chemical products.
+Likewise, other individuals choose to turn on the morning news and do not think twice
+that practically every component within the television or radio was made of products produced
+by the chemical industry. In short, we just do not think we are surrounded by the
+benefits created from chemicals and fail to recognize how the industries have enriched our
+lives.
+A recent publication distributed by the American Chemical Society states:
+The chemical industry is more diverse than virtually any other U.S. industry. Its products
+are omnipresent. Chemicals are the building blocks for products that meet our most fundamental
+needs for food, shelter, and health, as well as products vital to the high technology
+world of computing, telecommunications, and biotechnology. Chemicals are a keystone
+of U.S. manufacturing, essential to the entire range of industries, such as pharmaceuticals,
+automobiles, textiles, furniture, paint, paper, electronics, agriculture, construction, appliances
+and services. It is difficult to fully enumerate the uses of chemical products and
+processes. . . . A world without the chemical industry would lack modern medicine, transportation,
+communications, and consumer products. 
+A Glance at the History of Chemical Manufacturing before the Industrial Revolution.
+Humanity has always been devising ways of trying to make life a little better or easier. In
+the broad sense, prehistoric people practiced chemistry beginning with the use of fire to
+produce chemical changes like burning wood, cooking food, and firing pottery and bricks.
+Clay was shaped into useful utensils and baked to form water-resistive hard forms as crude
+jars, pitchers, and pots at least as far back as 5000 B.C. 
+The oldest of the major industrial chemicals in use today is soda ash. It seems to date
+back to 3000 to 4000 B.C. because beads and other ornaments of glass, presumably made
+with soda ash, were found in Egyptian tombs. It seems a natural soda ash was used as an
+article of trade in ancient Lower Egypt. 
+From what we know today, even the earliest civilized man was aware of the practical use
+of alcoholic fermentation. The Egyptians and Sumerians made a type of ale before 3000
+B.C., and the practice may have originated much earlier. Wine was also made in ancient
+Egypt before 3000 B.C. by treading the grapes, squeezing the juice of the crushed grapes,
+and allowing the juice to ferment in jars. In addition to the ale and grape-wine, the ancients
+drank date-wine, palm-wine, and cider. 
+The Romans and Greeks before the Christian era seem to have been without soap as we
+know it, and to some of us today their cleaning methods seem unrefined. The Greeks used
+oil for cleansing the skin, and supplemented it with abrasives such as bran, sand, ashes, and
+pumice-stone. Clothes and woolen textiles were cleaned by treading the material or beating
+the fabric with stones or a wooden mallet in the presence of fuller's earth together with
+alkali, lye, or more usually ammonia in the form of stale urine. Roman fullers put out
+pitchers at the street corners to collect urine. As repugnant as it seems to many, it should be noted that stale urine was used for cleaning clothes from Roman times up to the nineteenth
+century, when it was still in use on sailing ships. 
+During the 900s, Europeans only lived for about 30 years, and life was a matter of much
+toil for very little rewards. Food was scarce, monotonous, often stale or spoiled. Homes
+offered minimal protection from the elements and clothing was coarse and rough. War, disease,
+famine, and a low birth rate were ever present. Fewer than 20 percent of the
+Europeans during the Middle Ages ever traveled more than 10 miles (16 km) from the
+place they were born. The age that followed these bleak years brought forth a burst of
+inventiveness as mankind began to understand how science could take over some of their
+burdens. 
+In Europe, the harvesting and burning of various seaweeds and vegetation along the
+seashore to create a type of soda ash product is one of the earliest examples of recorded
+industrial chemical manufacturing. No one is sure when this type of chemical processing
+began, but it was fairly widespread before modern recorded history. In fact, the Arabic
+name for soda, al kali, comes from the word kali, which is one of the types of plants harvested
+for this early industrial chemical producing activity. The desired product of this
+burned vegetation was extracted with hot water to form brown colored lye. The process
+yielded primarily sodium carbonate (or by its common name, soda ash), which was used
+to manufacture soap and glass. Soda ash is by far the oldest of the major industrial chemicals
+used today. 
+During the 1600s and 1700s, scientists laid the foundations for the modern chemical
+industry. Germany, France, and England initially manufactured inorganic chemicals to preserve
+meat and other foods, make gunpowder, dye fabrics, and produce soap. In 1635, the
+first American chemical plant started up in Boston to make saltpeter for gunpowder and
+for the tanning of hides. 
+The chemical industry was being formed as the Industrial Revolution began, but as late
+as 1700, only 14 elements had been identified. The early chemical manufacturing process
+development can be accredited to Nicolas LeBlanc, a physician to the Duke of Orleans,
+who outlined a method of making soda ash starting with common table salt. The Duke of
+Orleans gave Dr. LeBlanc sufficient funds to build such a plant not far from Paris in the
+1790s. Other soda plants sprang up in France, England, Scotland, Austria, and
+Germany.
+The LeBlanc Process was the first large-scale industrial chemical process. The process
+produced large quantities of gaseous hydrochloric acid as a by-product that released into
+the air and caused what was probably the first large-scale industrial pollution. It was later
+found that this waste gas could be captured and reacted with manganese dioxide to produce
+gaseous chlorine. The LeBlanc Process was used until about 1861, after which it
+began to be replaced by the more efficient Solvay Process. 
+The Modern Industrial Chemical Industry Modifies Our Way of Living.
+During the 1800s, chemists discovered about half of the 100 known elements. After 1850,
+organic chemicals, such as coal-tar dyes, drugs, nitroglycerin explosives, and celluloid
+plastics were developed and manufactured. The two World Wars created needs for new and
+improved chemical processes for munitions, fiber, light-weight metals, synthetic rubber, and fuels. The 1930s witnessed the production of neoprene (1930), polyethylene
+(1933), nylon (1937), and fiberglass (1938), which signaled the beginning of an era that
+would see plastics replace natural materials. These "plastics" would radically influence how
+things were designed, constructed, and packaged. 
+After the Second World War, the expansion of the petroleum refining and chemical
+process industries far outstripped that of the rest of the manufacturing industries. The
+chemical industry also was different than the older established industries due to the nature
+of toxic and flammable liquids and gases. Naturally, the handling and storage of hazardous
+materials presented a potential peril that was often far greater than those posed by
+the traditional industries.
+By the 1950s and 1960s chemical processing became more and more sophisticated, with
+larger inventories of corrosive, toxic, and flammable chemicals, higher temperatures, and
+higher pressures. It became no longer acceptable for a single well-meaning individual to
+quickly change the design or operation of a chemical or petrochemical plant without
+reviewing the side effects of these modifications. Many case histories of significant process
+accidents vividly show examples of narrowly focused, resourceful individuals who cleverly
+solved a specific, troubling problem without examining other possible undesired consequences.
+This book will focus on a large number of near misses, damaging fires, explosions, leaks,
+physical injuries, and bruised egos. A flawed "plant modification," improper maintenance,
+poor operating practice, or failure to follow procedures was determined to be at least a contributory cause in many case histories cited in the chapters that follow. Strangers to the
+chemical industry might be tempted to think that it is one of the most hazardous of industries;
+the opposite is true. The U.S. Chemical Industries (and most European Chemical
+Industries) are among the safest of all industries. The facts show that it requires a high
+degree of discipline to handle large quantities of flammable, combustible, toxic, or otherwise
+hazardous materials.
+The chemical industry generally handles business so well that it is difficult to find large
+numbers of recent incidents for examples. Many of the featured case histories in this book
+occurred over 20 years ago; however, the lessons that can be learned will be appropriate into
+the twenty-first century. Tanks can fail from the effects of overpressure and underpressure
+in 2010 just as well as they failed in the 1980s. Incompatible chemicals are incompatible
+in any decade and humans can be forgetful at any time. Before we review a single case history,
+it is time to boast about the safety record of the chemical industry.
+Risks Are Not Necessarily How They Are Perceived.
+True risks are often different than perceived risks. Due to human curiosity, the desire to sell
+news, 24-hour-a-day news blitz, and current trends, some folks have a distorted sense of
+risks. Most often, people fear the lesser or trivial risks and fail to respect the significant dangers faced every day.
+Two directors with the Harvard Center of Risk published (2002) a family reference to
+help the reader understand worrisome risks, how to stay safe, and how to keep the risk in
+perspective. This fascinating book filled with facts and figures is entitled Risk - A Practical
+Guide for Deciding What's Really Safe and What's Really Dangerous in the World Around The Introduction to Risk - A Practical Guide . . . starts with these words.
+
+</text>

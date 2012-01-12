@@ -1,0 +1,194 @@
+<text id="J06" category="" words="2025" checkedby="" modifiedby="" Title="Characterization of tunneling systems in molecular versus polymer glasses by high-pressure photon echo spectroscopy" Author="Michael J. McIntire  and Eric L. Chronister" PublicationDate="4 January 2006" SampledFrom="Journal of Chemical Physics" WebAddress="http://web.ebscohost.com/ehost/pdfviewer/pdfviewer?hid=122&sid=64d4c73f-e037-4939-a3b7-ca24594e2b5a%40sessionmgr115&vid=3">
+
+Intrinsic differences between tunneling two-level systems (TLSs) in molecular versus polymeric
+glasses are revealed by studying the effect of compression on TLS dynamics. Photon echo studies
+under variable low-temperature (1.1 - 2.3 K) and high-pressure (0 - 30 kbar) conditions have been
+performed to contrast the effect of compression on molecular [2-methyl-tetrahydrofuran (2MTHF)]
+versus polymer [Polymethylmethacrylate (PMMA)] glasses. The pressure-induced reduction in the
+magnitude of the optical dephasing rate of rhodamine 640 in a molecular glass 2MTHF is found
+to be comparable to the volume decrease of the glass (e.g., 20% at 30 kbar), indicating that TLSs
+in 2MTHF are associated with void space or low-density regions of the glass. In contrast, the
+relative pressure insensitivity observed for organic polymer glasses (PMMA) supports the idea that
+these TLSs are associated with side chain defects. The power-law exponent for the
+temperature-dependent dephasing in 2MTHF also decreased significantly at high pressure,
+suggesting a change in the form of the TLS density of states upon compression of the molecular
+glass.
+INTRODUCTION.
+The thermal, acoustic, and optical dephasing characteristics of glasses at low temperature are well described by tunneling two-level-system (TLS) models that postulate a
+distribution of phonon-assisted tunneling rates. Furthermore, the similar TLS dynamics observed for a variety of inorganic, organic, covalent, and molecular glasses has led
+to a rather homogeneous view of TLS. In the present study, high pressure is used as a relevant variable for probing the nature of TLS in different glasses. The compression of materials under extreme pressure permits experimental perturbation of low frequency modes, including tunneling two-level systems in glasses. The ability to experimentally alter TLS of glasses provides a tool
+to differentiate the microscopic origin of TLS in glasses. The standard approximation in TLS dynamics yields a temperature dependent pure dephasing rate at (sufficiently low temperatures,
+4 K).
+In this TLS model the magnitude of the pure dephasing rate a is proportional to the product of the TLS-chromophore coupling and the TLS density (i.e., number of TLSs per unit
+volume), and the temperature exponent a is related to the TLS density of states (i.e., number of TLSs of energy E per unit volume), where E is the TLS energy splitting and a=1+m. At temperatures
+above 4K the excited state of the chromophor could couple to thermally populated optical phonons15 and obscure the TLS dynamics. In the present study the temperature is low enough (1.1 - 2.3 K) that TLS dynamics is the dominant dephasing mechanism, and high pressure is utilized
+as a probe of the physical nature of TLS. The microscopic nature of TLSs has been identified in only a few systems, such as the reorientation of the central phenyl ring of
+p-terphenyl near boundaries between domains of different
+central phenyl ring ordering or the large cooperative reorientations
+of 30 SiO4 tetrahedra in SiO2. For polymer systems
+and molecular glasses such as polymethylmethacrylate (PMMA) and 2-methyl-tetrarydrofuran (2MTHF), the microscopic
+nature of the TLS is unknown. The present study utilizes
+high pressure to differentiate the properties of TLSs in a
+molecular versus a polymeric glass.
+The compression of the glass matrix under high pressure
+leads to corresponding changes in the TLS coordinates18,19
+that can affect the TLS dynamics. Photon echo measurements
+under variable low-temperature (1.1 - 2.3 K) and variable
+high-pressure (0 - 30 kbar) conditions can be used to
+characterize changes in the TLS dynamics. High-pressure
+optical dephasing studies in various polymer glasses at low
+temperature(4 K) indicate that pressure-induced
+changes in TLS density, tunneling barrier heights, and TLS-phonon
+interactions can lead to dephasing rates that are either
+insensitive to pressure or that increase at higher
+pressure. In contrast, high-pressure hole-burning measurements
+in molecular glasses yield pressure-induced line
+narrowing. The present study will contrast temperatureand
+pressure-dependent photon echo measurements using a rhodamine 640 (Rh640) chromophore in a 2-methyltetrahydrofuran (2MTHF) molecular glass versus a polymethylmethacrylate
+(PMMA) polymer glass. 
+EXPERIMENT.
+A methylene chloride solution of Rh640 and PMMA was evaporated to obtain a film of a few hundred microns thickness. The final concentration of Rh640 in the PMMA film
+was 10−4M. For high-pressure studies a sample was placed in a gasketed Merill-Bassett diamond-anvil cell (DAC), which was then immersed in liquid helium. Samples
+of Rh640 in 2MTHF were prepared by dissolving Rh640 in 2MTHF. At low pressures, solutions of Rh640 in 2MTHF were frozen by immersion into liquid helium while high-pressure
+Rh640 in 2MTHF was solidified by compression in a DAC, which was subsequently immersed in the liquidhelium cryostat.
+The sample pressure of the DAC in the helium bath was
+determined by measuring the fluorescence shift of a ruby
+chip placed in the DAC sample compartment. Temperatures
+from 1.2 to 2.1 K were obtained by controlling the
+vapor pressure in a liquid-helium immersion Dewar.
+The photon echo measurements were performed using a
+cavity-dumped, tunable dye laser (maximum pulse energies
+of 10J), pulse width of 30 ps, at a repetition rate of 800 Hz
+[pumped by the second-harmonic output of a mode-locked
+Q-switched neodymium-doped yttrium aluminum garnet
+(Nd:YAG) laser]. The laser wavelength was set slightly to
+red of the zero-phonon absorption peak (e.g., 585 nm at 0
+kbar and 605 nm at 30 kbars for Rh640 in PMMA). The laser
+pulses were attenuated to about 0.1J, focused to 50m,
+and spatially overlapped in the sample.
+RESULTS.
+Pressure-dependent photon echo measurements.
+The "homogeneous" dephasing time T2 was determined
+by fitting the two pulse photon echo measurements to an
+exponential decay, where T is the delay time between the two laser pulses. The
+temperature-dependent dephasing time T2 was determined at
+several different pressures over the range of 0 - 30 kbar for
+Rh640 in both 2MTHF and in PMMA. Independent transient
+grating measurements of the pressure-dependent lifetime T1
+were used to determine the temperature dependence of the
+pure dephasing rate 1/T2=1/T2−1/2T1.
+Effect of compression on TLS dynamics in 2MTHF versus PMMA.
+The temperature-dependent pure dephasing rate of
+Rh640 in 2MTHF and PMMA, at both ambient pressure (0 kbar) and at high pressure (30 kbar), is illustrated in Fig. 1. The data in Fig. 1 were fit to a power law 1/T2=aT to
+obtain the parameters listed in Table I. A significant lowering
+of the pure dephasing rate is observed for Rh640 in 2MTHF
+when the pressure is increased from 0 to 30 kbars. The
+power-law prefactor a decreased by 20% over the 30 kbar
+pressure range a30 kbars (a30 kbar=131/162), which is comparable
+to the 20% volume decrease of the 2MTHF matrix
+over this pressure range. The correlation of the dephasing
+rate decrease with the volume reduction suggests that compression
+of void space may be reducing the number of
+TLS.9,10 In addition, the power-law exponent (i.e., the
+slope in Fig. 1) was also observed to decrease from T1.6 at 0
+kbar to T0.9 at 30 kbar. If the TLS density of states p(E) Em correlates with a power law of the form 1/T2=aT1+m, then this change would also suggest a corresponding
+pressure-induced change in the form of the TLS density of
+states.
+Optical dephasing of Rh640 in PMMA versus 2MTHF at ambient pressure.
+The temperature-dependent optical dephasing rates for
+Rh640 in 2MTHF and PMMA have nearly the same powerlaw
+exponent at ambient pressure; however, the optical
+dephasing rate was observed to be 1.5X faster in 2MTHF
+versus PMMA. The faster dephasing rate in 2MTHF has been attributed to a stronger TLS-chromophore coupling in 2MTHF. Since both the PMMA polymer (Tg=378 K) and
+the 2MTHF molecular glass (Tg=87 K) are polar, the coupling
+mechanism of the TLS to the polar ionic Rh640 chromophore
+is expected to be similar in both glasses. The stronger
+TLS-chromophore coupling in 2MTHF versus PMMA
+(Ref. 8) may be due to slightly different solute-solvent interactions
+e.g., ether versus ester oxygen or due to TLSs that
+are intrinsically different (e.g., void space in 2MTHF versus
+side group motion in PMMA).
+Comparison of high-pressure photon echo and spectral hole-burning studies of 2MTHF glass.
+The pressure-dependent photon echo results for Rh640
+in 2MTHF are comparable with pressure-dependent fast (15 ms delay) spectral hole-burning results reported for bacteriochlorophyll-a (BChl-a) in 2MTHF (not shown).
+Hole-burning and photon echo measurements do not necessarily probe the same subset of TLSs (due to different intrinsic timescales), and different probe molecules (e.g., ionic
+Rh640 versus nonpolar BChl-a) may also couple to different
+TLS subsets. Nevertheless, the pressure-induced spectral line
+narrowing reported for BChl-a in 2MTHF glass is comparable
+to the decreased dephasing rate observed for Rh640 in
+2MTHF at high pressure, suggesting that similar TLSs are
+being probed in these different measurements.
+DISCUSSION.
+In general, the microscopic nature of TLSs are not well
+understood. Crest and Cohen have proposed that TLSs can
+be associated with void spaces that form as the temperature
+of the glass is lowered below its glass transition temperature.
+Simulations on Lennard-Jones computer glasses have indicated
+that polymeric side groups can act as defects that give
+rise to TLSs. Therefore, two types of TLSs are considered:
+TLSs associated with internal void space formed as the viscous
+glass formed and TLSs primarily associated with the
+restricted motion of polymeric side groups. High pressure
+provides an experimental means of compressing void space
+to probe the properties of TLS in different glasses. The surprisingly
+similar optical dephasing characteristics observed
+for a wide variety of inorganic, organic, covalent, and molecular
+glasses at ambient pressure have led to a rather homogeneous
+picture of TLS in different glasses. However, the
+present study illustrates that high pressure can be used to
+characterize intrinsically different types of TLS that otherwise
+yield similar dynamics under ambient conditions.
+Compression of a glass can change the TLS dynamics by
+decreasing the spatial separations, increasing the coupling of
+TLS to both the chromophore and/or phonons, increasing
+barrier heights, and collapsing TLS associated with voids.
+It has been proposed that the free volume near the liquidglass
+transition temperature can give rise to tunneling centers,
+and Tg has also been used as a qualitative measure of
+such tunneling barrier heights. The glass transition temperature
+for PMMA at ambient pressure is Tg=378 K, and it
+increases by 23 K/kbar from 0 to 3 kbar. A conservative
+extrapolation yields a twofold increase in Tg by 30 kbar. A corresponding twofold increase in the average tunneling barrier
+height (and corresponding increase in the distribution of
+asymmetry parameters) should make a significant perturbation
+of the TLS dynamics.
+The volume change of PMMA under pressure (at room
+temperature is given by P=6.4(kbar)[V0/VP)−1], where
+P is the applied pressure and V0 /VP is the associated volume
+change. Assuming the bulk modulus is not a strong function
+of temperature, this corresponds to a volume reduction of
+20% at a pressure of 30 kbar. However, this compression is
+not isotropic on a molecular scale. For example, compression
+is greatest along coordinates with the weakest intermolecular
+interactions (e.g., void spaces followed by intermolecular
+contacts and followed by covalent bonds). The significant
+decrease in the compressibility of PMMA at pressures 10 kbar indicates a significant decrease in the available free volume over the pressure range of this study. Thus,
+TLSs closely associated with free volume within the glass
+are expected to be strongly affected by the 20% volume
+compression, whereas TLS associated with tightly packed
+polymer side groups may be relatively insensitive to void
+space compression.
+CONCLUSIONS.
+Temperature-dependent optical dephasing measurements
+under variable high pressure have been used to identify intrinsically
+different TLSs in molecular versus polymer
+glasses. The pressure-induced decrease of the pure dephasing
+rate in the molecular glass 2MTHF is attributed to a reduction
+in the number of TLSs associated with the collapse of
+void space. The 20% reduction in the magnitude of the
+dephasing rate of Rh640 in 2MTHF that occurs when the
+pressure is increased from ambient to 30 kbar is comparable
+to the corresponding 20% volume reduction of the glass.
+This correspondence supports the idea that TLS in 2MTHF
+may be associated with void space or low-density regions of
+the glass. The pressure-induced change in the temperaturedependent
+power-law exponent also suggests that the form of
+the density of states of the remaining TLS is altered at high
+pressure.
+The relative pressure insensitivity of the lowtemperature
+dephasing rates in polymer glasses indicates that
+the nature of TLS in organic polymers  (e.g., PMMA and
+polyisobutylene) is intrinsically different than those in molecular
+glasses.
+
+</text>

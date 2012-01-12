@@ -1,0 +1,89 @@
+
+Mr Site Takeaway Website Pro
+Price: £99 inc VAT per year
+Web User takes a look at the latest upgrade from Mr Site, which provides a professional website with a minimum of effort 
+
+There's practically nothing stopping you from building your own website nowadays. Free software, from blogs to sophisticated site editors, can help take your favourite hobby or conversation topic and put it online. If you're willing to splash some cash, however, you could get a professional website complete with complex add-ons like an online shop and built-in optimisation for search engines, to push your online presence further. 
+
+Features 
+Mr Site Takeaway Website Pro comes in a box, despite the fact that it's actually an online service. There's a book and a disk included but it's the registration card containing your password that's the key element. Type the activation URL into your browser along with your password, choose a web address to register your si te under and you can start designing. Everything is then run via the web, which lets you choose from a large selection of interesting and modern-looking designs; control the page count, content and navigation of your site; and publish it online. 
+
+Performance 
+We were pleasantly surprised at how well the service fulfils its promises. Thanks to a good number of decent design templates, it's easy to make an attractive site. Extras like the shop go beyond the call of duty, organising the financing with PayPal and letting you organise things like stock in the background, as well as just offering items for sale. The search-engine optimisation is sensible rather than sensationalist, and there are a range of other options to drop into your site from photo galleries to forums, covering all the requirements of most modest wannabe web builders. 
+
+Ease of use 
+The ease of use is what you're going to benefit from most with this system. The web-based interface is a pleasure to use and even absolute beginners will find the process a breeze. Obviously, such ease of use brings limitations in terms of flexibility, so those already comfortable with a bit of website tweaking may find it too basic. 
+
+Value for money 
+While there are free services available, some people are willing to pay to smooth off what can actually be quite a steep learning curve. This system is ideal for that crowd, letting most people make a simple website with a minimum of fuss, even if some requirements, like setting up an online shop, are quite complex. You could even try and make the site pay for itself as it's easy to add Google adverts and Mr Site has its own affiliate scheme. 
+Verdict
+There's no denying that if you're willing to put the time and effort in, it's getting ever simpler to create a basic website for free. However, it's a time-consuming business and not everyone has the stomach for it. Mr Site Takeaway Website Pro is a good option for those with a modest budget who are looking for a well-featured site they can produce and manage themselves that has room for future growth and requires an absolute minimum of fuss. 
+
+ZyXEL DMA1000 and PLA400
+Price: DMA1000 £129.95 inc VAT - PLA400 twin pack: £129.99 inc VAT
+
+You can't walk into a television showroom at the moment without being offered a TV that's fully equipped for the future, ready and waiting for high definition (HD). But while some broadcasters are offering a degree of HD content, and you can get movies in HD courtesy of Blu-ray and (soon to be obsolete) HD-DVD players, you may still find your appetite for ultra-detailed video unsatisfied. If that's the case, then a set-up like this, which will stream downloaded HD content from your PC, could be just the job. 
+
+Features: 
+The HD content is actually only half the story. Video doesn't have to be in HD – you can stream a variety of formats at any standard, though we struggled with some movie trailers in the QuickTime format. This is actually a bit of a let down, since other formats – from WMV to DivX – are present. As well as video, the device will stream photos and music, and you can even plug in USB memory, so friends and family can bring their own content to your TV. 
+
+Performance: 
+We set the device up in a typical domestic setting: the router, hard wired to the main computer in the network, was upstairs and positioned the set-top box next to the TV downstairs. We plugged the powerline network adapters into sockets next to the respective devices and they found each other and started working immediately. Everything streamed superbly, except for some heavy-duty 1080i HD movie files in WMV format, downloaded from Microsoft, which suffered the occasional glitch. This was something of a disappointment but it didn't stop us from thinking that this was still the best performing device of its type that we've seen to date. 
+
+Ease of use: 
+With the powerline network adaptors in place, getting the set-top box to work was no more complicated than plugging it in. We installed the supplied media server software on one of the PCs in our network to act as the device in charge of streaming. Once the set-top box was on, it immediately found our other networked PCs, too, which were already set up to serve media files on the network through Windows Media Player. 
+
+The system's clean design works well. Even with several PCs serving information, finding media is a seamless process. The menu is intuitive with efficient use of icons but it would have been nice if more information, like album covers and image thumbnails, could be pulled from the computers. 
+
+Value for money: 
+There are, technically, two products on test here. The DMA1000 Digital Media Streamer could accept streaming data from any Ethernet connection, so if you already have such a thing piped into your living room you could get by simply buying the box. The PLA400 twin pack network option, which transfers high-quality video through your electrical sockets, will add another £100 or so to the price, but is worth it if you're serious about your audio/visual experience. Also, you'll need to supply your own HDMI cable, which may help keep the cost down if you've already got one but might seem like something of an omission if you haven't. 
+Verdict
+If you want to stream HD to your TV then this is probably the best option we've seen to date, short of setting up a PC and plugging it straight into your TV. The networking still isn't perfect in terms of speed, though it's incredibly close. HD encoded in DivX format is fine – it's the ultra-high-quality WMV files we tested that sold the system short. Even so, it's still a vast improvement over what you would expect with Wi-Fi. The other less bandwidth-intensive tasks like viewing lower-quality video, streaming music and browsing through pictures is very nippy and easy to use, though it might have been nice if the interface had a few more graphical touches. 
+
+Spam Bully
+Price: $29.95 (about £15)
+
+Our Silver Award winner installs quickly and gives Outlook Express (or Windows Mail) a number of new control buttons, along with three new folders: Challenge, Unsure and Spam. 
+
+Emails selected for the Challenge folder send a password to the sender which they must enter before the program will accept the original email. Emails placed in the Unsure folder are likely to be spam, but you should check them just in case. And Spam emails are spam from known senders or with known spam content. 
+
+Spam Bully also includes phishing detection that alerts you to potentially fraudulent links in emails, while its Fight Back feature lets you report spammers, making it harder for them to continue. 
+
+231 emails checked. 
+228/228 spam emails detected. 
+100 per cent success rate.
+
+SPAMfighter
+Price: Basic version free, Pro version £17/year
+
+SPAMfighter is a small program that only takes a moment to download and a couple of minutes to install. For your first 30 days you get the full Pro version, which keeps your emails free of adverts and offers some advanced features. The program then defaults to the Basic version unless you decide to purchase it. 
+
+Following installation, Outlook Express (or Windows Mail) acquires four new control buttons and a SPAMfighter folder for dumping your spam into. Using it is seamless, and there's no need to modify any settings. You simply use your email program as before with the significant difference that most (if not all) of your spam is removed from your Inbox as it arrives. 
+
+All your email accounts are protected by the program and you can report any spam that slips through the net with a single click. SPAMfighter will then use this information to improve its detection process. You can also add all your contacts to a 'white list' so that their messages will never be put through the spam filter. 
+
+Not only is SPAMfighter excellent value (free, for the Basic version), it also succeeded in identifying and removing 100 per cent of all the spam that came in during our test. 
+
+207 emails checked. 
+201/201 spam emails detected. 
+100 per cent success rate.
+
+Webroot Parental Controls
+Price: £24.95 inc VAT per year
+
+One of the great advantages of broadband is that it is always connected to the internet. However, this increased connectivity means that children have easy access to everything on the net, which can be a source of worry for parents. Webroot Parental Controls (WPC) blocks sites you wouldn't want children to visit, either by accident or on purpose. It also offers a scheduling service so that you can limit children's use to particular times of the day. 
+
+Features: 
+Your subscription allows installation on up to three computers – enough to cover most households. The seven user profiles comprise four different age groups for children, as well as Custom, Adult and Administrator profiles for adults. The internet time scheduler lets you configure particular time slots for allowing internet access and emails you reports detailing how long anyone using your computers has spent online. You can also block inappropriate searches at major sites and limit access to certain programs, such as games. 
+
+Performance: 
+With WPC, each household member is placed in a different category. For instance, when we set up a child's account (7 and under) we were able to build a plan and a schedule for that child's time online, choosing what content we wanted restricted and which programs could be used, as well as limiting the amount of time that child can spend on the net. WPC works effectively across various browsers – we tested it on Internet Explorer and Firefox – but only on PCs with Vista or XP. 
+
+Ease of use: 
+Set-up is intuitive and easy – indeed, where WPC excels is that it couples intuition and customisability with a high level of sophistication. Installation is straightforward, although entering passwords for each person proved to be confusing and frustrating at times. For each profile, WPC preconfigures the category restrictions based on a sensible level of risk, so choosing the adolescent profile, for instance, means that all mature categories are blocked. The menu bar, where we customised each person's profile, is comprehensive and easily navigable. 
+
+Value for money: 
+At £24.95, WPC offers a lot more features than Windows Vista's free built-in controls, so it is worth spending the extra money. The internet security market is well stacked with parental-control software and WPC compares favourably in price. Of course, software is no substitute for adult supervision but because you can't be everywhere at once, WPC is a sensible and reliable investment. 
+Verdict
+With the internet becoming so ubiquitous and children becoming more internet-savvy at an ever-younger age, Webroot Parental Controls provides a valuable tool for controlling what's accessible to younger web users. Installation is straightforward and, with features such as the reports scheduler, you'll know exactly which sites each person has been visiting. If you're concerned about supervising the surfing habits of younger web users and you want to protect them from online predators, then WPC is a good option. 
+
