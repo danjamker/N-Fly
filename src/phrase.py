@@ -6,7 +6,13 @@ Created on 29 Dec 2011
 
 class phrase(object):
     '''
-    classdocs
+    Class to model the phrase, 
+    
+    Storese relevent perameters which can be used for selecting 
+    relevent key terms, 
+    
+    Perameters stored include similar keyterms, length, number of
+    capitalized words. 
     '''
 
     def __init__(self, phrase, text, log):
@@ -45,8 +51,6 @@ class phrase(object):
         for word in phrase:
             if word[1] in ['NN','NN$','NNS','NNS$','NP','NP$','NP$','NPS$','NR']:
                 self.numNouns = self.numNouns + 1
-        
-        self.type = "tmp"
         
         tmp = None
         t =[]
