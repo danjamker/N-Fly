@@ -77,7 +77,6 @@ class Select(object):
         oneword = []
               
         for w in phrasearray:
-            print w.getLength()
             if w.getLength() == w.getNumberCapitals():
                     oneword.append(w.getPhrase())
         

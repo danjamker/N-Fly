@@ -47,27 +47,21 @@ class phrase(object):
                 self.numNouns = self.numNouns + 1
         
         self.type = "tmp"
+        
         tmp = None
         t =[]
         if len(self.similarPhrase) != 0:
             tmp = phrase
             for w in self.similarPhrase:
                 tmp = set(tmp) & set(w)
-        
-            
-            
+                
             for w in phrase:
                 for b in tmp:
                     if w == b:
                         t.append(b)
         
         self.set = t
-        print "-----------"
-        print "Intercectio"
-        print t
-        print "List of smilar words"
-        print self.similarPhrase
-        print phrase
+
     def getPhrase(self, tag = True):
         '''
         @param tag: return with or without tags default True
