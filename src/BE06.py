@@ -28,7 +28,6 @@ class BE06(object):
             input = open(".\\Corpus\\BE06\\BE06.pkl", 'rb')
             reader = load(input)
             input.close()
-            print "Loaded the corpa from .pkl"
         except IOError as e:
             filelist = []
             words = []

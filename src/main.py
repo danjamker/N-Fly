@@ -55,7 +55,6 @@ if __name__ == '__main__':
     R = runable()
     
     #Indicate when server is starting
-    print "It is starting"
     print os.getcwd()
     httpd = wsgiserver.CherryPyWSGIServer(
             ('0.0.0.0', 8080), application,

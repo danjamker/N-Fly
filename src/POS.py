@@ -21,19 +21,17 @@ class POS(object):
         
         try:
             #Attempt to open .plk file and load. 
-            print os.getcwd()
-            input = open(".\\Corpus\\Brown-Uni.pkl", 'rb')
+            input = open("./Corpus/Brown-Uni.pkl", 'rb')
             self.unigram_tagger = load(input)
             input.close() 
-            print "Done" 
         except IOError as e:   
-            self.brown_tagged_sents = nltk.corpus.brown.tagged_sents(simplify_tags=False)
+            self.brown_tagged_sents = nltk.corpus.brown.tagged_sents(simplify_tags=True)
             t0 = nltk.DefaultTagger('NN')
             t1 = nltk.UnigramTagger(self.brown_tagged_sents, backoff=t0)
             t2 = nltk.BigramTagger(self.brown_tagged_sents, backoff=t1)
             self.unigram_tagger = nltk.UnigramTagger(self.brown_tagged_sents, backoff=t2)
             
-            output = open(".\\Corpus\\Brown-Uni.pkl", 'wb')
+            output = open("./Corpus/Brown-Uni.pkl", 'wb')
             dump(self.unigram_tagger, output, -1)
             output.close()
     

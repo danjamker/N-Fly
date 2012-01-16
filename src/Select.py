@@ -45,7 +45,6 @@ class Select(object):
         @param log: loglikly hood directory passed  
         '''
         input = filter(None, NE + Gram + Col + Chunk)
-        print input
         tmplist = []    
         phrasearray = []     
         
@@ -72,7 +71,6 @@ class Select(object):
                 print "None"
             else:
                 intercepts.append(list(b))
-                print list(b)    
              
         oneword = []
               
@@ -101,7 +99,6 @@ class Select(object):
         tmp3 = self.bubbleSort(self.f2(tmp1))
 
         tmp1 = []
-        #print tmp3
         for grams in tmp3:
             tmp1.append(' '.join(grams[0:-1]))
               

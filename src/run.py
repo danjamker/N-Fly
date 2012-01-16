@@ -68,7 +68,6 @@ class runable(object):
         '''     
         #Get data from web page
         text = self.GD.getWebPage(url, depth)
-        print text
         
         #Tokonize sentance and words
         tok = self.To.Tok(text)
@@ -83,7 +82,6 @@ class runable(object):
         if self.Col == True:
             Tcol = self.CC.TriGram(pos)
             Bcol = self.CC.BiGram(pos)
-            print "These are the collocations "
         else:
             Tcol = []
             Bcol = []

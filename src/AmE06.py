@@ -25,14 +25,10 @@ class AmE06(object):
         
         try:
             #Attempt to open .plk file and load. 
-            print "Trying to open "
-            print os.getcwd()
             input = open("./Corpus/AmE06/AmE06.pkl", 'rb')
             reader = load(input)
             input.close()
-            print "Loaded the corpa from .pkl"
         except IOError as e:
-            print e
             
             filelist = []
             words = []
