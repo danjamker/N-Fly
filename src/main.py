@@ -57,7 +57,7 @@ if __name__ == '__main__':
     #Indicate when server is starting
     print os.getcwd()
     httpd = wsgiserver.CherryPyWSGIServer(
-            ('0.0.0.0', 8080), application,
+            ('0.0.0.0', int(os.environ.get('PORT', '5000'))), application,
             server_name='www.cherrypy.example')
     httpd.start()
     
