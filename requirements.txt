@@ -1,3 +1,2 @@
 CherryPy==3.2.2
-psycop2==2.4.2
 http://pyyaml.org/download/pyyaml/PyYAML-3.10.tar.gz
