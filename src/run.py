@@ -37,7 +37,7 @@ class runable(object):
         self.Gram = Gram
         self.Chu = Chu
         self.p = percen
-        print 'Starting to build'
+        print 'Starting to build ', llwl
         self.LL = LogLikelihood(wordlist=llwl, NLength=llNL)
         print 'LL Loaded'
         self.POS = POS()
