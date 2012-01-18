@@ -1,4 +1,4 @@
 CherryPy==3.2.2
 wsgiref==0.1.2
 http://pyyaml.org/download/pyyaml/PyYAML-3.10.tar.gz
-http://pypi.python.org/packages/source/n/nltk/nltk-2.0b9.tar.gz
+http://pypi.python.org/packages/source/n/nltk/nltk-2.0.1rc3.tar.gz
