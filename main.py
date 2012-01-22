@@ -1,6 +1,6 @@
 '''
 Created on Nov 16, 2011
-This is on the windows mechine
+
 @author: Daniel Kershaw
 '''
 from cgi import parse_qs, escape
