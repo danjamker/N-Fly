@@ -78,7 +78,7 @@ class Select(object):
             if w.getLength() == w.getNumberCapitals():
                     oneword.append(w.getPhrase())
         
-        master = oneword + intercepts
+        master = self.f2(self.duplicates(oneword + intercepts))
         
         tmp1 = []
         for grams in master:
@@ -92,20 +92,25 @@ class Select(object):
                 except:
                     avrage = avrage + 0
                 i = i + 1
-            avrage = avrage / i
+            try:
+                avrage = avrage / i
+            except:
+                avrage = 0
             tmp.append(avrage)
             tmp1.append(tmp)            
         
-        tmp3 = self.bubbleSort(self.f2(tmp1))
-
+        tmp3 = self.bubbleSort(tmp1)
+        
+        print tmp3
+        
         tmp1 = []
-        for grams in tmp3:
+        for grams in self.duplicates(tmp3):
             tmp1.append(' '.join(grams[0:-1]))
               
         #The number of items which is the x%                
         x = int(round(float(float(float(len(tmp1))/float(100))*self.percentil)))
 
-        return tmp1
+        return tmp1[-x:]
         
     def bubbleSort(self, list):
         '''
@@ -122,7 +127,24 @@ class Select(object):
                 if list[i][-1] > list[i + 1][-1]:
                     list[i], list[i + 1] = list[i + 1], list[i]
                     swap_test = True
-        return self.duplicates(list)
+        return list
+    
+    def bubbleSortLength(self, list):
+        '''
+        Bubble sort algorythm to sort nested list
+        Sortbased on last value in each list
+        
+        @param list to sort 
+        '''
+        swap_test = True
+        while swap_test:
+            swap_test = False
+                
+            for i in range(0, len(list) - 1):
+                if len(list[i]) < len(list[i + 1]):
+                    list[i], list[i + 1] = list[i + 1], list[i]
+                    swap_test = True
+        return list
 
     def f2(self,seq): 
         '''
@@ -132,10 +154,29 @@ class Select(object):
         '''
         # order preserving
         checked = []
-        for e in seq:
-            if e not in checked:
-                checked.append(e)
-        return checked
+        tmp = self.bubbleSortLength(seq)
+        print tmp 
+        
+        for phrase in tmp:
+            tmplist = []
+            for p in tmp:
+                if len(set(phrase) & set(p)) > (len(phrase)/2):
+                    tmplist.append(p)
+                    tmp.remove(p)
+            
+            t = set(tmplist[0])
+            for word in tmplist:
+                t = set(t) & set (word)
+            
+            wt = []
+            for words in phrase:
+                for w in list(t):
+                    if w == words:
+                        wt.append(words)
+                            
+            checked.append(wt)                  
+        
+        return checked + tmp
     
     def duplicates(self, input):
         
