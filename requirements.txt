@@ -1,9 +1,0 @@
-Flask==0.8
-PyYAML==3.09
-lxml==2.3
-nltk==2.0.1rc1
-numpy==1.5.1
-simplejson==2.1.6
-virtualenv==1.6.4
-wsgi-intercept==0.4
-wsgiref==0.1.2
