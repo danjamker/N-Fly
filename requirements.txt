@@ -1,5 +1,4 @@
 BeautifulSoup==3.2.0
-Brlapi==0.5.5
 CherryPy==3.2.2
 CouchDB==0.8
 Flask==0.8
