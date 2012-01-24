@@ -3,14 +3,18 @@ Created on Nov 16, 2011
 
 @author: Daniel Kershaw
 '''
-from cgi import parse_qs, escape
-from cherrypy import wsgiserver
+#from cgi import parse_qs, escape
+#from cherrypy import wsgiserver
+from flask import Flask
 from run import runable
 import json
 import os
 import re
 import time
 
+app = Flask(__name__)
+
+@app.route("/")
 def application(environ, start_response):
     print 'Incoming'
     d = parse_qs(environ['QUERY_STRING'])
@@ -55,7 +59,6 @@ if __name__ == '__main__':
     R = runable()
     
     #Indicate when server is starting
-    httpd = wsgiserver.CherryPyWSGIServer(
-            ('0.0.0.0', int(os.environ.get('PORT', '5000'))), application)
+    app.run()
     httpd.start()
     
