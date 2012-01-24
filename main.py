@@ -59,7 +59,8 @@ if __name__ == '__main__':
     R = runable()
     
     #Indicate when server is starting
-    port = int(os.environ.get('PORT', 5000))
+    port = int(os.environ.get('PORT', 8080))
+    print port
     app.run(host='0.0.0.0', port=port)
     #httpd.start()
     
