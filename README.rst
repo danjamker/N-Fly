@@ -26,8 +26,8 @@ External Links
 ---------------
 - `Python <http://www.python.org/>`_.
 - `NLTK <http://www.nltk.org>`_.
-- `NumPy <numpy.scipy.org/>`_.
-- `CherryPy <cherrypy.org/>`_.
+- `NumPy <http://numpy.scipy.org/>`_.
+- `CherryPy <http://cherrypy.org/>`_.
 
 ---------------
 Copyright 
