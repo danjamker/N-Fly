@@ -8,15 +8,21 @@ This is my Final Year Project at Lancaster University.
 :Version: 0.1 of 26/01/2011 
 
 ---------------
-Instalation
+Install
 ---------------
-To run the system first run the install script, ./install.sh as this will install all nedded 
+To run the system first run the install script, ./install.sh as this will install all needed 
 dependancies of the code
 
+Once installed run python command line
+
+>>> import nltk
+nltk.download()
+...
+
 ---------------
-Running 
+Run
 ---------------
-Navigate to the sourse code directory, and depending on the system run the compand bellow. 
+Navigate to root sourse code directory, and depending on the system run the compand bellow. 
 
 - UNIX: "python ./main.py"
 - Windows: "main.py"
