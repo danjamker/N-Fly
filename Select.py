@@ -160,7 +160,7 @@ class Select(object):
         for phrase in tmp:
             tmplist = []
             for p in tmp:
-                if len(set(phrase) & set(p)) > (len(phrase)/2):
+                if len(set(phrase) & set(p)) > (round(float(len(phrase))/float(2))):
                     tmplist.append(p)
                     tmp.remove(p)
             
