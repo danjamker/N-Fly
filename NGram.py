@@ -38,6 +38,32 @@ class NGram(object):
         for f in freq.keys():
             if int(freq[f]) > boundy:
                 tmp.append(f)
+#            else:
+#                count = 0
+#                for word in f:
+#                    if word[0][0].isupper():
+#                        count = count + 1
+#                    
+#                if count == len(f):
+#                    print f
+#                    tmp.append(f)
+
+        
+        for sent in text:
+            count = 0
+            for word in sent:
+                if (word[0][0].isupper() & count == 0) | (word[0][0].islower() & count > 0):
+                    t = []
+                    for x in range(count, len(sent)):
+                        if  sent[x][0][0].isupper():
+                            t.append(sent[x])
+                        else:
+                            if len(t) >= 2:
+                                tmp.append(t)
+                                print "FOUND ONE: ", t
+                            t = []
+                            break
+                count = count + 1
             
         return tmp
     

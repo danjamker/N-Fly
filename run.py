@@ -18,7 +18,7 @@ class runable(object):
     Class for selecting keywords
     '''
 
-    def __init__(self, llwl='Brown', llNL=2, percen=20, NE = True, Col = True, Gram = True, Chu = True):
+    def __init__(self, llwl='Brown', llNL=2, percen=100, NE = True, Col = True, Gram = True, Chu = True):
         '''
         Constructor
         
@@ -107,8 +107,10 @@ class runable(object):
             g2 = self.Ng.Gram(pos, n=2)
             g3 = self.Ng.Gram(pos, n=3)
             g4 = self.Ng.Gram(pos, n=4)
-            
-            ga = g2 + g3 + g4
+            g5 = self.Ng.Gram(pos, n=5)           
+            g6 = self.Ng.Gram(pos, n=6)
+                        
+            ga = g2 + g3 + g4 + g5 + g6
         else:
             ga = []
         

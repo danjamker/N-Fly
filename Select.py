@@ -67,9 +67,7 @@ class Select(object):
         intercepts = []
         for a in phrasearray:
             b = a.getSet()
-            if not b:
-                print "None"
-            else:
+            if b:
                 intercepts.append(list(b))
              
         oneword = []
@@ -101,8 +99,7 @@ class Select(object):
         
         tmp3 = self.bubbleSort(tmp1)
         
-        print tmp3
-        
+       
         tmp1 = []
         for grams in self.duplicates(tmp3):
             tmp1.append(' '.join(grams[0:-1]))
@@ -155,7 +152,6 @@ class Select(object):
         # order preserving
         checked = []
         tmp = self.bubbleSortLength(seq)
-        print tmp 
         
         for phrase in tmp:
             tmplist = []
@@ -164,7 +160,7 @@ class Select(object):
                     tmplist.append(p)
                     tmp.remove(p)
             
-            t = set(tmplist[0])
+            t = set()
             for word in tmplist:
                 t = set(t) & set (word)
             

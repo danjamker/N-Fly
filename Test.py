@@ -12,7 +12,7 @@ from decimal import *
 db = None
 
 def precision(human, computer):
-    
+
     a = len(set(human)&set(computer))
     b = len(set(computer)-(set(human)&set(computer)))
     
@@ -21,7 +21,8 @@ def precision(human, computer):
     except:
         p = 0
         
-
+    print "Prossision:"
+    print p
     return p
 
 def recall(human, computer):
@@ -34,6 +35,8 @@ def recall(human, computer):
     except:
         r = 0
 
+    print "Recall:"
+    print r
     return r
 
 def fscore(human, computer):
@@ -46,6 +49,8 @@ def fscore(human, computer):
     except:
         f = 0
         
+    print "f-messure:"
+    print f    
     return f
 
 if __name__ == '__main__':
@@ -116,10 +121,10 @@ if __name__ == '__main__':
                                 
                 cur.execute("SELECT keyword FROM keyword WHERE keyword.idwebpage =" + str(page[0]))
                 kw = cur.fetchall()
-                kw = ['daniel','emma','apple']
+                #kw = ['daniel','emma','apple']
                 tmp = []
                 for word in kw:
-                    tmp.append(word[1])
+                    tmp.append(word[0])
                     
                 p = precision(keywords, tmp)
                 r = recall(keywords, tmp)

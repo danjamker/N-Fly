@@ -35,7 +35,7 @@ class LogLikelihood(object):
             self.fdist2 = nltk.FreqDist(AmE06().getCorpa().words())
             self.fdist2Gram = nltk.FreqDist(ng.NGramUn(AmE06().getCorpa().raw(), n=NLength)[0])
         elif wordlist == 'BE06':
-            self.fdist2 = nltk.FreqDist(BE06.getCorpa().words())
+            self.fdist2 = nltk.FreqDist(BE06().getCorpa().words())
             self.fdist2Gram = nltk.FreqDist(ng.NGramUn(BE06().getCorpa().raw(), n=NLength)[0])
         return
         

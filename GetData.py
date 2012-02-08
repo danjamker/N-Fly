@@ -25,16 +25,13 @@ class GetData(object):
             crawler = Crawler(url, int(depth)-1)
             crawler.crawl()
             for l in crawler.links_remembered:
-                print 'Sending AlchemyAPI request for: ' + str(l.dst)
                 text = self.Alchemy.URLGetText(str(l.dst))     
                 element = ET.XML(text)
                 t += element.findtext("text")
-            print 'This is all the text: '+ t
         else:
             text = self.Alchemy.URLGetText(url)     
             element = ET.XML(text)
             t = element.findtext("text")
-        print type(t)
         return t.encode('ascii','ignore')
     
     def getPageTitle(self, url):
