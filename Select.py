@@ -55,7 +55,11 @@ class Select(object):
         print c
         print ch
         
+        #WordNetLemmatizer to remove plurals from the string.
+        #Remove list which have all the same words in it 
+        
         master = self.f2(self.duplicates(self.select(Gram + NE + Col + Chunk)))
+        
         
         tmp1 = []
         for grams in master:
@@ -207,4 +211,11 @@ class Select(object):
                 tmp.append(phrase)
                 
         return tmp
+    
+    def same(self, sent):
+        for item in sent[1:]:
+            if item != list[0]:
+                return False
+            return True
+
         
