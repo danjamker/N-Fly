@@ -55,7 +55,7 @@ class Select(object):
         print c
         print ch
         
-        master = self.f2(self.duplicates(g + n + c + ch))
+        master = self.f2(self.duplicates(self.select(Gram + NE + Col + Chunk)))
         
         tmp1 = []
         for grams in master:
@@ -102,8 +102,8 @@ class Select(object):
                 if word[0].lower() in self.stopwords:
                     boolean = True
             
-            if grams[0][0] == "The":
-                boolean = False 
+            #if grams[0][0] == "The":
+            #    boolean = False 
                               
             if boolean == False:
                 tmplist.append(grams)

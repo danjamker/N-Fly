@@ -109,9 +109,9 @@ class runable(object):
             g4 = self.Ng.Gram(pos, n=4)
             g5 = self.Ng.Gram(pos, n=5)           
             g6 = self.Ng.Gram(pos, n=6)
-            cap = self.Ng.capitalList(pos)   
+            #cap = self.Ng.capitalList(pos)   
                      
-            ga = g2 + g3 + g4 + g5 + g6 + cap
+            ga = g2 + g3 + g4 + g5 + g6
         else:
             ga = []
         
