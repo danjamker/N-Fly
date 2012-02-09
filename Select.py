@@ -44,39 +44,18 @@ class Select(object):
         @param Chunk: list of pos tagged chunks 
         @param log: loglikly hood directory passed  
         '''
-        input = filter(None, NE + Gram + Col + Chunk)
-        tmplist = []    
-        phrasearray = []     
+        self.log = log
+        g = self.select(Gram)
+        n = self.select(NE)
+        c = self.select(Col)
+        ch = self.select(Chunk)
         
-        #Strips phrases which have stop words within them.
-        for grams in input:
-            
-            boolean = False
-            for word in grams:
-                if word[0].lower() in self.stopwords:
-                    boolean = True
-                               
-            if boolean == False:
-                tmplist.append(grams)
+        print g
+        print n
+        print c
+        print ch
         
-        #parses the list into phrase objects
-        for w in tmplist:
-            phrasearray.append(phrase(w, tmplist, log))
-        
-        #Retrives there intercepts for each word. 
-        intercepts = []
-        for a in phrasearray:
-            b = a.getSet()
-            if b:
-                intercepts.append(list(b))
-             
-        oneword = []
-              
-        for w in phrasearray:
-            if w.getLength() == w.getNumberCapitals():
-                    oneword.append(w.getPhrase())
-        
-        master = self.f2(self.duplicates(oneword + intercepts))
+        master = self.f2(self.duplicates(g + n + c + ch))
         
         tmp1 = []
         for grams in master:
@@ -108,6 +87,46 @@ class Select(object):
         x = int(round(float(float(float(len(tmp1))/float(100))*self.percentil)))
 
         return tmp1[-x:]
+    
+    def select(self, text):
+        
+        input = filter(None, text)
+        tmplist = []    
+        phrasearray = []     
+        
+        #Strips phrases which have stop words within them.
+        for grams in input:
+            
+            boolean = False
+            for word in grams:
+                if word[0].lower() in self.stopwords:
+                    boolean = True
+            
+            if grams[0][0] == "The":
+                boolean = False 
+                              
+            if boolean == False:
+                tmplist.append(grams)
+        
+        #parses the list into phrase objects
+        print tmplist
+        for w in tmplist:
+            phrasearray.append(phrase(w, tmplist, self.log))
+        
+        #Retrives there intercepts for each word. 
+        intercepts = []
+        for a in phrasearray:
+            b = a.getSet()
+            if b:
+                intercepts.append(list(b))
+             
+        oneword = []
+              
+        for w in phrasearray:
+            if w.getLength() == w.getNumberCapitals():
+                    oneword.append(w.getPhrase())
+        
+        return oneword + intercepts
         
     def bubbleSort(self, list):
         '''

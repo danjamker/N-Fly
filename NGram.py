@@ -38,16 +38,25 @@ class NGram(object):
         for f in freq.keys():
             if int(freq[f]) > boundy:
                 tmp.append(f)
-#            else:
-#                count = 0
-#                for word in f:
-#                    if word[0][0].isupper():
-#                        count = count + 1
-#                    
-#                if count == len(f):
-#                    print f
-#                    tmp.append(f)
+            
+        return tmp
+    
+    def NGramUn(self, text, n=3):
 
+        sentance = nltk.sent_tokenize(text)     
+        sentance = [nltk.word_tokenize(self.F.strip(sent)) for sent in sentance]  
+        sentence = [nltk.ngrams(sent, n) for sent in sentance]
+    
+        return sentence
+    
+    def capitalList(self, text):
+        '''
+        
+        
+        @param text: text input which has to be 
+        @return: List of tagged words which havve all capitalized first letters
+        ''' 
+        tmp = []
         
         for sent in text:
             count = 0
@@ -63,14 +72,7 @@ class NGram(object):
                                 print "FOUND ONE: ", t
                             t = []
                             break
+                    
                 count = count + 1
-            
+                
         return tmp
-    
-    def NGramUn(self, text, n=3):
-
-        sentance = nltk.sent_tokenize(text)     
-        sentance = [nltk.word_tokenize(self.F.strip(sent)) for sent in sentance]  
-        sentence = [nltk.ngrams(sent, n) for sent in sentance]
-    
-        return sentence
