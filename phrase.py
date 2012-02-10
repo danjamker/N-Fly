@@ -114,3 +114,7 @@ class phrase(object):
         @return: Intersection of all simiar words
         '''
         return self.set
+    
+    def setSel(self, editedset):
+        
+        self.set = editedset
