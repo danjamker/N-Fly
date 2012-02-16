@@ -80,12 +80,6 @@ class Select(object):
         for w in tmplist:
             phrasearray.append(phrase(w, tmplist, self.log))
             
-#        for ph in phrasearray:
-#            print ph.getLength()
-#            if ph.getLength() == 1:
-#                print "We are here"
-#                print self.lmtzr.lemmatize(ph.getPhrase()[0][0])
-#                print ph.getPhrase()    
         
         #Retrives there intercepts for each word. 
         intercepts = []
@@ -97,7 +91,7 @@ class Select(object):
         oneword = []
               
         for w in phrasearray:
-            if w.getLength() == w.getNumberCapitals():
+            if w.getNumberCapitals() >= (w.getLength() - 1):
                     oneword.append(w.getPhrase())
         
         master = self.duplicates(oneword + intercepts)
@@ -131,7 +125,6 @@ class Select(object):
               
         #The number of items which is the x%                
         x = int(round(float(float(float(len(tmp1))/float(100))*self.percentil)))
-        del tmp1[0]
         return tmp1[-x:]
 
         
@@ -142,6 +135,7 @@ class Select(object):
         
         @param list to sort 
         '''
+        print len(list)
         swap_test = True
         while swap_test:
             swap_test = False
@@ -150,6 +144,7 @@ class Select(object):
                 if list[i][-1] > list[i + 1][-1]:
                     list[i], list[i + 1] = list[i + 1], list[i]
                     swap_test = True
+        print len(list)
         return list
     
     def bubbleSortLength(self, list):
@@ -215,27 +210,65 @@ class Select(object):
         print "######"
         print tmp
         
+        for phrase in tmp:
+            if len(phrase) > 2:
+                if phrase[0][0][0].islower():
+                    print "Trying to remove"
+                    print phrase[0]
+                    print "from"
+                    print phrase
+                    phrase.remove(phrase[0])  
+        print tmp
+                
         i = True
         while i == True: 
             i = False
             for phrase in tmp[:]:
-                boolean = False
+                boolean = False                     
+                
                 for p in tmp:
                     if len(phrase) > len(p):
                         if len(set(phrase) & set(p)) == len(phrase)-1:
                             print phrase
                             print p
+                            one = set(phrase) - (set(phrase) & set(p))
+                            if list(one)[0][0].islower():
+                                try:
+                                    tmp.remove(phrase)
+                                    print "Have removed ", phrase
+                                except:
+                                    print "Need to restart processe" 
+                                i = True
+                            else:
+                                try:
+                                    tmp.remove(p)
+                                    print "Have removed ", p
+                                except:
+                                    print "Need to restart processe"
+                                
+                                i = True
                             print "---"
-                            tmp.remove(p)
-                            i = True
+
+                            
             
         
         print tmp
         print "#####"
-        return tmp
+        return self.du(tmp)
     
     def all_same(self,items):
         return all(x == items[0] for x in items)
-
+    
+    def du(self, items):
+        seen = []
+        for n in items:
+            print n
+            if not n in seen:
+                seen.append(list(n))
+        print "---------------"
+        print seen
+        print "---------------"
+        return seen
+    
 
         
