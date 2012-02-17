@@ -58,6 +58,6 @@ if __name__ == '__main__':
 
     httpd = wsgiserver.CherryPyWSGIServer(
             ('0.0.0.0', int(os.environ.get('PORT', '5000'))), application,
-            server_name='www.cherrypy.example')
+            server_name='www.n-fly.djk')
     httpd.start()
     
