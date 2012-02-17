@@ -6,6 +6,7 @@ Created on Dec 9, 2011
 from nltk import corpus
 from decimal import *
 from phrase import phrase
+from nltk.stem.wordnet import WordNetLemmatizer
 
 class Select(object):
     '''
@@ -32,6 +33,7 @@ class Select(object):
         self.percentil = percentil
         self.stopwords = corpus.stopwords.words('english')
         self.stopwords.append('said')
+        self.lmtzr = WordNetLemmatizer()
         
     def keywords(self, NE, Gram, Col, Chunk, log):
         '''
@@ -45,20 +47,54 @@ class Select(object):
         @param log: loglikly hood directory passed  
         '''
         self.log = log
-        g = self.select(Gram)
-        n = self.select(NE)
-        c = self.select(Col)
-        ch = self.select(Chunk)
         
-        print g
-        print n
-        print c
-        print ch
+        input = filter(None, Gram + NE + Col + Chunk)
+        tmplist = []    
+        phrasearray = []     
         
-        #WordNetLemmatizer to remove plurals from the string.
-        #Remove list which have all the same words in it 
+        #Strips phrases which have stop words within them.
+        for grams in input:
+            
+            boolean = False
+            for word in grams:
+                if word[0].lower() in self.stopwords:
+                    boolean = True
+            
+            if grams[0][0] == "The":
+                boolean = False 
+            
+            #If capital The at end of phrase then remove it form the word.
+            if grams[-1][0] == "The":
+                tmp = []
+                for tupple in grams[:-1]:
+                    tmp.append(tupple)
+                grams = tuple(tmp)
+               
+            if (self.all_same(grams) == True) & (len(grams) > 1):
+                boolean = True
+                              
+            if boolean == False:
+                tmplist.append(grams)
         
-        master = self.f2(self.duplicates(self.select(Gram + NE + Col + Chunk)))
+        #parses the list into phrase objects
+        for w in tmplist:
+            phrasearray.append(phrase(w, tmplist, self.log))
+            
+        
+        #Retrives there intercepts for each word. 
+        intercepts = []
+        for a in phrasearray:
+            b = a.getSet()
+            if b:
+                intercepts.append(list(b))
+             
+        oneword = []
+              
+        for w in phrasearray:
+            if w.getNumberCapitals() >= (w.getLength() - 1):
+                    oneword.append(w.getPhrase())
+        
+        master = self.duplicates(oneword + intercepts)
         
         
         tmp1 = []
@@ -84,53 +120,13 @@ class Select(object):
         
        
         tmp1 = []
-        for grams in self.duplicates(tmp3):
+        for grams in tmp3:
             tmp1.append(' '.join(grams[0:-1]))
               
         #The number of items which is the x%                
         x = int(round(float(float(float(len(tmp1))/float(100))*self.percentil)))
-
         return tmp1[-x:]
-    
-    def select(self, text):
-        
-        input = filter(None, text)
-        tmplist = []    
-        phrasearray = []     
-        
-        #Strips phrases which have stop words within them.
-        for grams in input:
-            
-            boolean = False
-            for word in grams:
-                if word[0].lower() in self.stopwords:
-                    boolean = True
-            
-            #if grams[0][0] == "The":
-            #    boolean = False 
-                              
-            if boolean == False:
-                tmplist.append(grams)
-        
-        #parses the list into phrase objects
-        print tmplist
-        for w in tmplist:
-            phrasearray.append(phrase(w, tmplist, self.log))
-        
-        #Retrives there intercepts for each word. 
-        intercepts = []
-        for a in phrasearray:
-            b = a.getSet()
-            if b:
-                intercepts.append(list(b))
-             
-        oneword = []
-              
-        for w in phrasearray:
-            if w.getLength() == w.getNumberCapitals():
-                    oneword.append(w.getPhrase())
-        
-        return oneword + intercepts
+
         
     def bubbleSort(self, list):
         '''
@@ -139,6 +135,7 @@ class Select(object):
         
         @param list to sort 
         '''
+        print len(list)
         swap_test = True
         while swap_test:
             swap_test = False
@@ -147,6 +144,7 @@ class Select(object):
                 if list[i][-1] > list[i + 1][-1]:
                     list[i], list[i + 1] = list[i + 1], list[i]
                     swap_test = True
+        print len(list)
         return list
     
     def bubbleSortLength(self, list):
@@ -209,13 +207,68 @@ class Select(object):
             
             if boolean == True:
                 tmp.append(phrase)
+        print "######"
+        print tmp
+        
+        for phrase in tmp:
+            if len(phrase) > 2:
+                if phrase[0][0][0].islower():
+                    print "Trying to remove"
+                    print phrase[0]
+                    print "from"
+                    print phrase
+                    phrase.remove(phrase[0])  
+        print tmp
                 
-        return tmp
+        i = True
+        while i == True: 
+            i = False
+            for phrase in tmp[:]:
+                boolean = False                     
+                
+                for p in tmp:
+                    if len(phrase) > len(p):
+                        if len(set(phrase) & set(p)) == len(phrase)-1:
+                            print phrase
+                            print p
+                            one = set(phrase) - (set(phrase) & set(p))
+                            if list(one)[0][0].islower():
+                                try:
+                                    tmp.remove(phrase)
+                                    print "Have removed ", phrase
+                                except:
+                                    print "Need to restart processe" 
+                                i = True
+                            else:
+                                try:
+                                    tmp.remove(p)
+                                    print "Have removed ", p
+                                except:
+                                    print "Need to restart processe"
+                                
+                                i = True
+                            print "---"
+
+                            
+            
+        
+        print tmp
+        print "#####"
+        return self.du(tmp)
     
-    def same(self, sent):
-        for item in sent[1:]:
-            if item != list[0]:
-                return False
-            return True
+    def all_same(self,items):
+        return all(x == items[0] for x in items)
+    
+    def du(self, items):
+        seen = []
+        for n in items:
+            print n
+            if not n in seen:
+                seen.append(list(n))
+        print "---------------"
+        print seen
+        print "---------------"
+        return seen
+    
 
         
