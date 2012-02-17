@@ -21,7 +21,7 @@ class Filter(object):
         return tmp1
         
     def punctuationRemove(self, text, regex='[^a-z0-9A-Z ]+'):
-        return re.sub(regex, ' ', text)
+        return re.sub(regex, '', text)
     
     def numberRemove(self, text, regex = '\s(\s*[+-]?\s*(?:\d{1,3}(?:(,?)\d{3})?(?:\1\d{3})*(\.\d*)?|\.\d+)\s*)\s'):
         return re.sub(regex, ' ', text)
