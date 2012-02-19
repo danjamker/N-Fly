@@ -20,5 +20,5 @@ class Tokenize(object):
         
     def Tok(self, text):
         sentance = nltk.sent_tokenize(text)
-        sentance = [WhitespaceTokenizer().tokenize(self.FF.strip(sent)) for sent in sentance]
+        sentance = [WhitespaceTokenizer().tokenize(sent) for sent in sentance]
         return sentance

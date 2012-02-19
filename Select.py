@@ -3,7 +3,7 @@ Created on Dec 9, 2011
 
 @author: Daniel Kershaw
 '''
-from nltk import corpus
+from nltk import *
 from decimal import *
 from phrase import phrase
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -48,6 +48,19 @@ class Select(object):
         '''
         self.log = log
         
+        master = []
+        
+        fdist = FreqDist()
+        for word in Gram + NE + Col + Chunk:
+            if word:
+                fdist.inc(tuple(word))
+              
+        for key in fdist.keys():
+            if fdist[key] > 1:
+                master.append(list(key))
+        
+        print "The master is: ", master
+              
         input = filter(None, Gram + NE + Col + Chunk)
         tmplist = []    
         phrasearray = []     
@@ -94,8 +107,8 @@ class Select(object):
             if w.getNumberCapitals() >= (w.getLength() - 1):
                     oneword.append(w.getPhrase())
         
-        master = self.duplicates(oneword + intercepts)
-        
+        ma = self.duplicates(oneword + intercepts)
+        master = self.du(ma + master)
         
         tmp1 = []
         for grams in master:
@@ -254,7 +267,7 @@ class Select(object):
         
         print tmp
         print "#####"
-        return self.du(tmp)
+        return tmp
     
     def all_same(self,items):
         return all(x == items[0] for x in items)
