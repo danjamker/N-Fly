@@ -794,7 +794,10 @@ class AlchemyAPI:
   def GetRequest(self, apiCall, apiPrefix, paramObject):
     endpoint = 'http://' + self._hostPrefix + '.alchemyapi.com/calls/' + apiPrefix + '/' + apiCall
     endpoint += '?apikey=' + self._apiKey + paramObject.getParameterString()
-    handle = urllib.urlopen(endpoint)
+    try:
+        handle = urllib.urlopen(endpoint)
+    except:
+        handle = urllib.urlopen(endpoint)
     result = handle.read()
     handle.close()
     xpathQuery = '/results/status'

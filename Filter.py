@@ -17,10 +17,10 @@ class Filter(object):
     
     def strip(self, text):
         tmp = self.punctuationRemove(text)
-        tmp1 = self.numberRemove(tmp)
-        return tmp1
+        #tmp1 = self.numberRemove(tmp)
+        return tmp
         
-    def punctuationRemove(self, text, regex='[^a-z0-9A-Z ]+'):
+    def punctuationRemove(self, text, regex='[^a-z0-9A-Z \.-]+'):
         return re.sub(regex, '', text)
     
     def numberRemove(self, text, regex = '\s(\s*[+-]?\s*(?:\d{1,3}(?:(,?)\d{3})?(?:\1\d{3})*(\.\d*)?|\.\d+)\s*)\s'):

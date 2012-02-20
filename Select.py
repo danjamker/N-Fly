@@ -104,11 +104,12 @@ class Select(object):
         oneword = []
               
         for w in phrasearray:
-            if w.getNumberCapitals() >= (w.getLength() - 1):
+            if w.getNumberCapitals() >= (w.getLength()):
                     oneword.append(w.getPhrase())
         
         ma = self.duplicates(oneword + intercepts)
-        master = self.du(ma + master)
+        master = self.du(ma)
+        master = self.lookforjoins(master)
         
         tmp1 = []
         for grams in master:
@@ -283,5 +284,26 @@ class Select(object):
         print "---------------"
         return seen
     
-
-        
+    def lookforjoins(self, items):
+        newwordlist = []
+        removewordlist = []
+        for phrase in items:
+            lastword = phrase[-1][0]
+            #print "The last word is: ", lastword
+            for p in items:
+                if p != phrase:
+                    #"The first word is: ", p[0][0]
+                    if p[0][0] == lastword:
+                        newword = phrase[:-1] + p
+                        newwordlist.append(newword)
+                        removewordlist.append(phrase)
+                        removewordlist.append(p)
+                                                
+        for phrase in removewordlist:
+            print phrase
+            try:
+                items.remove(phrase)
+            except:
+                pass
+            
+        return items + newwordlist

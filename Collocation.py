@@ -52,7 +52,7 @@ class Collocation(object):
         for word in tmp:
             tmp1.append(self.pos.POSTag(word, s=True))
         
-        return tmp1
+        return self.fullstopcheck(tmp1)
         
     def TriGram(self, text):
         '''
@@ -75,5 +75,24 @@ class Collocation(object):
         for word in tmp:
             tmp1.append(self.pos.POSTag(word, s=True))
         
-        return tmp1
+        return self.fullstopcheck(tmp1)
 
+    def fullstopcheck(self, items):
+        tmp = []
+        for phrase in items:
+            count = 0
+            possition = 0
+            for word in phrase:
+                if word[0][-1] == '.':
+                    print "Fonud a stop", phrase
+                    word = word[:-1]
+                    possition = count + 1
+                count = count + 1
+            print "Count and positoin", count, " ", possition
+            if count == possition:
+                tmp.append(phrase)
+            elif possition == 0:
+                tmp.append(phrase)
+        
+        print "Collocations removing of full stops", tmp
+        return tmp
