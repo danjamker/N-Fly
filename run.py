@@ -71,7 +71,7 @@ class runable(object):
         
         #Tokonize sentance and words
         tok = self.To.Tok(text)
-        print tok
+
         #POS tag the text
         pos = self.POS.POSTag(tok, 'tok')
         

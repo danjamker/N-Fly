@@ -18,9 +18,7 @@ class Collocation(object):
     def __init__(self, pos):
         '''
         Constructor
-        
-        @param pos: 
-        
+        @param pos:
         '''
         self.pos = pos
         self.stopset = set(stopwords.words('english'))
@@ -29,14 +27,12 @@ class Collocation(object):
     def BiGram(self, text):
         '''
         @param text: pos tagged text, also tokkonized
-        
         This use the NLTK Collocations methods to fnid the relevent collocations
-        which have a frequancy of 1 or more 
-        
+        which have a frequancy of 1 or more
         @return: a pos lag list of list words in phrases.
         '''
-        #change input to pos tagged and remove the tagging at the end. 
-        #this would then mean this nested loop does not need changing, 
+        #change input to pos tagged and remove the tagging at the end.
+        #this would then mean this nested loop does not need changing,
         
         words = []
         for s in text:
@@ -52,14 +48,12 @@ class Collocation(object):
         for word in tmp:
             tmp1.append(self.pos.POSTag(word, s=True))
         
-        return self.fullstopcheck(tmp1)
+        return tmp1
         
     def TriGram(self, text):
         '''
-        
         @param text:
-        
-        @return:  
+        @return:
         '''
         words = []
         for s in text:
@@ -75,7 +69,7 @@ class Collocation(object):
         for word in tmp:
             tmp1.append(self.pos.POSTag(word, s=True))
         
-        return self.fullstopcheck(tmp1)
+        return tmp1
 
     def fullstopcheck(self, items):
         tmp = []
