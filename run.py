@@ -80,21 +80,15 @@ class runable(object):
         
         #Collocations
         if self.Col == True:
-            Tcol = self.CC.TriGram(pos)
-            Bcol = self.CC.BiGram(pos)
+            col = self.CC.col(pos, tok)
         else:
-            Tcol = []
-            Bcol = []
+            col = []
 
         #NE Extraction
         if self.NEs == True:
-            person = self.Cu.NE(pos)
-            orginisation = self.Cu.NE(pos, node='ORGANIZATION')
-            location = self.Cu.NE(pos, node='LOCATION')
+            ne = self.Cu.NE(pos, node=['PERSON', 'ORGANIZATION', 'LOCATION'])
         else:
-            person = []
-            orginisation = []
-            location = []
+            ne = []
             
         #Extract NP
         if self.Chu == True:
@@ -104,16 +98,9 @@ class runable(object):
         
         #Creat N-gram 
         if self.Gram == True:
-            g2 = self.Ng.Gram(pos, n=2)
-            g3 = self.Ng.Gram(pos, n=3)
-            g4 = self.Ng.Gram(pos, n=4)
-            g5 = self.Ng.Gram(pos, n=5)           
-            g6 = self.Ng.Gram(pos, n=6)
-            #cap = self.Ng.capitalList(pos)   
-                     
-            ga = g2 + g3 + g4 + g5 + g6
+            ga = self.Ng.Grams(pos, n=6)
         else:
             ga = []
         
-        return self.S.keywords(person + orginisation + location, ga , Tcol + Bcol , chu, log)
+        return self.S.keywords(ne, ga , col , chu, log)
 

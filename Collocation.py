@@ -24,6 +24,26 @@ class Collocation(object):
         self.stopset = set(stopwords.words('english'))
         self.filter_stop = lambda w: len(w) < 3 or w in self.stopset
         
+    def col(self, text, tok):
+        bi = self.BiGram(text)
+        tri = self.TriGram(text)
+        
+        tmp = []
+        
+        for sent in tok:
+            for phrase in bi + tri:
+                count = 0
+                for word in sent:
+                    for pword in phrase:
+                        if pword == word:
+                            count = count + 1
+                            
+                if count == len(phrase):
+                    tmp.append(phrase)
+
+                 
+        return tmp
+        
     def BiGram(self, text):
         '''
         @param text: pos tagged text, also tokkonized
