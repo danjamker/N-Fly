@@ -4,13 +4,9 @@ Created on Nov 17, 2011
 @author: Daniel Kershaw
 '''
 from nltk.chunk import RegexpParser
-from nltk.chunk.util import conlltags2tree
 from nltk.chunk.util import tree2conlltags
 from nltk.corpus import conll2000
-from nltk.tree import Tree
 import nltk
-import nltk.chunk
-import re
 
 class Chunker(object):
     '''
@@ -29,6 +25,13 @@ class Chunker(object):
         self.T = nltk.TrigramTagger(train_data)
         self.Tagger = POS
         self.tmp = []
+    
+    def Chunks(self, text, node):
+        tmp = []
+        for n in node:
+            tmp = tmp +self.Cu.NE(text, node=n)
+            
+        return tmp
     
     def Chunk(self, sentence, node='NP', grammer=r"""
                   NP: {<DT|PP\$>?<JJ>*<NN>}
