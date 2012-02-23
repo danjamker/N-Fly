@@ -4,6 +4,7 @@ Created on Nov 17, 2011
 @author: Daniel Kershaw
 '''
 from nltk.chunk import RegexpParser
+from nltk.chunk.util import conlltags2tree
 from nltk.chunk.util import tree2conlltags
 from nltk.corpus import conll2000
 import nltk

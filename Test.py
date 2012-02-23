@@ -114,14 +114,12 @@ if __name__ == '__main__':
             for page in datawp:
                 
                 t_start = time.time()     
-                #keywords = ['ex', 'am', 'apple']
                 keywords = s.run(page[1], 0)
                 print "The Keywords are: ", keywords
                 t_end = time.time()
                                 
                 cur.execute("SELECT keyword FROM keyword WHERE keyword.idwebpage =" + str(page[0]))
                 kw = cur.fetchall()
-                #kw = ['daniel','emma','apple']
                 tmp = []
                 for word in kw:
                     tmp.append(word[0])

@@ -19,6 +19,11 @@ class GetData(object):
         self.Alchemy = API.AlchemyAPI()
         self.Alchemy.loadAPIKey("./AlchemyAPI.txt")
         
+    def getData(self, URL, depth):
+        page = self.getWebPage(URL, depth)
+        title = self.getPageTitle(URL) 
+        return title + page
+        
     def getWebPage(self, url, depth):
         if int(depth) != 0:
             t = ""

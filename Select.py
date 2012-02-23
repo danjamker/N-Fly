@@ -58,7 +58,8 @@ class Select(object):
         for key in fdist.keys():
             if fdist[key] > 1:
                 master.append(list(key))
-        
+                
+        print "The input is: ", NE + Gram + Col + Chunk 
         print "The master is: ", master
               
         input = filter(None, Gram + NE + Col + Chunk)
