@@ -42,6 +42,7 @@ class Collocation(object):
                             
                 if count == len(phrase):
                     tmp.append(phrase)
+
                  
         return tmp
         
