@@ -27,10 +27,10 @@ class Chunker(object):
         self.Tagger = POS
         self.tmp = []
     
-    def Chunks(self, text, node):
+    def Chunks(self, text, nodes):
         tmp = []
-        for n in node:
-            tmp = tmp +self.Cu.NE(text, node=n)
+        for n in nodes:
+            tmp = tmp + self.NE(text, node=n)
             
         return tmp
     

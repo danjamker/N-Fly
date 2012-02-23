@@ -25,20 +25,22 @@ class NGram(object):
         for x in range(2, n):
             ngrams.append(self.Gram(pos, n=x))
             
-        for x in range(1, n-2):
-            for grams in ngrams[x]:
-                for g in ngrams[x-1]:
-                    tmp = set(grams) & set(g)
-                    if len(tmp) == len(g):
-                        try:
-                            ngrams.remove(g)
-                        except:
-                            pass
+#        for x in range(1, n-2):
+#            for grams in ngrams[x]:
+#                for g in ngrams[x-1]:
+#                    tmp = set(grams) & set(g)
+#                    if len(tmp) == len(g):
+#                        try:
+#                            ngrams.remove(g)
+#                        except:
+#                            pass
         
         tmp = []
         
         for x in range(0, n-2):
             tmp = tmp + ngrams[x]
+        
+        print "tmp is this, ", tmp
             
         return tmp
         

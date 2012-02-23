@@ -30,12 +30,12 @@ class Collocation(object):
         
         tmp = []
         
-        for sent in tok:
-            for phrase in bi + tri:
+        for phrase in bi + tri:
+            for sent in tok:
                 count = 0
                 for word in sent:
                     for pword in phrase:
-                        if pword == word:
+                        if pword[0] == word:
                             count = count + 1
                             
                 if count == len(phrase):

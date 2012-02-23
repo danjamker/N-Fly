@@ -86,10 +86,10 @@ class runable(object):
 
         #NE Extraction
         if self.NEs == True:
-            ne = self.Cu.NE(pos, node=['PERSON', 'ORGANIZATION', 'LOCATION'])
+            ne = self.Cu.Chunks(pos, nodes=['PERSON', 'ORGANIZATION', 'LOCATION'])
         else:
             ne = []
-            
+         
         #Extract NP
         if self.Chu == True:
             chu = [self.Cu.parse(p) for p in pos]
