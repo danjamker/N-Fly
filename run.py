@@ -18,7 +18,7 @@ class runable(object):
     Class for selecting keywords
     '''
 
-    def __init__(self, llwl='Brown', llNL=2, percen=100, NE = True, Col = True, Gram = True, Chu = True):
+    def __init__(self, llwl='Brown', llNL=2, percen=80, NE = True, Col = True, Gram = True, Chu = True):
         '''
         Constructor
         
