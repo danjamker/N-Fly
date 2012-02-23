@@ -226,13 +226,21 @@ class Select(object):
         print tmp
         
         for phrase in tmp:
-            if len(phrase) > 2:
+            if len(phrase) >= 2:
                 if phrase[0][0][0].islower():
-                    print "Trying to remove"
+                    print "Trying to remove from front"
                     print phrase[0]
                     print "from"
                     print phrase
                     phrase.remove(phrase[0])  
+            
+            if len(phrase) >= 2:
+                if phrase[-1][0][0].islower():
+                    print "Trying to remove back"
+                    print phrase[-1]
+                    print "from"
+                    print phrase
+                    phrase.remove(phrase[-1])  
         print tmp
                 
         i = True

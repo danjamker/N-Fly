@@ -43,4 +43,4 @@ class GetData(object):
         text = self.Alchemy.URLGetTitle(url)
         element = ET.XML(text)
         t = element.findtext("title")
-        return t.decode('utf8','ignore')
+        return t.decode('ascii','ignore')
