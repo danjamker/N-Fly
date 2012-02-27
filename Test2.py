@@ -16,10 +16,10 @@ def setUnion(human, computer):
     count = 0
     for phrase in human:
         for p in computer:
-            if (len(set(phrase) & set(p)) >= (len(p)-1) ) | (len(set(phrase) & set(p)) >= (len(p)-1)):
+            if (len(set(phrase) & set(p)) >= (len(p)-1) ) | (len(set(phrase) & set(p)) >= (len(phrase)-1)):
                 count = count + 1
                 tmp.append(phrase)
-    return tmp
+    return list(set(tmp))
 
 def setDifrence(human, computer):    
     tmp = []
@@ -27,12 +27,12 @@ def setDifrence(human, computer):
     for phrase in human:
         boolean = False
         for p in computer:
-            if (len(set(phrase) & set(p)) >= (len(p)-1) ) | (len(set(phrase) & set(p)) >= (len(p)-1)):
+            if (len(set(phrase) & set(p)) >= (len(p)-1) ) | (len(set(phrase) & set(p)) >= (len(phrase)-1)):
                 count = count + 1
                 boolean = True
         if boolean == False:
             tmp.append(phrase)
-    return tmp
+    return list(set(tmp))
 
 def precision(human, computer):
 
