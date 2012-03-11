@@ -26,13 +26,15 @@ class phrase(object):
         
         
         self.similarPhrase = []
-        
+        print "for word: ", phrase
         for other_phrase in text:
                 if other_phrase != phrase:
                     a = set(phrase)
                     b = set(other_phrase)
                     if(len(a&b) > (len(a)-1) ):
                         self.similarPhrase.append(other_phrase)
+        
+        print "These are the similar words: ", self.similarPhrase
         
         self.avLog = 0
         for word in phrase:
@@ -64,6 +66,7 @@ class phrase(object):
                     if w == b:
                         t.append(b)
         
+        print "This is what the similar set is reduced to: ", t
         self.set = t
 
     def getPhrase(self, tag = True):

@@ -79,6 +79,10 @@ class Chunker(object):
         chunktags = [chunktag for (pos, chunktag) in tagged_pos_tags]
         colltags = [(word, pos, chunktag) for ((word, pos), chunktag)
                     in zip(sentence, chunktags)]
+        
+        print "These are the collocation tages: ", colltags
+        print "--------------------------------------------"
+        
         tmp = []
         tmp1 = []
         for (w, p, i) in colltags:
