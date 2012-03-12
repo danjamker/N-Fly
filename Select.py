@@ -45,6 +45,8 @@ class Select(object):
         @param Col: list of pos tagged collocations
         @param Chunk: list of pos tagged chunks 
         @param log: loglikly hood directory passed  
+        
+        @return: selected keywords. 
         '''
         self.log = log
         
@@ -58,10 +60,7 @@ class Select(object):
         for key in fdist.keys():
             if fdist[key] > 1:
                 master.append(list(key))
-                
-        print "The input is: ", NE + Gram + Col + Chunk 
-        print "The master is: ", master
-              
+                          
         input = filter(None, Gram + NE + Col + Chunk)
         tmplist = []    
         phrasearray = []     
@@ -148,7 +147,7 @@ class Select(object):
         Bubble sort algorythm to sort nested list
         Sortbased on last value in each list
         
-        @param list to sort 
+        @param list: list to sort 
         '''
         print len(list)
         swap_test = True
@@ -167,7 +166,8 @@ class Select(object):
         Bubble sort algorythm to sort nested list
         Sortbased on last value in each list
         
-        @param list to sort 
+        @param list:list to sort 
+        @return list of sorted words. 
         '''
         swap_test = True
         while swap_test:
@@ -184,6 +184,7 @@ class Select(object):
         Checks a list for diplicate items
         
         @param seq the list to be run through: 
+        @return: list of ordered words. 
         '''
         # order preserving
         checked = []
@@ -211,6 +212,12 @@ class Select(object):
         return checked + tmp
     
     def duplicates(self, input):
+        '''
+        Mothod to eliminate part duplicates
+        
+        @param input: list of potential keywords. 
+        @return: list of keywords which have been selected. 
+        '''
         
         tmp = []
                 
@@ -222,26 +229,15 @@ class Select(object):
             
             if boolean == True:
                 tmp.append(phrase)
-        print "######"
-        print tmp
-        
+
         for phrase in tmp:
             if len(phrase) >= 2:
                 if phrase[0][0][0].islower():
-                    print "Trying to remove from front"
-                    print phrase[0]
-                    print "from"
-                    print phrase
                     phrase.remove(phrase[0])  
             
             if len(phrase) >= 2:
                 if phrase[-1][0][0].islower():
-                    print "Trying to remove back"
-                    print phrase[-1]
-                    print "from"
-                    print phrase
                     phrase.remove(phrase[-1])  
-        print tmp
                 
         i = True
         while i == True: 
@@ -258,42 +254,53 @@ class Select(object):
                             if list(one)[0][0].islower():
                                 try:
                                     tmp.remove(phrase)
-                                    print "Have removed ", phrase
                                 except:
-                                    print "Need to restart processe" 
+                                    pass
                                 i = True
                             else:
                                 try:
                                     tmp.remove(p)
-                                    print "Have removed ", p
                                 except:
-                                    print "Need to restart processe"
+                                    pass
                                 
                                 i = True
-                            print "---"
+
 
                             
             
-        
-        print tmp
-        print "#####"
+
         return tmp
     
     def all_same(self,items):
+        '''
+        @param items: list of keywords. 
+        '''
         return all(x == items[0] for x in items)
     
     def du(self, items):
+        '''
+        Mothod to delete duplicates from list:
+        
+        @param items: List of keywords
+        @return: list of keywords minus the duplicates. 
+        '''
         seen = []
         for n in items:
             print n
             if not n in seen:
                 seen.append(list(n))
-        print "---------------"
-        print seen
-        print "---------------"
+
         return seen
     
     def lookforjoins(self, items):
+        '''
+        Looking for join between words. 
+        e.g. 'Apple Computer' and 'Computer Laptops' would become:
+            Apple Computer Laptops
+        
+        @param items: The list of keywords
+        @return: List of joined keywords. 
+        '''
         newwordlist = []
         removewordlist = []
         for phrase in items:

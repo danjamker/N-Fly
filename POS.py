@@ -10,12 +10,13 @@ import os
 
 class POS(object):
     '''
-    classdocs
+    Class for POS tagging, use POS tagger from NLTK.
     '''
 
     def __init__(self):
         '''
-        Constructor
+        Constructor inisiates the filter. Aloing with the Taggers which will be used.
+        And loads the copora. 
         '''   
         self.FF = Filter()
         
@@ -37,9 +38,10 @@ class POS(object):
     
     def POSTag(self, text, s='false'):
         '''
+        Method to POS tagg the Tokonized text.
         
-        @param text:
-        @param s:
+        @param text: TOK text which is going to be POS tagged
+        @param s: Wheather is it a sentence of not. 
         
         @return: POSTaged version of input  
         '''
@@ -57,9 +59,10 @@ class POS(object):
     
     def POSNgram(self, text, s='false', n=3):
         '''
+        Method to POS tag Ngrams 
         
         @param text: ngrams to be POS tagged
-        @param s: 
+        @param s: Wheather is it a sentence of not. 
         @param n: length of n gram  
         
         @return: OPSTagged Ngrams 

@@ -2,6 +2,8 @@
 Created on Nov 17, 2011
 
 @author: Daniel Kershaw
+
+Class which contains all the methods for the Chunking modual. 
 '''
 from nltk.chunk import RegexpParser
 from nltk.chunk.util import conlltags2tree
@@ -39,8 +41,9 @@ class Chunker(object):
                       {<NNP>+}
                       """):
         '''
-        Takes text and returns a list of noune and noun phrases.
-        
+        Takes text and returns a list of noune and noun phrases, this is done
+        by a form RegEx matching which is included in the NLTK libary.
+    
         @param text: the text that is going to be chunked
         @param node: this is which node to chunk default = NP 
         @param grammer: the grammer regex to use for chunking 
@@ -68,7 +71,9 @@ class Chunker(object):
     
     def parse(self, sentence):
         '''
-        Parses a tree to find noun phrases. 
+        Constructs a parse tree out of the POS tagged data. 
+        The tree is then scaled looking for Noun Phrases, which are then
+        returned in a list.
 
         @param sentence: the chunked sentace to be parsed
         
@@ -79,9 +84,6 @@ class Chunker(object):
         chunktags = [chunktag for (pos, chunktag) in tagged_pos_tags]
         colltags = [(word, pos, chunktag) for ((word, pos), chunktag)
                     in zip(sentence, chunktags)]
-        
-        print "These are the collocation tages: ", colltags
-        print "--------------------------------------------"
         
         tmp = []
         tmp1 = []
@@ -101,7 +103,10 @@ class Chunker(object):
     
     def NE(self, text, node='PERSON'):
         '''
-       Named Entity Recognition method
+        Named Entity Recognition Modual
+        
+        Creats a tree with the tags bellow, and extracts phrases which are tagged
+        with the tagged what has been selected. 
         
         @param text: The text to return nodes form
         @param node: Name of nodes to be returned

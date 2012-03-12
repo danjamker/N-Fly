@@ -11,16 +11,15 @@ import string
 
 class BE06(object):
     '''
-    Class for the BE06 Wordlist corpus.
+    Class for the implimentation BE06 Wordlist corpoa.
     '''
 
     def __init__(self):
         '''
         Constructor for the BE06 word list corpa. 
         
-        If there is no .pkl file it creats a new instanse from pre-built
-        wordlist. If the work list dose not exsist then it build one from
-        all the files in BE06
+        Initaly the contructor trys to load the corpora from a .plk file. If this has not
+        created, then a new instance is created by iterating though all files for BE06.
         '''
         
         try:
@@ -80,4 +79,9 @@ class BE06(object):
         self.corpa = reader
         
     def getCorpa(self):
+        '''
+        Getter to return instance of the Wrodlist Copora
+        
+        @return: BE06 Corpora
+        '''
         return self.corpa

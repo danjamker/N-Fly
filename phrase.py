@@ -72,7 +72,7 @@ class phrase(object):
     def getPhrase(self, tag = True):
         '''
         @param tag: return with or without tags default True
-        @@return list of words in phrase 
+        @return list of words in phrase 
         '''
         if tag == True:
             return self.phrase

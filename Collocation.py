@@ -17,14 +17,23 @@ class Collocation(object):
 
     def __init__(self, pos):
         '''
-        Constructor
-        @param pos:
+        Constructor for the generation of collocation class.
+        @param pos: POS tagged data which is going to be chunked.
         '''
         self.pos = pos
         self.stopset = set(stopwords.words('english'))
         self.filter_stop = lambda w: len(w) < 3 or w in self.stopset
         
     def col(self, text, tok):
+        '''
+        The Collocation method which created the Bi and Tri Gram collocations.
+        
+        @param text: The POS tagged text which is going to collocated
+        @param tok: Tokkonized text which will be used to check that collocation
+                    don't cross sentece boundrys.
+                    
+        @return: A collection of Tri andBi Collocations which dont cross sentece boundries.
+        '''
         bi = self.BiGram(text)
         tri = self.TriGram(text)
         
@@ -47,12 +56,10 @@ class Collocation(object):
     def BiGram(self, text):
         '''
         @param text: pos tagged text, also tokkonized
-        This use the NLTK Collocations methods to fnid the relevent collocations
+        This use the NLTK Collocations methods to find the relevent collocations
         which have a frequancy of 1 or more
         @return: a pos lag list of list words in phrases.
         '''
-        #change input to pos tagged and remove the tagging at the end.
-        #this would then mean this nested loop does not need changing,
         
         words = []
         for s in text:
@@ -72,8 +79,12 @@ class Collocation(object):
         
     def TriGram(self, text):
         '''
-        @param text:
-        @return:
+        @param text: POS tagged text which is going to be collocated.
+        
+        This use the NLTK Collocations methods to find the relevent collocations
+        which have a frequancy of 1 or more
+        
+        @return: A set of Tri Gram Collocations.
         '''
         words = []
         for s in text:
@@ -92,6 +103,11 @@ class Collocation(object):
         return tmp1
 
     def fullstopcheck(self, items):
+        '''
+        @param items: The complete set of collocations.
+        
+        @return: A set of collocations, where none of the collocations cross sentace boundry line.
+        '''
         tmp = []
         for phrase in items:
             count = 0

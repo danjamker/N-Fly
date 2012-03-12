@@ -11,6 +11,12 @@ import os
 import re
 import time
 
+__version__ = "0.1"
+__copyright__ = "CopyRight (C) 2011-2012 by Daniel Kershaw"
+__license__ = "MIT"
+__author__ = "Daniel Kershaw"
+__author_email__ = "Daniel Kershaw, d dot kershaw1 at lancaster dot ac dot uk"
+
 def application(environ, start_response):
     print 'Incoming'
     d = parse_qs(environ['QUERY_STRING'])
@@ -55,7 +61,6 @@ if __name__ == '__main__':
     R = runable()
     
     #Indicate when server is starting
-
     httpd = wsgiserver.CherryPyWSGIServer(
             ('0.0.0.0', int(os.environ.get('PORT', '5000'))), application,
             server_name='www.n-fly.djk')

@@ -122,10 +122,10 @@ class LogLikelihood(object):
           
     def NGramLog(self, text):
         '''
+        Method to creat a directory of log number based on input text n-grams
         
-        @param text: 
-        
-        @return: 
+        @param text: the tockonized text which is going to have logs made of
+        @return: a directory of log numbers to text in text input n-grams
         '''
         fdist1 = nltk.FreqDist(text[0])
         total1 = 0

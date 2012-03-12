@@ -7,22 +7,44 @@ import re
 
 class Filter(object):
     '''
-    classdocs
+    Filter class for removing elements from strings.
     '''
 
     def __init__(self):
         '''
-        Constructor
+        Constructor for the class. 
         '''
     
     def strip(self, text):
+        '''
+        Filters the text first with a punctuation filter, and then with a number 
+        filter
+        
+        @param  text: The Sentence which is going to be filtered.
+        
+        @return: the sentecte with the elements removed.
+        '''
         tmp = self.punctuationRemove(text)
         tmp1 = self.numberRemove(tmp)
         return tmp1
         
     def punctuationRemove(self, text, regex='[^a-z0-9A-Z -]+'):
+        '''
+        For filtering punctuation from the punctuation.
+        
+        @param text: the String which is going to be filtered
+        @param regex: the regex which is going to be used for filtering. 
+                Default: [^a-z0-9A-Z -]+
+        '''
         return re.sub(regex, ' ', text)
     
     def numberRemove(self, text, regex = '\s(\s*[+-]?\s*(?:\d{1,3}(?:(,?)\d{3})?(?:\1\d{3})*(\.\d*)?|\.\d+)\s*)\s'):
+        '''
+        For filtering nunbers from the punctuation.
+        
+        @param text: the String which is going to be filtered
+        @param regex: the regex which is going to be used for filtering. 
+                Default: \s(\s*[+-]?\s*(?:\d{1,3}(?:(,?)\d{3})?(?:\1\d{3})*(\.\d*)?|\.\d+)\s*)\s
+        '''
         return re.sub(regex, ' ', text)
         

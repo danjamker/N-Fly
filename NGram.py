@@ -24,29 +24,16 @@ class NGram(object):
         ngrams = []
         for x in range(2, n):
             ngrams.append(self.Gram(pos, n=x))
-            
-#        for x in range(1, n-2):
-#            for grams in ngrams[x]:
-#                for g in ngrams[x-1]:
-#                    tmp = set(grams) & set(g)
-#                    if len(tmp) == len(g):
-#                        try:
-#                            ngrams.remove(g)
-#                        except:
-#                            pass
         
         tmp = []
         
         for x in range(0, n-2):
             tmp = tmp + ngrams[x]
-        
-        print "tmp is this, ", tmp
-            
+                   
         return tmp
         
     def Gram(self, text, n=3, boundy=1):
         '''
-        
         @param text: text to be created into Ngrams
         @param n: Length of Ngrams
         @param boundy: Number of instiances of gram
@@ -78,8 +65,6 @@ class NGram(object):
     
     def capitalList(self, text):
         '''
-        
-        
         @param text: text input which has to be 
         @return: List of tagged words which havve all capitalized first letters
         ''' 
@@ -96,7 +81,6 @@ class NGram(object):
                         else:
                             if len(t) >= 2:
                                 tmp.append(t)
-                                print "FOUND ONE: ", t
                             t = []
                             break
                     

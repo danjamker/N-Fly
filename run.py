@@ -1,4 +1,6 @@
 '''
+The main class for Project N-fly
+
 Created on Nov 24, 2011
 
 @author: Daniel Kershaw
@@ -68,53 +70,37 @@ class runable(object):
         '''     
         #Get data from web page
         text = self.GD.getWebPage(url, depth)
-        print "This is the text: ", text
-        print "------------------------------"
-        
+
         #Tokonize sentance and words
         tok = self.To.Tok(text)
-        print "These are the toks: ", tok
-        print "----------------------------------"
 
         #POS tag the text
         pos = self.POS.POSTag(tok, 'tok')
-        print "These are the POS tagges: ", pos
-        print "---------------------------------------"
-        
+
         #Log Likly Hood
         log = self.LL.calcualte(tok)
-        print "This is the Log: ", log
-        print "------------------------------------"
-        
+ 
         #Collocations
         if self.Col == True:
             col = self.CC.col(pos, tok)
-            print "This is the collocation: ", col
-            print "-------------------------------"
         else:
             col = []
 
         #NE Extraction
         if self.NEs == True:
             ne = self.Cu.Chunks(pos, nodes=['PERSON', 'ORGANIZATION', 'LOCATION'])
-            print "This is the name extraction: ", ne
-            print "----------------------------------"
         else:
             ne = []
          
         #Extract NP
         if self.Chu == True:
             chu = [self.Cu.parse(p) for p in pos]
-            print "These are the chunks: ", chu
-            print "----------------------------"
         else:
             chu = []
         
         #Creat N-gram 
         if self.Gram == True:
             ga = self.Ng.Grams(pos, n=6)
-            print "These are the grams", ga
-            print "------------------------"
         else:
             ga = []
         
