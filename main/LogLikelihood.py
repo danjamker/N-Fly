@@ -2,6 +2,8 @@
 Created on Nov 16, 2011
 
 @author: Daniel Kershaw
+
+Modual for the implimentation of LogLikelihood calculations. 
 '''
 import nltk
 import math
@@ -12,13 +14,14 @@ from decimal import *
 
 class LogLikelihood(object):
     '''
-    Class for creating an instanse of LogLily Hood
+    Class for creating an instanse of LogLilyHood
     '''
 
     def __init__(self, wordlist='Brown', NLength=2, prec=50):
         '''
-        @param wordslist: This is for which master corpus to use defaultis Brown
-                Posibal input:
+        Inisiates the class, populating the frequancy data structures.
+        @param wordlist: This is for which master corpus to use defaultis Brown
+        @note: Posibal input - 
                 Brown
                 AmE06
                 BE06
@@ -41,9 +44,9 @@ class LogLikelihood(object):
         
     def calcualte(self, text):
         '''
-        Method to creat a directory of log number based on input text
+        Method to create a directory of log number based on input text
         
-        @param text: the tockonized text which is going to have logs made of
+        @param text: the tockonised text which is going to have logs made of
         @return: a directory of log numbers to text in text input
         '''
         words = []
@@ -122,7 +125,7 @@ class LogLikelihood(object):
           
     def NGramLog(self, text):
         '''
-        Method to creat a directory of log number based on input text n-grams
+        Method to create a directory of log number based on input text n-grams
         
         @param text: the tockonized text which is going to have logs made of
         @return: a directory of log numbers to text in text input n-grams

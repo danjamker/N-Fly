@@ -12,7 +12,6 @@ class Filter(object):
 
     def __init__(self):
         '''
-        Constructor for the class. 
         '''
     
     def strip(self, text):
@@ -34,7 +33,6 @@ class Filter(object):
         
         @param text: the String which is going to be filtered
         @param regex: the regex which is going to be used for filtering. 
-                Default: [^a-z0-9A-Z -]+
         '''
         return re.sub(regex, ' ', text)
     
@@ -44,7 +42,6 @@ class Filter(object):
         
         @param text: the String which is going to be filtered
         @param regex: the regex which is going to be used for filtering. 
-                Default: \s(\s*[+-]?\s*(?:\d{1,3}(?:(,?)\d{3})?(?:\1\d{3})*(\.\d*)?|\.\d+)\s*)\s
         '''
         return re.sub(regex, ' ', text)
         

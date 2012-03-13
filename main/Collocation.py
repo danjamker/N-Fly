@@ -11,7 +11,7 @@ from nltk.corpus import stopwords
 
 class Collocation(object):
     '''
-    classdocs
+    Class to all for collocations to be calculated and returned. 
     '''
 
 
@@ -104,9 +104,13 @@ class Collocation(object):
 
     def fullstopcheck(self, items):
         '''
+        
+        Removes collocations which words cross sentece boundry lines. This is done by comparing the 
+        words with there positions in the Tokonized text. 
+        
         @param items: The complete set of collocations.
         
-        @return: A set of collocations, where none of the collocations cross sentace boundry line.
+        @return: A set of collocation.
         '''
         tmp = []
         for phrase in items:
@@ -114,15 +118,12 @@ class Collocation(object):
             possition = 0
             for word in phrase:
                 if word[0][-1] == '.':
-                    print "Fonud a stop", phrase
                     word = word[:-1]
                     possition = count + 1
                 count = count + 1
-            print "Count and positoin", count, " ", possition
             if count == possition:
                 tmp.append(phrase)
             elif possition == 0:
                 tmp.append(phrase)
         
-        print "Collocations removing of full stops", tmp
         return tmp

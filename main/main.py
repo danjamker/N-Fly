@@ -31,7 +31,7 @@ def application(environ, start_response):
             
             #Used to time the function
             t_start = time.time()     
-            results = R.run(url, depth)
+            results = R.Select(url, depth)
             t_end = time.time()
             
             tmp = [{'depth':depth, 'time':time.time(), 'run time':((t_end-t_start)*1000.0), 'src_url':url, 'keywords':results}]

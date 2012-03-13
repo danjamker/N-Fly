@@ -2,6 +2,8 @@
 Created on Nov 17, 2011
 
 @author: Daniel Kershaw
+
+Modual for POS tagging data.
 '''
 from Filter import Filter
 from cPickle import load, dump
@@ -15,7 +17,7 @@ class POS(object):
 
     def __init__(self):
         '''
-        Constructor inisiates the filter. Aloing with the Taggers which will be used.
+        Constructor inisiates the filter. Along with the Taggers which will be used,
         And loads the copora. 
         '''   
         self.FF = Filter()
@@ -38,10 +40,10 @@ class POS(object):
     
     def POSTag(self, text, s='false'):
         '''
-        Method to POS tagg the Tokonized text.
+        Method to POS tagged the Tokonized text.
         
         @param text: TOK text which is going to be POS tagged
-        @param s: Wheather is it a sentence of not. 
+        @param s: Whether is it a sentence of not. 
         
         @return: POSTaged version of input  
         '''
@@ -59,13 +61,13 @@ class POS(object):
     
     def POSNgram(self, text, s='false', n=3):
         '''
-        Method to POS tag Ngrams 
+        Method to POS tag N-grams 
         
-        @param text: ngrams to be POS tagged
-        @param s: Wheather is it a sentence of not. 
+        @param text: n-grams to be POS tagged
+        @param s: Whether is it a sentence of not. 
         @param n: length of n gram  
         
-        @return: OPSTagged Ngrams 
+        @return: POS-Tagged n-grams 
         '''
         if s == 'false':
             sentance = self.POSTag(text);

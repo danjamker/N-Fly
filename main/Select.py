@@ -10,15 +10,13 @@ from nltk.stem.wordnet import WordNetLemmatizer
 
 class Select(object):
     '''
-    Class used to select the relevent keyterms for the ouput. 
+    Class used to select the relevent key terms for the output. 
     This is down through first looking for part of duplicates
     looking to see if they comply with the rules, and one is 
     either deleted or both kept. 
     
     Then the list is ordered on there avrage log likley hood for 
-    all the words in the phrase
-    
-    @todo: impliment phusdo code
+    all the words in the phrase    
     '''
 
 
@@ -163,9 +161,8 @@ class Select(object):
     
     def bubbleSortLength(self, list):
         '''
-        Bubble sort algorythm to sort nested list
-        Sortbased on last value in each list
-        
+        Bubble sort based on the length of each phrase within the nested list. 
+         
         @param list:list to sort 
         @return list of sorted words. 
         '''
@@ -183,7 +180,7 @@ class Select(object):
         '''
         Checks a list for diplicate items
         
-        @param seq the list to be run through: 
+        @param seq: the list to be run through: 
         @return: list of ordered words. 
         '''
         # order preserving
@@ -213,7 +210,7 @@ class Select(object):
     
     def duplicates(self, input):
         '''
-        Mothod to eliminate part duplicates
+        Mothod to eliminate part duplicates inline with the documentation in the FYP Report.
         
         @param input: list of potential keywords. 
         @return: list of keywords which have been selected. 
@@ -279,7 +276,7 @@ class Select(object):
     
     def du(self, items):
         '''
-        Mothod to delete duplicates from list:
+        Method to delete duplicates from list:
         
         @param items: List of keywords
         @return: list of keywords minus the duplicates. 
@@ -295,8 +292,7 @@ class Select(object):
     def lookforjoins(self, items):
         '''
         Looking for join between words. 
-        e.g. 'Apple Computer' and 'Computer Laptops' would become:
-            Apple Computer Laptops
+        e.g. "Apple Computer" and "Computer Laptops" would become "Apple Computer Laptops"
         
         @param items: The list of keywords
         @return: List of joined keywords. 

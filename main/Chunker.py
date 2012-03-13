@@ -3,7 +3,8 @@ Created on Nov 17, 2011
 
 @author: Daniel Kershaw
 
-Class which contains all the methods for the Chunking modual. 
+Class which contains all the methods for the Chunking modual.
+This allows for the extractions of phrases though either a trained method of RegEx matching. 
 '''
 from nltk.chunk import RegexpParser
 from nltk.chunk.util import conlltags2tree
@@ -13,13 +14,11 @@ import nltk
 
 class Chunker(object):
     '''
-    Class for Chunking using NLTK moduals
+    Class for Chunking using NLTK methods. 
     '''
 
     def __init__(self, POS):
-        '''
-        Constructor - Inisalises the POS tagger
-        
+        '''      
         @param POS: the POS tagger is passed through 
         '''
         train_sents = conll2000.chunked_sents()
@@ -30,6 +29,12 @@ class Chunker(object):
         self.tmp = []
     
     def Chunks(self, text, nodes):
+        '''
+        Main accessor method, masks the joining of methods.
+        
+        @param text: The text to be chunked.
+        @param nodes: Which nodes to look for.   
+        '''
         tmp = []
         for n in nodes:
             tmp = tmp + self.NE(text, node=n)
@@ -45,8 +50,8 @@ class Chunker(object):
         by a form RegEx matching which is included in the NLTK libary.
     
         @param text: the text that is going to be chunked
-        @param node: this is which node to chunk default = NP 
-        @param grammer: the grammer regex to use for chunking 
+        @param node='NP': this is which node to chunk 
+        @param grammer='NP: {<DT|PP\$>?<JJ>*<NN>}{<NNP>+}': the grammar ReGex to use for chunking 
         
         @return: A nested list of tuples of chunked phrases with pos tagging.
         '''
@@ -110,16 +115,9 @@ class Chunker(object):
         
         @param text: The text to return nodes form
         @param node: Name of nodes to be returned
-        Can only be:
-            ORGANIZATION 
-            PERSON 
-            LOCATION 
-            DATE 
-            TIME 
-            MONEY 
-            PERCENT 
-            FACILITY 
-            GPE 
+       
+        
+        @note:  Can only be: ORGANIZATION, PERSON, LOCATION, DATE, TIME, MONEY, PERCENT, FACILITY, GPE 
   
         @return: List of List tagged phrases and words
         which come from a node of the node passed
@@ -134,7 +132,7 @@ class Chunker(object):
             
     def sub_leaves(self, tree, node):
         '''
-        Returns a list of subleves depending on there tags
+        Returns a list of sub-leaves depending on there tags
         
         @param tree: the chunked tree going to be searcher
         @param node: which node to look for 

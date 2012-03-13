@@ -2,6 +2,9 @@
 Created on Nov 15, 2011
 
 @author: Daniel Kershaw
+
+Generates the BE06 wordlist Corpora from text fails or from a memory object.
+@copyright: Paul Baker
 '''
 from cPickle import load, dump
 from nltk.corpus.reader import WordListCorpusReader
@@ -11,14 +14,14 @@ import string
 
 class BE06(object):
     '''
-    Class for the implimentation BE06 Wordlist corpoa.
+    Class for the BE06 Wordlist corpora construction and encapsulation.
     '''
 
     def __init__(self):
         '''
         Constructor for the BE06 word list corpa. 
         
-        Initaly the contructor trys to load the corpora from a .plk file. If this has not
+        @note: Initaly the contructor tries to load the corpora from a .plk file. If this has not
         created, then a new instance is created by iterating though all files for BE06.
         '''
         

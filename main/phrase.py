@@ -2,16 +2,18 @@
 Created on 29 Dec 2011
 
 @author: Daniel Kershaw
+
+Modual for the modeling of metrics assosiated with phrases. 
 '''
 
 class phrase(object):
     '''
     Class to model the phrase, 
     
-    Storese relevent perameters which can be used for selecting 
-    relevent key terms, 
+    Stores relevant perameters which can be used for selecting 
+    relevant key terms, 
     
-    Perameters stored include similar keyterms, length, number of
+    Perameters stored include similar key terms, length, number of
     capitalized words. 
     '''
 

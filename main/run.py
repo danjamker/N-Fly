@@ -1,5 +1,6 @@
 '''
-The main class for Project N-fly
+The main accessor class for project N-Fly.
+This encapsulates all other methods in line the with FYP report.
 
 Created on Nov 24, 2011
 
@@ -17,13 +18,11 @@ from Tokenize import Tokenize
 
 class runable(object):
     '''
-    Class for selecting keywords
+    Class for selecting keywords and extracting keywords from online contentent.
     '''
 
     def __init__(self, llwl='Brown', llNL=2, percen=80, NE = True, Col = True, Gram = True, Chu = True):
-        '''
-        Constructor
-        
+        '''      
         @param llwl:LogLikleyHood Corpa name ('Brown','AmE06','BE06')
         @param llNL:LogLikleyHood 
         @param percen: Presision of output default = 20, 20% returned
@@ -31,7 +30,6 @@ class runable(object):
         @param Col: Uses Collocation default True
         @param Gram: Uses N-Grams default True
         @param Chu: Uses Chunking default True
-           
         '''
 
         self.NEs = NE
@@ -59,14 +57,14 @@ class runable(object):
         self.To = Tokenize(self.FL)
         print 'To Loaded'
     
-    def run(self, url, depth): 
+    def Select(self, url, depth): 
         '''
-        To determin the best keywords for a webpage
+        Determin the best keywords for a webpage.
         
         @param url: the base url to start sampaling from
         @param depth: the depth of the website to be sampled
         
-        @return: the list of selected keywords  
+        @return: the list of selected keywords, ordered with the highest rated words to the lower bownd of array.
         '''     
         #Get data from web page
         text = self.GD.getWebPage(url, depth)

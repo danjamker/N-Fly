@@ -8,7 +8,7 @@ from nltk.tokenize import *
 
 class Tokenize(object):
     '''
-    Tokonize Class
+    Tokonize Class, allowing for the spliting on whitespace. 
     '''
 
 
@@ -21,6 +21,7 @@ class Tokenize(object):
     def Tok(self, text):
         '''
         Method for tokoniziong raw text. 
+        This is done initaly by splitting sentence boundries, and then on whitespace.
         
         @param text: plaine text to be tokonized. 
         @return: list of Tokonized text.

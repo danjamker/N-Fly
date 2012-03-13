@@ -2,6 +2,8 @@
 Created on Nov 16, 2011
 
 @author: Daniel Kershaw
+
+Modual for the access of cleaned data for the N-Fly system.
 '''
 import AlchemyAPI as API
 from xml.etree import ElementTree as ET
@@ -21,9 +23,10 @@ class GetData(object):
         
     def getData(self, URL, depth = 0):
         '''
+        Selects and returns all data to a depth indicated.
+        
         @param URL: URL which is going to be the sourse
         @param depth: the depth of the links from the URL which should be searched
-        default = 0
         
         @return: a String will the the text concatonated. 
         '''
@@ -31,7 +34,7 @@ class GetData(object):
         title = self.getPageTitle(URL) 
         return title + page
         
-    def getWebPage(self, url, depth):
+    def getWebPage(self, URL, depth):
         '''
         Retreve all the text data from webpage/webpages.
         
@@ -43,26 +46,26 @@ class GetData(object):
         '''
         if int(depth) != 0:
             t = ""
-            crawler = Crawler(url, int(depth)-1)
+            crawler = Crawler(URL, int(depth)-1)
             crawler.crawl()
             for l in crawler.links_remembered:
                 text = self.Alchemy.URLGetText(str(l.dst))     
                 element = ET.XML(text)
                 t += element.findtext("text")
         else:
-            text = self.Alchemy.URLGetText(url)     
+            text = self.Alchemy.URLGetText(URL)     
             element = ET.XML(text)
             t = element.findtext("text")
         return t.encode('ascii','ignore')
     
-    def getPageTitle(self, url):
+    def getPageTitle(self, URL):
         '''
         Method for retriving the file name of the webpage.
         
         @param URL: URL which is page to get title from
         @return: the title of the webpage.        
         '''
-        text = self.Alchemy.URLGetTitle(url)
+        text = self.Alchemy.URLGetTitle(URL)
         element = ET.XML(text)
         t = element.findtext("title")
         return t.decode('ascii','ignore')
