@@ -15,5 +15,5 @@ setup(name = "Project N-Fly",
     author_email = "d.kershaw1@lancaster.ac.uk",
     url = "http://github.com/danjamker/N-Fly",
     long_description = """Really long text here.""",
-    py_modules = ['main\main.py']
+    py_modules = ['main.py']
 ) 

@@ -5,7 +5,7 @@ Created on Nov 30, 2011
 '''
 import MySQLdb as MySQL
 from run import runable as Nfly
-import sys
+import syss
 import time
 from decimal import *
 
